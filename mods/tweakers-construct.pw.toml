@@ -1,13 +1,13 @@
 name = "Tweakers Construct"
-filename = "tweakersconstruct-1.12.2-1.6.0.jar"
+filename = "tweakersconstruct-1.12.2-1.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb0356824f6da2a2b2635078d957f50a4db3ba39"
+hash = "df4e52aa07486b23780102b4ff34df67ce76a2f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3229202
+file-id = 3280750
 project-id = 282623

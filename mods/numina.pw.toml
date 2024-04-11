@@ -1,13 +1,13 @@
 name = "Numina"
-filename = "Numina-1.12.2-1.0.38.jar"
+filename = "Numina-1.12.2-1.1.049.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "975bae1d6ce3e977997275a05e8500880d8edad5"
+hash = "da885c9bcf1f35d198b6617dc16a043d729a297f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2715198
+file-id = 4629835
 project-id = 235440

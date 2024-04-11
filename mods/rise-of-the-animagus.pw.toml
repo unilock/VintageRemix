@@ -1,13 +1,13 @@
 name = "Rise of the Animagus"
-filename = "MorphSpellPack-1.12.2-1.0.2.jar"
+filename = "MorphSpellPack-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "02e8ba681ece8fba44b93c8537791f023c05c2de"
+hash = "e2a7c04162a03e7ceb3db41aaab8ba2b736fed6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4378942
+file-id = 5046207
 project-id = 690655

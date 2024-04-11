@@ -1,13 +1,13 @@
 name = "PackModeMenu"
-filename = "PackModeMenu-1.0.4.jar"
+filename = "PackModeMenu-1.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d6b2703e2a83f802030512bc7277605f605af2cc"
+hash = "335145a22d73c04aa6e29a029064c01f8b4bf20c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3156145
+file-id = 3576661
 project-id = 421605

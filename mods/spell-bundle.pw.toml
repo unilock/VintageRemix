@@ -1,13 +1,13 @@
 name = "Spell Bundle (Electroblob's Wizardry)"
-filename = "SpellBundle-1.12.2-1.1.4.jar"
+filename = "SpellBundle-1.12.2-1.6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e7128dfda21ceebcf29aaa117e3a2bf03fbe360e"
+hash = "1b2be50fbad48b6eaa43a83d405aa7da25105647"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4531144
+file-id = 5086147
 project-id = 559525

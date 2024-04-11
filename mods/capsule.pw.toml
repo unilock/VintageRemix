@@ -1,13 +1,13 @@
 name = "Capsule"
-filename = "Capsule-1.12.2-3.3.11.jar"
+filename = "Capsule-1.12.2-3.4.76.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "528feb404fd27c78a8a2cde312fd69cb07e237c8"
+hash = "385cbed26365189526b226d22580cb00aef94a5a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2963673
+file-id = 3485545
 project-id = 235338

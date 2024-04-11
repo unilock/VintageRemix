@@ -1,13 +1,13 @@
 name = "Frozen Fiend"
-filename = "Frozen-Fiend-1.5.jar"
+filename = "Frozen-Fiend-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d3217d4e5abfc5f3eabc0035433cd5ead4994fdd"
+hash = "09ce89cac8bf56b7a4ae3af7c526dcb318f7f1ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3203284
+file-id = 3684026
 project-id = 443436

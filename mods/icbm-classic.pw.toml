@@ -1,13 +1,13 @@
 name = "ICBM - Classic"
-filename = "ICBM-classic-1.12.2-4.0.1b75.jar"
+filename = "ICBM-classic-1.12.2-5.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b7c7f3a816e35fa140809fc71a64b4608f2bbfab"
+hash = "8d8ae5595180b8c555c106803e179ec0ed116ad5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2918052
+file-id = 4813898
 project-id = 244451

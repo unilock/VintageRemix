@@ -1,13 +1,13 @@
 name = "AgriCraft"
-filename = "AgriCraft-2.12.0-1.12.0-a6.jar"
+filename = "agricraft-2.12.0-1.12.2-b2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2bad5713b90a35f9c0f6f405aa59b6c589d1c3dc"
+hash = "44988a77ab787a2f74d68af4fb011a2a3ed1e806"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2609648
+file-id = 3317747
 project-id = 225635

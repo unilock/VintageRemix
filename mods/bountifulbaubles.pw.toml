@@ -1,13 +1,13 @@
 name = "BountifulBaubles"
-filename = "Bountiful Baubles-1.12.2-0.1.6.jar"
+filename = "Bountiful Baubles-1.12.2-0.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1a0d4c1baca14c6ccaf1f3de0ca9984911bda1e8"
+hash = "9cddb1fab23e51119cefa379e1affb07ed0818d2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2952895
+file-id = 3568240
 project-id = 313536

@@ -1,13 +1,13 @@
 name = "Eerie Entities"
-filename = "EerieEntities-1.12.2-1.0.7.jar"
+filename = "EerieEntities-1.12.2-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0011e4888ddd5f95cd3677ea1fc8cffb723c696"
+hash = "30713af2e103899250239cbdfd2f7afb75e29f81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2728340
+file-id = 2872906
 project-id = 304879
