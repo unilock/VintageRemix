@@ -2566,7 +2566,7 @@ hash = "8f4e494129d38d54a25f446fc9747bd8279e296906d8e9147e86a6ceb433ecda"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "03395e7634fe721faa8c877b62d1ae03b19d13c3fe66c407d2f3b645b2947e6d"
+hash = "b39bccd60aa44c3a226a63a7c3d80b4a10a987b40708e766aa7d5a6eea0d4fb1"
 
 [[files]]
 file = "config/fossil.cfg"
@@ -18324,7 +18324,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
+hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
