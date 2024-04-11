@@ -17,6 +17,10 @@ file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "476ac4698622a8634838c5148cb81c589383268d5d1779b699d55b1a42754495"
 
 [[files]]
+file = "config/AppliedEnergistics2/VersionChecker.cfg"
+hash = "911b25e6d7cf7c6253257224c5889fbacde0ca2d62be7a1046b5175a56605e4b"
+
+[[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
 hash = "ba46e44637786d9b959733a7e6538187f39392237f5b84810348e7749f90b1b2"
 
@@ -122,7 +126,7 @@ hash = "a0719156fccd91232fa5138b32c2002b62c138cd6dba5e380121e5fdc3ef62ad"
 
 [[files]]
 file = "config/actuallyadditions.cfg"
-hash = "d3649306964c81550a5ba72b381121d6ce5eb391f19f137ff33b79518cf221d4"
+hash = "be63c6d8f56f3f66cdd93e9ac6f2225ef052307320dedc541130cbc7b53e9c5c"
 
 [[files]]
 file = "config/adlods/Deposits/rodium.cfg"
@@ -2286,7 +2290,7 @@ hash = "2246a9cb99091df18f8840cd87fdab458dbdffcbe2f970741de87ecb0bf5c4e9"
 
 [[files]]
 file = "config/bibliocraft.cfg"
-hash = "96f330f86ac29c16c4bb23f0df4312e732fcfdab83d6c4b1238a638d6035ee22"
+hash = "e6dc2f67ce6ccdacd5e1dd664f87773ed71d733426147f3d5772a17f6b46c421"
 
 [[files]]
 file = "config/biomesoplenty/misc.cfg"
@@ -2421,6 +2425,10 @@ file = "config/cofh/world/04_mce_custom.json"
 hash = "5d2cccf662bce7c998a93e4c44977b06faf1ae4e3cf130a84e2ffd00d5f3493e"
 
 [[files]]
+file = "config/commoncapabilities.cfg"
+hash = "355015ba94241229762a007c5879ac2b685e5a95a085a16944146d771c35e320"
+
+[[files]]
 file = "config/conarm.cfg"
 hash = "e6b0ca6b86b568472f1bb6f5e2f17c68fff9a04e89b492a7babd7ff3b4b97fec"
 
@@ -2435,6 +2443,10 @@ hash = "09c98beccc9fc18df9f6c2668b91311e1a492acaf6d94c67d57a18607688c0a2"
 [[files]]
 file = "config/cyclicmagic.cfg"
 hash = "3c6beda64ef964674f951889c3dab02d867c9541238db971c878bb2e6d3c4340"
+
+[[files]]
+file = "config/cyclopscore.cfg"
+hash = "0e872fbad839dec1c545da6a49b80e6404c16867fdd2f0bba04aa76476c5cb2b"
 
 [[files]]
 file = "config/dimdoors.cfg"
@@ -15110,7 +15122,7 @@ hash = "8a85688a377eb980509d7d7ba8a0fe086c9ea8c48c29625991c88309b6312cec"
 
 [[files]]
 file = "config/gottschcore/general.cfg"
-hash = "f640d36991222d441cedb0b97cb647cfa6eb5e2af6defdd801a1ada830708aa8"
+hash = "cf2abaa080a90408ab361aab6187e8b20e6ceb443c7ee7f562393016de567d11"
 
 [[files]]
 file = "config/grue.cfg"
@@ -15146,7 +15158,7 @@ hash = "36c0f6c423c1805fb59398de8b7e1b129ce4e4521864f4d3be6892e639e2b09f"
 
 [[files]]
 file = "config/ichunutil.cfg"
-hash = "684a7963f262bf0dbec13c7aefee1838c5abf93b99d62e6c7d2a38372fc06548"
+hash = "1d03c7f1b8d0e5b93571b6af36f451633080c6631befbbe920cd4d2354ef8b3b"
 
 [[files]]
 file = "config/ichunutil_keybinds.cfg"
@@ -15182,15 +15194,15 @@ hash = "f870b02e04fc3adc706ddd0a8d716b223e91a398a92438ab24dce1c7b8f72e85"
 
 [[files]]
 file = "config/integrateddynamics.cfg"
-hash = "fba4e1807e54a4f6b99e4c7f794c18717b58cfa9122541ff68a7de901c87cfdd"
+hash = "2707b137c879980e4996c2ed1ca5f7cce753fc46f1c9b78f1fd581a321503288"
 
 [[files]]
 file = "config/integratedtunnels.cfg"
-hash = "698dd35a8049959c95979efaff4702e0b7b77f2a48b8e232de93749c4c8e6091"
+hash = "303bb52d5c076be4e35d30722abf0cca6ad6b57d7330c743a4b26adbebc3db96"
 
 [[files]]
 file = "config/inventorypets/inventorypets.cfg"
-hash = "316a2a5832735fafd25efb49ebd81ebae57269ea6a6a06b88e6b31a58daf849e"
+hash = "edb709bf3050b51aae4afbce39959d72e18ce4a5c3b8290d8eeac4b80d912ed3"
 
 [[files]]
 file = "config/itlt.cfg"
@@ -16114,7 +16126,7 @@ hash = "bbd1ae8996d019d8d4f7051a6fbf284bdc4cc48a4f2eab82283cf60a5e896088"
 
 [[files]]
 file = "config/teamreborn/reborncore/misc.cfg"
-hash = "1f68526730d9ca313c7761a0deabf54143762a1ad6c027378acf88f6e3e0c1b3"
+hash = "ca6ad9f0cfdd93bc02aa8c910e5b96fe478d8d17ccd55fd63959ec91e420e251"
 
 [[files]]
 file = "config/teamreborn/techreborn/compat.cfg"
@@ -16854,7 +16866,7 @@ hash = "0c5bb647d55f1b95045fc082e23b130bfe7410fb2a44f62e4e7f3c428fcaacc9"
 
 [[files]]
 file = "config/treasure2/treasure2-c1.0.cfg"
-hash = "5cdd70a450aef64c17672961ae7b10891a99a56e2fe6fd2d3da5f6ed6ddb6b5f"
+hash = "6f367746f4dc7a65b913a1185ae543c4ba5a5f1ef73e622e6f060eb0f4332e3f"
 
 [[files]]
 file = "config/treasure2/uncommon-chest.cfg"
@@ -16871,6 +16883,14 @@ hash = "df7db0f652ebd09c003eb9d20f3ac6d179dff913a3ed36380fac518e625f4978"
 [[files]]
 file = "config/treasure2/wood-draw-wishing-well.cfg"
 hash = "b038f0846908d8265c7cfd92a95879e4d97b74143c987d284ddc60f5c5bba0d7"
+
+[[files]]
+file = "config/treasure2_twilight_forest_lp/treasure2_twilight_forest_lp-c1.0.cfg"
+hash = "fedd4254abf2ae74c3ef28b8563a1cb590968e939c57f3813f5fa46423da1283"
+
+[[files]]
+file = "config/treasure2_wizardry_lp/treasure2_wizardry_lp-c1.0.cfg"
+hash = "fedd4254abf2ae74c3ef28b8563a1cb590968e939c57f3813f5fa46423da1283"
 
 [[files]]
 file = "config/treechop.cfg"
@@ -16914,11 +16934,19 @@ hash = "727eced8d9ded3f3d99c5cfc6084ebcb255635528ce7246b0e8d5a499090846d"
 
 [[files]]
 file = "config/vampirism/vampirism.cfg"
-hash = "1b03b31c3483b30c1e7b11f4dae0403982bd84eaeaf9502af3f4fa17dbf81984"
+hash = "e029fb195a7b5e671499737ad9561265395c54048491362a52a9570517fabbe5"
+
+[[files]]
+file = "config/vampirism/vampirism_integrations.cfg"
+hash = "8d0535ed9857a0ac4a4365a86c1e0b48f85deb44077e9a19457923e29e9c5e21"
 
 [[files]]
 file = "config/vampirism/vampirism_mod_compat.cfg"
 hash = "e8444c1bebada9b843505fed64180e19b91e097dd2d908448d75be65dacff092"
+
+[[files]]
+file = "config/vintagium-options.json"
+hash = "8dcc7038038daafab2b216ff9dc2baa57c34a2423f176ee3585fe672fa6de72a"
 
 [[files]]
 file = "config/wgblockreplacer.cfg"
