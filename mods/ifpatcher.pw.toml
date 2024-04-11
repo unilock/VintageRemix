@@ -1,13 +1,8 @@
 name = "IFPatcher"
-filename = "IFPatcher-2.2.0.jar"
+filename = "IFPatcher-2.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2771bb156c7596b202328dfb2506cfa97bd0c90c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4092487
-project-id = 456083
+url = "https://play.fennet.rentals/packwiz/mc-eternal/manual-jars/both/IFPatcher-2.3.0.jar"
+hash-format = "sha256"
+hash = "6791b9b1b4cebac01e55b27ab77bf8a226febee07d8660e645df1698127d898f"

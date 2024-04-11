@@ -17409,7 +17409,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-tactics.pw.toml"
-hash = "1ea6ebdbfd57e243a52140a67d8388cc941c08bf6258dfb41368b0048de27efa"
+hash = "cc020b338d2292f7b3c254fa15ef9997ac99ac1a390e6912f23056e0b09a776f"
 metafile = true
 
 [[files]]
@@ -17574,7 +17574,7 @@ metafile = true
 
 [[files]]
 file = "mods/ghosts-explosives.pw.toml"
-hash = "c3c0a4d258062ed8f4d66f7dba5d98147fef033997172f93787893ade8d6a44e"
+hash = "9032cc302abd263e1b050756fd660f71ee7a2f80626eb89935b3530674c7c402"
 metafile = true
 
 [[files]]
@@ -17654,7 +17654,7 @@ metafile = true
 
 [[files]]
 file = "mods/ifpatcher.pw.toml"
-hash = "1fbe6288dc218731d378c297df57df8c3d1cecf7d5da56cd0aef47beca0f9546"
+hash = "535725471fb3f255828aaeeb438f5a0a821177a7e808930b2615b0694d53fe92"
 metafile = true
 
 [[files]]
@@ -18469,7 +18469,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-midnight.pw.toml"
-hash = "717a31f8da938b4f934e0d4acc55b8a750169c5239072d927d768611cda64b6a"
+hash = "302286814339bbb0b38d775704f3da771b41473e3dde52ef838078bd8413e8a3"
 metafile = true
 
 [[files]]
