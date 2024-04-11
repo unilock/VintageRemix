@@ -1,0 +1,13 @@
+name = "Ctrl Q"
+filename = "ctrlq-forge-mc1.12-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08ed1d970a81be0241ab21101751e53d86654e0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920317
+project-id = 455479

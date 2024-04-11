@@ -1,0 +1,13 @@
+name = "Extra Utilities Fixes"
+filename = "exutilfix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9844dcb495b2ef2e639d51468ec6568691252f79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2645626
+project-id = 308647

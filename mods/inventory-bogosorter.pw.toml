@@ -1,0 +1,13 @@
+name = "Inventory Bogo Sorter"
+filename = "bogosorter-1.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "154b9b8fff7fb79486dc71a885be8aa0c4c2bcf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5162169
+project-id = 632327

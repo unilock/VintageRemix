@@ -1,0 +1,8 @@
+name = "Yet Another Recipe Conflict Fixer (YARCF)"
+filename = "YARCF-0.14(1.12.2).jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/mc-eternal/manual-jars/both/YARCF-0.14(1.12.2).jar"
+hash-format = "sha256"
+hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"

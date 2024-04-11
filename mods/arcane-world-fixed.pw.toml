@@ -1,0 +1,13 @@
+name = "Arcane World Fixed"
+filename = "arcane-world-fixed-1.0.jar.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5a9f2aaad0fcd7e6593684dc0edbca23e725c07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4551027
+project-id = 865605
