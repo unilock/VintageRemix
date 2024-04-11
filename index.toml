@@ -2566,7 +2566,7 @@ hash = "8f4e494129d38d54a25f446fc9747bd8279e296906d8e9147e86a6ceb433ecda"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "b39bccd60aa44c3a226a63a7c3d80b4a10a987b40708e766aa7d5a6eea0d4fb1"
+hash = "cd17d630b3345efb76c150814060df7954c88253fb98ccbc6153129fac9cab73"
 
 [[files]]
 file = "config/fossil.cfg"
