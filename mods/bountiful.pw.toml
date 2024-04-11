@@ -1,0 +1,13 @@
+name = "Bountiful"
+filename = "Bountiful-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d252d4a57e8e38e5d620a32ca3559581d925b1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2949667
+project-id = 309516

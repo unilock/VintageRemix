@@ -1,0 +1,13 @@
+name = "Rats"
+filename = "rats-3.2.14-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0e850ec2a003d5ac08d1611ce30486d34ac9b6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3028671
+project-id = 323596

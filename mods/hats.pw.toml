@@ -1,0 +1,13 @@
+name = "Hats"
+filename = "Hats-1.12.2-7.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44d154180a99c02a2888649184794625d980acc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2960397
+project-id = 229073

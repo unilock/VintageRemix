@@ -1,0 +1,13 @@
+name = "Grue"
+filename = "Grue-1.12.2-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62b1eb1704bd5b86bb9ba96b7d39430a0d73a3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2912661
+project-id = 235133

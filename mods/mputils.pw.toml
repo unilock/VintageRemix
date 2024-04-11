@@ -1,0 +1,13 @@
+name = "MPUtils"
+filename = "MPUtils-1.12.2-1.5.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c034b16d420af6d8b935f3416608f1cd1378ea9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2685162
+project-id = 244940

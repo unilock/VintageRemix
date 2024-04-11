@@ -1,0 +1,13 @@
+name = "Hunter'sReturn"
+filename = "hunterillager-1.12.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be4aa9b12cef9d58b2ddce3d86df1d3757e6e809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2700346
+project-id = 318857

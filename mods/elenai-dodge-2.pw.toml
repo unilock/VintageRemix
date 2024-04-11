@@ -1,0 +1,13 @@
+name = "Elenai Dodge 2"
+filename = "ElenaiDodge2-1.12.2-1.0.8b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de491c6ebf62d1da6e4c9d146af4e0823d7dc42a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3221490
+project-id = 442962

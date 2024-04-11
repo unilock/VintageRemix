@@ -1,0 +1,13 @@
+name = "Future MC"
+filename = "future-mc-0.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f94950120221db4bd4255094409d894391de150"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924863
+project-id = 310059

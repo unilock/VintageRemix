@@ -1,0 +1,13 @@
+name = "Customized Dungeon Loot"
+filename = "Customized-Dungeon-Loot-1.12 -(v.1.0.3).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1af55c09de2546f7484881d3395ab7e81429f82d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2663561
+project-id = 258944

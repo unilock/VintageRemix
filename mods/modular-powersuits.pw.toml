@@ -1,0 +1,13 @@
+name = "Modular Powersuits"
+filename = "ModularPowersuits-1.12.2-1.0.46.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "578cbd417f6e1c04e727a3156a43c3c2c05efd03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2743885
+project-id = 235442

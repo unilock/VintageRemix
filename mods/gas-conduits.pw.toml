@@ -1,0 +1,13 @@
+name = "Gas Conduits"
+filename = "EnderIO-conduits-mekanism-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc923fb263a318b7c88bd29b9317207d3fa3cf8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3328809
+project-id = 309756

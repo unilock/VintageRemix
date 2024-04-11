@@ -1,0 +1,13 @@
+name = "Block Drops (JEI Addon)"
+filename = "blockdrops-1.12.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b47558862e4bb042ec8e851334b564b04388d35e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2509046
+project-id = 244181

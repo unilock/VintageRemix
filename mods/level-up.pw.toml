@@ -1,0 +1,13 @@
+name = "Level Up! Reloaded"
+filename = "levelup2-1.5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8e9477e80a6d485e1510ba55ac637cf774a3b07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3069733
+project-id = 251136

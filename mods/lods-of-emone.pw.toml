@@ -1,0 +1,13 @@
+name = "Lods of Emone"
+filename = "LodsOfEmone-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30abfe5db4c6351ebb3c85e4e5c3395f85bb858a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2887745
+project-id = 364295

@@ -1,0 +1,13 @@
+name = "Time Core"
+filename = "TimeCore-1.12.2-1.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89dcb3b714909462a755c52432ac9512163baeea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2857925
+project-id = 331594

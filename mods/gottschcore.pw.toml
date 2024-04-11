@@ -1,0 +1,13 @@
+name = "GottschCore"
+filename = "GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2e7d101b1c0c72ef7c1048569cc9b6a43b9aaf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3748293
+project-id = 272450

@@ -1,0 +1,13 @@
+name = "Crimson Warfare"
+filename = "crimsonwarfare-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65185e3be1771b41f71b7597f157522d99d203f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2879737
+project-id = 361313

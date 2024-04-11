@@ -1,0 +1,13 @@
+name = "Totemic"
+filename = "Totemic-1.12.2-0.11.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88383e82c5862be7c4d2e3c6606b1856b372bec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2700798
+project-id = 237541

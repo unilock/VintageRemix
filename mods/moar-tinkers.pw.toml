@@ -1,0 +1,13 @@
+name = "Moar Tinkers"
+filename = "moartinkers-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bca8e21502c69fc7b16bf91b247afced698c67f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2579934
+project-id = 263624

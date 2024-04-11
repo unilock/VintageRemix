@@ -1,0 +1,13 @@
+name = "ErebusFix"
+filename = "erebusfix-1.12.2-0.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55c03b79713315c50e139dc93a8dfcb770d7dd55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3024769
+project-id = 400488

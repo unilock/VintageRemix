@@ -1,0 +1,13 @@
+name = "LagGoggles"
+filename = "LagGoggles-FAT-1.12.2-4.11-92.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06a589901d3e2bf0dda2c4a2fe2b84344a6c5940"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2901775
+project-id = 283525

@@ -1,0 +1,13 @@
+name = "ME Capability Adapter"
+filename = "capabilityadapter-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2cc3d6ef160005830f7707974d4cc9213fd1f8eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3196507
+project-id = 281657

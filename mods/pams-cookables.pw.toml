@@ -1,0 +1,13 @@
+name = "Pam's Cookables - Pam's Harvestcraft Addon"
+filename = "pamscookables-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9aaa803d12e1058e8d325cd998692b02a2703c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2504109
+project-id = 269036

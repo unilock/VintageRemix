@@ -1,0 +1,13 @@
+name = "Stupid Things"
+filename = "Stupid Things-1.12.2-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d08592cb34ed4a5a9cb7d3afb4e47ea5279f6239"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3048231
+project-id = 267901

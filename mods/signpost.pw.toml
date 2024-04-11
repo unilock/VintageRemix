@@ -1,0 +1,13 @@
+name = "Signpost"
+filename = "signpost-1.12.2-1.08.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "315ad92f843e15dc14e047c5f5e14839466b160c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2756629
+project-id = 261837

@@ -1,0 +1,13 @@
+name = "Save My Stronghold! (Forge)"
+filename = "savemystronghold-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22fe11452d8b4e2dfebb2a2d438b8b34e8609857"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2845037
+project-id = 355248

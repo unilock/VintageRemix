@@ -1,0 +1,13 @@
+name = "MenuMobs"
+filename = "MenuMobs-1.12.2-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70c13cd8fcfaee78d6711b57bd256f7c9ecfe891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2515376
+project-id = 245933

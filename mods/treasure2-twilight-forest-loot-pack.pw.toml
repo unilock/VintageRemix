@@ -1,0 +1,13 @@
+name = "Treasure2: Twilight Forest Loot Pack"
+filename = "Treasure2TwilightForestLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f48803d8d214cf4ca8cd4ea9cd0a0e827b5dd2b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876793
+project-id = 493871

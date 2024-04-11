@@ -1,0 +1,13 @@
+name = "Arcane Apprentices"
+filename = "ArcaneApprentices-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4894703e84a76b81fcad008b9cb2238b24b93cff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4807002
+project-id = 907405

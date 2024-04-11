@@ -1,0 +1,13 @@
+name = "Loot Games"
+filename = "LootGames-1.12.2-1.0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4511bf45eadf2de5c743bd56fafdb79cc984cfa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2886738
+project-id = 331876

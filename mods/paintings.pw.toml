@@ -1,0 +1,13 @@
+name = "Paintings ++"
+filename = "morepaintings-paintings-1.12.2-5.0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56cfbddccfa9edb611fde4adf69cb2dd4fadcaa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2756710
+project-id = 252042

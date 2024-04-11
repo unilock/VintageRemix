@@ -1,0 +1,13 @@
+name = "Ghost's Explosives"
+filename = "Ghost's Explosives 2.3.0 - MC1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6221f8e83775d38a7b1fed76b160f8391f6a5530"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2642488
+project-id = 302381

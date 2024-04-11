@@ -1,0 +1,13 @@
+name = "LittlePictureFrames"
+filename = "LittleFrames_v1.0.12_mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4ea846843dc0f4bfd843514d9fb2a28a29f208c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3522790
+project-id = 435557

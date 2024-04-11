@@ -1,0 +1,13 @@
+name = "Roguelike Dungeons -- Fnar's Edition"
+filename = "RoguelikeDungeonsFnarEdition-1.12.2-2.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68d534e18ed992c756f47ef271d8dd86f417731f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4414973
+project-id = 373157

@@ -1,0 +1,13 @@
+name = "Reborn Core (Fork NBT fix)"
+filename = "RebornCore-FORK-1.12.2-3.19.5-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ca5fac4519adb50826efd273c4830d2c83ce692"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3360902
+project-id = 496398

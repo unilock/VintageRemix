@@ -1,0 +1,13 @@
+name = "WorldGen Block Replacer"
+filename = "WorldgenBlockReplacer-1.12.2-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1911c97f74c35c63d172b44cbe4b89f6bd72a6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2884001
+project-id = 287321
