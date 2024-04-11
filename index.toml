@@ -18308,11 +18308,6 @@ hash = "6b56810779d29cdb1d0fff42375de45900f888f9c1342bc2cf930d5975521b89"
 metafile = true
 
 [[files]]
-file = "mods/save-my-stronghold.pw.toml"
-hash = "a83d95bf25429f9f1df5053f870bf6cd814006efd7773604a7070cc6eb415177"
-metafile = true
-
-[[files]]
 file = "mods/scannable.pw.toml"
 hash = "ed89bcbbc8222dba2cafccd915d6b116dffe31b548729bd206ea11dcdf7afc99"
 metafile = true
