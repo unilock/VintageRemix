@@ -18253,11 +18253,6 @@ hash = "0844ad10910defbf03f49ea8f2924ea769df48004ecb91cd45605fdb1864ecda"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.pw.toml"
-hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
-metafile = true
-
-[[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
