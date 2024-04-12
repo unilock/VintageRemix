@@ -1,0 +1,13 @@
+name = "InfraRedstone"
+filename = "InfraRedstone-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3894797895"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2643590
+project-id = 298428

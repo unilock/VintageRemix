@@ -33,12 +33,13 @@ key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_Change Caster Focus:0:NONE
 key_Misc Caster Toggle:0:NONE
+key_keybind.baublesinventory:0:NONE
+key_keybind.railcraft.cart.bed:0:NONE
 key_roots.keybinds.pouch:0:NONE
 key_roots.keybinds.quiver:0:NONE
 key_roots.keybinds.spell_library:0:NONE
 key_roots.keybinds.cycle:0:NONE
 key_roots.keybinds.delete_spell:0:NONE
-key_keybind.baublesinventory:0:NONE
 key_quark.keybind.lockBuilding:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
@@ -58,6 +59,7 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.toggleAutojump:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -65,8 +67,20 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.playerSort:0:NONE
-key_quark.keybind.toggleAutojump:0:NONE
+key_psimisc.keybind:46:NONE
+key_rpsideas.kb.offhandcast:0:NONE
+key_rpsideas.kb.switchslot01:0:NONE
+key_rpsideas.kb.switchslot02:0:NONE
+key_rpsideas.kb.switchslot03:0:NONE
+key_rpsideas.kb.switchslot04:0:NONE
+key_rpsideas.kb.switchslot05:0:NONE
+key_rpsideas.kb.switchslot06:0:NONE
+key_rpsideas.kb.switchslot07:0:NONE
+key_rpsideas.kb.switchslot08:0:NONE
+key_rpsideas.kb.switchslot09:0:NONE
+key_rpsideas.kb.switchslot10:0:NONE
+key_rpsideas.kb.switchslot11:0:NONE
+key_rpsideas.kb.switchslot12:0:NONE
 key_key.toggle_shaders:0:NONE
 key_key.conarm.toggle_helm.desc:0:NONE
 key_key.conarm.toggle_chest.desc:0:NONE
@@ -109,6 +123,8 @@ key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:0:NONE
+key_key.reloadSoundSystem:43:NONE
+key_key.togglePotionParticles:0:NONE
 key_treechop.key.toggle_chopping:0:NONE
 key_treechop.key.toggle_felling:0:NONE
 key_treechop.key.cycle_sneak_behavior:0:NONE
@@ -138,7 +154,9 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_keys.techreborn.config:0:NONE
 key_tombstone.message.knowledge_of_death:0:NONE
+key_nei.options.keys.gui.botania_corporea_request:0:NONE
 key_key.immersiveengineering.magnetEquip:0:NONE
 key_key.immersiveengineering.chemthrowerSwitch:0:NONE
 key_key.toggle_focus.desc:0:NONE
@@ -164,8 +182,9 @@ key_key.dragon_down:0:NONE
 key_key.dragon_change_view:0:NONE
 key_bbw.key.mode:0:NONE
 key_bbw.key.fluidmode:0:NONE
-key_nei.options.keys.gui.botania_corporea_request:0:NONE
-key_keys.techreborn.config:0:NONE
+key_key.bookdisplay.display:0:NONE
+key_key.bookdisplay.left:0:NONE
+key_key.bookdisplay.right:0:NONE
 key_key.settings_menu:0:NONE
 key_key.range:0:NONE
 key_key.undo:0:NONE
@@ -247,6 +266,11 @@ key_key.debugDumpNBTBlock:0:NONE
 key_key.categories.naming:0:NONE
 key_jecalculation.key.gui_craft:0:NONE
 key_jecalculation.key.gui_math:0:NONE
+key_key.radial_menu:0:NONE
+key_key.use_ring:0:NONE
+key_key.use_secondary_ring:0:NONE
+key_key.open_pouch:0:NONE
+key_key.connect_caving_rope:0:NONE
 key_LevelUpToggle:0:NONE
 key_LevelUpSkills:0:NONE
 key_key.rotateup:0:NONE
@@ -259,6 +283,12 @@ key_key.little.config.item:0:NONE
 key_key.little.config:0:NONE
 key_key.little.undo:0:NONE
 key_key.little.redo:0:NONE
+key_key.drawMahoujin:37:NONE
+key_key.changeMysticCode:34:NONE
+key_key.music_player_gui:0:NONE
+key_key.music_player_toggle:0:NONE
+key_key.music_player_next:0:NONE
+key_key.music_player_previous:0:NONE
 key_Toggle Numina FOV fix :0:NONE
 key_key.powersuits.goDownKey:0:NONE
 key_key.powersuits.cycleToolForward:0:NONE
@@ -296,10 +326,6 @@ key_module.powersuits.shockAbsorber.name:0:NONE
 key_module.powersuits.aurameter.name:0:NONE
 key_module.powersuits.madModule.name:0:NONE
 key_Quick Commands:0:NONE
-key_key.neenergistics.ingredient.switch:0:NONE
-key_key.neenergistics.stack.count.change:0:NONE
-key_key.neenergistics.crafting.helper.noPreview:0:NONE
-key_key.neenergistics.crafting.helper.noPreview:0:NONE
 key_keybind.simplyjetpacks.gui:0:NONE
 key_keybind.simplyjetpacks.engine:0:NONE
 key_keybind.simplyjetpacks.charger:0:NONE
@@ -312,12 +338,11 @@ key_key.plustic_brown_magic.desc:0:NONE
 key_key.plustic_toggle_tool.desc:0:NONE
 key_key.plustic_fruit_salad.desc:0:NONE
 key_key.plustic_mots.desc:0:NONE
+key_key.neenergistics.ingredient.switch:0:NONE
+key_key.neenergistics.stack.count.change:0:NONE
+key_key.neenergistics.crafting.helper.noPreview:0:NONE
+key_key.neenergistics.crafting.helper.noPreview:0:NONE
 key_xreliquary.keybind.fortune_coin:0:NONE
-key_key.radial_menu:0:NONE
-key_key.use_ring:0:NONE
-key_key.use_secondary_ring:0:NONE
-key_key.open_pouch:0:NONE
-key_key.connect_caving_rope:0:NONE
 key_key.taiga.alt_action:0:NONE
 key_wi-zoom.zoom:44:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
@@ -352,6 +377,11 @@ key_key.ancientspellcraft.charm_bauble_activate:0:NONE
 key_key.ancientspellcraft.key_warlock_cast:0:NONE
 key_key.ancientspellcraft.charm_ring_1_activate:0:NONE
 key_key.ancientspellcraft.charm_ring_2_activate:0:NONE
+key_keybind.railcraft.loco.reverse:0:NONE
+key_keybind.railcraft.loco.faster:0:NONE
+key_keybind.railcraft.loco.slower:0:NONE
+key_keybind.railcraft.loco.mode:0:NONE
+key_keybind.railcraft.loco.whistle:0:NONE
 key_Toggle Jetpack:0:NONE
 key_Open Rocket GUI:0:NONE
 key_Toggle RCS:0:NONE

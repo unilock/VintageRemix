@@ -1,0 +1,13 @@
+name = "Minor Integrations and Additions (MIA)"
+filename = "mia-1.12.2-0.2.2a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2053d1616165de4c6649d025d0957ebe1e6dd9ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3798288
+project-id = 358821

@@ -1,0 +1,13 @@
+name = "Seared Ladder (Backport)"
+filename = "Seared-Ladder-v1.1.2-mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d32a413a0ef30db8c25ee1e069591edd43dc90b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028115
+project-id = 687827

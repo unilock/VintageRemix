@@ -1,0 +1,13 @@
+name = "Psionic Peripherals"
+filename = "psipherals-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f870c8f923930c11b73d3ee9ef9f1b5123314048"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2737411
+project-id = 324813

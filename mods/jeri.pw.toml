@@ -1,0 +1,13 @@
+name = "Just Enough Recipe Integrations"
+filename = "JERI-1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8caeedf9e31b55fc752852510de1389019b7fd85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4561935
+project-id = 636651

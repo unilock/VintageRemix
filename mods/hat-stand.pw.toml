@@ -1,0 +1,13 @@
+name = "Hat Stand"
+filename = "HatStand-1.12.2-7.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfe7d60a6ad4ab9bdec402d3d5d8088aad2f45dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2801267
+project-id = 229076

@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6876a7399c604169d7acb06d441743eaac5dd615"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2735905
+project-id = 324717

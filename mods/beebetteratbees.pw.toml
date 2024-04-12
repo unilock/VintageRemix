@@ -1,0 +1,13 @@
+name = "BeeBetterAtBees"
+filename = "beebetteratbees-1.12.2-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93c8e92f38287afa24bb5218f5b0e5d237c60a2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2627215
+project-id = 244516

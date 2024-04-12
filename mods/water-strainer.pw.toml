@@ -1,0 +1,13 @@
+name = "Water Strainer"
+filename = "WaterStrainer-1.12-3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a408fe27b271be54397b65eff0dfaf62744a5eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3073795
+project-id = 246939

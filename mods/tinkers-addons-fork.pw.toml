@@ -1,0 +1,13 @@
+name = "Tinkers' Addons(Fork) with Mod Support"
+filename = "Tinkers' Addons-1.12.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ebb2894fee87f27c12de58ada888dc4fc279b0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3294090
+project-id = 433035

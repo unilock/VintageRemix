@@ -1,0 +1,13 @@
+name = "Better Ping Display"
+filename = "BetterPingDisplay-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d66bc5d919fe28ffdd8719ad1c7e158a128d6838"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2961950
+project-id = 292038

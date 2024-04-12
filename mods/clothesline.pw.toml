@@ -1,0 +1,13 @@
+name = "Clothesline"
+filename = "clothesline-1.12.2-0.0.3.0-bundle.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5086522e0c75add84cb71591d22d1b94afe2bfd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2754456
+project-id = 300262

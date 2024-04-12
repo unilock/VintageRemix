@@ -1,0 +1,13 @@
+name = "Engineer's Doors"
+filename = "engineers_doors-1.12.2-0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32875f093e05f49af649a1209e4f5662cfa811ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3023901
+project-id = 291126

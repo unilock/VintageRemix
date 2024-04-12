@@ -1,0 +1,13 @@
+name = "Book Display"
+filename = "bookdisplay-1.12.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e58ab64e9dda5c448c877b477464ec9d3d4909c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3263768
+project-id = 284899

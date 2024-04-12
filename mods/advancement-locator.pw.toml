@@ -1,0 +1,13 @@
+name = "Advancement Locator"
+filename = "cta-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b683d316ec78f404de3fc7275a23ed241cba749"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4723768
+project-id = 818503
