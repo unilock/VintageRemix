@@ -10,11 +10,11 @@ hash = "940fe11a46b8811f2087e9164426cb396bbca01a608514067cf2efaab3176f78"
 
 [[files]]
 file = "config/AncientSpellcraft.cfg"
-hash = "5483b069b11ebaca6bec58dcb40d8ae4f23ee7a9ed124eaa0c5a29b8978635ba"
+hash = "701e948127ba2eaf94c0953ea6a9845322c3f9b2ad3669976957b65998795874"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "476ac4698622a8634838c5148cb81c589383268d5d1779b699d55b1a42754495"
+hash = "ff79806959ac554566cd2c63f6c8b42f9af209d1abb94f8a18431d00b34ab4bc"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
@@ -90,7 +90,7 @@ hash = "363fc0c331b721a2ca4ea0495c7f02d604e76b77eed4a6d452a7511ab1ec4fd6"
 
 [[files]]
 file = "config/Elenai Dodge 2.cfg"
-hash = "cbbbfb852c9f58609916189d939f224d75903590a29c7c15e5f1af39be6e0f1d"
+hash = "f93d7bf07d65f9b5e15b41c350716fdcbdd6e6d7201ee2cc28a3861f68bad73d"
 
 [[files]]
 file = "config/FarmingForBlockheads/Market.json"
@@ -98,7 +98,7 @@ hash = "b0e71322d830420e322858112c5121a6ab8b852ba2eaf104aa66c607cfc05dd9"
 
 [[files]]
 file = "config/Fishs_Undead_Rising.cfg"
-hash = "8e16017a728f9293a024a7cf17440409f2ff90ac35132b700db4a5e32c2cb748"
+hash = "8008f1231f0dbec2c84a5f5babd09db89abf74c1499815721d9fb3adb79e1b01"
 
 [[files]]
 file = "config/Guide-API/Guide-API.cfg"
@@ -118,7 +118,7 @@ hash = "1eca6d32dca1ebe8ee748e6341482996d9bb066414f93de18ede71953cda98cb"
 
 [[files]]
 file = "config/VillageNames4/general.cfg"
-hash = "88714a8fa93ac9e8639668a40f16b2b1bf92af81a592893f962792847020d477"
+hash = "8620f7b28ad27a237b9504331121dc19f14217773359df258ecb4cf82dbc2380"
 
 [[files]]
 file = "config/Waystones.cfg"
@@ -166,7 +166,7 @@ hash = "64a26a4de052092b22c588de8dcab438a7d1ae820e66eff37f3f824e32ba5469"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "cd35ee73ad0d56df3e66fba23d9c4e400f8ba37223f0851a57c03a0bb1d8ffdf"
+hash = "b29cc978262e1272bd4e72388f06c13171b16b59bdac04678a2434cd90cbd88c"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
@@ -182,7 +182,7 @@ hash = "2d837a95bd140ee86e1894f31194dfea3a70b59ff7122fe38ba6da66572c5cae"
 
 [[files]]
 file = "config/agricraft/config.cfg"
-hash = "39519c22a2855643312e5b0cbbba9d2ca1626b30aa55aad6ae0f33303394fba6"
+hash = "32640b92fd388b6d4c41680c2717022895514002c55486555ca404ba872a90d0"
 
 [[files]]
 file = "config/agricraft/json/defaults/mod_Botania/mutations/botania_black_mutation.json"
@@ -2254,7 +2254,7 @@ hash = "0976538d5ab1dfe92ea856eb8de3a6aa66f9387a6998c5d8890f56198041b3cd"
 
 [[files]]
 file = "config/astralsorcery/amulet_enchantments.cfg"
-hash = "68f5c35ba2080fdd56dd19980fc41786fa6e1e300d986125e2219e4c75c60261"
+hash = "2b2cd8cce5f36a713f879452141496a804df42cb9c16871d1ed63b86b6efd9f9"
 
 [[files]]
 file = "config/astralsorcery/mineralis_ritual.cfg"
@@ -2290,7 +2290,7 @@ hash = "2246a9cb99091df18f8840cd87fdab458dbdffcbe2f970741de87ecb0bf5c4e9"
 
 [[files]]
 file = "config/bibliocraft.cfg"
-hash = "e6dc2f67ce6ccdacd5e1dd664f87773ed71d733426147f3d5772a17f6b46c421"
+hash = "d9d88f7612c6409b5e1b4ded44ddf29fe0739d939bcf92c45812f2d20932c115"
 
 [[files]]
 file = "config/biomesoplenty/misc.cfg"
@@ -2298,7 +2298,7 @@ hash = "9b5e408e52a5c37db334c9922b5fb88247c2e2125baba86fef69b191a50f4050"
 
 [[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
-hash = "2ec50f3d69b1b9739eb16a9ae431b1483dfeadbb7a4ba0734a0efe034745b822"
+hash = "de697bd1b03cd4bc215bcca4531a1ea0099972f4c2ad6dfc41b8c1986978c098"
 
 [[files]]
 file = "config/bountiful/bounties.json"
@@ -2306,7 +2306,7 @@ hash = "c3306428c625733fdcc74adf4c7be2470dd4e1c45120d7c4cc602981a6db80f8"
 
 [[files]]
 file = "config/bountiful/bountiful.cfg"
-hash = "91a4cdb4a843cb0638510a683257ac0bd316b91eb5b0ff822116571c7d1ec8bc"
+hash = "3c78c96c55bd0a36fb45f0cc7abbea856533f4b04b7cfb07447dc195d74172bb"
 
 [[files]]
 file = "config/bountiful/rewards.json"
@@ -2318,7 +2318,7 @@ hash = "9295a2196c149e1a022b7d87a813fae6db4636a8243de711765f72bcf68e7326"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "8c6672abbcf74af3d833749f4d25b6399c7d7ed9a97fd7e2481be6e517e9172e"
+hash = "ba57875f65caa9580faa6ccb30a96aefa4f7ddb3e7dc16bcf9e43114208bd168"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -2326,7 +2326,7 @@ hash = "9737dfc00e6709bb1a6082b13f88934a50934d8f36f2e56954a7b52167f870d6"
 
 [[files]]
 file = "config/capsule.cfg"
-hash = "1b9fcedf6d6ada2a003d053f975c37fc65becd0e80db2b1c7e91017fb588d2d8"
+hash = "fed7639012054af4fbf31fd213c5ce2b8487c0f486f78ca4fb4e7c92e830b9e9"
 
 [[files]]
 file = "config/capsule/loot/common/common_capsule_knowledge.nbt"
@@ -2386,7 +2386,7 @@ hash = "219098d81a1ce00cd0b551dc68703fa82d31dc72484bb157fd3d5fb278c2195e"
 
 [[files]]
 file = "config/champions.cfg"
-hash = "bd958d006d5158d93277a5b5488fb30edfcba8e526d03724790e55f8a5ad24d5"
+hash = "86018334fcb1d06a401a7501da16adf7bacc66cd6b351d3b79c2f141fef32791"
 
 [[files]]
 file = "config/champions/affixes.json"
@@ -2410,7 +2410,7 @@ hash = "5e3f15c349a895c6715486ad92a9c9da3649e61256844c26078beee3395f0b22"
 
 [[files]]
 file = "config/cofh/thermalexpansion/morbs.cfg"
-hash = "29d76cd9de94412534a5fe76a45491c6c2079423f40e55c30c6bf619c9a5cf09"
+hash = "db4c1eb92777bf249cbc77336701a3c2954339527a0976c2eade4b37f3c05993"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
@@ -2438,11 +2438,11 @@ hash = "79c559290ff20b12a009a1fd493ebfe29ce45eaa7a578fd4b4c8c944f78a505d"
 
 [[files]]
 file = "config/culinaryconstruct.cfg"
-hash = "09c98beccc9fc18df9f6c2668b91311e1a492acaf6d94c67d57a18607688c0a2"
+hash = "ce034c9f9370f4525014e74731d57e7ae0fee62c024aad11003214fc264c0afc"
 
 [[files]]
 file = "config/cyclicmagic.cfg"
-hash = "3c6beda64ef964674f951889c3dab02d867c9541238db971c878bb2e6d3c4340"
+hash = "c02f767e7c1135b999f7568cd106ad8d9322f418425a1da2ab713bb6b357590f"
 
 [[files]]
 file = "config/cyclopscore.cfg"
@@ -2482,7 +2482,7 @@ hash = "caf9f94a45e9d95c91fa6de540a0bc8df5560286d33ac445a05e8f61289e5ada"
 
 [[files]]
 file = "config/ebwizardry/ebwizardry.cfg"
-hash = "69480e7446c8756d7bbc2f0b233b19b7e625bf0926a6636181b686e2234e0b7f"
+hash = "3138542220c0e77900f8d310a41cd439ca35265ca6333decc2e6222db46f0262"
 
 [[files]]
 file = "config/ebwizardry/spells/ancientspellcraft/curse_of_death.json"
@@ -2530,11 +2530,11 @@ hash = "4d34cfe213ecfc2de99bb109a9e1d10e77882d8105e9768463de6411374f6e4a"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
-hash = "587f7328024ccea5dfd35287567a5a4dfedb48ff271207a323880d4539c5acf9"
+hash = "0c2ce1a0779e8f1cbd5ff3684023a0e446df783adbc354e3ed40f5daad37ff38"
 
 [[files]]
 file = "config/enderio/enderiomachines.cfg"
-hash = "ea52d7f3e4b3367fcc32584ff9776562ee31bc703f8f1c5464f4b33895f6df8f"
+hash = "b26c5ecb12ec00f4e45c647af9a25436412d5c061136236ee0ee239b3597da58"
 
 [[files]]
 file = "config/enderio/recipes/user/mce_fixes.xml"
@@ -15110,7 +15110,7 @@ hash = "1391a1add43be7ac51ec5ec4aa333a6e609f03588750a4f796ed38475e37990a"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "ba963f877596d18b2878d08d9967ed987432c23095ee890eea47eb080e1ca69a"
+hash = "ad03d553a400bd5e92b042660b089c9fa8bc194d2829f7e74e9c43a27181e7c7"
 
 [[files]]
 file = "config/gendustry/mce_gendustry_custom_recipes.cfg"
@@ -15154,7 +15154,7 @@ hash = "2de352d3f1fb2423803d73f19643a74777a505fbf0005bae3259e0e49416f7ba"
 
 [[files]]
 file = "config/icbmclassic/item.cfg"
-hash = "f6ec47d21179b95a991bf955c9d35de68c8588a134f71f9f9f25323bc25b5289"
+hash = "f1b2254c5977d3bc2274fbd1bfa98a6124e2f4b2320614633ae8ffe82d9f265e"
 
 [[files]]
 file = "config/ice_and_fire.cfg"
@@ -15162,7 +15162,7 @@ hash = "b71bec48ad1afbdc5f42014e6adf7b38d4762e193f20a61d5e7d5bb0d3d5987d"
 
 [[files]]
 file = "config/iceologer.cfg"
-hash = "36c0f6c423c1805fb59398de8b7e1b129ce4e4521864f4d3be6892e639e2b09f"
+hash = "3f7b940ffb9aa087cf0154332bef858806e5cc75ed8057deb525adbd15e106dd"
 
 [[files]]
 file = "config/ichunutil.cfg"
@@ -15170,7 +15170,7 @@ hash = "1d03c7f1b8d0e5b93571b6af36f451633080c6631befbbe920cd4d2354ef8b3b"
 
 [[files]]
 file = "config/ichunutil_keybinds.cfg"
-hash = "2e1358e8084211f4cf9f14493fc7fec78bca5c08f2363c1e7655a3c930088be8"
+hash = "376034426ab819fa4f4dadd3354169d496dbaa873721f9640cd30e7f1cba975e"
 
 [[files]]
 file = "config/illagers_plus/illagers_plus.cfg"
@@ -15210,7 +15210,7 @@ hash = "303bb52d5c076be4e35d30722abf0cca6ad6b57d7330c743a4b26adbebc3db96"
 
 [[files]]
 file = "config/inventorypets/inventorypets.cfg"
-hash = "edb709bf3050b51aae4afbce39959d72e18ce4a5c3b8290d8eeac4b80d912ed3"
+hash = "6d21bb1288f33d9455d92f964f1db7d9f6ef99f40f6d90c1890102060ea5db0e"
 
 [[files]]
 file = "config/itlt.cfg"
@@ -15366,7 +15366,7 @@ hash = "2c51cba17e0cf141b312541638485c97cd8bef802af0d469343030d1572a1924"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "28046fdb8afd6a170e9e4014fcd9b7e3e3efb05d2a0e45086acd360a7b65ecdf"
+hash = "868803b8a86110f9ed50e8c9f3dc45a02206946dc95b4296d2d7c69c35c50aaa"
 
 [[files]]
 file = "config/mekanism.cfg"
@@ -15394,15 +15394,15 @@ hash = "1e5056c1a045ac3e351e7880512934789de8682e05e27659760f57676cfd958c"
 
 [[files]]
 file = "config/morph.cfg"
-hash = "23655bb97078616af3b53d1869d41aef408f2e9058fd51ca86bad4a71abd1101"
+hash = "fdee5783e20fbb2d073aa571c3d79f76caa5233537ef5a9be407ccff4f3946c7"
 
 [[files]]
 file = "config/morphspellpack.cfg"
-hash = "16a59b1110098fa4fc6efa78c4f61afc12d47943b83585679c4caa8c36eb05b4"
+hash = "d7ad768f7c19659e5e7006b10bca9349998f23dee237165f910964debde70c4f"
 
 [[files]]
 file = "config/mowziesmobs.cfg"
-hash = "18a49ae4bde10e54c33dc16f6ab29a131c75e72e79a94100be530d5e1f31b30a"
+hash = "3f6d62c86152ff18dce20ea6613be86a4ca8bf40d2ca63ee9c86ab6774153f08"
 
 [[files]]
 file = "config/mysticalagriculture.cfg"
@@ -15426,7 +15426,7 @@ hash = "080745f0e46f5c94e8876e8b646d87fdc0e09fce803479bafa74e08cabaacf69"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "5df24ce0fe3f921b5636be6cc509adfb6c62fa561f60f4fa53d8dd530f1c9f83"
+hash = "572be700d1bdfaf3e925532ea5875123264417d9c56f21c9455ac2093e4649cb"
 
 [[files]]
 file = "config/oreexcavation.cfg"
@@ -15438,7 +15438,7 @@ hash = "357fb427a28f7a4ef6822c81aa64b9938f603d2793ecbf456c1678b31de2fd1a"
 
 [[files]]
 file = "config/plustic.cfg"
-hash = "8d06701f1688f3c7b8b921f4571eda5b2b666048d5584ce5c804bdd669748284"
+hash = "c2fa22a00e926d43fab62a479e7eb62b58e9fe23eeb9209c3ca69951607fd0cf"
 
 [[files]]
 file = "config/portalgun.cfg"
@@ -15474,7 +15474,7 @@ hash = "c43aec9d85b78968ac9b7ff596955cffc655db226493e85c68b090f624c5824c"
 
 [[files]]
 file = "config/reskillable.cfg"
-hash = "e7bd5587dddb5299784e61ec0199fe4ab2222f984640eab9fe5b741b5e748fca"
+hash = "97030796282e235c1a043dd8947b2e241db18ce2448ce8acf3131a86127b12b6"
 
 [[files]]
 file = "config/rftools/dimensions.cfg"
@@ -16114,7 +16114,7 @@ hash = "24d9ce98f2f0725037802a82357bda44a1f89e064ca108a5e1cdd5629e686094"
 
 [[files]]
 file = "config/signpost/signpost.cfg"
-hash = "fc25f093fab4da24fe6311ba83abb63e5051a498bac1bdb66384f30b8cfe8c91"
+hash = "3d2a5cf2f3058255fc0d242781301466a4d4c0ec6962292928d7fc950274e2cf"
 
 [[files]]
 file = "config/solcarrot.cfg"
@@ -16166,7 +16166,7 @@ hash = "e248b514be7173ffbaa0268869bb7462eb0b29780d87ac38c117cde158bcb34e"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "626c5863d374e8ddeba21be86e93b087e541cfc60457f8661891ce2195599585"
+hash = "e41bb01c2dc39628782b4aad22808b92b64fb931f393254e3c4dcd9d8b27b604"
 
 [[files]]
 file = "config/thaumicjei.cfg"
@@ -16190,11 +16190,11 @@ hash = "10dd0a751f2cdb36181c4efd453d74d77b7d60596bccf4adcbe2a9a178634c58"
 
 [[files]]
 file = "config/tombstone.cfg"
-hash = "6634fe39cf13cd46e61f43621ee4f133d9a1f2f8c002c00fad16559bad8370cf"
+hash = "5a17d9a7204d01a31afccb9032e423b280cd14bc94fd0d12523b40ddfea47dfb"
 
 [[files]]
 file = "config/totemic.cfg"
-hash = "b34cafa5c30b0097a6c53e4d33a8ff57b5b99372d043c75a94ff8d9b87a79027"
+hash = "136beeb2f1a37c5d6280c1f2a94454314b870e5f403270242409197d30717290"
 
 [[files]]
 file = "config/treasure2/canopy-wishing-well.cfg"
@@ -16918,7 +16918,7 @@ hash = "c4656d2487c0711021275775149a5eb2fc02b0d9422d32a8b14081bd4e34df37"
 
 [[files]]
 file = "config/unidict/UniDict.cfg"
-hash = "3db520e989a9f64c347240057d78ac211df5c82c9d1670c96f6ecac7dc26f13b"
+hash = "c4ff204e8aff3fbbd5d4a6ce32c2f1cdb4032afba68b6c6452cf85d57225a72f"
 
 [[files]]
 file = "config/vampiresNeedUmbrellas.cfg"
