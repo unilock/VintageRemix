@@ -15373,6 +15373,10 @@ file = "config/littleframes.json"
 hash = "6527f3229eed1ca0befdf65123a4dc5a41922ae92237c58d09641b290e237802"
 
 [[files]]
+file = "config/machinemuse/numina.cfg"
+hash = "080e121e7dd3fa4c7d2737871028166f2e4131f320442783977a3a991021a773"
+
+[[files]]
 file = "config/machinemuse/powersuits.cfg"
 hash = "be95f60d4d6d77c36941312f4aa50969d7ed829259b44f3e49fd971f7418ea82"
 
