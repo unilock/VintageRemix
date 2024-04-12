@@ -2449,6 +2449,14 @@ file = "config/cyclopscore.cfg"
 hash = "0e872fbad839dec1c545da6a49b80e6404c16867fdd2f0bba04aa76476c5cb2b"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "7bb261cd559ea7ff91e2ec265c71ac0f4ea2f0bca3e3b92250305eb8c2801b1f"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "be37baf0b2c92fac4d76b924fd55a03833b376f3421ef7e34b3b52bb21603e0c"
+
+[[files]]
 file = "config/dimdoors.cfg"
 hash = "797e64a498c07daeaabbe7d89673ff575574a4a93ce038285a373a08179236bd"
 
@@ -15446,7 +15454,7 @@ hash = "9cdfab8be7e6297bae06d5d8168e76b57e0a4c49127c97f9a663d94245e78794"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "2cb08935610f6af0992a9fbaf908d61a4400b2c0a1878bd8ae79a1cd1b44bac2"
+hash = "b58d808d8df7d6e398624389a5b5792bc616e4da80f4686611665e35c315532b"
 
 [[files]]
 file = "config/randompatches.cfg"
@@ -16961,6 +16969,18 @@ file = "config/wings/ores.cfg"
 hash = "8780a6c2908a6c23b5bec581ee2478d48137a391fbfa1d7cdbbe2f9615e28eb4"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "ae1f81ecec8f0403107019f22b57204864d140080919fa52d38699408fad1c7b"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "0d3449acafc2685b8936a1377a9998ca41d3f5ff60f4b7d72eee3e4d34fdf525"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
+
+[[files]]
 file = "config/xreliquary.cfg"
 hash = "5dea3cd69c719f2d694dbe5506b371618c320493cdf4b471a1c85742428ec57f"
 
@@ -17418,6 +17438,11 @@ metafile = true
 [[files]]
 file = "mods/darknesslib.pw.toml"
 hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
 
 [[files]]
@@ -18633,6 +18658,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "55b47d8d70ce32052cdfab5123fdfbc520eb495652505033415424ffb2d880e9"
 metafile = true
 
 [[files]]
