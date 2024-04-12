@@ -17244,6 +17244,11 @@ hash = "c2f90549e1a2a88f9cfe58f1f5255d2bd5c616e53464a6953ab1e237c27b85e7"
 metafile = true
 
 [[files]]
+file = "mods/betweenlands-redstone.pw.toml"
+hash = "64c9607751b1aa1edb5582b8050f809dca21592a328c182ff465307e42bc4870"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment-legacy.pw.toml"
 hash = "3508bee8f8e7bf63e5d9c4cd541a1951418ebceacaae42b2659d2d32390ab766"
 metafile = true

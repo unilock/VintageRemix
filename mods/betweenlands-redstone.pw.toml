@@ -1,0 +1,13 @@
+name = "Betweenlands Redstone"
+filename = "BetweenlandsRedstone-1.4.0-beta4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10eaa94ea3cc39c0ebfd8d2cf301634654032582"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5237598
+project-id = 567792
