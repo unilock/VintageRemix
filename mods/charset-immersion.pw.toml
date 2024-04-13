@@ -1,0 +1,13 @@
+name = "Charset Immersion"
+filename = "Charset-Immersion-0.5.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07943f90c46e640b5601b5cbf13d1fce5aee6ad2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2745007
+project-id = 291374

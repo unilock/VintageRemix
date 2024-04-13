@@ -1,0 +1,13 @@
+name = "Charset Storage - Chests"
+filename = "Charset-StorageChests-0.5.6.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ba0576095aacd48d4db42e360c871d525f1dcfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3656498
+project-id = 298584

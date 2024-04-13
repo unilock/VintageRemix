@@ -1,0 +1,13 @@
+name = "Charset Crafting"
+filename = "Charset-Crafting-0.5.6.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "997071fef1159e8145556082d0965ab900f00d56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3961147
+project-id = 287664

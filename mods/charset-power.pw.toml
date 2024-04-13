@@ -1,0 +1,13 @@
+name = "Charset Power"
+filename = "Charset-Power-0.5.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3078943294"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2745286
+project-id = 293380

@@ -1,0 +1,13 @@
+name = "Charset Tools"
+filename = "Charset-ToolsEngineering-0.5.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3428aa10b9d945df1dcbe026f8bc0bdbe0a80544"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2745010
+project-id = 301054

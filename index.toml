@@ -17054,6 +17054,11 @@ hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
 
 [[files]]
+file = "mods/actually-baubles.pw.toml"
+hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
+metafile = true
+
+[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "aba65821765d7d5b96a0816c3831c9efa0aa97bde55246d196eb150d0afe26fe"
 metafile = true
@@ -17259,6 +17264,11 @@ hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
 
 [[files]]
+file = "mods/binnies-mods-patched.pw.toml"
+hash = "751a4d38f5421d03904653c2e32818bbb8045780e826afedfe3dc99aeba910c2"
+metafile = true
+
+[[files]]
 file = "mods/biome-staff.pw.toml"
 hash = "c82ae0cc97d9282a391757706821a7d4d2bf7fb2e99271c17f830ceaee51d9ab"
 metafile = true
@@ -17319,6 +17329,11 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
+file = "mods/bungeeforge.pw.toml"
+hash = "3db8f1dee130d82755b3742f94cf63863f54e9a2e3a3af3e39179b49d18a43c3"
+metafile = true
+
+[[files]]
 file = "mods/capability-adapter.pw.toml"
 hash = "b8770bdd6ccdac9db62f61bbc030346765a68fbb2b25f1a58a49e8f4454bd1b2"
 metafile = true
@@ -17356,6 +17371,61 @@ metafile = true
 [[files]]
 file = "mods/charm.pw.toml"
 hash = "0374f62727fb3525bc6d37c42ed407da341c85454b3580ed44b969143c4d34f6"
+metafile = true
+
+[[files]]
+file = "mods/charset-crafting.pw.toml"
+hash = "59b8f29a9b7fc4d14486f0b099ddb99b14d91833a74cd6c7c0be6e6f0f401abe"
+metafile = true
+
+[[files]]
+file = "mods/charset-immersion.pw.toml"
+hash = "ac88e024e4f036cd41b2435677d6fb9daede6ad717e6d1fa5395bcb579c8fdd1"
+metafile = true
+
+[[files]]
+file = "mods/charset-lib.pw.toml"
+hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
+metafile = true
+
+[[files]]
+file = "mods/charset-power.pw.toml"
+hash = "6d7e1474ae14e66e3e18437d0530336a9635aaef7dd546fba1b1f2c68a12650d"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-barrels.pw.toml"
+hash = "c3e6fd3e2d1021605d6be15ddc2071518737d0e2026b883daac5c9dd7f60e250"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-chests.pw.toml"
+hash = "0c909b17589cded9663e92f926c28ba59baa7c442b72bcd82ea5cb8553dfe969"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-locks.pw.toml"
+hash = "b179b12b863bd2d289536e5231bbbb2c4c180b7fc19837a7920e4f713771cabe"
+metafile = true
+
+[[files]]
+file = "mods/charset-storage-tanks.pw.toml"
+hash = "c49bf21876d83f19e2239d2c3177946d7bfbdf9f1f265cdd8e104d78a36dfc49"
+metafile = true
+
+[[files]]
+file = "mods/charset-tools.pw.toml"
+hash = "8a2bde2476167667cb3cb4ed4b23069b7e6fe8b842950e375a8c82ccd3872388"
+metafile = true
+
+[[files]]
+file = "mods/charset-transport-carts-and-rails.pw.toml"
+hash = "c220da015ee4618ec7c66d856d0f18563540d366b0d0bdfe43703c22c574797e"
+metafile = true
+
+[[files]]
+file = "mods/charset-tweaks.pw.toml"
+hash = "f0562c7caf88ab61ca5c694bd09df8887472026c751a1f3400a2946e1d3f91b4"
 metafile = true
 
 [[files]]
@@ -17416,6 +17486,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "62fd06e68ef5a771bfbb490da497b19b5c8240a7ff94a2b2ec713a50e38bb58c"
+metafile = true
+
+[[files]]
+file = "mods/complexlogic.pw.toml"
+hash = "b0d7f13274f23c625c63cc8bf79a22b95909a472af8e6348ac97848b990fd636"
 metafile = true
 
 [[files]]
@@ -18659,6 +18734,16 @@ hash = "62814a10c80fd9da818a3586a4df9604614e176390eb45a53c1adfc25037afe3"
 metafile = true
 
 [[files]]
+file = "mods/simplelogic-gates.pw.toml"
+hash = "cc88befaed636d0e186d32ad4cf5ed5774918f635e481fafed75065333985558"
+metafile = true
+
+[[files]]
+file = "mods/simplelogic-wires.pw.toml"
+hash = "8c9cd4df8bacfbf998ff9b052ad7f29194014a7110f0223b14602603a940dc79"
+metafile = true
+
+[[files]]
 file = "mods/simply-cats.pw.toml"
 hash = "072626125b12336f06eac55726811f4db933915ea6d6cd6dd9d8ce8dbd01f212"
 metafile = true
@@ -18921,6 +19006,16 @@ metafile = true
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
 hash = "408b3e0ec766d6b326433c106f68f57e4add18f9ec08b2b369e256fef6f94d43"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-chisel-works-botany.pw.toml"
+hash = "8e03a35b922f2d93dc03c0bbfee50ddf7dd912e8c25ed0cff67fadd429d5c0e8"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
 metafile = true
 
 [[files]]

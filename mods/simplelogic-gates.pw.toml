@@ -1,0 +1,13 @@
+name = "SimpleLogic Gates"
+filename = "SimpleLogic-Gates-0.5.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2eb6e956579e3b83736c428683bbed3fcc71cc6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2745283
+project-id = 289316

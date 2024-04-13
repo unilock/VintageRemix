@@ -1,0 +1,13 @@
+name = "Charset Storage - Locks"
+filename = "Charset-StorageLocks-0.5.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b922bb56195a4a5fae1bcce71bc87b8f8631b9b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2816634
+project-id = 285358

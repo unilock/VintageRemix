@@ -1,0 +1,13 @@
+name = "ComplexLogic"
+filename = "complex-logic-1.4.3-master.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "1165733456"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2746460
+project-id = 299733

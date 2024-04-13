@@ -1,0 +1,13 @@
+name = "Charset Transport - Carts and Rails"
+filename = "Charset-TransportCartsRails-0.5.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54fbd09e168706d2e99ac4feca54ef9eca4d1185"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2816635
+project-id = 284581

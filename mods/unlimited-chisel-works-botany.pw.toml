@@ -1,0 +1,13 @@
+name = "Unlimited Chisel Works - Botany"
+filename = "UnlimitedChiselWorks-Botany-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "159233a95dcc9af607bc0658edc316ddfa99a620"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2522228
+project-id = 282877
