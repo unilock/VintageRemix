@@ -2409,6 +2409,14 @@ file = "config/charm.cfg"
 hash = "7d7df197740ddead3a5c451d1127f1e41bd380da66b1bbdd58152beda3a18c51"
 
 [[files]]
+file = "config/charset/module/tweak.bonemeal.cfg"
+hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
+
+[[files]]
+file = "config/charset/modules.cfg"
+hash = "e7bdcb246bdf09dc025884cc91b83f3a4ad2e407fb48b9b02c3ab66e843f4695"
+
+[[files]]
 file = "config/chisel.cfg"
 hash = "dcd8a6a8ed9803e1fd035f7e4a2e5e0d3b988d6032ca725569e7ffbaa2ed3058"
 
@@ -15478,7 +15486,7 @@ hash = "deed71634be039f37abf5c1cc1ddbf0b1a56f79a53196a53f0802b3fb1ab3703"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "004a73b1431be125c3052e3a02aa12a45622182692899a95dad0ec30456c2147"
+hash = "1cc6f54182d70740cd7829fc217d8f98148c9fc0cd96926bc634068e80b833dc"
 
 [[files]]
 file = "config/randompatches.cfg"
