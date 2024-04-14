@@ -1,0 +1,13 @@
+name = "Snow! Real Magic! ⛄ (Forge)"
+filename = "SnowRealMagic-1.12.2-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac7f486d65b69ae0c4e4f60e4cd6e122016e2d51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4406440
+project-id = 308663

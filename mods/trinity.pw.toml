@@ -1,0 +1,14 @@
+name = "Trinity"
+filename = "Trinity 0.4.c.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "4f8b4c96e860a986420a3efb1b1580394c3f5304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974411
+project-id = 354949

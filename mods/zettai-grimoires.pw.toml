@@ -1,0 +1,13 @@
+name = "Zettai Grimoires"
+filename = "ZettaiGrimoires-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de469639da354d061d35cbb9eb76b355689e8543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3496150
+project-id = 417570

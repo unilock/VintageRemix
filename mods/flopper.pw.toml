@@ -1,0 +1,13 @@
+name = "Flopper"
+filename = "Flopper-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8df0da5e25e4c09716047d8d9c46c6f42d84354b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2689287
+project-id = 290404

@@ -1,0 +1,13 @@
+name = "Treasure2: Atum2 Loot Pack"
+filename = "Treasure2Atum2LP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4c7917ed3c89095aa042ab4a00b76105375c278"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4372992
+project-id = 677953

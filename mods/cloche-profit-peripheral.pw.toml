@@ -1,0 +1,13 @@
+name = "Cloche Profit Peripheral"
+filename = "cloche-profit-peripheral-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "691377df6a68ac5859052736cafff5255881d25a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3021138
+project-id = 357179

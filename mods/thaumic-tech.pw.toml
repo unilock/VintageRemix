@@ -1,0 +1,13 @@
+name = "Thaumic Tech"
+filename = "thaumictech_v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8cdd532261c337196f64455993aecd964248f48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2880102
+project-id = 362485

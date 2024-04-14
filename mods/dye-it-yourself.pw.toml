@@ -1,0 +1,13 @@
+name = "Dye It Yourself"
+filename = "diy-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee0ee2c592b47f5083d3c2e68df50fdd307812b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2567788
+project-id = 291427

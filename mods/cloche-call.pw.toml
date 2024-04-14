@@ -1,0 +1,13 @@
+name = "Cloche Call"
+filename = "ClocheCall-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e23fc1afbc823ec3d1f00a283ea7c7497cf3488"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2909440
+project-id = 293319

@@ -1,0 +1,13 @@
+name = "Cuisine 🍳"
+filename = "Cuisine-0.5.22-build929.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efe94c0bb4685633580f69730a795097a286696b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2932722
+project-id = 303694

@@ -1,0 +1,13 @@
+name = "Tweaked Petroleum: Gas Addon"
+filename = "tweakedpetroleumgas-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7144681e686ecb70b985ab2446bd2ab2f67b56b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4142015
+project-id = 667524

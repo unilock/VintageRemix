@@ -1,0 +1,13 @@
+name = "Crimson Revelations"
+filename = "crimsonrevelations-0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a1916a4d87585193a637e9eecb09a231026c8f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2903439
+project-id = 359498

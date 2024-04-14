@@ -1,0 +1,13 @@
+name = "Engineered Golems"
+filename = "Engineered Golems-1.2a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcd57ae858aca977fb3dff8a4acaba79569bb5c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2697745
+project-id = 307407

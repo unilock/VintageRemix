@@ -1,0 +1,13 @@
+name = "Thaumic Restoration"
+filename = "ThaumicRestoration-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b159a3fa3e1b0776b94364996670df7734031fb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2999857
+project-id = 300198

@@ -1,0 +1,13 @@
+name = "Missing Pieces"
+filename = "missing_pieces-1.12.2-4.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a9c6b791222cf94f086385ab74c6a3a57f08555"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2490951
+project-id = 236199
