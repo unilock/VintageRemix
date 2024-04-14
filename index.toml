@@ -137,6 +137,10 @@ file = "config/Waystones.cfg"
 hash = "a0719156fccd91232fa5138b32c2002b62c138cd6dba5e380121e5fdc3ef62ad"
 
 [[files]]
+file = "config/ZettaiPsi.cfg"
+hash = "b6dd73eae167922cb28b4cc147746aeeadbdc52b44b1a2febd031781ac10a622"
+
+[[files]]
 file = "config/actuallyadditions.cfg"
 hash = "be63c6d8f56f3f66cdd93e9ac6f2225ef052307320dedc541130cbc7b53e9c5c"
 
@@ -17416,6 +17420,11 @@ hash = "03eb9750199373b2ea6122d8a33c484e4b744754a77cc898402aa29f3a1c510e"
 metafile = true
 
 [[files]]
+file = "mods/btfixes.pw.toml"
+hash = "af71f8f04546075c36675046836b2a642b19ab54a912e5cb8f6295c2eb0b8db6"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
 metafile = true
@@ -19583,6 +19592,11 @@ metafile = true
 [[files]]
 file = "mods/zettai-magic.pw.toml"
 hash = "3e337e479be68e1927b22f424bdf32bb9f083909a679b83527f665f313571f36"
+metafile = true
+
+[[files]]
+file = "mods/zettai-psi.pw.toml"
+hash = "b9775ae2061b7cac36493871c05a5bd761e1afbd541fc3a995193f44be632f6a"
 metafile = true
 
 [[files]]
