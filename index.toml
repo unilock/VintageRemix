@@ -15289,6 +15289,10 @@ file = "config/jei/itemBlacklist.cfg"
 hash = "4a7a1c89ce4052ec79412cfa5c7d89061117e44b65fc28d58799722402846ab2"
 
 [[files]]
+file = "config/jei/jei.cfg"
+hash = "d7f73a6ce6a1e5f6a223aae2eff0055d8078bbfacb5895e378b911e66571e247"
+
+[[files]]
 file = "config/jeresources/world-gen.json"
 hash = "11d158d553feaff8c932aa1624c449357c0fc08d65e6efaf068f53cda296b0fb"
 
@@ -19871,7 +19875,7 @@ hash = "c7a5f8cab51aca8722867493c7841e00f24c836b0f17e7c2bd2d306a553fb8f9"
 
 [[files]]
 file = "scripts/JAOPCA.zs"
-hash = "fcec4b7a153ca3ddadb1bf8beb762db2648d4c5423508a6d3395e8df46247e52"
+hash = "9f432181065de3ca643744e3652ca41e24a7321b7451b503a2bb536ea9c19c31"
 
 [[files]]
 file = "scripts/Loottweaker.zs"
@@ -19891,7 +19895,7 @@ hash = "24f0d030ece3b3cd60ca52054a5482d3d9777e7f0b72effdf35332c85c8fe72a"
 
 [[files]]
 file = "scripts/MiscCrafting.zs"
-hash = "f9c8061a5cd62f1626896fec20d3e71b450987cb3a92c5ea82d372e0b39cb864"
+hash = "409b144ea7a25e9d51c329e99a77e18614282d864f37b09c813a65731d15af84"
 
 [[files]]
 file = "scripts/MobGrindingUtils.zs"
@@ -19927,7 +19931,7 @@ hash = "0515ccdcabb747c1b5fc243138625c0c10568c7fb6cf6ae19182a90ede54ff7e"
 
 [[files]]
 file = "scripts/Powersuits.zs"
-hash = "c814b8308a70312d3a57b8d032ca182a3f026579b112ee876248800745a409fa"
+hash = "1ed482614d779a155d73a1edd9239c906913d87eef68d0092ed4b0fd230cd8f9"
 
 [[files]]
 file = "scripts/RandomThings.zs"
@@ -19947,7 +19951,7 @@ hash = "9343f38d72dd3bd599008785ed0c4d7aed5f461b12c26d09086b3307f1e41806"
 
 [[files]]
 file = "scripts/Thaumcraft.zs"
-hash = "dc2f62aedad02f17b70683317cdf0dac4ac1915c337378580034350df3556e75"
+hash = "3deb30fd74c2d8055a34c8e5f6c5a300e3b3f652aadc2c9169281713d761a2ce"
 
 [[files]]
 file = "scripts/Timber.zs"
@@ -19955,11 +19959,11 @@ hash = "8120654abb337f9e5c878993061fe0c70f363921de44032f33a40dcb6fb31552"
 
 [[files]]
 file = "scripts/TinkersConstruct.zs"
-hash = "8b4bb0d65d0b9ae5d22693a1322620138c063ef52550298e38bd25b6aa74e26a"
+hash = "fc5475a71a8d4a5f2fed9cdb121b5846eb6d9477dfc9778eff861c8dce286db5"
 
 [[files]]
 file = "scripts/Tooltip.zs"
-hash = "97bf40bf2a7dc0f48b6f82823ce3b3a8b285a01cd16c70376a91697d260e57bb"
+hash = "35f0a4272ca618cbe911bb42c809d61ff21ad8812bf76c56305fda3524e3e833"
 
 [[files]]
 file = "scripts/Wings.zs"

@@ -79,12 +79,12 @@ val allparts = {
 	8:["tconstruct:scythe_head","tconstruct:large_sword_blade","tconstruct:large_plate","tconstruct:hammer_head","tconstruct:excavator_head","tconstruct:broad_axe_head"]
 } as string[][int];
 
-for value in allparts {
-	for part in allparts[value] {
-		Casting.addTableRecipe(itemUtils.getItem(part).withTag({Material: "starmetal"}),<tconstruct:cast>.withTag({PartType: part as IData}), <liquid:astral_starmetal>, 144*value, false, 85*value);
-		Casting.addTableRecipe(itemUtils.getItem(part).withTag({Material: "starmetal"}),<tconstruct:clay_cast>.withTag({PartType: part as IData}), <liquid:astral_starmetal>, 144*value, false, 85*value);
-	}
-}
+#for value in allparts {
+#	for part in allparts[value] {
+#		Casting.addTableRecipe(itemUtils.getItem(part).withTag({Material: "starmetal"}),<tconstruct:cast>.withTag({PartType: part as IData}), <liquid:starmetal>, 144*value, false, 85*value);
+#		Casting.addTableRecipe(itemUtils.getItem(part).withTag({Material: "starmetal"}),<tconstruct:clay_cast>.withTag({PartType: part as IData}), <liquid:starmetal>, 144*value, false, 85*value);
+#	}
+#}
 
 val materialsThatDontExist = [
 	"electrumflux",

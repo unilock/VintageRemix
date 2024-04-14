@@ -33,7 +33,7 @@ val clusterOreNames = {
 	"Aluminium" : <fluid:aluminum>,
 	"AncientDebris" : <fluid:ancient_debris>,
 	"Ardite" : <fluid:ardite>,
-	"AstralStarmetal" : <fluid:astral_starmetal>,
+#	"AstralStarmetal" : <fluid:astral_starmetal>,
 	"Boron" : <fluid:boron>,
 	"Cobalt" : <fluid:cobalt>,
 	"Dilithium" : <fluid:dilithium>,

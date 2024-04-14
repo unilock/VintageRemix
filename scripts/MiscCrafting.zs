@@ -110,7 +110,7 @@ recipes.addShaped("danknull_t6_mce",
 				game.localize("mce.danknull.crafting_info.2")
 			]}}),
 	[[<danknull:dank_null_panel_5>, <rats:idol_of_ratlantis>, <danknull:dank_null_panel_5>],
-	[<extracells:storage.component:2>, <danknull:dank_null_4>.marked("dank5"), <extracells:storage.component:2>],
+	[<aeadditions:storage.component:2>, <danknull:dank_null_4>.marked("dank5"), <aeadditions:storage.component:2>],
 	[<danknull:dank_null_panel_5>, <compactmachines3:machine:5>.marked("cm"),<danknull:dank_null_panel_5>]],
 	
 	function(output as IItemStack, input as IItemStack[string], cInfo as ICraftingInfo){
@@ -136,14 +136,14 @@ for recipe in dankRecipes {
 
 #Infinite Barrel/Drawer Upgrade
 recipes.addShaped("mce_drawers_upgrade_infinite_capacity", <storagedrawers:upgrade_creative:0>, [
-	[null, <extracells:storage.component:1>, null],
+	[null, <aeadditions:storage.component:1>, null],
 	[<mekanism:teleportationcore>, <storagedrawers:upgrade_template>, <mekanism:teleportationcore>],
 	[null, <minecraft:nether_star>, null]
 ]);
 	
 recipes.remove(<yabba:upgrade_star_tier>);
 recipes.addShaped("mce_yabba_upgrade_infinite_capacity", <yabba:upgrade_star_tier>*2, [
-	[null, <extracells:storage.component:1>, null],
+	[null, <aeadditions:storage.component:1>, null],
 	[<mekanism:teleportationcore>, <yabba:upgrade_blank>, <mekanism:teleportationcore>],
 	[null, <minecraft:nether_star>, null]
 ]);
@@ -161,14 +161,14 @@ for mod,frame in blackHoleFrames {
 	recipes.removeByRecipeName("industrialforegoing:black_hole_unit"+ blackHoleFrameModID);
 	recipes.addShaped("mce_blackhole_unit_"+ mod, <industrialforegoing:black_hole_unit>, [
 		[<industrialforegoing:plastic>, <ore:enderpearl>, <industrialforegoing:plastic>],
-		[<extracells:storage.component:0>, frame, <extracells:storage.component:0>],
+		[<aeadditions:storage.component:0>, frame, <aeadditions:storage.component:0>],
 		[<mekanism:teleportationcore>, <minecraft:nether_star>, <mekanism:teleportationcore>]
 	]);
 
 	recipes.removeByRecipeName("industrialforegoing:black_hole_tank"+ blackHoleFrameModID);
 	recipes.addShaped("mce_blackhole_tank_"+ mod, <industrialforegoing:black_hole_tank>, [
 		[<industrialforegoing:plastic>, <ore:enderpearl>, <industrialforegoing:plastic>],
-		[<extracells:storage.component:7>, frame, <extracells:storage.component:7>],
+		[<appliedenergistics2:material:57>, frame, <appliedenergistics2:material:57>],
 		[<mekanism:teleportationcore>, <minecraft:nether_star>, <mekanism:teleportationcore>]
 	]);
 }
