@@ -17158,7 +17158,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
-hash = "51ef0de15b47bec28d44c80d63a4e847a66de82b20788b4dfd2dbb3ec8e28386"
+hash = "b0b5e35bcf38b40fc07be3bec172d0f9a450c8e7818494869486d7f67988ee16"
 metafile = true
 
 [[files]]
@@ -18038,7 +18038,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "09f06c2eabb34919e0852eadedd9e9b164262494b0a911d70c3de8ce0dd3170a"
+hash = "8f3d504806f0414b9e38921e1a7b8f6fbdcda3c4ba3ece4eb1c53ecb57ea5fdd"
 metafile = true
 
 [[files]]
@@ -18393,7 +18393,7 @@ metafile = true
 
 [[files]]
 file = "mods/lolasm.pw.toml"
-hash = "ff33ae608b34f10ad87ca68353824ddeba0d05f01eff89d704ed89ce0bc95ac2"
+hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
 metafile = true
 
 [[files]]
@@ -19518,12 +19518,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bace8a58988e23f593552d4d82d724b9d32fc66550b7cb5be665823bca97711c"
+hash = "5acefd06cc7a92aaa4a5df9bd368a852d49ed5f0ec3b85c01a27da55bae14275"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3bc70c4ddc2b26d0d39fb5a163777b085b9fab9474f076846385d513469fb238"
+hash = "ee981d4a868df1b26b42fd295d0542c9d3a5845973733af38f0df176d187c0d1"
 metafile = true
 
 [[files]]
