@@ -15486,7 +15486,7 @@ hash = "deed71634be039f37abf5c1cc1ddbf0b1a56f79a53196a53f0802b3fb1ab3703"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "1cc6f54182d70740cd7829fc217d8f98148c9fc0cd96926bc634068e80b833dc"
+hash = "6bc403d58616f272d53f321fe1900cedc7470c9d4bd6e2c75c76fc8dedf84435"
 
 [[files]]
 file = "config/randompatches.cfg"
@@ -15502,7 +15502,7 @@ hash = "1efc013d0549a3cf5e4fa57b15b520f45489052ce1a20d661156d9171817ec72"
 
 [[files]]
 file = "config/rats.cfg"
-hash = "18d7a5e6a5e9b58759e86786b86f59597959d3312bed44bf66696841ca65e920"
+hash = "97482a28e67a580b4feac3bfff065eb3f0f28e9837db23dcb5eb02b905794305"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -18597,8 +18597,8 @@ hash = "9ab2d2f7a009920ff0c75575d0e3f2cdd1aa765c70ff37e9bf5efabde7aed918"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+file = "mods/quark-rotn-edition.pw.toml"
+hash = "fd03f6ca68a8698cd20a80e4bd34140a954db90bccafaa6364706422b9ceb3cd"
 metafile = true
 
 [[files]]
@@ -18627,8 +18627,8 @@ hash = "bff691af416c451674e300f0bdaf89b1d7450aa7ad275421ce7f50fd65463438"
 metafile = true
 
 [[files]]
-file = "mods/rats.pw.toml"
-hash = "200e3375ca5eae053ac8923b201fbec3b4e20a413fa04f849872de558449f091"
+file = "mods/rats-ratn-edition.pw.toml"
+hash = "fc7949cacd463323621882f6b2a517ee28a23d909e43752e04c345800a2ae670"
 metafile = true
 
 [[files]]

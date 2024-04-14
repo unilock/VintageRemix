@@ -1,0 +1,13 @@
+name = "Quark: RotN Edition"
+filename = "QuarkRotN-r1.6-188.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4746f8bdaf0a2c9ff43292f98cb54c80e2f80b32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4641362
+project-id = 417392
