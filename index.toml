@@ -19051,7 +19051,7 @@ metafile = true
 
 [[files]]
 file = "mods/sledgehammer.pw.toml"
-hash = "b0f16bdc0ba61683404de9d3b68df051a9cf39e7e35fdef9d1a495025792b543"
+hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
 
 [[files]]
@@ -19531,12 +19531,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5acefd06cc7a92aaa4a5df9bd368a852d49ed5f0ec3b85c01a27da55bae14275"
+hash = "fb3dcfcafd35a07d5e95b11e355a77a780400fc777b721311d1c93ad736f0182"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ee981d4a868df1b26b42fd295d0542c9d3a5845973733af38f0df176d187c0d1"
+hash = "e565564dd8de9ffd2f57b9f1f9abb3fd253c9da004bacfbda517bdb811f6a4a0"
 metafile = true
 
 [[files]]
