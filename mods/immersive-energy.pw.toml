@@ -1,0 +1,13 @@
+name = "Immersive Energy"
+filename = "Immersive Energy-1.12.2-0.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29ecb1f941e3147ab6094efdeedd7b31fe5b06eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3256506
+project-id = 335317
