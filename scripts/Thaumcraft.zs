@@ -30,7 +30,7 @@ Crucible.registerRecipe("mce_ambient_grass_block", "", <thaumcraft:grass_ambient
 
 // Material Names with Clusters, and related Fluid, for certain handlers.
 val clusterOreNames = {
-	"Aluminium" : <fluid:aluminum>,
+	"Aluminum" : <fluid:aluminum>,
 	"AncientDebris" : <fluid:ancient_debris>,
 	"Ardite" : <fluid:ardite>,
 #	"AstralStarmetal" : <fluid:astral_starmetal>,
@@ -140,16 +140,16 @@ for dictName,fluid in clusterOreNames {
 	mods.nuclearcraft.melter.addRecipe([oreDict.get(cluster), fluid * 504]);
 	
 	// Mekanism Processing
-	mods.mekanism.enrichment.addRecipe(oreDict.get(cluster), oreDict.get(dust).firstItem * 3);
-	mods.mekanism.purification.addRecipe(oreDict.get(cluster), <gas:oxygen>, oreDict.get("clump"+dictName).firstItem * 4);
-	mods.mekanism.chemical.injection.addRecipe(oreDict.get(cluster), <gas:hydrogenchloride>, oreDict.get("shard"+dictName).firstItem * 5);
-	if(baseMekSlurries has dictName){
-		print(baseMekSlurries[dictName].NAME);
-		mods.mekanism.chemical.dissolution.addRecipe(oreDict.get(cluster), baseMekSlurries[dictName] * 1400);
-	} else {
-		print("slurry"+dictName);
-		mods.mekanism.chemical.dissolution.addRecipe(oreDict.get(cluster), MekanismHelper.getGas("slurry"+dictName) * 1400);
-	}
+#	mods.mekanism.enrichment.addRecipe(oreDict.get(cluster), oreDict.get(dust).firstItem * 3);
+#	mods.mekanism.purification.addRecipe(oreDict.get(cluster), <gas:oxygen>, oreDict.get("clump"+dictName).firstItem * 4);
+#	mods.mekanism.chemical.injection.addRecipe(oreDict.get(cluster), <gas:hydrogenchloride>, oreDict.get("shard"+dictName).firstItem * 5);
+#	if(baseMekSlurries has dictName){
+#		print(baseMekSlurries[dictName].NAME);
+#		mods.mekanism.chemical.dissolution.addRecipe(oreDict.get(cluster), baseMekSlurries[dictName] * 1400);
+#	} else {
+#		print("slurry"+dictName);
+#		mods.mekanism.chemical.dissolution.addRecipe(oreDict.get(cluster), MekanismHelper.getGas("slurry"+dictName) * 1400);
+#	}
 	
 }
 

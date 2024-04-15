@@ -676,7 +676,7 @@ recipes.addShaped("mce_herb_bundle", <rats:herb_bundle>, [
 
 
 //Remove Mossy Stone Brick Chiseling
-Carving.removeVariation("stonebrick", <minecraft:stonebrick:1>);
+#Carving.removeVariation("stonebrick", <minecraft:stonebrick:1>);
 
 
 //Allow using Extra Storage Drawers for all the things
