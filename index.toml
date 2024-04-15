@@ -2346,7 +2346,7 @@ hash = "9295a2196c149e1a022b7d87a813fae6db4636a8243de711765f72bcf68e7326"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "ba57875f65caa9580faa6ccb30a96aefa4f7ddb3e7dc16bcf9e43114208bd168"
+hash = "70ee701ec3ae8dad19c08a068a0e4396333ea1c4ecfdae73501360e1acb5a503"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -2522,7 +2522,7 @@ hash = "b99328d799049514aaf8000ca3e6fc4581839e90fb540de6ab381a05f585597b"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "e88464dc86c1b37f2064e44853dfffc85e30b35d6d86577e7e892ebb354e8e74"
+hash = "b5085b117e0e935598816230fefc9bb195e80909512a1ba1f5e576429143ab95"
 
 [[files]]
 file = "config/dungeonsmod-final.cfg"
@@ -15197,12 +15197,8 @@ file = "config/grue.cfg"
 hash = "8c6b417648aea3f6a6a838dbf0a3664bcd598ec2d7de06aa4d275b440b3cc6b4"
 
 [[files]]
-file = "config/hardcoredarkness.cfg"
-hash = "890fd7b7e8bf79de1bbc3a0ab64e0aecba4b95b4f8f153f80b82bb43c1ce2953"
-
-[[files]]
 file = "config/harvestcraft.cfg"
-hash = "37f28faa90f07790f1e0816f87d303e32a7cb9f48dbb33bbf770392d0877502f"
+hash = "304af74dd00d520c7670e7f2302d391a4ab48e0627178692e2d52af0907a1e9f"
 
 [[files]]
 file = "config/hats.cfg"
@@ -18055,11 +18051,6 @@ hash = "8f3d504806f0414b9e38921e1a7b8f6fbdcda3c4ba3ece4eb1c53ecb57ea5fdd"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-darkness.pw.toml"
-hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
-metafile = true
-
-[[files]]
 file = "mods/hat-stand.pw.toml"
 hash = "d4313dd83e1e1f85596c9d8218398133ebfd95e5995ea1e36149024a78da246d"
 metafile = true
@@ -18120,8 +18111,18 @@ hash = "cd34b6d93fe3cd7e1195ffc74047473a8cf5d15d31e2ad39065016028701d989"
 metafile = true
 
 [[files]]
+file = "mods/immersive-energy.pw.toml"
+hash = "f44329e59d0beaae9b0e5ac39bfc78807e3b550bf84e18610084c2624d1355ab"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-intelligence.pw.toml"
+hash = "5ae1318d0a6fdc2aedd667907a656c0ff7e836ac74f56a5bb4533231de8bfc92"
 metafile = true
 
 [[files]]
@@ -18397,6 +18398,11 @@ metafile = true
 [[files]]
 file = "mods/login-shield.pw.toml"
 hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
+metafile = true
+
+[[files]]
+file = "mods/logistics-bridge-dmnedition.pw.toml"
+hash = "d059259c70d1895d32e17a4cfe867d9f436480cdadb41e0cc8f3233855fd2cd0"
 metafile = true
 
 [[files]]
@@ -18872,11 +18878,6 @@ metafile = true
 [[files]]
 file = "mods/quark-rotn-edition.pw.toml"
 hash = "fd03f6ca68a8698cd20a80e4bd34140a954db90bccafaa6364706422b9ceb3cd"
-metafile = true
-
-[[files]]
-file = "mods/railcraft.pw.toml"
-hash = "0edb73f5cabf289514e4de0deca57f031e74ec87c0291ea33e0e75190037959d"
 metafile = true
 
 [[files]]
@@ -19909,7 +19910,7 @@ hash = "24f0d030ece3b3cd60ca52054a5482d3d9777e7f0b72effdf35332c85c8fe72a"
 
 [[files]]
 file = "scripts/MiscCrafting.zs"
-hash = "409b144ea7a25e9d51c329e99a77e18614282d864f37b09c813a65731d15af84"
+hash = "ebe2258e683d818ed27b4aa75be35bbd4982bb1d9b3f02dcf4087c0e024130d9"
 
 [[files]]
 file = "scripts/MobGrindingUtils.zs"
@@ -19965,7 +19966,7 @@ hash = "9343f38d72dd3bd599008785ed0c4d7aed5f461b12c26d09086b3307f1e41806"
 
 [[files]]
 file = "scripts/Thaumcraft.zs"
-hash = "3deb30fd74c2d8055a34c8e5f6c5a300e3b3f652aadc2c9169281713d761a2ce"
+hash = "caaae45ba6a4a22d7b908746d7526ada559410d9888e4a6c638cb679634e5766"
 
 [[files]]
 file = "scripts/Timber.zs"
