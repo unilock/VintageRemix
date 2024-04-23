@@ -17736,6 +17736,11 @@ hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
 metafile = true
 
 [[files]]
+file = "mods/dazzle.pw.toml"
+hash = "2cc05ae6ec1817985e3eb8833e3c2059b4c408f427bad21869fbdd68d1a93d9f"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true

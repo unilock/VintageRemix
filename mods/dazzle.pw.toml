@@ -1,0 +1,13 @@
+name = "Dazzle"
+filename = "dazzle-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfb322decc87c4a778c49b6006b1a6bcc2d9ee3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2590224
+project-id = 286565
