@@ -1,6 +1,7 @@
 name = "ICBM - Classic"
 filename = "ICBM-classic-1.12.2-5.4.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

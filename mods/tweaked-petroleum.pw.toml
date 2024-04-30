@@ -1,13 +1,13 @@
 name = "Tweaked Petroleum"
-filename = "tweakedpetroleum-1.3.0.jar"
+filename = "tweakedpetroleum-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9cdf3e45cd9a3e180837f3348cf4db838e66d994"
+hash = "34a68c779872e3e54f0700e7261d8f9534ccdd42"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4033447
+file-id = 5275346
 project-id = 653506

@@ -17162,7 +17162,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
-hash = "b0b5e35bcf38b40fc07be3bec172d0f9a450c8e7818494869486d7f67988ee16"
+hash = "85174ee8cbf937025221158be50260e9201037766e14122ed4fe3d91e2f90182"
 metafile = true
 
 [[files]]
@@ -17482,7 +17482,7 @@ metafile = true
 
 [[files]]
 file = "mods/charset-crafting.pw.toml"
-hash = "59b8f29a9b7fc4d14486f0b099ddb99b14d91833a74cd6c7c0be6e6f0f401abe"
+hash = "4267f12c399e459be0828b1b63ad0997004bf62caaa5962c1a3b676e8112ae1c"
 metafile = true
 
 [[files]]
@@ -18077,7 +18077,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "b89a1b3b597d21715570401059a7c890a283ecbfd1fd111d710db8595a3c93e3"
+hash = "3ea5cfa289112a92a682b0a6cc2342541e84a6d18e4c046a8bba6433ff4ebcb1"
 metafile = true
 
 [[files]]
@@ -18127,7 +18127,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "5ae1318d0a6fdc2aedd667907a656c0ff7e836ac74f56a5bb4533231de8bfc92"
+hash = "e4cd45f5b399737e78015c65fbbfe93559de9e3233e67e67bea002f3ea6cf010"
 metafile = true
 
 [[files]]
@@ -18747,7 +18747,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
+hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
 metafile = true
 
 [[files]]
@@ -18952,12 +18952,12 @@ metafile = true
 
 [[files]]
 file = "mods/reforbidden-magic.pw.toml"
-hash = "8ad04ef95d165dc693c621f6a802962596b504afc47fd6277d2d18481289e25e"
+hash = "8a0093b98904066367865192b3593adf59a2fdf9da63464a4b9d4ce6b433f261"
 metafile = true
 
 [[files]]
 file = "mods/reid.pw.toml"
-hash = "427121c248d579d100db1e3fa60ea5d2dc567ffb18a9c7209d1f2b9706a49fac"
+hash = "ed1fc11db64705e3c1f3e370e59b487c48c2ecdcf4e3ee6727bfa5f7b309676c"
 metafile = true
 
 [[files]]
@@ -19077,7 +19077,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-bundle.pw.toml"
-hash = "7c21984dee435ba1a1cabf8a87222f762bd50a331fc5369ddcf1660b187f2a84"
+hash = "7d8d491ccad6bec1f289626cc51ea1ae065db65a72d08000fea58c441e56ab7e"
 metafile = true
 
 [[files]]
@@ -19372,22 +19372,22 @@ metafile = true
 
 [[files]]
 file = "mods/tweaked-excavation.pw.toml"
-hash = "ee70945ac498e397f86d433d405749a56e84fea33a151c457e4aed7ed0bb529b"
+hash = "b5aa2d5ab9581f62949e9873ada77228326d9afd29908154b61445f270b77293"
 metafile = true
 
 [[files]]
 file = "mods/tweaked-lib.pw.toml"
-hash = "bbbf1d6e9df41e78c1e3d73037fb367c2c766efc067f8fd4a74319ea6b20f74c"
+hash = "cd523c6345a988662493ffcee25e6605d193a622bd9f6840d25cffe10830a92e"
 metafile = true
 
 [[files]]
 file = "mods/tweaked-petroleum-gas-addon.pw.toml"
-hash = "154195281e502242e757484ca1a0dc6ba8bb868fa8c76e66f88f9ed8238473d4"
+hash = "3f2021f3e9a087bc2747a8069a49a74c054d0ffd5ca039a6c29554fbc71de069"
 metafile = true
 
 [[files]]
 file = "mods/tweaked-petroleum.pw.toml"
-hash = "355abdd2ca74610746da2a608880b2d91920b4fd31a59c2cffdee909cc9c5a14"
+hash = "67ef4411241e8c17d8553d75053dc2c85a3a8d806e63d1555d2d388f92e3a407"
 metafile = true
 
 [[files]]
@@ -19447,7 +19447,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-names.pw.toml"
-hash = "a519987ad1e706114aa38fcd58d95dd2ce8b08d887bbf21f39ec2e3fc062cbcb"
+hash = "86a0d86370be3e77b3a21242492a1c79991e38fda0da741a9e93f49f0222a203"
 metafile = true
 
 [[files]]

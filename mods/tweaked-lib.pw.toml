@@ -1,13 +1,13 @@
 name = "Tweaked Lib"
-filename = "tweakedlib-1.0.1.jar"
+filename = "tweakedlib-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "61e72f565247614aa76a5a331edb63cea6f8f114"
+hash = "dc184676754d1c44e8651f0460791ea45687ad8e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4036750
+file-id = 5275361
 project-id = 687632
