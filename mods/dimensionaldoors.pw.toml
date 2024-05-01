@@ -1,13 +1,13 @@
 name = "DimensionalDoors"
-filename = "DimensionalDoors-1.12.2-3.0.12.jar"
+filename = "Dimensional_Doors-3.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2f2ffb296f080188dc2fa2bad4c7dfaff40f3914"
+hash = "257e9d683e8c20bdba6dfd5c7dcfa1e5ffdb71a2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3926161
+file-id = 5305460
 project-id = 284876
