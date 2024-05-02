@@ -18135,11 +18135,6 @@ hash = "90d7b806772f047c18a0d65d4ac4299c181ae08f3355cba6bdd6ef61e9215ef6"
 metafile = true
 
 [[files]]
-file = "mods/ic2xuumatter.pw.toml"
-hash = "671960a0395bd09183563d8be141dd868cc8a4d26904b9f44f9ce07e7ca47334"
-metafile = true
-
-[[files]]
 file = "mods/icbm-classic-cc-addon.pw.toml"
 hash = "1a0eceeffef6a04cb47397354f52ea9cf6f576dc81f336863337b9f343d43e43"
 metafile = true
