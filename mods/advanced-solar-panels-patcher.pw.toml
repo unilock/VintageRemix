@@ -1,0 +1,13 @@
+name = "Advanced Solar Panels Patcher"
+filename = "AdvSolarPatch-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecb07dc103c4d0fae4b289d20c42fe2056c13f6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3401706
+project-id = 400399

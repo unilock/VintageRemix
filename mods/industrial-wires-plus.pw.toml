@@ -1,0 +1,13 @@
+name = "Industrial Wires Plus"
+filename = "IndustrialWires-2.0-02.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdb4cd5065158ce91cce09ea88a5790021579f08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4329964
+project-id = 619614

@@ -1,0 +1,13 @@
+name = "Advanced Solar Panels"
+filename = "Advanced Solar Panels-4.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6688309faf8dc5b6c95111241c4c61e22adc426d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2652182
+project-id = 252714

@@ -1,0 +1,13 @@
+name = "Advanced Machines"
+filename = "Advanced Machines-61.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7fb59a865bcebac8f1a0ae45bf58119e00793af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2667002
+project-id = 251205

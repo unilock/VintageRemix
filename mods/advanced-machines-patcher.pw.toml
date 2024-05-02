@@ -1,0 +1,13 @@
+name = "Advanced Machines Patcher"
+filename = "AdvMachinesPatch-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d867783fb93db01a65316a9799d2646c1fa1898"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397346
+project-id = 402630

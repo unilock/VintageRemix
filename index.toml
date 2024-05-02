@@ -17145,6 +17145,16 @@ hash = "8c1e8d31d2eaa1652818ba73f210863f699b8268795ebf239b431b9895b70058"
 metafile = true
 
 [[files]]
+file = "mods/advanced-machines-patcher.pw.toml"
+hash = "85f053c83dc9c6b2ec787bbf9840331886853efa27306e4ab79dd63177a0e160"
+metafile = true
+
+[[files]]
+file = "mods/advanced-machines.pw.toml"
+hash = "3606d6de09f7c5b7beb9f94cbde59c622fc05b6515513a9dea4bde31474d27b8"
+metafile = true
+
+[[files]]
 file = "mods/advanced-rocketry.pw.toml"
 hash = "0405f10a8084e6804a1397f244ef6dd21873a46f3ee5d8a3d575facd51d29265"
 metafile = true
@@ -17152,6 +17162,16 @@ metafile = true
 [[files]]
 file = "mods/advanced-smelter.pw.toml"
 hash = "dcf3de720eb77d1313f67e0c0974b9dc3ffc2db9ab572eaa97e802a70a74b7e1"
+metafile = true
+
+[[files]]
+file = "mods/advanced-solar-panels-patcher.pw.toml"
+hash = "c0888e5004842b7d5652169243669b4cc7787b9657320d7e1a333fb03bb180bf"
+metafile = true
+
+[[files]]
+file = "mods/advanced-solar-panels.pw.toml"
+hash = "45f9ac4e2f2ee3c58d8f019796d4c1248f8915255a92838857117902c7a558b6"
 metafile = true
 
 [[files]]
@@ -17620,6 +17640,11 @@ hash = "62fd06e68ef5a771bfbb490da497b19b5c8240a7ff94a2b2ec713a50e38bb58c"
 metafile = true
 
 [[files]]
+file = "mods/compact-solars.pw.toml"
+hash = "c91e9bd1f944d41f57506f289fb43d4cb9dbf7e53d1b51c746bad7a34b31498c"
+metafile = true
+
+[[files]]
 file = "mods/complexlogic.pw.toml"
 hash = "b0d7f13274f23c625c63cc8bf79a22b95909a472af8e6348ac97848b990fd636"
 metafile = true
@@ -17840,6 +17865,11 @@ hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
 
 [[files]]
+file = "mods/energy-control.pw.toml"
+hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
+metafile = true
+
+[[files]]
 file = "mods/energy-converters.pw.toml"
 hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
 metafile = true
@@ -18025,6 +18055,16 @@ hash = "46323f0d213c9254b88676838c07c13418874cc0fec8edb7f966b73c16efe746"
 metafile = true
 
 [[files]]
+file = "mods/gravitation-suite-patcher.pw.toml"
+hash = "6bec6a6bd69be95691d37ccdb58bfc242dc2433ac959c8868561d2268b6d3f9d"
+metafile = true
+
+[[files]]
+file = "mods/gravitation-suite.pw.toml"
+hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
+metafile = true
+
+[[files]]
 file = "mods/grue.pw.toml"
 hash = "62e07cc3a4e0360d395ac01973d63c3f5f143bd60f3e8deff949e4dbd1fa5022"
 metafile = true
@@ -18075,6 +18115,21 @@ hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
+file = "mods/ic2-nei-crop-plugin.pw.toml"
+hash = "db0acb023abcdb316495ac764415c90e85b279248bb66b3e6a311c49fbd5dc29"
+metafile = true
+
+[[files]]
+file = "mods/ic2-patcher.pw.toml"
+hash = "90d7b806772f047c18a0d65d4ac4299c181ae08f3355cba6bdd6ef61e9215ef6"
+metafile = true
+
+[[files]]
+file = "mods/ic2xuumatter.pw.toml"
+hash = "671960a0395bd09183563d8be141dd868cc8a4d26904b9f44f9ce07e7ca47334"
+metafile = true
+
+[[files]]
 file = "mods/icbm-classic.pw.toml"
 hash = "3ea5cfa289112a92a682b0a6cc2342541e84a6d18e4c046a8bba6433ff4ebcb1"
 metafile = true
@@ -18102,6 +18157,11 @@ metafile = true
 [[files]]
 file = "mods/illagers.pw.toml"
 hash = "526a7122d6cca8b7ec457fe9ffa9b2cde9f9b879cedc3d15b90acacc381bf597"
+metafile = true
+
+[[files]]
+file = "mods/im-crossover-ic2.pw.toml"
+hash = "3b1e82425a7a54c8ab47353710118980bf055f88c8979991a23a57d2fd7cae27"
 metafile = true
 
 [[files]]
@@ -18150,6 +18210,11 @@ hash = "c038882886b96730f18f5d0460d1c8609e2b728955e25d9a6399043e7b8ab5bf"
 metafile = true
 
 [[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing-oc-compat.pw.toml"
 hash = "aeb6983112bcb3cc30ea5cc1170919a9e746233eb60dcb49fbb192f30bf85e9a"
 metafile = true
@@ -18157,6 +18222,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
+file = "mods/industrial-wires-plus.pw.toml"
+hash = "2a5e052ec5d69a426af3151839c9c46db2fcde64beff460761d50850f8a8b423"
 metafile = true
 
 [[files]]
@@ -19302,6 +19372,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-jei.pw.toml"
 hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-oredict-cache.pw.toml"
+hash = "2a9e2617b44fef28ec594cf1e3edb446986c4ee93bac19306542db6bce097eee"
 metafile = true
 
 [[files]]

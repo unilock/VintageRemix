@@ -1,0 +1,13 @@
+name = "IC2 Crop-Breeding Plugin"
+filename = "IC2CropBreeding Plugin V1.12-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c43102e4193d5816a4aef867caf5d8d95bb32661"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2549406
+project-id = 236609

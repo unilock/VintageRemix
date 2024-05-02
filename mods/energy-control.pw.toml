@@ -1,0 +1,13 @@
+name = "Energy Control"
+filename = "EnergyControl-1.12.2-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84db153da4b5cd933137f3f172203eebf08f78de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5114551
+project-id = 373450
