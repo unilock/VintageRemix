@@ -17781,6 +17781,11 @@ hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "ce1d7594516b9a5b292614b79444df64f05045ce3ff422702253e13358fb8d1e"
+metafile = true
+
+[[files]]
 file = "mods/eerie-entities.pw.toml"
 hash = "7bcb26c132296ded42eb4bdb47a7c3d65701ffebe694852987c3927ced15f6dd"
 metafile = true
