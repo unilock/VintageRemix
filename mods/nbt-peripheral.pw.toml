@@ -1,0 +1,13 @@
+name = "NBT Peripheral"
+filename = "nbtperipheral-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3646661250"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2523685
+project-id = 284477

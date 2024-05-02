@@ -17490,6 +17490,11 @@ hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
+metafile = true
+
+[[files]]
 file = "mods/ceramics.pw.toml"
 hash = "b2d4e26cc4e83452f1b23639e2f4eac5a0bac782e9a2cc88b8ec6f8597635238"
 metafile = true
@@ -18135,6 +18140,11 @@ hash = "671960a0395bd09183563d8be141dd868cc8a4d26904b9f44f9ce07e7ca47334"
 metafile = true
 
 [[files]]
+file = "mods/icbm-classic-cc-addon.pw.toml"
+hash = "1a0eceeffef6a04cb47397354f52ea9cf6f576dc81f336863337b9f343d43e43"
+metafile = true
+
+[[files]]
 file = "mods/icbm-classic.pw.toml"
 hash = "3ea5cfa289112a92a682b0a6cc2342541e84a6d18e4c046a8bba6433ff4ebcb1"
 metafile = true
@@ -18740,6 +18750,11 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
+file = "mods/nbt-peripheral.pw.toml"
+hash = "225769e039a569a0d43b03989e1b1307181f26f3fc9fdee85a054ccf024f587a"
+metafile = true
+
+[[files]]
 file = "mods/netherending-ores.pw.toml"
 hash = "374cb9e8eba98506e4a079d7c49cf14cd6344caee549c64a88950ef902ed08f0"
 metafile = true
@@ -18907,6 +18922,11 @@ metafile = true
 [[files]]
 file = "mods/planar-artifice.pw.toml"
 hash = "6cb193bce095deb6ecb4fb41dece1e12dd36382c0301beca178966a859c0a1e6"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
 metafile = true
 
 [[files]]
