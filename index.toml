@@ -2498,11 +2498,15 @@ hash = "0e872fbad839dec1c545da6a49b80e6404c16867fdd2f0bba04aa76476c5cb2b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b3569f729e37d29375a580876efaf492b6a5f66e038327478325664d6ebc5edb"
+hash = "8f87f038d2265db13ac6468d9887f6aa61906cb5aeb5b8f9cf22971d69285b76"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "be37baf0b2c92fac4d76b924fd55a03833b376f3421ef7e34b3b52bb21603e0c"
+hash = "4d65c3bb366a586b8aa71f97c3cdbeb015c87179bb9e1697607054c64322afff"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "8c23a3e0757f9091f6a7d5a15e20487ec3b5546b8be1630e67fb45d6ee7260f6"
 
 [[files]]
 file = "config/dimdoors.cfg"
