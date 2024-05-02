@@ -17135,6 +17135,11 @@ hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
 metafile = true
 
 [[files]]
+file = "mods/actuallycomputers.pw.toml"
+hash = "e0f6880ea34457470c480dd35f8a5a6bd3e27de7fab6ec7ff5ec030a73bb47fc"
+metafile = true
+
+[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "aba65821765d7d5b96a0816c3831c9efa0aa97bde55246d196eb150d0afe26fe"
 metafile = true
@@ -18252,6 +18257,11 @@ metafile = true
 [[files]]
 file = "mods/instrumental-mobs.pw.toml"
 hash = "bc3df25dbcfd930158c60b9262bced5eca887add154fbbedf34c4c307adb4682"
+metafile = true
+
+[[files]]
+file = "mods/integrated-computers.pw.toml"
+hash = "76608ab13970ed3ef5ce4a7d97b5a01c48276394f1309c03f5ae7e608a4864a7"
 metafile = true
 
 [[files]]
