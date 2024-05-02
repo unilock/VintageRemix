@@ -2602,7 +2602,7 @@ hash = "d37ef5c88dabf5cee8ecfbb32b3618f3de3261978c0b798e10b32c969bd820d9"
 
 [[files]]
 file = "config/enderio/recipes/user/mce_spawner_modifications.xml"
-hash = "99443b06840eb5d4651d8ed74d6c6936875425ad4e41763bcbf9bb8936fbcc4b"
+hash = "77ed35b0435d8c3e9f5b00b1be55b841416767fe2fd3fff6fec74330fa2c0e0b"
 
 [[files]]
 file = "config/enderio/recipes/user/mce_tweaks.xml"
@@ -17651,11 +17651,6 @@ hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
 
 [[files]]
-file = "mods/cqrepoured.pw.toml"
-hash = "345b97281ca22a8609b34122efcf77b6ddd539729f251ef8b7a62d112a9e2539"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks-unofficial.pw.toml"
 hash = "e5fcda70b8ea1265a35520c4838fc975c5f8926d440c98e4237989f1aea36588"
 metafile = true
@@ -17803,11 +17798,6 @@ metafile = true
 [[files]]
 file = "mods/elenai-dodge-2.pw.toml"
 hash = "98657b9a908b15c4741a53506ff81f5d6f6e659c94e8a29049e7bc21d69c4a29"
-metafile = true
-
-[[files]]
-file = "mods/emberroot-zoo.pw.toml"
-hash = "7ef0af6e244d97e5afbe32a7bf83393cba98fb55a73eebc9791bb1cce2261dc1"
 metafile = true
 
 [[files]]
@@ -19915,7 +19905,7 @@ hash = "24f0d030ece3b3cd60ca52054a5482d3d9777e7f0b72effdf35332c85c8fe72a"
 
 [[files]]
 file = "scripts/MiscCrafting.zs"
-hash = "ebe2258e683d818ed27b4aa75be35bbd4982bb1d9b3f02dcf4087c0e024130d9"
+hash = "3cd0af0db3f1fca7b01651aa98166e43f56d0a474a7ca1befd633b70b235d77d"
 
 [[files]]
 file = "scripts/MobGrindingUtils.zs"

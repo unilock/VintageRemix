@@ -601,7 +601,7 @@ AnimalSpawner.addRecipe("mce_amphithere", "iceandfire:amphithere", 300000, 300, 
 AnimalSpawner.addRecipe("mce_pixie", "iceandfire:if_pixie", 45000, 80, [<naturesaura:birth_spirit>, <iceandfire:pixie_dust>]);
 
 //Hippogryph
-AnimalSpawner.addRecipe("mce_hippogryph", "iceandfire:hippogryph", 120000, 120, [<naturesaura:birth_spirit>, <cqrepoured:leather_bull>, <fossil:horse_dna>, <fossil:chicken_dna>]);
+AnimalSpawner.addRecipe("mce_hippogryph", "iceandfire:hippogryph", 120000, 120, [<naturesaura:birth_spirit>, <minecraft:leather>, <fossil:horse_dna>, <fossil:chicken_dna>]);
 //Alt using Egg
 AnimalSpawner.addRecipe("mce_hippogryph_from_egg", "iceandfire:hippogryph", 900000, 80, [<naturesaura:birth_spirit>, <iceandfire:hippogryph_egg:*>, <fossil:cooked_chicken_soup>]);
 

@@ -271,7 +271,7 @@
 		<entity name="battletowers:golem"						disabled="true" clone="false" soulvial="false"/>
 		<entity name="botania:pixie"							soulvial="false"/>
 		<entity name="beneath:shadow"							soulvial="false"/>
-		<entity name="cqrepoured:*"								soulvial="false"/>
+		<!--<entity name="cqrepoured:*"								soulvial="false"/>-->
 		<entity name="dungeontactics:attacken"					soulvial="false"/>
 		<entity name="dungeontactics:towerguardian"				soulvial="false"/>
 		<entity name="dungeonsmod:*"							soulvial="false"/>
