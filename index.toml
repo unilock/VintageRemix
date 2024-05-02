@@ -105,6 +105,10 @@ file = "config/Guide-API/Guide-API.cfg"
 hash = "b88c319459db7576ac63ac0813efa8116174dcb3ea41707b6547c2c6ee8dbdfe"
 
 [[files]]
+file = "config/IC2.ini"
+hash = "19e4900c3ea96a41fa35f2d0711d0469939bb964bc25ca6ec74f0c6667e882f4"
+
+[[files]]
 file = "config/LogisticsPipes.cfg"
 hash = "3607ddeb394d6d8f0d1a581f2e4d81a39aeedb9aa0d7dc9b1dda6cd37121708f"
 
@@ -2498,7 +2502,7 @@ hash = "0e872fbad839dec1c545da6a49b80e6404c16867fdd2f0bba04aa76476c5cb2b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8f87f038d2265db13ac6468d9887f6aa61906cb5aeb5b8f9cf22971d69285b76"
+hash = "28d2f0cdadc8f6beb7ddcfa2c9705dad8bd90cb9fad1057e8262564e0310ceb9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"

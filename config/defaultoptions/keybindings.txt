@@ -1,3 +1,4 @@
+key_ALT Key:56:NONE
 key_arcanearchives.gui.keybinds.manifest:0:NONE
 key_arcanearchives.gui.keybinds.socket:0:NONE
 key_bbw.key.fluidmode:0:NONE
@@ -6,6 +7,7 @@ key_binniecore.key.hold.for.help.tooltips:0:NONE
 key_bloodmagic.keybind.cycle_holding_neg:0:NONE
 key_bloodmagic.keybind.cycle_holding_pos:0:NONE
 key_bloodmagic.keybind.open_holding:0:NONE
+key_Boost Key:29:NONE
 key_Change Caster Focus:0:NONE
 key_Change Goggles Lens:0:NONE
 key_cos.key.opencosarmorinventory:0:NONE
@@ -32,6 +34,7 @@ key_enderio.keybind.stepassist:0:NONE
 key_enderio.keybind.tnt:0:NONE
 key_enderio.keybind.top:0:NONE
 key_enderio.keybind.yetawrenchmode:0:NONE
+key_Gravi Fly Key:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
 key_gui.xaero_display_all_sets:0:NONE
 key_gui.xaero_enlarge_map:47:NONE
@@ -58,6 +61,7 @@ key_gui.xaero_toggle_waypoints:0:NONE
 key_gui.xaero_waypoints_key:36:NONE
 key_gui.xaero_zoom_in:13:NONE
 key_gui.xaero_zoom_out:12:NONE
+key_Hub Expand Key:0:NONE
 key_jecalculation.key.gui_craft:0:NONE
 key_jecalculation.key.gui_math:0:NONE
 key_Jet Pack Hover:0:NONE
@@ -333,6 +337,7 @@ key_mod.chiselsandbits.positivepatternmode.replace:0:NONE
 key_mod.chiselsandbits.tapemeasure.bit:0:NONE
 key_mod.chiselsandbits.tapemeasure.block:0:NONE
 key_mod.chiselsandbits.tapemeasure.distance:0:NONE
+key_Mode Switch Key:0:NONE
 key_module.powersuits.advancedCoolingSystem.name:0:NONE
 key_module.powersuits.aurameter.name:0:NONE
 key_module.powersuits.autoFeeder.name:0:NONE
@@ -424,6 +429,7 @@ key_rpsideas.kb.switchslot09:0:NONE
 key_rpsideas.kb.switchslot10:0:NONE
 key_rpsideas.kb.switchslot11:0:NONE
 key_rpsideas.kb.switchslot12:0:NONE
+key_Side Inventory Key:0:NONE
 key_Toggle Jetpack:0:NONE
 key_Toggle Numina FOV fix :0:NONE
 key_Toggle RCS:0:NONE
@@ -432,6 +438,7 @@ key_treechop.key.cycle_sneak_behavior:0:NONE
 key_treechop.key.open_settings_overlay:0:NONE
 key_treechop.key.toggle_chopping:0:NONE
 key_treechop.key.toggle_felling:0:NONE
+key_Unequip:0:NONE
 key_waila.keybind.liquid:25:NONE
 key_waila.keybind.recipe:0:NONE
 key_waila.keybind.usage:0:NONE
