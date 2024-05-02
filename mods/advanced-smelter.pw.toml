@@ -1,0 +1,13 @@
+name = "Advanced Alchemical Furnace"
+filename = "AdvancedAlchemyFurnace-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f93f897d047db404ca5e7df33543b1d9914409b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5053524
+project-id = 960604

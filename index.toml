@@ -17150,6 +17150,11 @@ hash = "0405f10a8084e6804a1397f244ef6dd21873a46f3ee5d8a3d575facd51d29265"
 metafile = true
 
 [[files]]
+file = "mods/advanced-smelter.pw.toml"
+hash = "dcf3de720eb77d1313f67e0c0974b9dc3ffc2db9ab572eaa97e802a70a74b7e1"
+metafile = true
+
+[[files]]
 file = "mods/advancement-locator.pw.toml"
 hash = "b41571d9a66238aa09a65296a01e66b00a378d0bb223bf039d4b2c05188c7830"
 metafile = true
@@ -18077,11 +18082,6 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "c02a635932d30d1b3f07073d472e3127ee771675781cc05f6e66a696b1372526"
-metafile = true
-
-[[files]]
-file = "mods/ichorium-kit.pw.toml"
-hash = "6078f4c064f1f702c5ee95b01b27b96f3464108a486f9fa61ab1847ff7a63e01"
 metafile = true
 
 [[files]]
@@ -19190,8 +19190,8 @@ hash = "5744ee9ec63466932784a1dc4b519864222545d6793f1dcf53b0c36940f940c0"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-tinkerer.pw.toml"
-hash = "507c09a75c132f23d98702e2ff26f16bff2f4a550d26a448628a43b2a96e0540"
+file = "mods/thaumic-tinkerer-unofficial.pw.toml"
+hash = "946010b0dcd60e82861b6aa9f468f831694891373ed3c4d877834a842a9d8876"
 metafile = true
 
 [[files]]
