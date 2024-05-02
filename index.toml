@@ -18970,6 +18970,11 @@ hash = "84305c9ab2f078c5cf25e54bc3bc657b6809ce58c6224350e2700788bfd7f7dd"
 metafile = true
 
 [[files]]
+file = "mods/quacklib.pw.toml"
+hash = "fab710d039d8c89c7bcd3d80f33417cdf943e2f4bc062820ec53561d9460f01e"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "9ab2d2f7a009920ff0c75575d0e3f2cdd1aa765c70ff37e9bf5efabde7aed918"
 metafile = true
@@ -19067,6 +19072,11 @@ metafile = true
 [[files]]
 file = "mods/resource-loader.pw.toml"
 hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
+metafile = true
+
+[[files]]
+file = "mods/retrocomputers.pw.toml"
+hash = "3431ca6c2956b9b31611fa06bee30fc5466598f4264dd0852ffb090df27be240"
 metafile = true
 
 [[files]]
