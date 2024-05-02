@@ -17986,11 +17986,6 @@ hash = "5e798c1743eecd27f761f0f5eb3e1e354b7f0ba9dea1e21411f01d89d67a52a9"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "4e87ea91ac584b6c91dbac23bd05db9be1a848e47dda3524224bb189f4fe5b10"
-metafile = true
-
-[[files]]
 file = "mods/gendustry-jei-addon.pw.toml"
 hash = "dd569950e77eda1d3c8aacc35bfe2b8ee2ead698221b1969b158852ec6576611"
 metafile = true
