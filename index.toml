@@ -17989,6 +17989,11 @@ hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "ab563fdd0f4603553505176a031322594ecf73bd43648e22f81d434f823d5008"
+metafile = true
+
+[[files]]
 file = "mods/forked-proxy.pw.toml"
 hash = "2050758a28cd434613de1f2010edcbd24971fb4b2ba8388f1b65a21957990c10"
 metafile = true
@@ -19054,6 +19059,11 @@ hash = "8a0093b98904066367865192b3593adf59a2fdf9da63464a4b9d4ce6b433f261"
 metafile = true
 
 [[files]]
+file = "mods/refraction-continuation.pw.toml"
+hash = "31b6133aafee1e7d53bd2f267ef7b32c67aed52a2c7ab8ccce3c7856e326cf8b"
+metafile = true
+
+[[files]]
 file = "mods/reid.pw.toml"
 hash = "ed1fc11db64705e3c1f3e370e59b487c48c2ecdcf4e3ee6727bfa5f7b309676c"
 metafile = true
@@ -19124,8 +19134,8 @@ hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
-file = "mods/shadowfacts-forgelin.pw.toml"
-hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+file = "mods/shotguns-glitter.pw.toml"
+hash = "c7625ab7fbd70a090afb4c5c67ad061cff9361b8dae8fa33809b62455d724535"
 metafile = true
 
 [[files]]
@@ -19616,6 +19626,11 @@ metafile = true
 [[files]]
 file = "mods/wizardry-golems.pw.toml"
 hash = "dcac75b2d69b01b070297a2dc09405e96bab9917de4b6a105de135b428e43507"
+metafile = true
+
+[[files]]
+file = "mods/wizardry-mod.pw.toml"
+hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
 metafile = true
 
 [[files]]
