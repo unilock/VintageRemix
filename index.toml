@@ -17989,11 +17989,6 @@ hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
-file = "mods/forgelin-continuous.pw.toml"
-hash = "ab563fdd0f4603553505176a031322594ecf73bd43648e22f81d434f823d5008"
-metafile = true
-
-[[files]]
 file = "mods/forked-proxy.pw.toml"
 hash = "2050758a28cd434613de1f2010edcbd24971fb4b2ba8388f1b65a21957990c10"
 metafile = true
@@ -19131,6 +19126,11 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
