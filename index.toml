@@ -19138,11 +19138,6 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/shotguns-glitter.pw.toml"
-hash = "c7625ab7fbd70a090afb4c5c67ad061cff9361b8dae8fa33809b62455d724535"
-metafile = true
-
-[[files]]
 file = "mods/signpost.pw.toml"
 hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
 metafile = true
