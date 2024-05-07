@@ -17077,6 +17077,10 @@ file = "config/wings/ores.cfg"
 hash = "8780a6c2908a6c23b5bec581ee2478d48137a391fbfa1d7cdbbe2f9615e28eb4"
 
 [[files]]
+file = "config/wizardry.cfg"
+hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "ae1f81ecec8f0403107019f22b57204864d140080919fa52d38699408fad1c7b"
 
