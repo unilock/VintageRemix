@@ -18758,6 +18758,11 @@ hash = "225769e039a569a0d43b03989e1b1307181f26f3fc9fdee85a054ccf024f587a"
 metafile = true
 
 [[files]]
+file = "mods/nether-api.pw.toml"
+hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
+metafile = true
+
+[[files]]
 file = "mods/netherending-ores.pw.toml"
 hash = "374cb9e8eba98506e4a079d7c49cf14cd6344caee549c64a88950ef902ed08f0"
 metafile = true
