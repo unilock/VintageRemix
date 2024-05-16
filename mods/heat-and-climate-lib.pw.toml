@@ -1,0 +1,8 @@
+name = "Heat And Climate Lib"
+filename = "HeatAndClimateLib_1.12.2-3.9.3.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/HeatAndClimateLib_1.12.2-3.9.3.jar"
+hash-format = "sha256"
+hash = "cab3d3ea8827f5139e16eb92ed63cb3fff18b796e86d623fe2f49de740051597"

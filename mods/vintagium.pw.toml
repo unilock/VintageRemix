@@ -3,6 +3,6 @@ filename = "vintagium-mc1.12.2-0.1.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/mc-eternal/manual-jars/client/vintagium-mc1.12.2-0.1.jar"
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/client/vintagium-mc1.12.2-0.1.jar"
 hash-format = "sha256"
 hash = "ff940d6ab68883de774c346b0a5ec3004eec21008658065d2981447b9559d186"

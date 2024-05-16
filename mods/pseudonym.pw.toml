@@ -1,0 +1,8 @@
+name = "Pseudonym"
+filename = "Psuedonym-1.1.jar"
+side = "both"
+
+[download]
+url = "https://carbide-sun.github.io/dl/Psuedonym-1.1.jar"
+hash-format = "sha256"
+hash = "ec55ab5026823da50b80ec69b60f9bbb8d8f2df6f9dade875d32538199f92674"

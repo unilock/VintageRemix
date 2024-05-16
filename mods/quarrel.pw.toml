@@ -1,0 +1,8 @@
+name = "Quarrel"
+filename = "Quarrel-1.67.0.jar"
+side = "both"
+
+[download]
+url = "https://carbide-sun.github.io/dl/Quarrel-1.67.0.jar"
+hash-format = "sha256"
+hash = "c53d38355ad4f7162202a638bace97ccc3ce4446cbd3bed23be65d79046ace37"

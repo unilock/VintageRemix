@@ -3,6 +3,6 @@ filename = "tmel-1.12.2-1.4.0.0.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/mc-eternal/manual-jars/both/tmel-1.12.2-1.4.0.0.jar"
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/tmel-1.12.2-1.4.0.0.jar"
 hash-format = "sha256"
 hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
