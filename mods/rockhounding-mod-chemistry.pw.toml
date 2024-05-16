@@ -1,0 +1,13 @@
+name = "Rockhounding Mod: Chemistry"
+filename = "rockhounding_chemistry-1.12.2-3.69-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f2891cbabf049be05777123aee4ae761e1a5def"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5317870
+project-id = 251974

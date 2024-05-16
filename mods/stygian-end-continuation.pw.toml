@@ -1,0 +1,13 @@
+name = "Stygian End Continuation"
+filename = "stygian-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae14229c2c8072f5b97338f0413e99a4cf27cd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4663814
+project-id = 878053

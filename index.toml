@@ -245,6 +245,11 @@ hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-continuation.pw.toml"
+hash = "e8de35ecf175677fce952575069df4c9afc25e4b5c319519fd2f6ac9dfa4fac6"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "c2f90549e1a2a88f9cfe58f1f5255d2bd5c616e53464a6953ab1e237c27b85e7"
 metafile = true
@@ -910,6 +915,11 @@ hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
 metafile = true
 
 [[files]]
+file = "mods/groovyscript.pw.toml"
+hash = "11f39ee530f6838395e2f392865613a69061b3fd53a8e9371c77ab64cf93418c"
+metafile = true
+
+[[files]]
 file = "mods/guard-illagers.pw.toml"
 hash = "b9384fcd0a87335bc227743519fcf81ae02262cda58c980d365b8837f5f411dd"
 metafile = true
@@ -917,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
+metafile = true
+
+[[files]]
+file = "mods/guidebook.pw.toml"
+hash = "cbf31d2569600a13c719bc820b7d9f8ed4e15b14ef680371eadb7c61936d17f7"
 metafile = true
 
 [[files]]
@@ -942,6 +957,16 @@ metafile = true
 [[files]]
 file = "mods/hats.pw.toml"
 hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
+metafile = true
+
+[[files]]
+file = "mods/heat-and-climate.pw.toml"
+hash = "8a46536ea8ad1b82bd68a8734f554ca7d686404d4a1b4f3affa527798ed43e65"
+metafile = true
+
+[[files]]
+file = "mods/heat-and-processing.pw.toml"
+hash = "6d94359d922afea59f8d6f8711e3e54b884723d0cc8902105ca17bd49b9058b7"
 metafile = true
 
 [[files]]
@@ -1062,6 +1087,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
+file = "mods/industrial-renewal.pw.toml"
+hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
 metafile = true
 
 [[files]]
@@ -1570,6 +1600,16 @@ hash = "4d6580e369384d2786bf9ade5a78cbc03682765b93306fd6f6e9e93d24900b70"
 metafile = true
 
 [[files]]
+file = "mods/novam-terram-continuation.pw.toml"
+hash = "f0865dfa56da69b4d21045d840399f931a84a7001664e9987f435d31a53aae04"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "ded10b96e060e045d4d2aab1584259b58a0ad6d83695428b4d52d8c0e2c164b8"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-reactor-builder.pw.toml"
 hash = "1254c1856db119b60c57986c5b365980cfb34e7fe27ca55dbab6e5cb55a31bf0"
 metafile = true
@@ -1860,6 +1900,26 @@ hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
 metafile = true
 
 [[files]]
+file = "mods/rockhounding-mod-chemistry.pw.toml"
+hash = "f9ff39024515bdb2be1441021ff4717fc4de259400f6e6144edc5b20747ac26f"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-core.pw.toml"
+hash = "13cb97fa7897a5d400c62b964fd4a37c14d3ad66b134e75bd885df4dadb45728"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-rocks.pw.toml"
+hash = "10914475c39caa9f56a2c499fbcc4742793a38d884a10a53f94f76950c03d2f0"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-surface.pw.toml"
+hash = "5c6a3b1c09d6baff006e2f95959aeb6b9b426931650ec3befe6428c1f5f1cea5"
+metafile = true
+
+[[files]]
 file = "mods/roots.pw.toml"
 hash = "6b56810779d29cdb1d0fff42375de45900f888f9c1342bc2cf930d5975521b89"
 metafile = true
@@ -1925,6 +1985,11 @@ hash = "4d1db37943caa4c5e55a964a7a2316305a3cc1d5a399984ca3fc163614205f4d"
 metafile = true
 
 [[files]]
+file = "mods/skytheorylib.pw.toml"
+hash = "4ca21292daa9b23cdd135f990b2796a9688d459f5823fab2bcb3167d42222a8a"
+metafile = true
+
+[[files]]
 file = "mods/sledgehammer.pw.toml"
 hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
@@ -1977,6 +2042,11 @@ metafile = true
 [[files]]
 file = "mods/stupid-things.pw.toml"
 hash = "cada42b0f38b807f2f7a18073bd72568018c6e3b704d9867887737613ed47de1"
+metafile = true
+
+[[files]]
+file = "mods/stygian-end-continuation.pw.toml"
+hash = "e41adddafaeafff2ac11eca286b7953f25c2135f0c9f6488d2c438c742273bac"
 metafile = true
 
 [[files]]
@@ -2457,4 +2527,9 @@ metafile = true
 [[files]]
 file = "mods/zettai-psi.pw.toml"
 hash = "b9775ae2061b7cac36493871c05a5bd761e1afbd541fc3a995193f44be632f6a"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "af50f085baef63f9b2e50341e2a0c38cfc5f1a6e10d51c719ec123334672a7a0"
 metafile = true

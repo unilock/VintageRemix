@@ -1,0 +1,13 @@
+name = "Rockhounding Mod: Surface"
+filename = "rockhounding_surface-1.12.2-3.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92fbdef75b2e0a0d160b103cd2717ceb4151bfd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4790063
+project-id = 256072

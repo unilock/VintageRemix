@@ -1,0 +1,13 @@
+name = "NuclearCraft: Overhauled"
+filename = "nuclearcraft-1.12.2-2o.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5ea8b82ca407adaf4c9f6749889deed844bed01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5344039
+project-id = 336895
