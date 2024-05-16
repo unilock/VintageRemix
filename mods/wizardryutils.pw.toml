@@ -1,13 +1,13 @@
 name = "WizardryUtils"
-filename = "WizardryUtils-1.12.2-1.2.2.jar"
+filename = "WizardryUtils-1.12.2-1.2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77ef3df1651621c266df26cfb740a95e030910fd"
+hash = "c30cb055d0a1753d9e0dcb7db2ce603768769d91"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5186997
+file-id = 5338903
 project-id = 608287
