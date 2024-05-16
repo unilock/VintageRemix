@@ -5,6 +5,18 @@ file = "asm/hammercore.xml"
 hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 
 [[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "414a96bfa767df9ac8576625b2bdf08806f803e1f9bb8a51a37271a7a675b536"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "0cff62cde31649cd5f87490162f514bdc9c162eb0b5a4daab063811aec28d3f9"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "4b1fb8b3335d073abaacc19c45e38a1c2609a2b446ae1ab7ec7398b8ea251434"
+
+[[files]]
 file = "config/thaumicjei.cfg"
 hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
@@ -1551,11 +1563,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
-metafile = true
-
-[[files]]
-file = "mods/no-recipe-book.pw.toml"
-hash = "db9226f9b8d9f01104b89e51fec4783c4cbc2fe9fd57a8dcd4612c06d6e64ee0"
 metafile = true
 
 [[files]]
