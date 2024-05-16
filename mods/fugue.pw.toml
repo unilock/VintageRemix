@@ -1,0 +1,15 @@
+name = "Fugue"
+filename = "+Fugue-1.12.2-0.14.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/CleanroomMC/Fugue/releases/download/0.14.11/%2BFugue-1.12.2-0.14.11.jar"
+hash-format = "sha256"
+hash = "e3a211ddd47deb502f9edd61f38e04917d95e932d21cf53c3eaa7efc7f615041"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "CleanroomMC/Fugue"
+tag = "0.14.11"
