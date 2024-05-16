@@ -1,12 +1,12 @@
-name = "MC Eternal"
+name = "Vintage"
 author = "¯\\_(ツ)_/¯"
-version = "1.6.2.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "629d8b6de94b65e6fa80950ea8faba7dc2aa4bff1ed5a44a24c7ceb87fc6bd0e"
+hash = "15fe1d7ac65b6ee89bdd20e151c6ae76b059d5b74067e51e3d92413bbaf18cb8"
 
 [versions]
 forge = "14.23.5.2860"

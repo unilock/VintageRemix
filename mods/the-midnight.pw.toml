@@ -1,8 +1,0 @@
-name = "The Midnight"
-filename = "themidnight-0.3.5.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/mc-eternal/manual-jars/both/themidnight-0.3.5.jar"
-hash-format = "sha256"
-hash = "43d909842d543055376d13b4f484bcf47fba257d3cd62dd24359b48f9cc896fe"
