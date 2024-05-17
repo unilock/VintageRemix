@@ -270,11 +270,6 @@ hash = "e8de35ecf175677fce952575069df4c9afc25e4b5c319519fd2f6ac9dfa4fac6"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display.pw.toml"
-hash = "c2f90549e1a2a88f9cfe58f1f5255d2bd5c616e53464a6953ab1e237c27b85e7"
-metafile = true
-
-[[files]]
 file = "mods/betweenlands-redstone.pw.toml"
 hash = "64c9607751b1aa1edb5582b8050f809dca21592a328c182ff465307e42bc4870"
 metafile = true
