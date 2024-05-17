@@ -17,6 +17,10 @@ file = "config/defaultoptions/options.txt"
 hash = "4b1fb8b3335d073abaacc19c45e38a1c2609a2b446ae1ab7ec7398b8ea251434"
 
 [[files]]
+file = "config/defaultworldgenerator-port/worldsettings.data"
+hash = "46ce8c7e1d229c0c9bac9f08f9d7c69341f1bf84370fdac3e443851ef6111af4"
+
+[[files]]
 file = "config/thaumicjei.cfg"
 hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
@@ -658,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator-ssp.pw.toml"
+hash = "c158f85f9a2e2f3201fdb7ccf79bd50e9704c665232d938baab53456d5391b5e"
 metafile = true
 
 [[files]]
@@ -1518,6 +1527,11 @@ metafile = true
 [[files]]
 file = "mods/mysticallib.pw.toml"
 hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
+metafile = true
+
+[[files]]
+file = "mods/nae2.pw.toml"
+hash = "d6591323336b1c2cb8d9808fa2d922b6b7e55dcdc1f42e7063a42dbe0f46e954"
 metafile = true
 
 [[files]]
