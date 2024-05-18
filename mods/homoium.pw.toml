@@ -1,0 +1,13 @@
+name = "Homoium"
+filename = "homoium-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PnFQ4uO8/versions/p1mXZTtC/homoium-1.0.8.jar"
+hash-format = "sha1"
+hash = "8295f6842b44fabd2a2cc8400464ba8c94ed8da4"
+
+[update]
+[update.modrinth]
+mod-id = "PnFQ4uO8"
+version = "p1mXZTtC"

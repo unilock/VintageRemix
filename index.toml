@@ -985,6 +985,11 @@ hash = "6d94359d922afea59f8d6f8711e3e54b884723d0cc8902105ca17bd49b9058b7"
 metafile = true
 
 [[files]]
+file = "mods/homoium.pw.toml"
+hash = "7edce448dfd9f9cedce2943bdb5ec285540a98a11c30a6c262fc7c2ff90f85f5"
+metafile = true
+
+[[files]]
 file = "mods/huntersreturn.pw.toml"
 hash = "787eef51c884331750edded8dd21a5def3082e7fc393825bf2024ec1b6fca51f"
 metafile = true
