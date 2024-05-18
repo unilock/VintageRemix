@@ -1,13 +1,13 @@
 name = "Electroblob's Wizardry"
-filename = "ElectroblobsWizardry-4.3.13.jar"
+filename = "ElectroblobsWizardry-4.3.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8184988b1bcfe68bbd71ba9eeaa17894198d23a0"
+hash = "feb1868a0c7a3ceb11b019a97df893a281ba6bb5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5216846
+file-id = 5353252
 project-id = 265642

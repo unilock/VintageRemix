@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/ancient-spellcraft.pw.toml"
-hash = "490835385ca1d8799943693260f6e62c83a8307c4f327455ecf08e5dce2a2b6a"
+hash = "48f1b4fb45de9917f37aa76243fc3550ef27e15569d6fe7f17d5b6e37a8f6681"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
-hash = "37d9a213a3b1bf74286aaf4a44b1a33c63eb2f0b44cf8123b399ee19b323b919"
+hash = "02394d6d22169ecc5ee205ba75f966c661d4a5c582300c5ea30ce180bfb70b12"
 metafile = true
 
 [[files]]
@@ -886,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "820db19b1084632a6a7e84a0cb64c39e28df8a259c7367284fd94fac6c59fafa"
+hash = "72c70ebbea1d79275f55a0861033514aa41218e963135f4bf03cc6e9756583ff"
 metafile = true
 
 [[files]]
@@ -1411,17 +1411,17 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-ce-generators.pw.toml"
-hash = "5b14526c578a1c1e31ac445d3b93bcdde1bda2889273b1af316e911eea170e00"
+hash = "40f4d39833f7e9023ed3721c694bac01223856a4b1d20946c31acdce1e982f02"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-ce-tools.pw.toml"
-hash = "a3e54515cf1a2663ee0d634325185f0cf0d35cc2fb09aaf5ca2bcac4d3a406e8"
+hash = "a7795af3188a45bf5cca383f3cd2b453ed8e12393740bb9b17f7b67ecb89f2f6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-ce.pw.toml"
-hash = "3186008573579ba7cce605ceca6a0078ccd35ade4291ffe89a5c34b075c964e9"
+hash = "040412158a9faade0de26ac56d3da485b4c2c5221267889e6d90856f502d2fbb"
 metafile = true
 
 [[files]]
