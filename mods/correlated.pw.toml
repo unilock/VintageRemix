@@ -1,0 +1,13 @@
+name = "Correlated"
+filename = "Correlated-1.12.2-2.1-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b360a61b42216e4848cb788349ad4ce4e6f92cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4091595
+project-id = 243182

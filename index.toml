@@ -560,6 +560,11 @@ hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
+file = "mods/correlated.pw.toml"
+hash = "f3903e361949899478b9fca81e3dbc65ae2a3448140b68e850d8f0486f70253b"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
@@ -687,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/dye-it-yourself.pw.toml"
 hash = "e8ea2cb9f8e41da78352df75547bc32709d02946bebf4dcc4f673b0bab24aa2d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-dynamos.pw.toml"
+hash = "69757dea1be42d6a1dbe9088224054ba6cf64a8f81a6275b7b03413e1e9ca5b6"
 metafile = true
 
 [[files]]
