@@ -1,0 +1,13 @@
+name = "Nilcord"
+filename = "nilcord-2.3.0+1.12.2+forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/oINH1GjT/nilcord-2.3.0%2B1.12.2%2Bforge.jar"
+hash-format = "sha1"
+hash = "677585c9123ee1e2ebb44a44ba2af1aefba5ffff"
+
+[update]
+[update.modrinth]
+mod-id = "W4HQBVeF"
+version = "oINH1GjT"

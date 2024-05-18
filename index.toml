@@ -1580,6 +1580,11 @@ hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
+file = "mods/nilcord.pw.toml"
+hash = "fb215d6d9b27be07c6b426bdbd210c98b41f501c92719df756a4aced7a598b7e"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-energistics.pw.toml"
 hash = "4d6580e369384d2786bf9ade5a78cbc03682765b93306fd6f6e9e93d24900b70"
 metafile = true
