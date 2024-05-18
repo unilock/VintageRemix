@@ -2080,11 +2080,6 @@ hash = "44a912bd098ed2856f58583b8eb3aa5404a8514ed11e11ef3d11f5a5b2bcd48d"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-isorropia.pw.toml"
-hash = "3f53aa9b5dbe926cded96c7cb9dc7ffc0803752c244a994840aa1d1c46129098"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-jei.pw.toml"
 hash = "611e582d20e8de4cd23cf8aa8126b0d5fb47fbd0136ddcaeb5a00428bb62d05b"
 metafile = true
