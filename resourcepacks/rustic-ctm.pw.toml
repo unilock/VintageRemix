@@ -1,0 +1,13 @@
+name = "Rustic CTM"
+filename = "Rustic_CTM_1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cf8e8093fdcc320c828180d5b9ace97cfd8e90f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2653053
+project-id = 309906

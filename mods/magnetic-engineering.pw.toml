@@ -1,0 +1,13 @@
+name = "Magnetic Engineering"
+filename = "Magneticraft_1.12-2.9.2-dev.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05ed87d0761a49f0ccdf00a662dc25544f80c91f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3478543
+project-id = 521155

@@ -1,0 +1,13 @@
+name = "ModelLoader"
+filename = "modelloader-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f77152980cafb1be5a4204f5773daef74de8627"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2744735
+project-id = 277663

@@ -490,11 +490,6 @@ hash = "fd2f7e5f55e3f73ba6beac545c1a9457f09707e82770e48f590e41858df924d8"
 metafile = true
 
 [[files]]
-file = "mods/clothesline.pw.toml"
-hash = "3e0971a241628fe2a9ccf8c775a0483d66ab77bed3da6016328acea682a84d06"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -985,6 +980,11 @@ hash = "6d94359d922afea59f8d6f8711e3e54b884723d0cc8902105ca17bd49b9058b7"
 metafile = true
 
 [[files]]
+file = "mods/heterorustichromia.pw.toml"
+hash = "4c4ff38c8f7ac9dc8a1f9d540a8abcd6df7ec595fd032425d1374f8c20c62cd2"
+metafile = true
+
+[[files]]
 file = "mods/homoium.pw.toml"
 hash = "7edce448dfd9f9cedce2943bdb5ec285540a98a11c30a6c262fc7c2ff90f85f5"
 metafile = true
@@ -1365,6 +1365,11 @@ hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
 
 [[files]]
+file = "mods/magnetic-engineering.pw.toml"
+hash = "61cd290c6464c9602ebf83c0f1994cdb860fd0c5a19557f73792ea4dbd5c575f"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "6a37c0f06c9e153578250cad0ca2b583be61808f88cde08e127e3d982464d2c7"
 metafile = true
@@ -1415,6 +1420,16 @@ hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
 metafile = true
 
 [[files]]
+file = "mods/mechanical-clothesline.pw.toml"
+hash = "9e379d261ec32d66194ca6abb1a5e4da199806ed543d2992e784ca63720e88e4"
+metafile = true
+
+[[files]]
+file = "mods/mechanical-crafting.pw.toml"
+hash = "ef404b0ed6ba8f7b6511ffc38d0146934686c5fc66df30aeb54fef2c867523df"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-ce-generators.pw.toml"
 hash = "40f4d39833f7e9023ed3721c694bac01223856a4b1d20946c31acdce1e982f02"
 metafile = true
@@ -1432,6 +1447,16 @@ metafile = true
 [[files]]
 file = "mods/menumobs.pw.toml"
 hash = "d536cf88588303265d15296e29bf14780018976ca5638563008206c5a0cdb75d"
+metafile = true
+
+[[files]]
+file = "mods/metallurgy-4-reforged.pw.toml"
+hash = "69fb77092d4b3cac87753a1efe921a3094bc3bc6e2a37b35e81dacf34efff346"
+metafile = true
+
+[[files]]
+file = "mods/metallurgy-chests.pw.toml"
+hash = "ff29932f06eea39b1a813cf985ecea59ec160f096bbb1297be5dddfb03a24f0c"
 metafile = true
 
 [[files]]
@@ -1472,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
+metafile = true
+
+[[files]]
+file = "mods/modelloader.pw.toml"
+hash = "bf46002ff2d9b657ecd80baa538f01a8067958d9155f190cc409d6237da98d22"
 metafile = true
 
 [[files]]
@@ -1520,6 +1550,11 @@ hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
 metafile = true
 
 [[files]]
+file = "mods/mystical-gears.pw.toml"
+hash = "6881d3001690f7e7f4c4bb2b06779600fde0c82ec1202a591220c43e476a04b3"
+metafile = true
+
+[[files]]
 file = "mods/mystical-world.pw.toml"
 hash = "50d4d95c547469c9ea85c452d927ad011293d0471ae0296d1050df95dca627ae"
 metafile = true
@@ -1527,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/mysticallib.pw.toml"
 hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
+metafile = true
+
+[[files]]
+file = "mods/mysticalmechanics.pw.toml"
+hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
 metafile = true
 
 [[files]]
@@ -1697,6 +1737,11 @@ metafile = true
 [[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
+metafile = true
+
+[[files]]
+file = "mods/passable-leaves.pw.toml"
+hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
 metafile = true
 
 [[files]]
@@ -1907,6 +1952,21 @@ metafile = true
 [[files]]
 file = "mods/roots.pw.toml"
 hash = "6b56810779d29cdb1d0fff42375de45900f888f9c1342bc2cf930d5975521b89"
+metafile = true
+
+[[files]]
+file = "mods/rustic-bop-woods.pw.toml"
+hash = "fdefb97eddfa274a59a83a03e24437d5f198e3075f26e0c87ce47463195f0abb"
+metafile = true
+
+[[files]]
+file = "mods/rustic-furniture-compat.pw.toml"
+hash = "8a5ba8073ff3245dfcc88d4e314b4482b76c306b41931301d8d57db9a524ce87"
+metafile = true
+
+[[files]]
+file = "mods/rustic-thaumaturgy.pw.toml"
+hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
 metafile = true
 
 [[files]]
@@ -2522,4 +2582,9 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "af50f085baef63f9b2e50341e2a0c38cfc5f1a6e10d51c719ec123334672a7a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rustic-ctm.pw.toml"
+hash = "21e82b31552138f6449f79e3ec5a97d8e6a056ca0aa7879467ac307d3ba2eef3"
 metafile = true

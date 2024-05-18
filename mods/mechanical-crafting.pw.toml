@@ -1,0 +1,13 @@
+name = "Mechanical Crafting"
+filename = "MechanicalCrafting-1.2.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ec3e5047ec44e7bf010c770db87f189f70ce0f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3273914
+project-id = 359671

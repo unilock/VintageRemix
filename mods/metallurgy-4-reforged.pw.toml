@@ -1,0 +1,13 @@
+name = "Metallurgy 4: Reforged"
+filename = "Metallurgy-4-Reforged-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbdb62a484a0f2274bf6fd10172fd52b5a14e22a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5279337
+project-id = 300890

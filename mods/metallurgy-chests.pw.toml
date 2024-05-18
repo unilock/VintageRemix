@@ -1,0 +1,13 @@
+name = "Metallurgy Chests"
+filename = "metallurgychests-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d202939af254068503a2d5c913e6538135c7421"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4262625
+project-id = 590554

@@ -1,0 +1,13 @@
+name = "Heterorustichromia"
+filename = "Rustichromia-0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6577bf193e86674da1a7b62e57debff1cec0a668"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2980748
+project-id = 363734

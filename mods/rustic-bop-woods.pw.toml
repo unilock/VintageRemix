@@ -1,0 +1,13 @@
+name = "Rustic BOP Woods"
+filename = "rusticbopwoods-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f30ea48dcbdd352a6c8fd1cefaeb8f104a5b248f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2538912
+project-id = 289758

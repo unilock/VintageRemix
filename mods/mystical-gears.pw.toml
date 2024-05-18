@@ -1,0 +1,13 @@
+name = "Mystical Gears"
+filename = "mystgears-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a0311d302ba4cd3575406f80efbedaa8270b514"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3206298
+project-id = 317915
