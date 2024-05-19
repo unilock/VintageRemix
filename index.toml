@@ -6,7 +6,7 @@ hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "414a96bfa767df9ac8576625b2bdf08806f803e1f9bb8a51a37271a7a675b536"
+hash = "41df3abb931f55a0982583dfe9e2d4965b791503679f30cebe0a50307414faba"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -19,6 +19,10 @@ hash = "4b1fb8b3335d073abaacc19c45e38a1c2609a2b446ae1ab7ec7398b8ea251434"
 [[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "46ce8c7e1d229c0c9bac9f08f9d7c69341f1bf84370fdac3e443851ef6111af4"
+
+[[files]]
+file = "config/portalgun.cfg"
+hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/thaumicjei.cfg"
