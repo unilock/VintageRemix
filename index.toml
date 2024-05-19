@@ -698,11 +698,6 @@ hash = "69757dea1be42d6a1dbe9088224054ba6cf64a8f81a6275b7b03413e1e9ca5b6"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-surroundings.pw.toml"
 hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
 metafile = true
@@ -2050,6 +2045,11 @@ metafile = true
 [[files]]
 file = "mods/sledgehammer.pw.toml"
 hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+metafile = true
+
+[[files]]
+file = "mods/smooth-entity-light.pw.toml"
+hash = "d0c139a3c0b724418fbac8c9d44497c99a3cdce72728a6456173f90b52d27444"
 metafile = true
 
 [[files]]
