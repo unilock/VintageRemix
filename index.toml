@@ -2391,7 +2391,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.pw.toml"
-hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+hash = "475ba0974926044b636b2887e8b3f1e3551a9144a437e25b621d5be085c4435d"
 metafile = true
 
 [[files]]
