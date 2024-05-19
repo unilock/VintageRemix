@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
+hash = "adde6cc9eeeac12f95fccfc4c40b993f8cd30c7837af4ae43f1303dcbb7917c8"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
-hash = "02394d6d22169ecc5ee205ba75f966c661d4a5c582300c5ea30ce180bfb70b12"
+hash = "ef50a37675b298540ef30fb409027caad8709e558b134d962e339d092946fe0b"
 metafile = true
 
 [[files]]
@@ -1826,7 +1826,7 @@ metafile = true
 
 [[files]]
 file = "mods/qmd.pw.toml"
-hash = "9856a9739e891e9a379f3850e68a80d2b343341cb353cbe698f2ae0094e6226b"
+hash = "f60bd72d0182ac1cba65115d9000c40b1a2bb016489ca1f151a37107ee7f9f6e"
 metafile = true
 
 [[files]]
