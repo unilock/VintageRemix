@@ -29,6 +29,10 @@ file = "config/thaumicjei.cfg"
 hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
 [[files]]
+file = "config/traverse/traverse.cfg"
+hash = "403e6252d95ae5c092d9e2975e34a31ae809ba7254073e74a3235839e70c680c"
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -2331,6 +2335,11 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
+metafile = true
+
+[[files]]
+file = "mods/traverse-reforged.pw.toml"
+hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
 
 [[files]]
