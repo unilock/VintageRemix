@@ -378,11 +378,6 @@ hash = "b8770bdd6ccdac9db62f61bbc030346765a68fbb2b25f1a58a49e8f4454bd1b2"
 metafile = true
 
 [[files]]
-file = "mods/capsule.pw.toml"
-hash = "9a3ba5efdf2bb17f1c04f449d3b4e708d9e4a581db6327aa7308968cb7afc8f3"
-metafile = true
-
-[[files]]
 file = "mods/career-bees.pw.toml"
 hash = "b1274caec33ecc6c4a09ba2829b0b3c7e68745882731bb1af7c1edc2cee9c019"
 metafile = true
