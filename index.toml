@@ -1473,11 +1473,6 @@ hash = "097763e667fe4f7ba6d6469d8dbc9390bb41b39f71d44a8a08eb50dca1f1bfa0"
 metafile = true
 
 [[files]]
-file = "mods/mini-effects.pw.toml"
-hash = "7b18bff7dd4820d9e1ca162c2476ff037357b78b3f83be8654ecf58078a1f581"
-metafile = true
-
-[[files]]
 file = "mods/minor-integrations-and-additions-mia.pw.toml"
 hash = "535c613c27f48c9ace2bffee98c3bd7f74f131d5156fbdb12ea0fa4fd38d4bc1"
 metafile = true
