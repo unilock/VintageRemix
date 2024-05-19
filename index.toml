@@ -623,11 +623,6 @@ hash = "1e1e68c780e7e8670b547493c26cc5bbc9a19d907d498f689fcb8be975a4e5ad"
 metafile = true
 
 [[files]]
-file = "mods/custom-main-menu.pw.toml"
-hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
-metafile = true
-
-[[files]]
 file = "mods/customized-dungeon-loot.pw.toml"
 hash = "1a5225c4b50c7b710698d9b5c957eed6d36c0fc060c340d44a636dc3bc3d2441"
 metafile = true
