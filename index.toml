@@ -2373,11 +2373,6 @@ hash = "67ef4411241e8c17d8553d75053dc2c85a3a8d806e63d1555d2d388f92e3a407"
 metafile = true
 
 [[files]]
-file = "mods/tweakers-construct.pw.toml"
-hash = "400d16834638ef90397c43c5a657c9d3c9e6013a4d66b417ae4884ae6bdca939"
-metafile = true
-
-[[files]]
 file = "mods/uber-conduit-probe.pw.toml"
 hash = "88da0bcb4a9fde247bc4bc3e6ed30254dab092a57c340dd4776b2123310562fe"
 metafile = true
