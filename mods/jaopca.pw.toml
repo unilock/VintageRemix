@@ -3,11 +3,6 @@ filename = "JAOPCA-1.12.2-2.3.10.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2f2b8d3f6a19e3ebd0c4906d6280c7a4b999a0f"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5229663
-project-id = 266936
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/JAOPCA-1.12.2-2.3.10.21.jar"
+hash-format = "sha256"
+hash = "8c285986586f30eee6ba1b1c89e45c0340394039dc0b3b9181bccd2ef478cb80"
