@@ -1,0 +1,9 @@
+// For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
+
+[player]
+default_player_rank: true
+power: 1
+
+[admin]
+default_op_rank: true
+power: 100

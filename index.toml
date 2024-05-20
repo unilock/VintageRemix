@@ -41,8 +41,12 @@ file = "config/SpellBundle.cfg"
 hash = "b1667504cd51cd4220d3ed3e24ca0a969bd662f9d97ad143248698f40abbba1f"
 
 [[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "9d1dc7e5f8d95c5ce395f4218680d153053e69a5f985be0d7b7a598f050aa097"
+
+[[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "41df3abb931f55a0982583dfe9e2d4965b791503679f30cebe0a50307414faba"
+hash = "80df915c131fd4528d0717fad461d56ce87ea34f25bb484336c105209a11ebcb"
 
 [[files]]
 file = "config/VillageNames4/general.cfg"
@@ -495,6 +499,14 @@ hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "24e718f41aa8967e0cd77013f619ab7d15f71c9cb201cfd087a6ea8abf660103"
+
+[[files]]
+file = "local/client/sidebar_buttons.json"
+hash = "970a40276f8d12a1ee8510f60ec51aa8203b4b3f72872dbe26967a027ae29740"
+
+[[files]]
+file = "local/ftbutilities/ranks.txt"
+hash = "8eb71a6d3aeee9cd3bfbb3f9ab994c6e543dd865a031c128f456b0e93d64bac0"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
