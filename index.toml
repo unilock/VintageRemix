@@ -377,6 +377,10 @@ file = "config/reskillable.cfg"
 hash = "7966fe42145353f56a9f0d54e938100fafc10bf682c8636dad6d8546d1699816"
 
 [[files]]
+file = "config/rockhounding_chemistry.cfg"
+hash = "32e249c314251e6cf80f30d324ff7c0f259569ce7ef534b6808214aea1230c3f"
+
+[[files]]
 file = "config/roots/general.cfg"
 hash = "1f101aa52e38d6fe9227cbe3713ee4edc1dea5c8ad1caf688d552c4841ec65f5"
 
@@ -2416,6 +2420,26 @@ metafile = true
 [[files]]
 file = "mods/rftools.pw.toml"
 hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-chemistry.pw.toml"
+hash = "c634b6d8a9163b4b4de072bda9bfcf7e7153538c0c4d040f3c91bb5cdff84aa0"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-core.pw.toml"
+hash = "1050119603c0d62c8048c40fcad0ee89fa042cd35a18f464fe807fe9c6b861d3"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-rocks.pw.toml"
+hash = "e95687f58685d88be7b6c4fcdb07a580d9d5653e9cfc21f55a10f61a316e23c4"
+metafile = true
+
+[[files]]
+file = "mods/rockhounding-mod-surface.pw.toml"
+hash = "148246f6cf765ec2c286c532e539e75ca2cf1749ffd467244e0cdb8238b3459c"
 metafile = true
 
 [[files]]

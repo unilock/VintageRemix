@@ -1,0 +1,8 @@
+name = "Rockhounding Mod: Chemistry"
+filename = "rockhounding_chemistry-1.12.2-3.69-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/rockhounding_chemistry-1.12.2-3.69-hotfix.jar"
+hash-format = "sha256"
+hash = "536ad6e3244164abe606e14351be35b061157e29f98ce526b55a9b2bf429a15e"
