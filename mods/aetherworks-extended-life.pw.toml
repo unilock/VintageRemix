@@ -1,0 +1,13 @@
+name = "Aetherworks Unofficial Extended Life"
+filename = "aetherworks_extended_life-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbbf845915fc01ff045aacaa8297b57531f40937"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5263747
+project-id = 1003576

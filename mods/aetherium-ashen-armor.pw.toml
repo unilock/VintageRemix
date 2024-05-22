@@ -1,0 +1,13 @@
+name = "Aetherium Ashen Armor"
+filename = "Aetherium Ashen Armor-Release-1.12.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30a8acd2879ec85a5911c2f90fe419ee1e0addac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3022388
+project-id = 359467

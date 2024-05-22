@@ -1,0 +1,13 @@
+name = "Alternating Flux"
+filename = "alternatingflux-0.12.2-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcad5acd1909953bc1f5fb42e6a5df81d4b0fd6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2693578
+project-id = 285135

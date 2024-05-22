@@ -1,0 +1,13 @@
+name = "Environmental Lunar Tech"
+filename = "etlunar-1.12.2-2.0.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc24d1e5b03340bfc3684a48b4df77af2f49ed34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2691537
+project-id = 253565

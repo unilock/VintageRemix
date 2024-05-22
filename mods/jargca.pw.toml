@@ -1,0 +1,13 @@
+name = "JARGCA"
+filename = "JARGCA-1.12.2-1.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1624a6ac5dea6f1cd793acaa3d315bf5ea0e4cf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293678
+project-id = 286546

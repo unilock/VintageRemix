@@ -1,0 +1,13 @@
+name = "Mystical Agriexpansion"
+filename = "MysticalAgriexpansion-1.12.2-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ca38a5105daf910b86245cec306e7a38e791648"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4977541
+project-id = 950101

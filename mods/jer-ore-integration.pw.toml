@@ -1,0 +1,13 @@
+name = "JER Ore Integration"
+filename = "JEROreIntegration-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "295d2e9ab079fe0f9d94ff1e1862a111a7a829f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2576706
+project-id = 296769

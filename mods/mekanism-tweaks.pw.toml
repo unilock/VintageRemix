@@ -1,0 +1,13 @@
+name = "Mekanism Tweaks"
+filename = "mekanismtweaks-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac22fea132c31151175ed4d9bda6a77826027afd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4566443
+project-id = 686055
