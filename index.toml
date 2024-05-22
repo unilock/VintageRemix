@@ -2603,7 +2603,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "488c0053b9c150118df8ab353af715687b9721565da687fda9cc20db3488464c"
+hash = "3ed1c734992d6ad91098122510af420aa0c7037f1fe5f7c46997de62998d34ae"
 metafile = true
 
 [[files]]
@@ -2948,7 +2948,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders.pw.toml"
-hash = "822db613771d49ed9ca1020bed7669c92ea7fc41841c2a8a6c474b9530c5d436"
+hash = "3bc2edd43279be99c4ccded082abddfee9b1deb17eeab1267008c0872be5fad0"
 metafile = true
 
 [[files]]
@@ -3118,7 +3118,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinity.pw.toml"
-hash = "2992065809fcd1a8cbc2f85df5927f02acedfa5a366453c10f1cedacabaebf96"
+hash = "9e3f45c7d388a09cdf90a623fd7d72cdabd9177a581995fb62227a1ae6190c83"
 metafile = true
 
 [[files]]
