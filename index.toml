@@ -113,6 +113,10 @@ file = "config/brandon3055/DraconicEvolution.cfg"
 hash = "04268f3aee06782c2309bc4917f0bc860e47f21da6867a8d0cea38da8b19e8f3"
 
 [[files]]
+file = "config/charset/module/lib.cfg"
+hash = "23b49de2dcc7d3d27118c07d0c4c05d832172e733e7e5cdf1b33dc022162a09a"
+
+[[files]]
 file = "config/charset/module/tweak.bonemeal.cfg"
 hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
