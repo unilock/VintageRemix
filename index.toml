@@ -1958,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.pw.toml"
-hash = "f188d1615ae74073a66d09c101c73595f151e5d7559d2bf6bd28b65614e63db1"
+hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
 
 [[files]]
