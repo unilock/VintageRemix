@@ -3272,21 +3272,6 @@ hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
 metafile = true
 
 [[files]]
-file = "mods/witchery-companion.pw.toml"
-hash = "e26463e547e0f4653005e64080efa2e0f05e301bfd0af3e960bcb20c5e8141c5"
-metafile = true
-
-[[files]]
-file = "mods/witchery-resurrected.pw.toml"
-hash = "b6bf417b958647c7c27db1213f37719f3f9ece9291c6a462918224253acfcd0d"
-metafile = true
-
-[[files]]
-file = "mods/witchery.pw.toml"
-hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
-metafile = true
-
-[[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "cab1b602a391952b37e883b81cbd1aa24ec8b477efeacbefc3cc85d3feca819a"
 metafile = true
