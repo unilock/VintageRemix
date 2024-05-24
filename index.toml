@@ -418,7 +418,7 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "478f9b76f8598cb3c1d058b2e8e8984a5c706b4c6f7acf45fc3b1f27d49e427e"
+hash = "edc33765de288442055fcef063b5eed084aff2d2d6153e2ad4d55f144400bf16"
 
 [[files]]
 file = "config/snowrealmagic.cfg"
