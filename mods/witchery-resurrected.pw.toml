@@ -1,7 +1,8 @@
-name = "Witchery: Resurrected"
+name = "Witchery Resurrected"
 filename = "WitcheryResurrected-1.12.2-0.5.2.4-forge-all.jar"
+side = "both"
 
 [download]
-url = "https://witchery-api.msrandom.net/download/WitcheryResurrected0.5.2Hotfix4/WitcheryResurrected-1.12.2-0.5.2.4-forge-all.jar"
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/WitcheryResurrected-1.12.2-0.5.2.4-forge-all.jar"
 hash-format = "sha256"
 hash = "40b3a6f8451ec63aa8ec9a9a38eb08dc8bb80ba05889babc1a783acc9431133c"

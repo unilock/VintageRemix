@@ -3278,7 +3278,12 @@ metafile = true
 
 [[files]]
 file = "mods/witchery-resurrected.pw.toml"
-hash = "60017fba1ebde16a55f1f6f4b91f861afd1a1e565d29aa6b5e16d15fefe610fc"
+hash = "b6bf417b958647c7c27db1213f37719f3f9ece9291c6a462918224253acfcd0d"
+metafile = true
+
+[[files]]
+file = "mods/witchery.pw.toml"
+hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
 metafile = true
 
 [[files]]
