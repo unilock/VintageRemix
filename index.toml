@@ -366,7 +366,7 @@ hash = "103a91484b75f99dd4cfe33785bf23dc4b8e06964c48f426946ef2584d457a2e"
 
 [[files]]
 file = "config/passableleaves.cfg"
-hash = "36e851b53fb42821c8f7bc062042ea10aa5e12bbcc297318b053eeab8abc2d71"
+hash = "2d0437eadd02bc25b075d1ea3653e0be20c69d52efcd1ff709bc109f9ead41d0"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -422,7 +422,7 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "edc33765de288442055fcef063b5eed084aff2d2d6153e2ad4d55f144400bf16"
+hash = "ac617e91ab7afe2b09d4e00517cf5bf7445251ce610b6227465b1d9aaacad477"
 
 [[files]]
 file = "config/snowrealmagic.cfg"
