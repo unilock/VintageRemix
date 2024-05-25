@@ -2476,6 +2476,11 @@ hash = "6cb193bce095deb6ecb4fb41dece1e12dd36382c0301beca178966a859c0a1e6"
 metafile = true
 
 [[files]]
+file = "mods/plants.pw.toml"
+hash = "2644b38916cc07d949b11d94f045bf78f259b5b96f9ed6a9d2382877d9c2ba20"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
 metafile = true
