@@ -1,8 +1,0 @@
-name = "Rockhounding Mod: Rocks"
-filename = "rockhounding_rocks-1.12.2-3.23.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/rockhounding_rocks-1.12.2-3.23.jar"
-hash-format = "sha256"
-hash = "4ee0107bad9f1fc59b76d5124b8f04f6c1ebf7dea929d42c1b6a8fdfc5202181"

@@ -1,8 +1,0 @@
-name = "Rockhounding Mod: Surface"
-filename = "rockhounding_surface-1.12.2-3.17.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/rockhounding_surface-1.12.2-3.17.jar"
-hash-format = "sha256"
-hash = "b30496d384632fe9e78ac9f9a7c9f8d3aa342d6e284b18fac40eca421f199c1d"

@@ -1,8 +1,0 @@
-name = "Rockhounding Mod: Core"
-filename = "rockhounding_core-1.12.2-3.30.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/rockhounding_core-1.12.2-3.30.jar"
-hash-format = "sha256"
-hash = "5558fb968fd72078165da8f7969705f50e6a3ab74e24a2828ddf4523f3ad1c23"
