@@ -3379,8 +3379,3 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "af50f085baef63f9b2e50341e2a0c38cfc5f1a6e10d51c719ec123334672a7a0"
 metafile = true
-
-[[files]]
-file = "resourcepacks/rustic-ctm.pw.toml"
-hash = "21e82b31552138f6449f79e3ec5a97d8e6a056ca0aa7879467ac307d3ba2eef3"
-metafile = true
