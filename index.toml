@@ -202,7 +202,7 @@ hash = "fbd990a722d046eee89533a01fe0436050e1cf359027ee3bc10089d5374d7f75"
 
 [[files]]
 file = "config/extrabotany.cfg"
-hash = "96965403fef5e17b68ae48598859e6829cb8ed1c7a32b5410f11e2e70387524a"
+hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
 
 [[files]]
 file = "config/farmingforblockheads.cfg"
@@ -422,7 +422,7 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "51585dfa4af36e1c7fb5c9ce96f7da256e1d5139f14c9be98e707db4eae74a45"
+hash = "f07c5e0a6963d847006ed995371c8a346d443efd82111dbe45cd9b70b4624c31"
 
 [[files]]
 file = "config/snowrealmagic.cfg"
