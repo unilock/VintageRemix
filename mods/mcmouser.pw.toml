@@ -1,6 +1,6 @@
 name = "McMouser"
 filename = "mcmouser-1.12.2-forge-1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

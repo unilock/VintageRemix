@@ -1,6 +1,6 @@
 name = "Potion Descriptions (Forge)"
 filename = "potiondescriptions-1.12.2-1.2.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

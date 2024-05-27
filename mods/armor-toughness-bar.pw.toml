@@ -1,6 +1,6 @@
 name = "Armor Toughness Bar"
 filename = "toughnessbar-2.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

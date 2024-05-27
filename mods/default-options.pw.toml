@@ -1,6 +1,6 @@
 name = "Default Options"
 filename = "DefaultOptions_1.12.2-9.2.8.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

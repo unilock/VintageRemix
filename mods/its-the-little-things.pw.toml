@@ -1,6 +1,6 @@
 name = "It's the little things"
 filename = "itlt-1.12.x-1.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

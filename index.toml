@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-toughness-bar.pw.toml"
-hash = "3a3311bb5d75d0d13038e59757df710442116bee5cc34e5686a4b52c88ef1967"
+hash = "d008b9e46abbf47e30fbb3d119598155222542848089e5aecf5a5c860cd6e6f0"
 metafile = true
 
 [[files]]
@@ -808,12 +808,12 @@ metafile = true
 
 [[files]]
 file = "mods/beebetteratbees.pw.toml"
-hash = "8cfc5348f2938a27109786bc6ba3910779054825c9cdba82b3f8107c625b76df"
+hash = "15ea3e792a624a6c0edc648e4d5882a8d23d572399353c3851a72c38cdfb0eca"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+hash = "8f33477af900c12942185f33cbd3664425103d5d71de6e08c42e0df1232a07fa"
 metafile = true
 
 [[files]]
@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/book-display.pw.toml"
-hash = "95c6af66cb201369b585a80ea91e3c7e31706215e3c27d2f56c5de60f139e199"
+hash = "dd085b3aeedb0df047bbe0ccfe37b465347ebf779e1f216a48473be15842c87d"
 metafile = true
 
 [[files]]
@@ -1133,7 +1133,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "b5b6687381fb9448bd810d5c10896fd095e256d2effcc4aa602e7824e5a65903"
+hash = "c622c80421d6d5c2d2eedaf74dafcf1fbf6795b7f258e5c2650fbaf61c470fa6"
 metafile = true
 
 [[files]]
@@ -1178,12 +1178,12 @@ metafile = true
 
 [[files]]
 file = "mods/ctm.pw.toml"
-hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+hash = "1d529eda949507fa4491da34cda9c048aa146e7360323f45e50d8f2d4dca2f13"
 metafile = true
 
 [[files]]
 file = "mods/ctrl-q.pw.toml"
-hash = "ed6efc1cebf8e9132ad49b54a84400bcc510261536edd0c1878bac598c6323c1"
+hash = "810a10a6af963224deeec660c6fb8adb17df17d6363c2a47386e8fd673e6f566"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
+hash = "2d93ed5044fafbbabeab41598ff9de1ed8234e9e43f6330a4c5c090836f9b834"
 metafile = true
 
 [[files]]
@@ -1283,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-dynamos.pw.toml"
-hash = "69757dea1be42d6a1dbe9088224054ba6cf64a8f81a6275b7b03413e1e9ca5b6"
+hash = "9c5bab2e1bd9858dc9e61b4605b547be4ab729cb564cef6c279dd8712cced171"
 metafile = true
 
 [[files]]
@@ -1293,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
+hash = "65170142f7f13aabed317c8f730c55406fb99ddcc77a46f5fcd12a4577204c96"
 metafile = true
 
 [[files]]
@@ -1813,7 +1813,7 @@ metafile = true
 
 [[files]]
 file = "mods/its-the-little-things.pw.toml"
-hash = "1b6cf0ab6aac5e5884646289cfdd018b2f0878cf906def0e9fc8aca58dabc2d9"
+hash = "f1591a701f813e81342a58ed894e180f4ad08e45d2c25613ffed008b0733d52c"
 metafile = true
 
 [[files]]
@@ -1973,7 +1973,7 @@ metafile = true
 
 [[files]]
 file = "mods/loading-progress-bar.pw.toml"
-hash = "d0cbf13239fc90b11992adb58d0ed4c752b28cf01c1598c9e71b47330e478bb6"
+hash = "d33f577169b9d8b748081613faa93775b4f9cc2d30c90de159ff408954b77228"
 metafile = true
 
 [[files]]
@@ -2048,7 +2048,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcmouser.pw.toml"
-hash = "41fab958b3268cc723221766e519997ef74186d1e246d86eea7ac12a9063d57e"
+hash = "afaf90d486c27e622c78b3fd5ec95393df19784a23396671599924c547fcaef1"
 metafile = true
 
 [[files]]
@@ -2098,7 +2098,7 @@ metafile = true
 
 [[files]]
 file = "mods/menumobs.pw.toml"
-hash = "d536cf88588303265d15296e29bf14780018976ca5638563008206c5a0cdb75d"
+hash = "0b2a1dd1468e7d72bd36c5f87a6b7c22b0730f2ea251c9c9ce2eb2764e54148e"
 metafile = true
 
 [[files]]
@@ -2118,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-rich-presence.pw.toml"
-hash = "097763e667fe4f7ba6d6469d8dbc9390bb41b39f71d44a8a08eb50dca1f1bfa0"
+hash = "ac92e1a0128e394c555fa2f39378e4f42ed0d229ff48eb8e7f48df61328f6248"
 metafile = true
 
 [[files]]
@@ -2163,7 +2163,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays.pw.toml"
-hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
+hash = "d9dbc8ced8fcfe4c0b04e8e7c13cc65f53ce499539d495ae0dc04f0d9e870631"
 metafile = true
 
 [[files]]
@@ -2173,7 +2173,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks-unofficial.pw.toml"
-hash = "5c5db6b4a3750d11ba24faaa0a16b128ee9308d6aa467e44dce084d6d588671d"
+hash = "8bd59d81be5398e993203e8a7b909b79f50679a82c17618df079d1a786b5258a"
 metafile = true
 
 [[files]]
@@ -2398,7 +2398,7 @@ metafile = true
 
 [[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
-hash = "6b28b14cf57721f3b5b69c72fb4e6830736fb1cfe41a672ebf315c9c8666ffc9"
+hash = "2c6b8ab3a33570c3418efc8a08052619e73dc98a48a50ff41aa522c9e2678d1b"
 metafile = true
 
 [[files]]
@@ -2433,7 +2433,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
+hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
 metafile = true
 
 [[files]]
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/potion-descriptions.pw.toml"
-hash = "d088fc63e8571396afcd620837b68e04a788ce6508f7c49f0d6867e9db59c5e5"
+hash = "07b75a84fcdb6a00af3b168bff7059e0dea326d341109791fab834dcbbbd2105"
 metafile = true
 
 [[files]]
@@ -2743,7 +2743,7 @@ metafile = true
 
 [[files]]
 file = "mods/shut-up-model-loader.pw.toml"
-hash = "0300d1dada7a218fe61e1b2816a8c3af13e04d685e07b2fa3aeae2073688c36b"
+hash = "80b1091dc9c2932d4e8ad3786c5a290a36ef7f3cf02896e42a132bbb2c8fe9c9"
 metafile = true
 
 [[files]]
@@ -3048,7 +3048,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "324e1c7e752d97324dd0701b0e0cb7b592f4bacf8932161fa1fb317f90a0a6b0"
+hash = "0a852de741d5e2fe69e5ca2662fe86bd73e323fed158b146eaebdec617158f04"
 metafile = true
 
 [[files]]
@@ -3363,5 +3363,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "af50f085baef63f9b2e50341e2a0c38cfc5f1a6e10d51c719ec123334672a7a0"
+hash = "3123df1ac646ad0950262d4fa80558b543ab17bafcc8dfff89ad7ec89cea2cb0"
 metafile = true
