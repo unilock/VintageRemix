@@ -3202,6 +3202,11 @@ hash = "9eb3d1ac395bf0775c1a151be15877d8fce5bfbee0ce4ca29596317aa53bd078"
 metafile = true
 
 [[files]]
+file = "mods/vintagepack.pw.toml"
+hash = "a8b0b63def03ec706e39b80c82c7e05d715c4bd6c74de86dfd4adb6494c280e0"
+metafile = true
+
+[[files]]
 file = "mods/vintagium.pw.toml"
 hash = "abd3dc34cc2af6ae9ff62d97e59b11623972ce7c08f489da8064eea36cdb3bcb"
 metafile = true
