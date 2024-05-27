@@ -382,7 +382,7 @@ hash = "cad4fe075feeac128566d230b352457a8f11d01426c3055bb9dd249f38889c75"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "36aa2e748f634b8f928695591ee0731eaa981c897317073e6839dd0d1ac4bd5c"
+hash = "78c850b437f3b2f96b295313f321a037cc7b9a9ce9468995f2205ec774234e8c"
 
 [[files]]
 file = "config/randompatches.cfg"
