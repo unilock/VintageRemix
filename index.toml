@@ -282,7 +282,7 @@ hash = "873fb3d55cb4ab435d2aeb0e6f2a907ded617c3ce402a075110dbd982d6cd48a"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "8c52edde8db22dab9c5d95311d79c4bab7bc2d414ed7ab1b7e0554fd635da7d0"
+hash = "545d84b768f99bc2600e4fe70ba14c0af3cef72039e8585c4c8342e79f4bda11"
 
 [[files]]
 file = "config/lemonlib.cfg"
@@ -422,7 +422,7 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "ac617e91ab7afe2b09d4e00517cf5bf7445251ce610b6227465b1d9aaacad477"
+hash = "51585dfa4af36e1c7fb5c9ce96f7da256e1d5139f14c9be98e707db4eae74a45"
 
 [[files]]
 file = "config/snowrealmagic.cfg"
