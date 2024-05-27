@@ -481,10 +481,6 @@ file = "config/treasure2_wizardry_lp/treasure2_wizardry_lp-c1.0.cfg"
 hash = "fedd4254abf2ae74c3ef28b8563a1cb590968e939c57f3813f5fa46423da1283"
 
 [[files]]
-file = "config/treechop.cfg"
-hash = "8467dfc39b7cb3f92fb3a956d5be4bbae3b3fb8051971d9fce3a62ec04fd2186"
-
-[[files]]
 file = "config/twilightforest.cfg"
 hash = "9bd8109dd0b80f44e49302fc58f74ad2990fedf7582a74b26f902038eddcbb39"
 
@@ -3113,11 +3109,6 @@ metafile = true
 [[files]]
 file = "mods/treasure2.pw.toml"
 hash = "e61ef55b2bb92cac212d30163cd703e67cddd513648763e8cdf1f9bbdfc17e91"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "b89e19ad4e520e0bdbbdb5520ce9d1b917909b5ff3b595ee4279cb26b83160bf"
 metafile = true
 
 [[files]]
