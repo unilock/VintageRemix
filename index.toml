@@ -2952,11 +2952,6 @@ hash = "3bc2edd43279be99c4ccded082abddfee9b1deb17eeab1267008c0872be5fad0"
 metafile = true
 
 [[files]]
-file = "mods/thaumicadditionsagricraftcompat.pw.toml"
-hash = "8e9dddb3fa6eb7963ec52dbff16ae6f79e43ead33529d702d748889a814fc7e2"
-metafile = true
-
-[[files]]
 file = "mods/thaumicwaila.pw.toml"
 hash = "523853a3e9489ee18d7d29c60134e8c0dd44d13415993d17c0f06d14d1ba25b0"
 metafile = true
