@@ -1,5 +1,6 @@
 key_ALT Key:56:NONE
 key_arcanearchives.gui.keybinds.manifest:0:NONE
+key_arcanearchives.gui.keybinds.socket:0:NONE
 key_bbw.key.fluidmode:0:NONE
 key_bbw.key.mode:0:NONE
 key_binniecore.key.hold.for.help.tooltips:0:NONE
@@ -8,7 +9,6 @@ key_bloodmagic.keybind.cycle_holding_pos:0:NONE
 key_bloodmagic.keybind.open_holding:0:NONE
 key_Boost Key:42:NONE
 key_Change Caster Focus:0:NONE
-key_Change Goggles Lens:0:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_Creepssile Launch:0:NONE
 key_Dynamic Lights toggle:0:NONE
@@ -66,6 +66,7 @@ key_Jet Pack Hover:0:NONE
 key_Jet Pack Lift:0:NONE
 key_key.advancements:38:NONE
 key_key.ae2fc.open_wireless_fluid_pattern_terminal.desc:0:NONE
+key_key.aether.accessory_menu:0:NONE
 key_key.anchor:0:NONE
 key_key.ancientspellcraft.charm_bauble_activate:0:NONE
 key_key.ancientspellcraft.charm_ring_1_activate:0:NONE
@@ -74,6 +75,7 @@ key_key.ancientspellcraft.key_warlock_cast:0:NONE
 key_key.ancientspellcraft.open_radial_spell_menu:0:NONE
 key_key.attack:-100:NONE
 key_key.back:31:NONE
+key_key.bettersigns.nosigntext:0:NONE
 key_key.bookdisplay.display:0:NONE
 key_key.bookdisplay.left:0:NONE
 key_key.bookdisplay.right:0:NONE
@@ -82,6 +84,7 @@ key_key.carpet_backward:0:NONE
 key_key.carpet_forward:0:NONE
 key_key.categories.naming:0:NONE
 key_key.changeMysticCode:0:NONE
+key_key.chaosInjection:0:NONE
 key_key.chat:20:NONE
 key_key.climb.desc:42:NONE
 key_key.climbdown.desc:0:NONE
@@ -114,7 +117,15 @@ key_key.craftingtweaks.toggleButtons:0:NONE
 key_key.cycle_magnet_mode.desc:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
 key_key.debugDumpNBTItem:0:NONE
-key_key.dismount:42:NONE
+key_key.draconicevolution.armorProfileChange:0:NONE
+key_key.draconicevolution.cycleAttackAOE:0:NONE
+key_key.draconicevolution.cycleDigAOE:0:NONE
+key_key.draconicevolution.placeItem:0:NONE
+key_key.draconicevolution.toggleDislocator:0:NONE
+key_key.draconicevolution.toggleFlight:0:NONE
+key_key.draconicevolution.toggleShields:0:NONE
+key_key.draconicevolution.toolConfig:0:NONE
+key_key.draconicevolution.toolProfileChange:0:NONE
 key_key.drawMahoujin:0:NONE
 key_key.drop:16:NONE
 key_key.dungeontactics.rocketjump.desc:0:NONE
@@ -208,10 +219,19 @@ key_key.next_item.desc:0:NONE
 key_key.open_danknull.desc:0:NONE
 key_key.open_pouch:0:NONE
 key_key.open_wct.desc:0:NONE
+key_key.open_wft.desc:0:NONE
 key_key.open_wireless_crafting_terminal.desc:0:NONE
 key_key.open_wireless_fluid_terminal.desc:0:NONE
 key_key.open_wireless_pattern_terminal.desc:0:NONE
 key_key.open_wireless_terminal.desc:0:NONE
+key_key.open_wit.desc:0:NONE
+key_key.openglasses.config:0:NONE
+key_key.openglasses.interact:0:NONE
+key_key.openglasses.nightvision:0:NONE
+key_key.openglasses.opensecurity:0:NONE
+key_key.openglasses.stable_interact:0:NONE
+key_key.openglasses.thermalvision:0:NONE
+key_key.overload:0:NONE
 key_key.pearl_swapping.desc:0:NONE
 key_key.pickItem:-98:NONE
 key_key.planarartifice.openThaumonomicon:0:NONE
@@ -259,11 +279,9 @@ key_key.swapHands:33:NONE
 key_key.taiga.alt_action:0:NONE
 key_key.toggle_focus.desc:0:NONE
 key_key.toggle_shaders:0:NONE
-key_key.toggleFoVChanges:0:NONE
 key_key.togglehud.desc:0:NONE
 key_key.togglePerspective:63:NONE
 key_key.togglePotionParticles:0:NONE
-key_key.toggleTimeOfDayOverlay:0:NONE
 key_key.undo:0:NONE
 key_key.use:-99:NONE
 key_key.use_ring:0:NONE
@@ -278,6 +296,7 @@ key_keybind.simplyjetpacks.emergency_hover:0:NONE
 key_keybind.simplyjetpacks.engine:0:NONE
 key_keybind.simplyjetpacks.gui:0:NONE
 key_keybind.simplyjetpacks.hover:0:NONE
+key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_keybinding.extrabitmanipulation.alt:0:NONE
 key_keybinding.extrabitmanipulation.bitmapping:0:NONE
 key_keybinding.extrabitmanipulation.chiseledarmor.slots:0:NONE
@@ -372,7 +391,9 @@ key_openblocks.keybind.vario_vol_up:0:NONE
 key_Options Gui:0:NONE
 key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:0:NONE
-key_Profile GUI:0:NONE
+key_pi.key.et_gui:0:NONE
+key_pi.key.et_world:0:NONE
+key_pi.key.open_pi:0:NONE
 key_psimisc.keybind:46:NONE
 key_quark.emote.cheer:0:NONE
 key_quark.emote.clap:0:NONE
@@ -393,14 +414,8 @@ key_quark.emote.weep:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.zombie:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestSort:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.lockBuilding:0:NONE
-key_quark.keybind.playerSort:0:NONE
 key_quark.keybind.toggleAutojump:0:NONE
 key_Quick Commands:0:NONE
 key_roots.keybinds.cycle:0:NONE
@@ -427,11 +442,12 @@ key_Side Inventory Key:0:NONE
 key_Toggle Jetpack:0:NONE
 key_Toggle Numina FOV fix :0:NONE
 key_Toggle RCS:0:NONE
-key_treechop.key.cycle_sneak_behavior:0:NONE
-key_treechop.key.open_settings_overlay:0:NONE
-key_treechop.key.toggle_chopping:0:NONE
-key_treechop.key.toggle_felling:0:NONE
 key_Unequip:0:NONE
+key_visualores.button.aura_flux:0:NONE
+key_visualores.button.excavator:0:NONE
+key_visualores.button.neromantic:0:NONE
+key_visualores.button.starlight:0:NONE
+key_visualores.key.action:0:NONE
 key_waila.keybind.liquid:25:NONE
 key_waila.keybind.recipe:0:NONE
 key_waila.keybind.usage:0:NONE
