@@ -2783,7 +2783,7 @@ metafile = true
 
 [[files]]
 file = "mods/sledgehammer.pw.toml"
-hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+hash = "0d2ccb6adb0f2906d5d796efceb7ec38f73a81048c7499fc1f2e452456131e14"
 metafile = true
 
 [[files]]

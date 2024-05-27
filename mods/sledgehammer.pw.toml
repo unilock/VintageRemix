@@ -1,13 +1,14 @@
 name = "Sledgehammer"
-filename = "Sledgehammer-1.12.2-2.0.26.jar"
+filename = "Sledgehammer-1.12.2-2.0.26-thin.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "bdd413df8203a1af255231d2026907fe62700e25"
+hash = "69ba5b6efd6590ae837749976d1142c74e74bc94"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5264329
+file-id = 5264331
 project-id = 319175
