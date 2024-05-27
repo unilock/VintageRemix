@@ -1642,7 +1642,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "e85cae3ad62db84bc424d7eea015342d76b4887560a457f383c5f9f56b2e3b93"
+hash = "989a55b26c0ff34abba82e35935198a290c982051828ab377d07ad33ec1b3467"
 metafile = true
 
 [[files]]
@@ -2537,7 +2537,7 @@ metafile = true
 
 [[files]]
 file = "mods/qmd.pw.toml"
-hash = "f60bd72d0182ac1cba65115d9000c40b1a2bb016489ca1f151a37107ee7f9f6e"
+hash = "f728e2bd334aa85c5f856f3ef79acd2ba4370050c68b59dbbdd3db7755e7a006"
 metafile = true
 
 [[files]]
