@@ -1087,11 +1087,6 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
-file = "mods/colorutility.pw.toml"
-hash = "bda2f237db88f4f253906fae65ce0bc308a229e30fd2287b47155d6d82c4f43b"
-metafile = true
-
-[[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "6dfc6d56dbe9234613c9efedbed372d3a990bf49f45ec9958d1e95518c31229c"
 metafile = true
