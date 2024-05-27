@@ -2296,11 +2296,6 @@ hash = "4d6580e369384d2786bf9ade5a78cbc03682765b93306fd6f6e9e93d24900b70"
 metafile = true
 
 [[files]]
-file = "mods/novam-terram-continuation.pw.toml"
-hash = "f0865dfa56da69b4d21045d840399f931a84a7001664e9987f435d31a53aae04"
-metafile = true
-
-[[files]]
 file = "mods/nuclearcraft-overhauled.pw.toml"
 hash = "7a0ce26511d6ac49212ca4e4eca54269345c11a462490ec980c9a263c669dc39"
 metafile = true
