@@ -3102,6 +3102,11 @@ hash = "e61ef55b2bb92cac212d30163cd703e67cddd513648763e8cdf1f9bbdfc17e91"
 metafile = true
 
 [[files]]
+file = "mods/trebuchet.pw.toml"
+hash = "95275f30953344b98c05b100928cb877f60400c6defb37025fb59ba2f4b24187"
+metafile = true
+
+[[files]]
 file = "mods/trinity.pw.toml"
 hash = "9e3f45c7d388a09cdf90a623fd7d72cdabd9177a581995fb62227a1ae6190c83"
 metafile = true

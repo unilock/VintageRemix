@@ -1,0 +1,13 @@
+name = "Trebuchet"
+filename = "trebuchet-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "493afcb8c561f37f017c828ebda82e72deed028f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2547909
+project-id = 291412
