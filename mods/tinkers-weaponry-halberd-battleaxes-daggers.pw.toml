@@ -1,0 +1,13 @@
+name = "Tinker's Weaponry: Halberds, Battleaxes, Daggers, Tridents and more!"
+filename = "tinkers_weaponry-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bc60ae01b6b98e94226597ca9c2abb8f1eea19d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5374714
+project-id = 1025625

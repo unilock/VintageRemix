@@ -3018,6 +3018,11 @@ hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-weaponry-halberd-battleaxes-daggers.pw.toml"
+hash = "c857c50edefbb43179201ee4f0edd2b188bec969586547e984d2dcf54ae586f5"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "0a852de741d5e2fe69e5ca2662fe86bd73e323fed158b146eaebdec617158f04"
 metafile = true
