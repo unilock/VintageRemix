@@ -429,6 +429,10 @@ file = "config/solcarrot.cfg"
 hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
 
 [[files]]
+file = "config/splash.properties"
+hash = "786076d2063f9dcba1ec3026edf2cdbe0e3b874c4583430d97b26d8cd99866d2"
+
+[[files]]
 file = "config/tconevo.cfg"
 hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 
