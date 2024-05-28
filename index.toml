@@ -2898,11 +2898,6 @@ hash = "1dfabd96ebaedac09f57015e7e581845fa3b92693d3d40e9b27c8720fa5b06d9"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-speedup.pw.toml"
-hash = "43d41187b5758e6a85d7daa32840347bff58e6303ef559e07561512255e4da37"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-tech.pw.toml"
 hash = "5744ee9ec63466932784a1dc4b519864222545d6793f1dcf53b0c36940f940c0"
 metafile = true
