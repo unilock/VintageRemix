@@ -2449,7 +2449,7 @@ metafile = true
 
 [[files]]
 file = "mods/planar-artifice.pw.toml"
-hash = "6cb193bce095deb6ecb4fb41dece1e12dd36382c0301beca178966a859c0a1e6"
+hash = "b08818474cf43fb363c08a34e5d85c227f086ec491d013492096e9c8dc41d782"
 metafile = true
 
 [[files]]

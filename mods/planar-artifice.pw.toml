@@ -3,11 +3,6 @@ filename = "planarartifice-1.4.0-pre7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6306ad1f7a5d08a0a4f926f440ef16e6d789e428"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3668551
-project-id = 409849
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/planarartifice-1.4.0-pre7.jar"
+hash-format = "sha256"
+hash = "f448294a81251f2ecd348b8ccffb9775c95cd0f0cb64e1a64830a3732399b9b1"
