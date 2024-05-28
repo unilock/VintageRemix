@@ -1163,11 +1163,6 @@ hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
 metafile = true
 
 [[files]]
-file = "mods/crimson-revelations.pw.toml"
-hash = "b4ba5654682546643bcf6b4d6fb51fb35147af6da6aa60adb97d21c3b5b7e159"
-metafile = true
-
-[[files]]
 file = "mods/crimson-warfare.pw.toml"
 hash = "d256a1e8404045bf30ddadeac830060ab5ad11de3a250e0095be383c36f0c2fe"
 metafile = true
@@ -2270,6 +2265,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
+metafile = true
+
+[[files]]
+file = "mods/new-crimson-revelations.pw.toml"
+hash = "72e8f403741b87730ab193de7d3ab25da4b0d6c894b9a4cedabaf661da66a274"
 metafile = true
 
 [[files]]
