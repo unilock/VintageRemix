@@ -1,8 +1,0 @@
-name = "VintagePack"
-filename = "vintagepack-1.0.1+1.12.2+forge.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/vintagepack-1.0.1+1.12.2+forge.jar"
-hash-format = "sha256"
-hash = "747c90e93be4ebe7d83f99f662dd12655e713446ea78c859c557b52a7d33ea98"
