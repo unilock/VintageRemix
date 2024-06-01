@@ -3242,6 +3242,11 @@ hash = "f2bcd1d34c7395c80dc47d4158be65a220a9183d5871d54ad3ada6a17b5d54a0"
 metafile = true
 
 [[files]]
+file = "mods/wizardry-next-generation.pw.toml"
+hash = "bdfedf85939c1f16dc9caf47759bec90b7cc938077533eec3cf210ca7887ce3c"
+metafile = true
+
+[[files]]
 file = "mods/wizardryutils.pw.toml"
 hash = "5edbf6734e49d5e05a55e89f8b8ae4eac1bd16c58ebaa4fe6182b5b8488d1380"
 metafile = true
