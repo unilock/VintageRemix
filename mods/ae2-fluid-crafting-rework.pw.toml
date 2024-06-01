@@ -1,13 +1,13 @@
 name = "AE2 Fluid Crafting Rework"
-filename = "Fluid Craft for AE2-2.5.13-r.jar"
+filename = "Fluid Craft for AE2-2.5.15-r.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c95635df339a8dbd12574c1f3cee2d6c780dfcc"
+hash = "dadc0e6028c13e3d2cb79b4f700e745e70f1fc6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5315135
+file-id = 5386343
 project-id = 623955

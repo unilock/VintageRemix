@@ -598,12 +598,12 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "8b79fcc21c64e6dc51a86cfda1d7a6217bdbdbfab876c82de4b3bb5afb2df09b"
+hash = "82beda66ba9c20df8d2febadd67c8a2af1815b1e424cca5bc16c30c3d862dac3"
 metafile = true
 
 [[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
-hash = "da1262972b2a2fa16019479decc67bb63435d669262952f8d2c154112bbd217e"
+hash = "2cfe5f42d0476a5723aced160f5025fad79a35995a63cf836dddccc33f20361d"
 metafile = true
 
 [[files]]
@@ -2228,7 +2228,7 @@ metafile = true
 
 [[files]]
 file = "mods/nae2.pw.toml"
-hash = "d6591323336b1c2cb8d9808fa2d922b6b7e55dcdc1f42e7063a42dbe0f46e954"
+hash = "108eab3cfbc1a3e6c73bcc27927979a84c58fd435ee929ab53bbc9926e6b5246"
 metafile = true
 
 [[files]]
@@ -2273,7 +2273,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "72e8f403741b87730ab193de7d3ab25da4b0d6c894b9a4cedabaf661da66a274"
+hash = "78862723d32281f34d4ff6798b9b8cab305327f09fa2720b89edbb3e24db6fca"
 metafile = true
 
 [[files]]
