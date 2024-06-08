@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
-hash = "2cfe5f42d0476a5723aced160f5025fad79a35995a63cf836dddccc33f20361d"
+hash = "648918701abb61f81771f1974af11a0206b372c3e5a30d7c5a0a683a0174250a"
 metafile = true
 
 [[files]]
@@ -1133,7 +1133,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c622c80421d6d5c2d2eedaf74dafcf1fbf6795b7f258e5c2650fbaf61c470fa6"
+hash = "252e337cc66d7a8f1d2ec3e51f72be6b4198ecf8781cda6a1cbf8c4cffd93f58"
 metafile = true
 
 [[files]]
@@ -1498,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "72c70ebbea1d79275f55a0861033514aa41218e963135f4bf03cc6e9756583ff"
+hash = "53b2fa9cfe465d624c0c5364cdc2c5b5576c602b715c77285c0b951c13e0c830"
 metafile = true
 
 [[files]]
@@ -2523,7 +2523,7 @@ metafile = true
 
 [[files]]
 file = "mods/qmd.pw.toml"
-hash = "f728e2bd334aa85c5f856f3ef79acd2ba4370050c68b59dbbdd3db7755e7a006"
+hash = "50b58e6ce1923a46d7695f34feb2ecd9b7153a883774e83b99d36aaa15bb28ff"
 metafile = true
 
 [[files]]
@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "3ed1c734992d6ad91098122510af420aa0c7037f1fe5f7c46997de62998d34ae"
+hash = "0451e3f2b33e2188793ed307f722b84d340f5c733e13e18f0f6bdf2de779c10b"
 metafile = true
 
 [[files]]
@@ -2613,7 +2613,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforbidden-magic.pw.toml"
-hash = "e1698a803a8472cde2c5d794f32f4cfd5fa5655a93da0c2466e57608398afff4"
+hash = "2914ac73cca9f21500d34342ab5e555fcffa6dd639b319a246aa7f4d6c7f8825"
 metafile = true
 
 [[files]]
@@ -2863,7 +2863,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-additions.pw.toml"
-hash = "45eb88fe8f6c3dfe54abff395635fc70cb9f720eb3a35764c39332357b6f657d"
+hash = "3f699a2d62d567cf20559c19f6f1a1e60a81ac700ed114ccdf7478c4062b6c8a"
 metafile = true
 
 [[files]]
@@ -3103,7 +3103,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweaked-petroleum.pw.toml"
-hash = "67ef4411241e8c17d8553d75053dc2c85a3a8d806e63d1555d2d388f92e3a407"
+hash = "26d68f56a2af4cda9b28f6e1af949703eaa417f697cba25a2b948352438dbcb1"
 metafile = true
 
 [[files]]
@@ -3243,7 +3243,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizardry-next-generation.pw.toml"
-hash = "bdfedf85939c1f16dc9caf47759bec90b7cc938077533eec3cf210ca7887ce3c"
+hash = "f56664ecc2f1398760bbbb97f535953d1dd76b5443136d150a7288acfb9c9fd3"
 metafile = true
 
 [[files]]
@@ -3258,12 +3258,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fb3dcfcafd35a07d5e95b11e355a77a780400fc777b721311d1c93ad736f0182"
+hash = "ba4d24a76ca9c053ea8bf060452c7ed64814f4e253f73ff66aa2ed5ae837c9d0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e565564dd8de9ffd2f57b9f1f9abb3fd253c9da004bacfbda517bdb811f6a4a0"
+hash = "48225864ebeaf80cdcf80a8f046425410ace5aa09bc843e4613200e0ffca726f"
 metafile = true
 
 [[files]]
@@ -3308,7 +3308,7 @@ metafile = true
 
 [[files]]
 file = "mods/zetta-industries.pw.toml"
-hash = "4b461c892b40b426ccee6246aafbf7eebc3ff6cb66c3ee947b958425aee5a85d"
+hash = "05ba90fcde287528929d0c39d66795d5263fe45b9eac77f5eb919437da17a140"
 metafile = true
 
 [[files]]

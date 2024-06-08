@@ -1,15 +1,15 @@
 name = "Fugue"
-filename = "+Fugue-1.12.2-0.14.12.jar"
+filename = "+Fugue-1.12.2-0.15.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/CleanroomMC/Fugue/releases/download/0.14.12/%2BFugue-1.12.2-0.14.12.jar"
+url = "https://github.com/CleanroomMC/Fugue/releases/download/0.15.3/%2BFugue-1.12.2-0.15.3.jar"
 hash-format = "sha256"
-hash = "0bcc5688e49a73474a5ab9104eb7b5d6687da17948c3e0cc8e3f4955009b98fd"
+hash = "98394c66d583b7a4fba88c45182276f3e5cf3d98a97ae7d879adf6e022cda22b"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "CleanroomMC/Fugue"
-tag = "0.14.12"
+tag = "0.15.3"
