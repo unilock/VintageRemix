@@ -1,6 +1,6 @@
 name = "Just Enough HarvestCraft (JEHC)"
 filename = "just-enough-harvestcraft-1.12.2-1.7.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

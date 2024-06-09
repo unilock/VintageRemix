@@ -1,6 +1,6 @@
 name = "ReAuth"
 filename = "ReAuth-1.12-Forge-4.0.7.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

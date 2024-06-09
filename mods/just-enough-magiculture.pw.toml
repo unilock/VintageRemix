@@ -1,6 +1,6 @@
 name = "Just Enough Magiculture"
 filename = "justenoughmagiculture-1.12.2-1.1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
