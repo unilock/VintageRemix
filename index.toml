@@ -2977,11 +2977,6 @@ hash = "9315eaa03a01659f6157f20d5591f5728588ab8979fd1d8b2215b4977f361835"
 metafile = true
 
 [[files]]
-file = "mods/time-core.pw.toml"
-hash = "9b1398103af8daafa20b402369c0512cb725a04a8f7514203557f949c6e51390"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-addons-fork.pw.toml"
 hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
 metafile = true
