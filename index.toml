@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "82beda66ba9c20df8d2febadd67c8a2af1815b1e424cca5bc16c30c3d862dac3"
+hash = "b0db116adb0cfd8b765ca88d24db5adfa562259252a34d5446fb63b11c52ea17"
 metafile = true
 
 [[files]]
