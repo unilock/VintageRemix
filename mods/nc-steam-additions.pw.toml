@@ -1,0 +1,13 @@
+name = "NuclearCraft Steam Additions"
+filename = "NCSteamAdditions-1.12.2-0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2dac38ac91e88b92e10a17a60437e47a7849da3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5414439
+project-id = 564602
