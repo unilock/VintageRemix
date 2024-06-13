@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/ancient-spellcraft.pw.toml"
-hash = "48f1b4fb45de9917f37aa76243fc3550ef27e15569d6fe7f17d5b6e37a8f6681"
+hash = "c0efee1398ddf5616ab3aaeda9a40195f5ee97e1e1cc17bc338331b756bc2be1"
 metafile = true
 
 [[files]]
@@ -1538,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "11f39ee530f6838395e2f392865613a69061b3fd53a8e9371c77ab64cf93418c"
+hash = "1f7e7f62a2930f16ae21880e3b66e9e2fb9d48939da8ff120b4455c50c380e7d"
 metafile = true
 
 [[files]]
@@ -1628,7 +1628,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "989a55b26c0ff34abba82e35935198a290c982051828ab377d07ad33ec1b3467"
+hash = "5637fbb254c4f085f9bd8a28dd361c5fcd1eca1658deb34235e6f648960cc96f"
 metafile = true
 
 [[files]]
@@ -2257,6 +2257,16 @@ hash = "225769e039a569a0d43b03989e1b1307181f26f3fc9fdee85a054ccf024f587a"
 metafile = true
 
 [[files]]
+file = "mods/nc-steam-additions.pw.toml"
+hash = "8cd51d79defd314c3bec8730a678d7e77612c7690c716301525a4c98f46b0f6e"
+metafile = true
+
+[[files]]
+file = "mods/nco-java-legacy-lib.pw.toml"
+hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
+metafile = true
+
+[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
 metafile = true
@@ -2288,7 +2298,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-overhauled.pw.toml"
-hash = "7a0ce26511d6ac49212ca4e4eca54269345c11a462490ec980c9a263c669dc39"
+hash = "d27db2dd7988bfc3cfed82a74f0239d1e9afc60233f6ac01f21e0709af011b62"
 metafile = true
 
 [[files]]
@@ -3078,7 +3088,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinity.pw.toml"
-hash = "9e3f45c7d388a09cdf90a623fd7d72cdabd9177a581995fb62227a1ae6190c83"
+hash = "2970e8902264941202fdede29d8b2d28fe0263e87cd7bc9d9268a14ff9fc71cb"
 metafile = true
 
 [[files]]
