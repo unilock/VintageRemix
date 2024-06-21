@@ -2287,6 +2287,11 @@ hash = "0d74b71c2ae212341546f03bf9beed86675dd863b152b815506a18405b9b2f65"
 metafile = true
 
 [[files]]
+file = "mods/nco-java-legacy-lib.pw.toml"
+hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
+metafile = true
+
+[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
 metafile = true
