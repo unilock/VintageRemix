@@ -1542,16 +1542,6 @@ hash = "46323f0d213c9254b88676838c07c13418874cc0fec8edb7f966b73c16efe746"
 metafile = true
 
 [[files]]
-file = "mods/gravitation-suite-patcher.pw.toml"
-hash = "6bec6a6bd69be95691d37ccdb58bfc242dc2433ac959c8868561d2268b6d3f9d"
-metafile = true
-
-[[files]]
-file = "mods/gravitation-suite.pw.toml"
-hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
-metafile = true
-
-[[files]]
 file = "mods/groovyscript.pw.toml"
 hash = "110c7b1eea1f287168259e7bb6b7822a5f7aee979d22b771e9b2d3aa285e4c59"
 metafile = true
@@ -1989,16 +1979,6 @@ metafile = true
 [[files]]
 file = "mods/login-shield.pw.toml"
 hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
-metafile = true
-
-[[files]]
-file = "mods/logistics-bridge-dmnedition.pw.toml"
-hash = "d059259c70d1895d32e17a4cfe867d9f436480cdadb41e0cc8f3233855fd2cd0"
-metafile = true
-
-[[files]]
-file = "mods/logistics-pipes.pw.toml"
-hash = "84ee5d1a56be5c98da27902ee0f8ac869c6e114098f8141e12d8607f0fae3153"
 metafile = true
 
 [[files]]
