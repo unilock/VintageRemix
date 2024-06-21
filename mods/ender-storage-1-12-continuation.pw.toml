@@ -1,13 +1,13 @@
 name = "Ender Storage continuation"
-filename = "EnderStorage-1.12.2-2.5.0.jar"
+filename = "EnderStorage-1.12.2-2.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9432b00dc1fbe738385c20437cdc70081ff5d512"
+hash = "b75d929cc2c2047f55560c1afa36b2b9655b49f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5111624
+file-id = 5429004
 project-id = 634242

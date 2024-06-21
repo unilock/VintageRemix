@@ -1,13 +1,13 @@
 name = "Arcane Apprentices"
-filename = "ArcaneApprentices-1.12.2-1.2.2.jar"
+filename = "ArcaneApprentices-1.12.2-1.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "92f4b2d94a6cd1579359d1eb6cf2bf5e029291a7"
+hash = "ba075b7edbdec984eb7d82b900197f2c665d8954"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5119178
+file-id = 5434786
 project-id = 907405

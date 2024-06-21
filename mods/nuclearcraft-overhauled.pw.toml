@@ -1,13 +1,14 @@
 name = "NuclearCraft: Overhauled"
-filename = "nuclearcraft-1.12.2-2o.7.6.jar"
+filename = "NuclearCraft-2o.6.2-1.12.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "4ad585993ab0d346e6101d7e55d84874f38cdd4f"
+hash = "c9a0c91863d2078ea9a45696f64a21b593e7d73a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5414785
+file-id = 3862197
 project-id = 336895
