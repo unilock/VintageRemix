@@ -2557,11 +2557,6 @@ hash = "84305c9ab2f078c5cf25e54bc3bc657b6809ce58c6224350e2700788bfd7f7dd"
 metafile = true
 
 [[files]]
-file = "mods/qmd.pw.toml"
-hash = "50b58e6ce1923a46d7695f34feb2ecd9b7153a883774e83b99d36aaa15bb28ff"
-metafile = true
-
-[[files]]
 file = "mods/quacklib.pw.toml"
 hash = "fab710d039d8c89c7bcd3d80f33417cdf943e2f4bc062820ec53561d9460f01e"
 metafile = true
