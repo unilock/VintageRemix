@@ -2277,6 +2277,11 @@ hash = "225769e039a569a0d43b03989e1b1307181f26f3fc9fdee85a054ccf024f587a"
 metafile = true
 
 [[files]]
+file = "mods/nc-steam-additions.pw.toml"
+hash = "0d74b71c2ae212341546f03bf9beed86675dd863b152b815506a18405b9b2f65"
+metafile = true
+
+[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
 metafile = true
@@ -2308,7 +2313,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-overhauled.pw.toml"
-hash = "7a0ce26511d6ac49212ca4e4eca54269345c11a462490ec980c9a263c669dc39"
+hash = "ab46255891157406798523bacfffc12e7260703931e4721ae5d5b4c7319be261"
 metafile = true
 
 [[files]]
@@ -3098,7 +3103,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinity.pw.toml"
-hash = "9e3f45c7d388a09cdf90a623fd7d72cdabd9177a581995fb62227a1ae6190c83"
+hash = "d6e376a785159207e355ee407425ab5de754fd2f22ccf6068300fe5050f79e43"
 metafile = true
 
 [[files]]
