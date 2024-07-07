@@ -1,13 +1,13 @@
 name = "IC2 Patcher"
-filename = "ic2patcher-2.0.7.jar"
+filename = "ic2patcher-2.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "44f653212b24fa827e980ecc8c6f6cd867cf3daa"
+hash = "545d781391009227f5da576caa445a48546abe65"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4991810
+file-id = 5496302
 project-id = 456402

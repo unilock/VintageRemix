@@ -1,13 +1,13 @@
 name = "Binnie's Mods Patched"
-filename = "binnie-mods-1.12.2-2.5.1.211.jar"
+filename = "binnie-mods-1.12.2-2.5.1.212.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d8c9d6b043dd9333c78e8f541fb88b60c212e415"
+hash = "8c584a4db94fc89701a38c4890fb63f8281aa69c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4741099
+file-id = 5492997
 project-id = 899182
