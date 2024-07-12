@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
-hash = "42c0a8ab2e71babfdde2430ff66d977d41c6b0ace521e7484bcdb736ac9b45b5"
+hash = "de5ef04955edb7bc78c912c80e6e552309a072a746c5723ece53863aefff160a"
 metafile = true
 
 [[files]]
@@ -1483,7 +1483,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozen-fiend.pw.toml"
-hash = "f0f7ccc271f884360c62c5febe09496c0820a80f80249e805b5e7cbc40e8f292"
+hash = "7311c49b306b860561d53008843d439a0afb0d856ff6d7618aee539332824dac"
 metafile = true
 
 [[files]]
@@ -1678,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "e4cd45f5b399737e78015c65fbbfe93559de9e3233e67e67bea002f3ea6cf010"
+hash = "6df94aefeb68c80c0ae82f3688fe248d800765c11c48e4469683fca06e296809"
 metafile = true
 
 [[files]]
@@ -2893,7 +2893,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-energistics-extended-life.pw.toml"
-hash = "44a912bd098ed2856f58583b8eb3aa5404a8514ed11e11ef3d11f5a5b2bcd48d"
+hash = "92520df9c6c18f7c511b887dc8117a0d1dd149618ad0c65a4fdc67f016c67486"
 metafile = true
 
 [[files]]
