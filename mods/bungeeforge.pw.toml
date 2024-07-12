@@ -1,8 +1,0 @@
-name = "BungeeForge"
-filename = "bungeeforge-1.12.2.jar"
-side = "server"
-
-[download]
-url = "https://github.com/caunt/BungeeForge/releases/download/v1.0.6/bungeeforge-1.12.2.jar"
-hash-format = "sha256"
-hash = "54ececa6c5971950b0a84823ed8f2047eccbaeab88cb181d3ceeb486408435b5"

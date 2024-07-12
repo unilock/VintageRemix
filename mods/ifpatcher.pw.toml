@@ -1,8 +1,13 @@
 name = "IFPatcher"
-filename = "IFPatcher-2.3.0.jar"
+filename = "IFPatcher-2.4.0.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/IFPatcher-2.3.0.jar"
-hash-format = "sha256"
-hash = "6791b9b1b4cebac01e55b27ab77bf8a226febee07d8660e645df1698127d898f"
+hash-format = "sha1"
+hash = "6cdcedd22eddfcb3313d16cf83e99ab903b59456"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5244832
+project-id = 456083

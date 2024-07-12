@@ -942,11 +942,6 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
-file = "mods/bungeeforge.pw.toml"
-hash = "3db8f1dee130d82755b3742f94cf63863f54e9a2e3a3af3e39179b49d18a43c3"
-metafile = true
-
-[[files]]
 file = "mods/capability-adapter.pw.toml"
 hash = "b8770bdd6ccdac9db62f61bbc030346765a68fbb2b25f1a58a49e8f4454bd1b2"
 metafile = true
@@ -1648,7 +1643,7 @@ metafile = true
 
 [[files]]
 file = "mods/ifpatcher.pw.toml"
-hash = "ae4e5f48b8af023fb38d9450c556f331359405befb6e3f23cc6a2fc37f6ea4d1"
+hash = "7d1efe5b1bfb6e1408dab46f0a8ed8b8195ba524e4baa046419a3da41a8e471f"
 metafile = true
 
 [[files]]
