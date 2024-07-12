@@ -567,8 +567,8 @@ hash = "3606d6de09f7c5b7beb9f94cbde59c622fc05b6515513a9dea4bde31474d27b8"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry.pw.toml"
-hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
+file = "mods/advanced-rocketry-2.pw.toml"
+hash = "1f68269ba088269a7c4a81270159fe6427039a1b28e4406cacc4fb39a27b5f6c"
 metafile = true
 
 [[files]]
@@ -1947,13 +1947,13 @@ hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
 metafile = true
 
 [[files]]
-file = "mods/libraryex.pw.toml"
-hash = "3b801e140a30d59835776b7382e90fe95068e1dbb1204289f68ad8ee49d9d27f"
+file = "mods/library-for-ar-reworked.pw.toml"
+hash = "0ad846c92ea71874a91c51234ee30b7ca35d879986e49f6fce2e5c60590ded18"
 metafile = true
 
 [[files]]
-file = "mods/libvulpes.pw.toml"
-hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
+file = "mods/libraryex.pw.toml"
+hash = "3b801e140a30d59835776b7382e90fe95068e1dbb1204289f68ad8ee49d9d27f"
 metafile = true
 
 [[files]]
