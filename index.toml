@@ -21,6 +21,10 @@ file = "config/AppliedEnergistics2/VersionChecker.cfg"
 hash = "bf68a431695fc857a9434d1f3f4cd8a0db1944a5aa6fe4267d97914c722488cd"
 
 [[files]]
+file = "config/Arcane World.cfg"
+hash = "ae69543a42cfb00978c4ae5f232a7b77104cedbb64c015e3dde0430d5950c6e6"
+
+[[files]]
 file = "config/Customized Dungeon Loot.cfg"
 hash = "f5a9879d45858cd7806d630e524a5e230bac080854fa17f3e8d6e7473dd17d0c"
 
@@ -162,7 +166,7 @@ hash = "46ce8c7e1d229c0c9bac9f08f9d7c69341f1bf84370fdac3e443851ef6111af4"
 
 [[files]]
 file = "config/defeatedcrow/climate/core.cfg"
-hash = "4db95646017655f487eacc23d0bddbe0b089f3c42a555565d15def34c207380e"
+hash = "353c4445b6364244d1eba78b64267aac7afad5ea45f0bfb798f509cf7f28ab2d"
 
 [[files]]
 file = "config/defeatedcrow/climate/main.cfg"
@@ -186,7 +190,7 @@ hash = "3b5af99793525aaa77fa619bb4fb594431eb0fc8644540ad2028ef44197df600"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "801b1a54394849e3b369428851a3fdde59ec878e456458574516f0fd5148b369"
+hash = "6dd409e2237404c69764606023c3c42ad6c87f73558ed2bd77652f3e6b37578e"
 
 [[files]]
 file = "config/dungeontactics.cfg"
@@ -386,7 +390,7 @@ hash = "c93dc3865e78812d6393c5394f3f46b59ebbcc66f2a95bb6693ee1ae8e8acbc5"
 
 [[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
-hash = "d2a5caac69daefd9b9a39c09f29df1886f73d8766447f527cf694bd87f59b195"
+hash = "733692d16addda618aa12ed47eb28d692041a00629f01e113aa416cd79c83f39"
 
 [[files]]
 file = "config/rats.cfg"
