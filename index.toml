@@ -301,6 +301,10 @@ file = "config/login_shield.cfg"
 hash = "f055711de053d1059e4c7174a8cb398a4015c92ef1d04bae397bb9e1a0aaaf1d"
 
 [[files]]
+file = "config/loliasm.cfg"
+hash = "4046cdd129df7564ffd82eaafbc1c5c18b90ca07aabc7e98afa0e9582ff7fd77"
+
+[[files]]
 file = "config/machinemuse/numina.cfg"
 hash = "080e121e7dd3fa4c7d2737871028166f2e4131f320442783977a3a991021a773"
 
@@ -1131,6 +1135,11 @@ hash = "6f006a50dfb0dffb8409cb6b9e33efd2e0c79e0847e5094b6272a7b2ef88c6f4"
 metafile = true
 
 [[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
 file = "mods/constructs-armory.pw.toml"
 hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
@@ -1293,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
 hash = "65170142f7f13aabed317c8f730c55406fb99ddcc77a46f5fcd12a4577204c96"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "ce1d7594516b9a5b292614b79444df64f05045ce3ff422702253e13358fb8d1e"
 metafile = true
 
 [[files]]
@@ -1501,11 +1515,6 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
-file = "mods/fugue.pw.toml"
-hash = "27e9b983e926faeaca203f5c9b6b7bd9d78946ed4b5b5cbc4fb8ca63da1afa5d"
-metafile = true
-
-[[files]]
 file = "mods/gambling-style.pw.toml"
 hash = "d3c1ea159d88e1d2273f4784642eb389c3903735f41f112b3f18415a6bba19fc"
 metafile = true
@@ -1538,6 +1547,16 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "46323f0d213c9254b88676838c07c13418874cc0fec8edb7f966b73c16efe746"
+metafile = true
+
+[[files]]
+file = "mods/gravitation-suite-patcher.pw.toml"
+hash = "6bec6a6bd69be95691d37ccdb58bfc242dc2433ac959c8868561d2268b6d3f9d"
+metafile = true
+
+[[files]]
+file = "mods/gravitation-suite.pw.toml"
+hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
 metafile = true
 
 [[files]]
@@ -1628,6 +1647,11 @@ metafile = true
 [[files]]
 file = "mods/ic2-patcher.pw.toml"
 hash = "334bf9422fa7fa68e729792dfedf606cda30ecb56073d7316f10bb89a68a87b1"
+metafile = true
+
+[[files]]
+file = "mods/icbm-classic-cc-addon.pw.toml"
+hash = "026d13da36dcfbb7a86f0f11a94df7996152667daa58ca5a42978eb5b3eb731d"
 metafile = true
 
 [[files]]
@@ -1981,6 +2005,16 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
+file = "mods/logistics-bridge-dmnedition.pw.toml"
+hash = "d059259c70d1895d32e17a4cfe867d9f436480cdadb41e0cc8f3233855fd2cd0"
+metafile = true
+
+[[files]]
+file = "mods/logistics-pipes.pw.toml"
+hash = "84ee5d1a56be5c98da27902ee0f8ac869c6e114098f8141e12d8607f0fae3153"
+metafile = true
+
+[[files]]
 file = "mods/lolasm.pw.toml"
 hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
 metafile = true
@@ -1998,6 +2032,11 @@ metafile = true
 [[files]]
 file = "mods/lost-magic.pw.toml"
 hash = "8ada588bc194bb0c2b3e78366d9efbbb5ca30df5267ab7577406a1030f2448e7"
+metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify-1.12.pw.toml"
+hash = "41cc4ee35e5c3bf186c5680e38f78ee2ad7577963b7b70544e2504d6db524a11"
 metafile = true
 
 [[files]]
@@ -2128,6 +2167,11 @@ metafile = true
 [[files]]
 file = "mods/missing-pieces.pw.toml"
 hash = "c1922bbd3fe60836ac2b9cb60e70144785b0446526c74f73ff4071b7dbaa5385"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "5c00ea1552543b1506869d7e70c7e10d9e913ef97e93427ca2cbe4c8f035fb24"
 metafile = true
 
 [[files]]
@@ -2703,11 +2747,6 @@ metafile = true
 [[files]]
 file = "mods/rusticwitchcraft.pw.toml"
 hash = "b7f23f25a153643c45fd075db62cde354fd562bbc9752e554054914b9796f617"
-metafile = true
-
-[[files]]
-file = "mods/scalar.pw.toml"
-hash = "2e764ebf1438dd1ac43911eb83f594d7ec886a4dc5b0afeadfec0a1d4dc4edc4"
 metafile = true
 
 [[files]]
