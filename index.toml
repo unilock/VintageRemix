@@ -2557,6 +2557,16 @@ hash = "884c9c6d7924787c9e90d642d869a0ebaaf6b046faf3079a979c87506ed7afcf"
 metafile = true
 
 [[files]]
+file = "mods/railcraft.pw.toml"
+hash = "0edb73f5cabf289514e4de0deca57f031e74ec87c0291ea33e0e75190037959d"
+metafile = true
+
+[[files]]
+file = "mods/railway-depot-worker.pw.toml"
+hash = "be06d67100113719607053ce41cea2a84ba39adfbf9f1003a88be37e8218f1c6"
+metafile = true
+
+[[files]]
 file = "mods/random-psideas.pw.toml"
 hash = "7a9a7f79e3e9ccc3f6819ddc11a0de45897cee9022d8adc15d31b428fae45d31"
 metafile = true
