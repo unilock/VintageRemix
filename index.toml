@@ -278,7 +278,7 @@ hash = "7416e29e50495d252ea70ca9514a0e910a6c2367a5c09c0c592863f62e0fb456"
 
 [[files]]
 file = "config/itlt.cfg"
-hash = "873fb3d55cb4ab435d2aeb0e6f2a907ded617c3ce402a075110dbd982d6cd48a"
+hash = "4e1ca5304dcf284636dd3ff7df40fc9f470e14662559c1fc8ef3173f160e2bd7"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -382,7 +382,7 @@ hash = "78c850b437f3b2f96b295313f321a037cc7b9a9ce9468995f2205ec774234e8c"
 
 [[files]]
 file = "config/randompatches.cfg"
-hash = "600fbaf59540e7d36f57bcaeee8e36550069f45213e712d2eed51376fe93ff58"
+hash = "c93dc3865e78812d6393c5394f3f46b59ebbcc66f2a95bb6693ee1ae8e8acbc5"
 
 [[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
@@ -939,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/capability-adapter.pw.toml"
 hash = "b8770bdd6ccdac9db62f61bbc030346765a68fbb2b25f1a58a49e8f4454bd1b2"
+metafile = true
+
+[[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
 metafile = true
 
 [[files]]
@@ -1638,7 +1643,7 @@ metafile = true
 
 [[files]]
 file = "mods/ifpatcher.pw.toml"
-hash = "7d1efe5b1bfb6e1408dab46f0a8ed8b8195ba524e4baa046419a3da41a8e471f"
+hash = "b68037310ddcf8b677d62f54d5ad1ae839c7bbe4008859793f13ddabf46c6cdd"
 metafile = true
 
 [[files]]
