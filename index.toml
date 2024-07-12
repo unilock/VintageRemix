@@ -114,7 +114,7 @@ hash = "04268f3aee06782c2309bc4917f0bc860e47f21da6867a8d0cea38da8b19e8f3"
 
 [[files]]
 file = "config/charset/module/lib.cfg"
-hash = "23b49de2dcc7d3d27118c07d0c4c05d832172e733e7e5cdf1b33dc022162a09a"
+hash = "31c114616f5a3cdc42a2a6a604d56e503e9518eb6c249ec7457dc2bda00eb8a6"
 
 [[files]]
 file = "config/charset/module/tweak.bonemeal.cfg"
