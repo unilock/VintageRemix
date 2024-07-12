@@ -682,11 +682,6 @@ hash = "5054812fbdd2e49509d2c5fc78712733d6b0ed377a97ed9942f5769efc6133fc"
 metafile = true
 
 [[files]]
-file = "mods/apathetic-mobs.pw.toml"
-hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
-metafile = true
-
-[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
