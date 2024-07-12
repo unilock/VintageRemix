@@ -2441,11 +2441,6 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
-file = "mods/pams-weee-flowers.pw.toml"
-hash = "6c4c3db9fe686dcf7b0a66119e0399a541f6d2e9744c72e6b7c9099e2db1991e"
-metafile = true
-
-[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
 metafile = true
