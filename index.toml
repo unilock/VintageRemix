@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-fluid-crafting-rework.pw.toml"
-hash = "6a31f2e603217c38019062f65fc674ec551bbbc7a34034b439b8dcf5d7600bdd"
+hash = "a6aec08c01254393f67546c58c9b4a3eee09efe1ad5c50c69e9409b7049a9429"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/aetherworks-extended-life.pw.toml"
-hash = "06d45fb6c4793e1bccb04407bd16b74b9df97c141755184d50258f8b475d4c7f"
+hash = "207a19d1c93302194d2ed1647475527b18145f5925dd885376a429c3e2086a59"
 metafile = true
 
 [[files]]
@@ -3039,7 +3039,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "1ee7c2dc356390a3329c35834613f10b21f1bf096b772f74633fedb3c3eb5f82"
+hash = "7db541563e5f3da249cad0778e6982d1555c3b0347aa26793832fa0ca61e8929"
 metafile = true
 
 [[files]]
@@ -3094,7 +3094,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "9eb3d1ac395bf0775c1a151be15877d8fce5bfbee0ce4ca29596317aa53bd078"
+hash = "d4b265db96d54164964d11bddc7a1abc78777e56850b1d94683febb7d8009cf4"
 metafile = true
 
 [[files]]
