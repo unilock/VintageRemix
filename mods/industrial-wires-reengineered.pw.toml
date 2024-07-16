@@ -1,0 +1,13 @@
+name = "Industrial Wires ReEngineered"
+filename = "IndustrialWires-1.8-38.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaf8367a84ddb4b823ad6fde778b14216ed9f567"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3474268
+project-id = 521139
