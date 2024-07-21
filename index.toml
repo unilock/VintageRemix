@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "asm/hammercore.xml"
-hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
-
-[[files]]
 file = "config/AE2WirelessTerminals.cfg"
 hash = "2844ef782a68ba58d76c72fdc6cf0ea1a844a81da1a7031cf5650c9363315485"
 
@@ -466,7 +462,7 @@ hash = "c7374204a509deb08d2077a93a8459849816607263d45731b196df08f584068c"
 
 [[files]]
 file = "config/thaumicjei.cfg"
-hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
+hash = "7d61b781bc22278dbd7e96df692c0d91c4496379160fd16be38d5fae96cf2f5f"
 
 [[files]]
 file = "config/thebetweenlands/config.cfg"
@@ -1538,11 +1534,6 @@ hash = "bf27df0f1e0964ff054038c7406c8d312ec08dd0932e4d080f55f225b6e542cf"
 metafile = true
 
 [[files]]
-file = "mods/hammer-lib.pw.toml"
-hash = "8f3d504806f0414b9e38921e1a7b8f6fbdcda3c4ba3ece4eb1c53ecb57ea5fdd"
-metafile = true
-
-[[files]]
 file = "mods/hat-stand.pw.toml"
 hash = "d4313dd83e1e1f85596c9d8218398133ebfd95e5995ea1e36149024a78da246d"
 metafile = true
@@ -1550,21 +1541,6 @@ metafile = true
 [[files]]
 file = "mods/hats.pw.toml"
 hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
-metafile = true
-
-[[files]]
-file = "mods/heat-and-climate-lib.pw.toml"
-hash = "afe391ef7839dd4308ea262a7fad8c586224ea84a860698ea013617411937dfc"
-metafile = true
-
-[[files]]
-file = "mods/heat-and-climate.pw.toml"
-hash = "8a46536ea8ad1b82bd68a8734f554ca7d686404d4a1b4f3affa527798ed43e65"
-metafile = true
-
-[[files]]
-file = "mods/heat-and-processing.pw.toml"
-hash = "6d94359d922afea59f8d6f8711e3e54b884723d0cc8902105ca17bd49b9058b7"
 metafile = true
 
 [[files]]
@@ -1735,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "a63422295977e75ad0e01cf2b93e55fe11404846019078cd83fa189e144cfe08"
+metafile = true
+
+[[files]]
+file = "mods/integrated-derivative.pw.toml"
+hash = "7f316117d72f0cf1228732c9b755762190eaa9b8d7593c7f976e9d1f8a5ff487"
 metafile = true
 
 [[files]]
@@ -2800,11 +2781,6 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
-metafile = true
-
-[[files]]
-file = "mods/thaumic-additions.pw.toml"
-hash = "3f699a2d62d567cf20559c19f6f1a1e60a81ac700ed114ccdf7478c4062b6c8a"
 metafile = true
 
 [[files]]
