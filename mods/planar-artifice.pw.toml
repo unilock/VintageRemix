@@ -1,8 +1,0 @@
-name = "Planar Artifice: Continuation"
-filename = "planarartifice-1.4.0-pre7.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/planarartifice-1.4.0-pre7.jar"
-hash-format = "sha256"
-hash = "f448294a81251f2ecd348b8ccffb9775c95cd0f0cb64e1a64830a3732399b9b1"
