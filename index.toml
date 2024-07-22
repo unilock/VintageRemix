@@ -202,7 +202,7 @@ hash = "4e1ca5304dcf284636dd3ff7df40fc9f470e14662559c1fc8ef3173f160e2bd7"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "19732a2bc13662ce649d1e3063769ca1c2eeea759631664ae50e989f7d168d65"
+hash = "545d84b768f99bc2600e4fe70ba14c0af3cef72039e8585c4c8342e79f4bda11"
 
 [[files]]
 file = "config/lemonlib.cfg"
