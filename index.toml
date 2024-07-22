@@ -985,6 +985,11 @@ hash = "7bcb26c132296ded42eb4bdb47a7c3d65701ffebe694852987c3927ced15f6dd"
 metafile = true
 
 [[files]]
+file = "mods/emberroot-zoo.pw.toml"
+hash = "7ef0af6e244d97e5afbe32a7bf83393cba98fb55a73eebc9791bb1cce2261dc1"
+metafile = true
+
+[[files]]
 file = "mods/embers-extended-life.pw.toml"
 hash = "e5d2d5ad1e388249bad66ce125aa4b0226549865d80cba39d143f6a8ef52adb3"
 metafile = true
