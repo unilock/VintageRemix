@@ -33,6 +33,10 @@ file = "config/aether_legacy.cfg"
 hash = "b1978ccff267a9b8471ba3edb4c913c119fdc108ed327a56a1976cccf547e5e6"
 
 [[files]]
+file = "config/agricraft/config.cfg"
+hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
+
+[[files]]
 file = "config/aquaacrobatics.cfg"
 hash = "b2826720f51d5593cd3b8793f355d3bfa5c6ad2d6e932c0ff6f78adc4e3a5d58"
 
