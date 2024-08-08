@@ -1,13 +1,13 @@
 name = "Embers Unofficial Extended Life"
-filename = "embers_extended_life-1.23.6.jar"
+filename = "embers_extended_life-1.24.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1df821e51b06d15829dea74e4c4f6e503af608d5"
+hash = "5fb71c712e5df37839c13105d8775fb98c3c3dad"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5321973
+file-id = 5595813
 project-id = 936489
