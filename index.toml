@@ -1929,6 +1929,11 @@ hash = "bff691af416c451674e300f0bdaf89b1d7450aa7ad275421ce7f50fd65463438"
 metafile = true
 
 [[files]]
+file = "mods/rather-enough-immersive-multiblocks.pw.toml"
+hash = "2c1e0eb450c51701d45ddfb04deafbea2b7782935a797c567ff637e035183f70"
+metafile = true
+
+[[files]]
 file = "mods/rats-ratn-edition.pw.toml"
 hash = "fc7949cacd463323621882f6b2a517ee28a23d909e43752e04c345800a2ae670"
 metafile = true
