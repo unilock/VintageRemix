@@ -57,10 +57,6 @@ file = "config/biomesoplenty/misc.cfg"
 hash = "9b5e408e52a5c37db334c9922b5fb88247c2e2125baba86fef69b191a50f4050"
 
 [[files]]
-file = "config/bloodmagic/bloodmagic.cfg"
-hash = "88171d803877075679574fc29207f7a3bbc3af3056fe505d202c95e59b6525e9"
-
-[[files]]
 file = "config/brandon3055/BrandonsCore.cfg"
 hash = "248e154ff218cdc14533546cca2978e633617c9b843edad254764c3169cb5433"
 
@@ -594,21 +590,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
-metafile = true
-
-[[files]]
-file = "mods/blood-arsenal.pw.toml"
-hash = "9162f848cb24ffef4e156239c058eb32256345b4da97791ae6dc60abc92398c3"
-metafile = true
-
-[[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
-metafile = true
-
-[[files]]
-file = "mods/blood-smeltery.pw.toml"
-hash = "36d941ec5025fbc0dff93af4280f567d521d80fd59420ca41957bd7230d5adb3"
 metafile = true
 
 [[files]]
