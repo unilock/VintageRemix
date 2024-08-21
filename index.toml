@@ -53,14 +53,6 @@ file = "config/battletowers.cfg"
 hash = "b33a002d60d7a2110ec2e6ab75544db3447cb11be19201d152db24d34ba85fca"
 
 [[files]]
-file = "config/beneath/beneath.cfg"
-hash = "dca01bf4dbff8664cc7e8518ad2a0352c5ea68352529b328b8f8a0790a91b716"
-
-[[files]]
-file = "config/bibliocraft.cfg"
-hash = "55bd32bf64745efec54e9ab4cd65e07289e468785e196e4e4eb25e872845c7dd"
-
-[[files]]
 file = "config/biomesoplenty/misc.cfg"
 hash = "9b5e408e52a5c37db334c9922b5fb88247c2e2125baba86fef69b191a50f4050"
 
@@ -89,16 +81,8 @@ file = "config/colossalchests.cfg"
 hash = "f9a9d3a9c5fea1654aac17fe7dea2db7ad002331eef88484f60b4cd3b86af010"
 
 [[files]]
-file = "config/commoncapabilities.cfg"
-hash = "355015ba94241229762a007c5879ac2b685e5a95a085a16944146d771c35e320"
-
-[[files]]
 file = "config/cuisine.cfg"
 hash = "0c0a1ed55b36ad49252c3f2be4ac5b226ab8bd87f1c0a7133301be1286e4cca3"
-
-[[files]]
-file = "config/cyclopscore.cfg"
-hash = "c0772caeb9173b1d525362396734c5552b2ed5d89312788ae4f6c2f6da1bc994"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -183,18 +167,6 @@ hash = "fffef2dbf1b6f0f7fed3308c3fec378cfd71914dcc39401d77f32c1a13f68c8b"
 [[files]]
 file = "config/inspirations.cfg"
 hash = "9d9688a800c1c383e0e02c7bc679776c874735f23a7dc88edc46a2786dcf070d"
-
-[[files]]
-file = "config/integratedcrafting.cfg"
-hash = "558dda20652adc0c5d2a7b967352da8351349ddefb6aee9d9e29bc186611e1bc"
-
-[[files]]
-file = "config/integrateddynamics.cfg"
-hash = "24f0c36657f8dc84e7e5348bb9e0163e217fda4321b80c0a7ca6cfa1a35a0129"
-
-[[files]]
-file = "config/integratedtunnels.cfg"
-hash = "26736d2e5f923e54d3f5e1a0555d54ad2a500b5d231841e1c5a32b84e47c8b3a"
 
 [[files]]
 file = "config/itlt.cfg"
@@ -615,11 +587,6 @@ hash = "d37155d617d87fa1ede424228bc42aedc4853aa3b3fd565baae7f02ee93f37f9"
 metafile = true
 
 [[files]]
-file = "mods/bibliocraft.pw.toml"
-hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
-metafile = true
-
-[[files]]
 file = "mods/binnies-mods-patched.pw.toml"
 hash = "8e27c954be35a2c6e5eedfe2e7373b465547ad571a8f7b7cde66f63f83ef3a1d"
 metafile = true
@@ -710,11 +677,6 @@ hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
 
 [[files]]
-file = "mods/champions.pw.toml"
-hash = "a85b43befe23472659f8a4913a633f54634929a6a476562010b69f30d7c55cfa"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "0374f62727fb3525bc6d37c42ed407da341c85454b3580ed44b969143c4d34f6"
 metafile = true
@@ -800,16 +762,6 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
-file = "mods/colossal-chests.pw.toml"
-hash = "6dfc6d56dbe9234613c9efedbed372d3a990bf49f45ec9958d1e95518c31229c"
-metafile = true
-
-[[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "99b24c15748577e8f08c7f8c3766b359e84b8ab5bc52a0f3c6bbe780611840f0"
-metafile = true
-
-[[files]]
 file = "mods/commons0815.pw.toml"
 hash = "8e948dba900f6e492e7fa3778568ff8b6b617b37e0746fc71b9ef97621f0c599"
 metafile = true
@@ -892,11 +844,6 @@ metafile = true
 [[files]]
 file = "mods/culinary-construct.pw.toml"
 hash = "1e1e68c780e7e8670b547493c26cc5bbc9a19d907d498f689fcb8be975a4e5ad"
-metafile = true
-
-[[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
@@ -1155,11 +1102,6 @@ hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
-file = "mods/id-squeezer-tweak.pw.toml"
-hash = "1925af245794c755eeefe8c8efdd2a856d0353a1f29998a5eb8d7075b8812c41"
-metafile = true
-
-[[files]]
 file = "mods/immersive-cables.pw.toml"
 hash = "cd34b6d93fe3cd7e1195ffc74047473a8cf5d15d31e2ad39065016028701d989"
 metafile = true
@@ -1232,36 +1174,6 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
-metafile = true
-
-[[files]]
-file = "mods/integrated-computers.pw.toml"
-hash = "76608ab13970ed3ef5ce4a7d97b5a01c48276394f1309c03f5ae7e608a4864a7"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "a63422295977e75ad0e01cf2b93e55fe11404846019078cd83fa189e144cfe08"
-metafile = true
-
-[[files]]
-file = "mods/integrated-derivative.pw.toml"
-hash = "b83da9bf6aa888e03a0f90c98843d8f47ec1196b7f5cfd2b34dee3e6afe2a54e"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "69ad167a0fb6ab931bdc9bea6ed616acbb75037ee1da96634f4bf1f9eb2f79fa"
-metafile = true
-
-[[files]]
-file = "mods/integrated-nbt.pw.toml"
-hash = "884cb219426263349372c4ad5c5189547c743acb2254efe649547039b2e34d61"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "08319d704c3155a3d43c748ab448894e95377c27ff3879d8aa401102d8a4a2c1"
 metafile = true
 
 [[files]]
@@ -1495,11 +1407,6 @@ hash = "ef404b0ed6ba8f7b6511ffc38d0146934686c5fc66df30aeb54fef2c867523df"
 metafile = true
 
 [[files]]
-file = "mods/menumobs.pw.toml"
-hash = "0b2a1dd1468e7d72bd36c5f87a6b7c22b0730f2ea251c9c9ce2eb2764e54148e"
-metafile = true
-
-[[files]]
 file = "mods/metallurgy-4-reforged.pw.toml"
 hash = "69fb77092d4b3cac87753a1efe921a3094bc3bc6e2a37b35e81dacf34efff346"
 metafile = true
@@ -1507,11 +1414,6 @@ metafile = true
 [[files]]
 file = "mods/metallurgy-chests.pw.toml"
 hash = "ff29932f06eea39b1a813cf985ecea59ec160f096bbb1297be5dddfb03a24f0c"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "ead03737c0e62bfdf1a3b666260e533717a03b529bed4c684a96c6f819ee91db"
 metafile = true
 
 [[files]]
@@ -2102,11 +2004,6 @@ metafile = true
 [[files]]
 file = "mods/the-aurorian.pw.toml"
 hash = "11e592e95e6e2133d9d1792d9badc42a967ed99d97b43f2e9639a20904e02ca1"
-metafile = true
-
-[[files]]
-file = "mods/the-beneath.pw.toml"
-hash = "136c5d4d13816b788a48c7317be9f368245cf32acdf2f728875dcd30fb534c74"
 metafile = true
 
 [[files]]
