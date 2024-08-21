@@ -29,10 +29,6 @@ file = "config/ZettaiPsi.cfg"
 hash = "b6dd73eae167922cb28b4cc147746aeeadbdc52b44b1a2febd031781ac10a622"
 
 [[files]]
-file = "config/aether_legacy.cfg"
-hash = "b1978ccff267a9b8471ba3edb4c913c119fdc108ed327a56a1976cccf547e5e6"
-
-[[files]]
 file = "config/agricraft/config.cfg"
 hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
@@ -441,21 +437,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-locator.pw.toml"
 hash = "b41571d9a66238aa09a65296a01e66b00a378d0bb223bf039d4b2c05188c7830"
-metafile = true
-
-[[files]]
-file = "mods/aether-addon.pw.toml"
-hash = "ee627c6d493893bc10acefe209e482618614743f43d9ddbc8f089b95d361d7b8"
-metafile = true
-
-[[files]]
-file = "mods/aether-lost-content.pw.toml"
-hash = "cdc30e21a500dabb18f300c14edd1ea9c6fcbb8dad0fdd6f0e33106d06b7dd3d"
-metafile = true
-
-[[files]]
-file = "mods/aether.pw.toml"
-hash = "74a36f38c935764cdeb39012d012ce69cf46b35699de2fed9ed40f32031407e1"
 metafile = true
 
 [[files]]
@@ -2141,11 +2122,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-addons-fork.pw.toml"
 hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-aether-dman-edition.pw.toml"
-hash = "56210fbe0d097ae208332b671d0346216919d926962f1be7e0022bd8d2c6c436"
 metafile = true
 
 [[files]]
