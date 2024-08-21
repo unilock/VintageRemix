@@ -13,6 +13,10 @@ file = "config/IC2.ini"
 hash = "58e4925b17d456791ea2da073da1c2f86e610ab191d5c1aecb924366df30094b"
 
 [[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "00c3d49c589a55e999dc87a306c1966b85c95a862785bf5aefb5a61d936d3b9b"
+
+[[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
 hash = "9d1dc7e5f8d95c5ce395f4218680d153053e69a5f985be0d7b7a598f050aa097"
 
