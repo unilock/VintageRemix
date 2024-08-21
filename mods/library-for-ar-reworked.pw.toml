@@ -1,13 +1,13 @@
 name = "ARLib"
-filename = "ARLib-0.5.0.jar"
+filename = "ARLib.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7ecdfa85b8cf6e13fa80b31b30ddfcf1b5ee110"
+hash = "3eeb6df2b368a1a2ff37185af470de8bb3f6ae90"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5580903
+file-id = 5646564
 project-id = 1038780

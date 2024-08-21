@@ -1,13 +1,13 @@
 name = "Railway Depot Worker"
-filename = "RailwayDepotWorker-1.4.0+build.9.jar"
+filename = "RailwayDepotWorker-1.4.0+build.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c245e66735f515ce0520401e982283b684853de0"
+hash = "9674b006a3c149b6ad48847174061a4f90f6df5d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5433411
+file-id = 5638841
 project-id = 1031521

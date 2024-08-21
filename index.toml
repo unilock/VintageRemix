@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
-hash = "8cb67c21e1b13e39d852d6b95a93933990ad056d547226140a372732896feb1a"
+hash = "407f52aff32cfe7419b65724461a4cccd474121e88c1c0a8a516feff96d4aa34"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/aetherworks-extended-life.pw.toml"
-hash = "207a19d1c93302194d2ed1647475527b18145f5925dd885376a429c3e2086a59"
+hash = "7af0f2df0061d08b816eb9b06fd42c1ea7367681cc0b6686834e3055b210fa68"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "0163d1187fad0e6470c60c462b75f35f3eb8df8675238fb5cf0ff46d58349b5d"
+hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/betweenlands-redstone.pw.toml"
-hash = "64c9607751b1aa1edb5582b8050f809dca21592a328c182ff465307e42bc4870"
+hash = "d37155d617d87fa1ede424228bc42aedc4853aa3b3fd565baae7f02ee93f37f9"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "d1c4a9acc7a27bc99cb7b5382050f0b780ac40674100a88eac0875899fb3cc16"
+hash = "bdc016b1cf0d0dda62152dba2e32bd019511b63dac93b65b8ad3d8ebda39956f"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "6df94aefeb68c80c0ae82f3688fe248d800765c11c48e4469683fca06e296809"
+hash = "e9a7bac7cd495e55f71574eb9bc38993ac4447749b1bf9b2baafb1c225908b7a"
 metafile = true
 
 [[files]]
@@ -1285,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "5a27066282a6ceef2ed2a5b2a111ab04853168f059a2099cdc028f85ecded000"
+hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
 metafile = true
 
 [[files]]
@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-for-ar-reworked.pw.toml"
-hash = "e290cd73864e9a6a6a935f1fe0e05695172cc3570fcc5207d5f95917b6f09b2c"
+hash = "6360c833bdccbed31cac09d5b73aacc36d0a9103d67ffa3b0893c67201e2c95b"
 metafile = true
 
 [[files]]
@@ -1550,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "0c3c3e8ebbcf5cff2b0a97ffa3ada55f15dcb954067fc6ed1b1bf06b4a9e1059"
+hash = "7a4b19df0180cc1c5822da95272a9627d7b0a258761a31f9d9d05f236a4ad81e"
 metafile = true
 
 [[files]]
@@ -1690,7 +1690,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "fb215d6d9b27be07c6b426bdbd210c98b41f501c92719df756a4aced7a598b7e"
+hash = "dc8c5a89ef983c1488144914e803ace7ef242da3b03a9d6f15c5bea85e130304"
 metafile = true
 
 [[files]]
@@ -1910,7 +1910,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "be06d67100113719607053ce41cea2a84ba39adfbf9f1003a88be37e8218f1c6"
+hash = "42052b0a7042f7179239a9c8fc7b7025bbea6e5dba5e1beb8c81ec85960b3d69"
 metafile = true
 
 [[files]]
@@ -1950,12 +1950,12 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex.pw.toml"
-hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
+hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "fdfca35859e0ce0c360f5346d67b4eae5962c107b8b907a05ab74c3b8f685d28"
+hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
 metafile = true
 
 [[files]]
@@ -2095,7 +2095,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
+hash = "83cf4ba66c2a1af9b016dca0894068e8bd86e5448f8857baec8203f5b2152172"
 metafile = true
 
 [[files]]
@@ -2320,7 +2320,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ba4d24a76ca9c053ea8bf060452c7ed64814f4e253f73ff66aa2ed5ae837c9d0"
+hash = "9af20366132fb9715c4d0b5ff4c57aff2f879b853ead0b452f6498ab819675b6"
 metafile = true
 
 [[files]]
