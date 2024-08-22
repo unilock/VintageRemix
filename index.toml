@@ -121,10 +121,6 @@ file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
 
 [[files]]
-file = "config/flopper.cfg"
-hash = "23082021c90ee20be994a6f379c5fdb243bfe67019d1d8793a4cbe36b805fb89"
-
-[[files]]
 file = "config/forge.cfg"
 hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
 
@@ -449,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
 hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
-metafile = true
-
-[[files]]
-file = "mods/animus.pw.toml"
-hash = "5054812fbdd2e49509d2c5fc78712733d6b0ed377a97ed9942f5769efc6133fc"
 metafile = true
 
 [[files]]
@@ -962,11 +953,6 @@ hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
 metafile = true
 
 [[files]]
-file = "mods/flopper.pw.toml"
-hash = "8e07e53cfdfa0996b1fb9b724109428751a4421181f9025789d101fbe629b8cd"
-metafile = true
-
-[[files]]
 file = "mods/fnars-roguelike-dungeons.pw.toml"
 hash = "edfbb946f755e0bf8eaf7ea91248d87e843933a134b75a727bf5357d44e67a62"
 metafile = true
@@ -974,11 +960,6 @@ metafile = true
 [[files]]
 file = "mods/forestry.pw.toml"
 hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
-metafile = true
-
-[[files]]
-file = "mods/forked-proxy.pw.toml"
-hash = "2050758a28cd434613de1f2010edcbd24971fb4b2ba8388f1b65a21957990c10"
 metafile = true
 
 [[files]]
