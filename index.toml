@@ -1759,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "be06d67100113719607053ce41cea2a84ba39adfbf9f1003a88be37e8218f1c6"
+hash = "c6f917afa0f0525822f6e459e64166545d61220b9715c8b799854b9a66c3bf56"
 metafile = true
 
 [[files]]
