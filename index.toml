@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/compatskills-fork.pw.toml"
-hash = "d0a6bbbef69ec2c30ec70113ccb6f09cfb113d417e2b3c8a960f23c66830de7c"
+hash = "df56ba5b3c6b8cedf49632c95df2df422467069c6f2cd4968e36a6584566e32c"
 metafile = true
 
 [[files]]
