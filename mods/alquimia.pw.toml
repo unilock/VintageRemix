@@ -1,0 +1,8 @@
+name = "Alquimia"
+filename = "Alquimia-alpha-7.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/Alquimia-alpha-7.jar"
+hash-format = "sha256"
+hash = "795157fa159d5854c2b3f2f151c5889f2b90040bbf591da76224066220d5b67c"
