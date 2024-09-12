@@ -1,13 +1,13 @@
 name = "Advanced Rocketry - Reworked"
-filename = "AdvancedRocketry-1.12.2-2.1.3-2.jar"
+filename = "AdvancedRocketry-1.12.2-2.1.4-6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0ce6571cd8bdd13aae56a1cc6b84b562a027f3cf"
+hash = "c876bd10631eae7be0cae575767ef8a61445c095"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5650163
+file-id = 5715220
 project-id = 1024225

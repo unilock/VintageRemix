@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
-hash = "407f52aff32cfe7419b65724461a4cccd474121e88c1c0a8a516feff96d4aa34"
+hash = "82bf3729ee4395cec99aed5eb3edf8be3fcddc9b76c8b3c469e347a24262ddce"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-extended-life.pw.toml"
-hash = "f77168259e4042d79c82879aa01d29ab5ba53d415301845ab66ba2581daf3dd7"
+hash = "0342ed3fda1688920ac9a98c04310129562a20dcdaa30546bb105c54edabf9e7"
 metafile = true
 
 [[files]]
@@ -954,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/fnars-roguelike-dungeons.pw.toml"
-hash = "edfbb946f755e0bf8eaf7ea91248d87e843933a134b75a727bf5357d44e67a62"
+hash = "c57699787df29c7ab6f207920382ddf268f7064f7c2d9a55dec5c9bb79f3bda3"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-for-ar-reworked.pw.toml"
-hash = "6360c833bdccbed31cac09d5b73aacc36d0a9103d67ffa3b0893c67201e2c95b"
+hash = "15c8c968f8815d0b89c312372df9bf85d3b417a6824e6256987184d07bb40105"
 metafile = true
 
 [[files]]
@@ -1559,7 +1559,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "dc8c5a89ef983c1488144914e803ace7ef242da3b03a9d6f15c5bea85e130304"
+hash = "b4f2adfe743a796895d56f4918f2b71745fc77cdb3c55348c6d04951392a6bcd"
 metafile = true
 
 [[files]]
@@ -2134,7 +2134,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-names.pw.toml"
-hash = "3e51f746acf4a23f67eacc7375517290d4eeeb8b7e3575dc5150fa6e5f133b05"
+hash = "9fbc5db48d1dde322a25ed2b6237d5f99fce118ac36b28d8ae04a5cd72bb0dd2"
 metafile = true
 
 [[files]]
@@ -2199,12 +2199,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9af20366132fb9715c4d0b5ff4c57aff2f879b853ead0b452f6498ab819675b6"
+hash = "92f8bff482d415a765df0f99ae9b6fa823743d159cf63f092bc8dbb88e9f47d2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "48225864ebeaf80cdcf80a8f046425410ace5aa09bc843e4613200e0ffca726f"
+hash = "57af9a394d0316151878bd27d506aafbb95749db5d4a8f770dbfde9a3e223623"
 metafile = true
 
 [[files]]
@@ -2254,5 +2254,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "d28c71387a8843f6f1f7623dfed45ea51218ce80308c4a3e20ea886cd8d7c579"
+hash = "329968e8a95811f64a7a3a7460dff79cad843891f9f577878e256f4ac7c1aecd"
 metafile = true

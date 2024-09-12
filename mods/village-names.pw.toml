@@ -1,13 +1,13 @@
 name = "Village Names"
-filename = "VillageNames-1.12.2-4.4.11.jar"
+filename = "VillageNames-1.12.2-4.4.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0410312b31eda4143bff6437231534e2a463b8f5"
+hash = "dcbe4fdc3370b4d2726e3b01e3eb170b5bc1c521"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5591142
+file-id = 5690712
 project-id = 259230
