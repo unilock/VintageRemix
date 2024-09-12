@@ -1,0 +1,13 @@
+name = "JEI Area Fixer"
+filename = "jei_area_fixer-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baa1aedf9900e06e75eee8520d9f44bdf24e8a97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5691271
+project-id = 1085598

@@ -1,0 +1,13 @@
+name = "LibrarianLib-Continuous"
+filename = "LibrarianLib-Continuous-1.12.2-4.22-2.0-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "173c4225f6a752c182e253fc73b4314a535fd5c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5531643
+project-id = 1058274

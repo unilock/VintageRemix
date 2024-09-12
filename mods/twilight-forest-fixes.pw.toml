@@ -1,0 +1,13 @@
+name = "Twilight Forest Fixes (Doors & Misc)"
+filename = "TwilightForestFixes-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2d9461cbc171f80e58b9ec7431dc30a25ffdf23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5552975
+project-id = 1068512

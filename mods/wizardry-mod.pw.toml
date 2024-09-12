@@ -1,0 +1,13 @@
+name = "Wizardry Mod"
+filename = "wizardry-0.11.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2851e00c83d4cc3027170ac43d7cba3b87ef5ca0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5160012
+project-id = 278155

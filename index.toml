@@ -963,6 +963,11 @@ hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
 metafile = true
 
 [[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "f3eb9c779b90bf950100b0bb4a65c5fff8f518c7fcff8a4d7b728fdee81c43b9"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-forge.pw.toml"
 hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
 metafile = true
@@ -975,6 +980,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
+file = "mods/funky-locomotion.pw.toml"
+hash = "f4dc81e4866e2e6a231f8064dc080cb0817f028c6de332793a25049297b0cbc0"
 metafile = true
 
 [[files]]
@@ -1188,6 +1198,11 @@ hash = "d5bc7f4535e44681a59505602fb0a0cc1a0983896568e54c6134b9290329c7d4"
 metafile = true
 
 [[files]]
+file = "mods/jei-area-fixer.pw.toml"
+hash = "dd719c2d38fbb79885cb7eb00abd531a31328c5c8f1f357ea960ce62b5ca329e"
+metafile = true
+
+[[files]]
 file = "mods/jei-bees.pw.toml"
 hash = "0541037557336cf5464abc715bd1ff66255db0f966463d982d0288ec93a7bd64"
 metafile = true
@@ -1260,6 +1275,11 @@ metafile = true
 [[files]]
 file = "mods/libnine.pw.toml"
 hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib-continuous.pw.toml"
+hash = "e54087286123897d050e66532854d4e86b22c0f9b45c808171974cf70a54266e"
 metafile = true
 
 [[files]]
@@ -1938,6 +1958,11 @@ hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
 metafile = true
 
 [[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "d73929311a1b0bd6851de726084940a4729ef3831f445815204e05ff7a6be90f"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-extras.pw.toml"
 hash = "80fa2ed17b25168d5c599b9d54b30dd7fb7b6b3ef6c52d1b9eca5148504076c6"
 metafile = true
@@ -1980,6 +2005,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
+metafile = true
+
+[[files]]
+file = "mods/the-weirding-gadget.pw.toml"
+hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
 metafile = true
 
 [[files]]
@@ -2068,6 +2098,11 @@ hash = "26d68f56a2af4cda9b28f6e1af949703eaa417f697cba25a2b948352438dbcb1"
 metafile = true
 
 [[files]]
+file = "mods/twilight-forest-fixes.pw.toml"
+hash = "ebb38b39615a9886d74a2dd8554b37f61b2458dd76766dc7fa59cecb52f2885f"
+metafile = true
+
+[[files]]
 file = "mods/unidict.pw.toml"
 hash = "475ba0974926044b636b2887e8b3f1e3551a9144a437e25b621d5be085c4435d"
 metafile = true
@@ -2150,6 +2185,11 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "cab1b602a391952b37e883b81cbd1aa24ec8b477efeacbefc3cc85d3feca819a"
+metafile = true
+
+[[files]]
+file = "mods/wizardry-mod.pw.toml"
+hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
 metafile = true
 
 [[files]]
