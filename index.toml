@@ -733,6 +733,11 @@ hash = "fd2f7e5f55e3f73ba6beac545c1a9457f09707e82770e48f590e41858df924d8"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-phase.pw.toml"
+hash = "d52abe55e98555bf38dffdfcc73fef092cca23a68829476b3bc1b9391e4862a8"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
