@@ -388,8 +388,8 @@ hash = "3606d6de09f7c5b7beb9f94cbde59c622fc05b6515513a9dea4bde31474d27b8"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry-2.pw.toml"
-hash = "c9ccf8bb17347ae7d7d3a059f14662565e96bd9d06a563afbe5b271cb47ffcdc"
+file = "mods/advanced-rocketry-reworked.pw.toml"
+hash = "0d5bbf78d37108da91f0e9205cb3847d6c49937895832146a724c31c3198d8a9"
 metafile = true
 
 [[files]]
@@ -528,8 +528,8 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "015243b60b4dcb33daf534acaf70c1dd4f8c6a28c9eebb8152603ad57fa539da"
 metafile = true
 
 [[files]]
