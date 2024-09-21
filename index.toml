@@ -1333,11 +1333,6 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
-file = "mods/lwjgl3ify-1.12.pw.toml"
-hash = "41cc4ee35e5c3bf186c5680e38f78ee2ad7577963b7b70544e2504d6db524a11"
-metafile = true
-
-[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
