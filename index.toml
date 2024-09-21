@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
-hash = "82bf3729ee4395cec99aed5eb3edf8be3fcddc9b76c8b3c469e347a24262ddce"
+hash = "c9ccf8bb17347ae7d7d3a059f14662565e96bd9d06a563afbe5b271cb47ffcdc"
 metafile = true
 
 [[files]]
@@ -963,6 +963,11 @@ hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
 metafile = true
 
 [[files]]
+file = "mods/flare.pw.toml"
+hash = "24fa50f6958381fcf97d902da91dcfec37b9cca60b6eb08f796f68e442227466"
+metafile = true
+
+[[files]]
 file = "mods/fnars-roguelike-dungeons.pw.toml"
 hash = "c57699787df29c7ab6f207920382ddf268f7064f7c2d9a55dec5c9bb79f3bda3"
 metafile = true
@@ -1044,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "bf27df0f1e0964ff054038c7406c8d312ec08dd0932e4d080f55f225b6e542cf"
+hash = "3aa8985d241e1b6e04ea5e8f0b976900aad832418beae59484db3e46bb1b2162"
 metafile = true
 
 [[files]]
@@ -1294,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-for-ar-reworked.pw.toml"
-hash = "15c8c968f8815d0b89c312372df9bf85d3b417a6824e6256987184d07bb40105"
+hash = "6f3cd79eb43142203ba21deb183b39a1e8532a8c6e87ab7cb4ff607adfb8a2ea"
 metafile = true
 
 [[files]]
@@ -1429,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "7a4b19df0180cc1c5822da95272a9627d7b0a258761a31f9d9d05f236a4ad81e"
+hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
 metafile = true
 
 [[files]]
@@ -1955,11 +1960,6 @@ metafile = true
 [[files]]
 file = "mods/soot-extended-life.pw.toml"
 hash = "bc0e51459dcdd01cb684fd33fc1c12ef4d1b28b06048e882262e70aa33ca2341"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "c0ff746ae95ee4ec873a59c6a33c7b650d261073140888412eb6f0884dfc2a5e"
 metafile = true
 
 [[files]]
