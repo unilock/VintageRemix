@@ -1269,11 +1269,6 @@ hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
 metafile = true
 
 [[files]]
-file = "mods/librarianlib-continuous.pw.toml"
-hash = "e54087286123897d050e66532854d4e86b22c0f9b45c808171974cf70a54266e"
-metafile = true
-
-[[files]]
 file = "mods/library-for-ar-reworked.pw.toml"
 hash = "6f3cd79eb43142203ba21deb183b39a1e8532a8c6e87ab7cb4ff607adfb8a2ea"
 metafile = true
@@ -2126,11 +2121,6 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "cab1b602a391952b37e883b81cbd1aa24ec8b477efeacbefc3cc85d3feca819a"
-metafile = true
-
-[[files]]
-file = "mods/wizardry-mod.pw.toml"
-hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
 metafile = true
 
 [[files]]
