@@ -1655,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/pickle-tweaks.pw.toml"
-hash = "8e04421f03ffe22145eefce3df597f94a591e26832dd0b581a83730e3fd93354"
+hash = "f85e408025b77f7f05d32bf5c999bd2da3cc4461ac6e53610a0bfd0505557f93"
 metafile = true
 
 [[files]]
