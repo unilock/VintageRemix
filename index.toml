@@ -145,10 +145,6 @@ file = "config/inspirations.cfg"
 hash = "9d9688a800c1c383e0e02c7bc679776c874735f23a7dc88edc46a2786dcf070d"
 
 [[files]]
-file = "config/itlt.cfg"
-hash = "4e1ca5304dcf284636dd3ff7df40fc9f470e14662559c1fc8ef3173f160e2bd7"
-
-[[files]]
 file = "config/jei/jei.cfg"
 hash = "7e6e27c2255eb3395cfa8162444053a130600564136d3673607e136c2f1364e7"
 
@@ -234,7 +230,7 @@ hash = "e8a65e3b6be5e258b34fa27eafee11b2f1f3e4a678b983e07bf2babc57b549f3"
 
 [[files]]
 file = "config/placebo.cfg"
-hash = "52a99be645bec8568e8bb8e4ab4cdced4c9606c1c3fc3cb9bf7a756bdc730ecb"
+hash = "f759f4c909d089d66acc6d58c901ea1e36fdfc94125a21f1ea52a765f3d467c9"
 
 [[files]]
 file = "config/portalgun.cfg"
@@ -246,7 +242,7 @@ hash = "d7b75bf217bf05940f791310870729bd54fc73b41a4d0d34144e1825a49fa4c7"
 
 [[files]]
 file = "config/randompatches.cfg"
-hash = "c93dc3865e78812d6393c5394f3f46b59ebbcc66f2a95bb6693ee1ae8e8acbc5"
+hash = "146a8268538397107acd3f6894fb95214ffc96b3b50c721a2b70a0f47c625f31"
 
 [[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
@@ -287,6 +283,10 @@ hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
 [[files]]
 file = "config/splash.properties"
 hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
+
+[[files]]
+file = "config/stellar_core.cfg"
+hash = "f867043daa97dbfd89467d044373c403eb982765f66764378f83ef825f411624"
 
 [[files]]
 file = "config/tconevo.cfg"
@@ -1166,11 +1166,6 @@ metafile = true
 [[files]]
 file = "mods/iron-tanks.pw.toml"
 hash = "757c1d51cb97937d4899698e542c0ff6f7343a445a9bff62e0a1a45c68bda7c2"
-metafile = true
-
-[[files]]
-file = "mods/its-the-little-things.pw.toml"
-hash = "f1591a701f813e81342a58ed894e180f4ad08e45d2c25613ffed008b0733d52c"
 metafile = true
 
 [[files]]
