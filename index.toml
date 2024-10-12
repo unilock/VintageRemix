@@ -1339,11 +1339,6 @@ hash = "3863bcded8243f76cd61887696d17c6e0abce84759c37b069d1c533fd8f4a435"
 metafile = true
 
 [[files]]
-file = "mods/max-potion-id-extender.pw.toml"
-hash = "57b6d92f35a57a80ba188d597bd9e610866fcb945851063c43e90308ef01c427"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
