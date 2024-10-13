@@ -37,6 +37,10 @@ file = "config/agricraft/config.cfg"
 hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
 [[files]]
+file = "config/animania.cfg"
+hash = "58ada4b68130630eec302ff767a0641ffd88b72c0b639bb166545d7d91bab17e"
+
+[[files]]
 file = "config/aquaacrobatics.cfg"
 hash = "b2826720f51d5593cd3b8793f355d3bfa5c6ad2d6e932c0ff6f78adc4e3a5d58"
 
@@ -77,6 +81,10 @@ file = "config/charset/module/tweak.bonemeal.cfg"
 hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
 [[files]]
+file = "config/crossroads.cfg"
+hash = "b8a5334d1e4a1b89ea6dcce63d948a8c749d9af12ce934cdcc6c48b90cd088eb"
+
+[[files]]
 file = "config/cuisine.cfg"
 hash = "0c0a1ed55b36ad49252c3f2be4ac5b226ab8bd87f1c0a7133301be1286e4cca3"
 
@@ -107,6 +115,10 @@ hash = "6c765706f50648c06cd62dfe9a9827466c8931f9f41b4824c40bcd70c2bc442a"
 [[files]]
 file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
+
+[[files]]
+file = "config/falling_tree.cfg"
+hash = "cdeba71afd4e3241a6eb56577fb2de939cbe71edb2316c4b0c26fe7b1a68a325"
 
 [[files]]
 file = "config/forge.cfg"
@@ -241,6 +253,10 @@ file = "config/quark.cfg"
 hash = "d7b75bf217bf05940f791310870729bd54fc73b41a4d0d34144e1825a49fa4c7"
 
 [[files]]
+file = "config/quiverbow_restrung/misc.cfg"
+hash = "0590d797627a4c44f426d1a1211329918f092c3c4d5000790c276ce90a8cec83"
+
+[[files]]
 file = "config/randompatches.cfg"
 hash = "146a8268538397107acd3f6894fb95214ffc96b3b50c721a2b70a0f47c625f31"
 
@@ -354,11 +370,6 @@ hash = "87005bafb1855e4c3929842d81a202346d3f1bcf309dd52f093e44b35ce9edc8"
 metafile = true
 
 [[files]]
-file = "mods/additional-banners.pw.toml"
-hash = "9ecae3ed22198021da10e3bbd3bdf9b851f2fc6116b4f242cc275c48889b7bfa"
-metafile = true
-
-[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "aba65821765d7d5b96a0816c3831c9efa0aa97bde55246d196eb150d0afe26fe"
 metafile = true
@@ -439,18 +450,8 @@ hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
 metafile = true
 
 [[files]]
-file = "mods/animania-cats-dogs.pw.toml"
-hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
-metafile = true
-
-[[files]]
 file = "mods/animania-extra.pw.toml"
 hash = "1ef50d884cdf717aeec398beacfe5f32acef367d8acf3eff5e82c06aa0db43d5"
-metafile = true
-
-[[files]]
-file = "mods/animania-farm.pw.toml"
-hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
 metafile = true
 
 [[files]]
@@ -471,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
-metafile = true
-
-[[files]]
-file = "mods/aqua-acrobatics.pw.toml"
-hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
@@ -1956,11 +1952,6 @@ metafile = true
 [[files]]
 file = "mods/reauth.pw.toml"
 hash = "53105a0a24ba4be58571b056a85e09d7f3840777c7a6c6f6520c55620388e77a"
-metafile = true
-
-[[files]]
-file = "mods/rebind-narrator.pw.toml"
-hash = "6c2891d46d419728f032fd127881fab661a64ef6c704b7dfcbc83e4fc9a7d201"
 metafile = true
 
 [[files]]
