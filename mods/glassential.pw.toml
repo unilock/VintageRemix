@@ -1,0 +1,13 @@
+name = "Glassential"
+filename = "glassential-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1650ab1c3d36ca67f75e8e05c454bdedd0968baa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2698826
+project-id = 319194

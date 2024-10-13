@@ -1,0 +1,13 @@
+name = "Abyssal Depths"
+filename = "AbyssalDepths-1.12.2-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23fbb355d0375e0547ce3eb1e44d0d59ff67bf8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3217391
+project-id = 360647

@@ -1,0 +1,13 @@
+name = "Animania Extra Animals"
+filename = "animania-1.12.2-extra-1.0.2.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5970c0bb661f35bae18f0aa981e25b89fa89c21b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3213137
+project-id = 407657

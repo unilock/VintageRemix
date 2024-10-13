@@ -1,0 +1,13 @@
+name = "CoralReef"
+filename = "CoralReef-2.5-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3e1bf331eb3d875544062a48ed6ec39a701974a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2560552
+project-id = 248994

@@ -1,0 +1,13 @@
+name = "Animania Cats & Dogs"
+filename = "animania-1.12.2-catsdogs-1.0.0.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c46afd59a2dba6941f2d313ed0d47ea5f00a5cc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3213171
+project-id = 449616

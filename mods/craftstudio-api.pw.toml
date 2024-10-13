@@ -1,0 +1,13 @@
+name = "CraftStudio API"
+filename = "CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "868d96028427e39495f441e43e60a9b77225b5ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2661859
+project-id = 268704

@@ -1,9 +1,61 @@
 // For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
 
 [player]
-default_player_rank: true
 power: 1
+default_player_rank: true
+ftbutilities.back.back: true
+ftbutilities.back.cooldown: 0s
+ftbutilities.back.home: true
+ftbutilities.back.respawn: true
+ftbutilities.back.rtp: true
+ftbutilities.back.spawn: true
+ftbutilities.back.tpa: true
+ftbutilities.back.warmup: 3s
+ftbutilities.chat.name_format: <{name}>
+ftbutilities.chat.nickname.colors: false
+ftbutilities.chat.nickname.set: false
+ftbutilities.chunkloader.max_chunks: 128
+ftbutilities.claims.attack_animals: false
+ftbutilities.claims.block.edit: false
+ftbutilities.claims.block.interact: false
+ftbutilities.claims.max_chunks: 256
+ftbutilities.homes.cooldown: 0s
+ftbutilities.homes.cross_dim: true
+ftbutilities.homes.max: 5
+ftbutilities.homes.warmup: 3s
+ftbutilities.rtp.cooldown: 10s
+ftbutilities.rtp.warmup: 3s
+ftbutilities.spawn.cooldown: 0s
+ftbutilities.spawn.warmup: 3s
+ftbutilities.tpa.cooldown: 10s
+ftbutilities.tpa.warmup: 3s
 
 [admin]
-default_op_rank: true
 power: 100
+default_op_rank: true
+ftbutilities.back.back: true
+ftbutilities.back.cooldown: 0s
+ftbutilities.back.home: true
+ftbutilities.back.respawn: true
+ftbutilities.back.rtp: true
+ftbutilities.back.spawn: true
+ftbutilities.back.tpa: true
+ftbutilities.back.warmup: 3s
+ftbutilities.chat.name_format: <{name}>
+ftbutilities.chat.nickname.colors: false
+ftbutilities.chat.nickname.set: false
+ftbutilities.chunkloader.max_chunks: 128
+ftbutilities.claims.attack_animals: false
+ftbutilities.claims.block.edit: false
+ftbutilities.claims.block.interact: false
+ftbutilities.claims.max_chunks: 256
+ftbutilities.homes.cooldown: 0s
+ftbutilities.homes.cross_dim: true
+ftbutilities.homes.max: 5
+ftbutilities.homes.warmup: 3s
+ftbutilities.rtp.cooldown: 10s
+ftbutilities.rtp.warmup: 3s
+ftbutilities.spawn.cooldown: 0s
+ftbutilities.spawn.warmup: 3s
+ftbutilities.tpa.cooldown: 10s
+ftbutilities.tpa.warmup: 3s

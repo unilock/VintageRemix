@@ -1,0 +1,13 @@
+name = "Ariente"
+filename = "ariente-1.12-0.0.31-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef866a59d4864227dea4f0aca022f173d980b251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2759382
+project-id = 301076

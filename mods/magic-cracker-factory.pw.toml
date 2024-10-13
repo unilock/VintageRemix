@@ -1,0 +1,13 @@
+name = "Magic Cracker Factory"
+filename = "MagicCrackerFactory-1.12.2-0.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8fd5321d77998cd818f92dc8f3d1073cabeb9e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3638033
+project-id = 405502

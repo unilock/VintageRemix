@@ -1,0 +1,13 @@
+name = "QuiverBow: Restrung"
+filename = "QuiverBowRestrung-0.4.1+MC1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56b4d2681df8e3bf5d464f2df78334b186120345"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3605628
+project-id = 423435

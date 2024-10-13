@@ -1,0 +1,13 @@
+name = "Horse Tweaks"
+filename = "HorseTweaks_1.12.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e3db8d2eea974f1f676d0b3a32f187992bc1cec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2696995
+project-id = 291218

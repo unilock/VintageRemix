@@ -1,0 +1,13 @@
+name = "HoloGui"
+filename = "hologui-1.12-0.0.9-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc16904ae5a0eae6a2cf6bc1c518e51d4008721"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2712569
+project-id = 303941

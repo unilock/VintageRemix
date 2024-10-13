@@ -1,0 +1,13 @@
+name = "The Eight Fabled Blades"
+filename = "TheEightFabledBlades V2.0.01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b720325f61bc1adbaef23e6c6627342ffb0643a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2632990
+project-id = 293728
