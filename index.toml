@@ -414,6 +414,11 @@ hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
 metafile = true
 
 [[files]]
+file = "mods/alquimia.pw.toml"
+hash = "d9a207a34f4207e40b61df3ee17340ff6a47e289b2fe7437c0021822a1fca111"
+metafile = true
+
+[[files]]
 file = "mods/alternating-flux.pw.toml"
 hash = "59e55ff2e74e42ca0e1d6d4b9359586742da89796ba0486ee55c3ef4de6f27e9"
 metafile = true
