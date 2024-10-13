@@ -1,0 +1,13 @@
+name = "Gumobtainium"
+filename = "Gumobtainium-1.12.2-1.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5cfaf9a2dc9dd442f45eb6af02cd0794f25e412f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2831751
+project-id = 305137

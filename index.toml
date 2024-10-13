@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/animania.pw.toml"
-hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
+hash = "1cecc6a5287748991ef9cca51ded715afa1ddeeb4f19182ca6308edb9bf2c63d"
 metafile = true
 
 [[files]]
@@ -889,11 +889,6 @@ hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
-metafile = true
-
-[[files]]
 file = "mods/crossroads-mc.pw.toml"
 hash = "e08ceeb80871114e54c825a3617107995ba9b6b6da16ab102a4d3d0a6243a19c"
 metafile = true
@@ -981,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
 metafile = true
 
 [[files]]
@@ -1099,6 +1089,11 @@ hash = "f3eb9c779b90bf950100b0bb4a65c5fff8f518c7fcff8a4d7b728fdee81c43b9"
 metafile = true
 
 [[files]]
+file = "mods/friendshipbracelet.pw.toml"
+hash = "1a0b40fe299c24241f6787605a5f73b1656c4ae8791c26ed3e1e82718a5fd607"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-forge.pw.toml"
 hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
 metafile = true
@@ -1161,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
+metafile = true
+
+[[files]]
+file = "mods/gumobtainium.pw.toml"
+hash = "35f42d7f7f11e661ae83da8f7c27bb50fde49fbca188ba5e7b34a83aa44c3d56"
 metafile = true
 
 [[files]]
@@ -1654,11 +1654,6 @@ hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
 metafile = true
 
 [[files]]
-file = "mods/natural-pledge.pw.toml"
-hash = "137a6ccac31d56b11191c0b1682dad66dd2752bd20724af28c1c42c00bc58570"
-metafile = true
-
-[[files]]
 file = "mods/natures-aura.pw.toml"
 hash = "3b72e6b9ed34050130edd8a6e3a6c4d6e88420a4a14b3f5d3ca4d44c30352b1a"
 metafile = true
@@ -1696,11 +1691,6 @@ metafile = true
 [[files]]
 file = "mods/numina.pw.toml"
 hash = "be048772c15768cdfad49db77fd785213946a0726dbcd689c57ab4119fc6645c"
-metafile = true
-
-[[files]]
-file = "mods/nyx.pw.toml"
-hash = "8d750cf36c7c2bafe55b30a9402d8fa9fe083a249eda405fb3cad64d5a973abc"
 metafile = true
 
 [[files]]
@@ -2224,11 +2214,6 @@ hash = "3f9609e5307dc2775d05026c8f872f7ad393e1c6dbf572a0999a4a5d38bba19d"
 metafile = true
 
 [[files]]
-file = "mods/tips.pw.toml"
-hash = "0a852de741d5e2fe69e5ca2662fe86bd73e323fed158b146eaebdec617158f04"
-metafile = true
-
-[[files]]
 file = "mods/tis-3d.pw.toml"
 hash = "fd46472c4bd4bf286eee7f2c1eacc625a0d00f0032cbc7afe35faba395ad86de"
 metafile = true
@@ -2366,6 +2351,11 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "cab1b602a391952b37e883b81cbd1aa24ec8b477efeacbefc3cc85d3feca819a"
+metafile = true
+
+[[files]]
+file = "mods/woot.pw.toml"
+hash = "26a1a2b40bd7c218325c3f1582b04f32e21d50b01122981e67a2953682e776a1"
 metafile = true
 
 [[files]]

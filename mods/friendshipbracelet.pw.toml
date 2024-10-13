@@ -1,0 +1,15 @@
+name = "FriendshipBracelet"
+filename = "FriendshipBracelet-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/elytra/FriendshipBracelet/releases/download/v1.1.2/FriendshipBracelet-1.1.2.jar"
+hash-format = "sha256"
+hash = "f1d841ae249d382514cded0cb9d2830574402ccc0f2f4382db620c80ad9ae0bd"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "elytra/FriendshipBracelet"
+tag = "v1.1.2"
