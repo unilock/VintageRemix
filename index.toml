@@ -6,7 +6,7 @@ hash = "ae69543a42cfb00978c4ae5f232a7b77104cedbb64c015e3dde0430d5950c6e6"
 
 [[files]]
 file = "config/Guide-API/Guide-API.cfg"
-hash = "251f4c6db114f40f5d8ef0c763784823b5ec83b8d6817531094a841c1349549f"
+hash = "c6a1f9473f5c88a79aa930515bd6f530b72fc6ae5b325eb911c9fff93de0db15"
 
 [[files]]
 file = "config/IC2.ini"
@@ -22,7 +22,7 @@ hash = "4340e7b7f3eb1016eecb594ec2f2a8afd0bff691b1c92a209f92f6beb5c63f9c"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "a80e7af8c95bc6487ee1777ccd3671059a8ac1c03ca67c25510f1533548c164c"
+hash = "7c524c722b03424a34778a4f97acafd61c92d57f5a2aab3b355b1172924a9f12"
 
 [[files]]
 file = "config/VillageNames4/general.cfg"
@@ -81,12 +81,16 @@ file = "config/charset/module/tweak.bonemeal.cfg"
 hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
 [[files]]
+file = "config/conarm.cfg"
+hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
+
+[[files]]
 file = "config/crossroads.cfg"
 hash = "b8a5334d1e4a1b89ea6dcce63d948a8c749d9af12ce934cdcc6c48b90cd088eb"
 
 [[files]]
 file = "config/cuisine.cfg"
-hash = "0c0a1ed55b36ad49252c3f2be4ac5b226ab8bd87f1c0a7133301be1286e4cca3"
+hash = "2ced6befa52c090a1214462c06ad319cfb4102fc0bfd3581144f389330be127a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -119,6 +123,10 @@ hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
 [[files]]
 file = "config/falling_tree.cfg"
 hash = "cdeba71afd4e3241a6eb56577fb2de939cbe71edb2316c4b0c26fe7b1a68a325"
+
+[[files]]
+file = "config/forestry/common.cfg"
+hash = "268fff84f0c6d2e0bd72f9113aab1f1486518dfc4c830ad2d79b6efc9d902d32"
 
 [[files]]
 file = "config/forge.cfg"
@@ -217,12 +225,16 @@ file = "config/mysticalagradditions.cfg"
 hash = "15478ce33f34b1199c43a00d7175aa95becdbc42ddfbbb2af84e98801993b7eb"
 
 [[files]]
+file = "config/mysticalworld.cfg"
+hash = "5effed82878b60cbcc5b4bbad19d1b9803ee438f11dde29f6d077db2abf04b58"
+
+[[files]]
 file = "config/openblocks.cfg"
-hash = "889d9ae174b3c4cd925e8fee8f0cef72845f66ed90e4a55f861d23ca4d024c7c"
+hash = "f2a8448ff3155eaa47ff241fc93e95cedceb88b81e94b82943c4106fd898afe6"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "4598d834a6a16b103b7bd64585ad8aad3824841a5606f2e75aa6c856adc0b7a9"
+hash = "a7d3cac6a10bb9bb0bfe701b034371b4b5826a0bed6ed81c357815304790762e"
 
 [[files]]
 file = "config/openlights.cfg"
@@ -278,7 +290,7 @@ hash = "7966fe42145353f56a9f0d54e938100fafc10bf682c8636dad6d8546d1699816"
 
 [[files]]
 file = "config/roots/general.cfg"
-hash = "1f101aa52e38d6fe9227cbe3713ee4edc1dea5c8ad1caf688d552c4841ec65f5"
+hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
 
 [[files]]
 file = "config/simplyjetpacks/common.cfg"
@@ -309,6 +321,10 @@ file = "config/tconevo.cfg"
 hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 
 [[files]]
+file = "config/tconstruct.cfg"
+hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
+
+[[files]]
 file = "config/thebetweenlands/config.cfg"
 hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
 
@@ -327,6 +343,14 @@ hash = "b412570dc26a0502b7f1fe31ba9bf6429fd7463f0a9e200d18a94aa07761a8c1"
 [[files]]
 file = "config/vintagium-options.json"
 hash = "8dcc7038038daafab2b216ff9dc2baa57c34a2423f176ee3585fe672fa6de72a"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "11f1f1f435a394d49fda85d04fd3f5be9dcccdb676ee74a3ef75818a6ce47d28"
+
+[[files]]
+file = "config/wawla.cfg"
+hash = "26bfeafa642502f7a923c16da284308d32e787765c693a9c945b32d739cd158f"
 
 [[files]]
 file = "config/wither_skeleton_tweaks.cfg"
@@ -367,6 +391,11 @@ hash = "312e804e65b37a0021d6eae6a72cb59da57be9d1bd5fc6c67c07755c1f6de7bb"
 [[files]]
 file = "mods/abyssal-depths.pw.toml"
 hash = "87005bafb1855e4c3929842d81a202346d3f1bcf309dd52f093e44b35ce9edc8"
+metafile = true
+
+[[files]]
+file = "mods/additional-banners.pw.toml"
+hash = "9ecae3ed22198021da10e3bbd3bdf9b851f2fc6116b4f242cc275c48889b7bfa"
 metafile = true
 
 [[files]]
@@ -1187,11 +1216,6 @@ metafile = true
 [[files]]
 file = "mods/homoium.pw.toml"
 hash = "7edce448dfd9f9cedce2943bdb5ec285540a98a11c30a6c262fc7c2ff90f85f5"
-metafile = true
-
-[[files]]
-file = "mods/horse-tweaks.pw.toml"
-hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
 metafile = true
 
 [[files]]
