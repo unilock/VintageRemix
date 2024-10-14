@@ -33,6 +33,10 @@ file = "config/ZettaiPsi.cfg"
 hash = "b6dd73eae167922cb28b4cc147746aeeadbdc52b44b1a2febd031781ac10a622"
 
 [[files]]
+file = "config/abyssaldepths.cfg"
+hash = "0921658a20a73051c0c940186cedfa3d55cc0db0eb58c57ed2db0c7b39d852f1"
+
+[[files]]
 file = "config/agricraft/config.cfg"
 hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
@@ -83,6 +87,10 @@ hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 [[files]]
 file = "config/conarm.cfg"
 hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
+
+[[files]]
+file = "config/coralreef.cfg"
+hash = "9cfd6c4f0293c749616d5259e4627f4e76d74815fb2d1fd5ad07ce9b23c08040"
 
 [[files]]
 file = "config/crossroads.cfg"
