@@ -41,6 +41,10 @@ file = "config/agricraft/config.cfg"
 hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
 [[files]]
+file = "config/akashictome.cfg"
+hash = "e38bccda4c54c23e51b4b4989ca97c580fa7fb1e9c335296b4fbae317e06fcd4"
+
+[[files]]
 file = "config/animania.cfg"
 hash = "58ada4b68130630eec302ff767a0641ffd88b72c0b639bb166545d7d91bab17e"
 
@@ -54,7 +58,7 @@ hash = "8c0d236abe324f87887f3b650a7577b1ca2c735dea430a2d9ab26d1e31ac0fdf"
 
 [[files]]
 file = "config/astralsorcery.cfg"
-hash = "5b40bc9bc2abee4618ea2670022b12bdcad5061597d8be083d29bac5223644d2"
+hash = "91e6bc2ccea30713c2f322dc24e2d3fbc5e8581bd6959cd3fdf8aa9d3a0793a1"
 
 [[files]]
 file = "config/badwithernocookiereloaded.cfg"
@@ -179,6 +183,10 @@ hash = "7e6e27c2255eb3395cfa8162444053a130600564136d3673607e136c2f1364e7"
 [[files]]
 file = "config/lemonlib.cfg"
 hash = "794278bfbc86e035aa4d5a22886dad702765c576b22549b8881ffdd5afcdcf4d"
+
+[[files]]
+file = "config/levelup2.cfg"
+hash = "7ca6f42a23ae965f3fda47801e3c84aa177439c9f43331537b390c0bfcca858c"
 
 [[files]]
 file = "config/librarianlib.cfg"
@@ -390,7 +398,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "6945d5a5891e0568667c1bbddabbc5d993aa29ef64ad3c7a7b58689312b0812b"
+hash = "c17080d8c54072041d1f3623850ad975af31f6cbd925319988fbbdc0671a0d82"
 
 [[files]]
 file = "groovy/runConfig.json"
