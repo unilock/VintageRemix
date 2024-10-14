@@ -1,13 +1,13 @@
 name = "Just Enough Magiculture"
-filename = "justenoughmagiculture-1.12.2-1.1.5.jar"
+filename = "justenoughmagiculture-1.12.2-1.2.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "15bedddd0571eb977eca2fed11f62dbcf35b593a"
+hash = "0bc62afe62df03faabe03b7837edfcd3f6c317c5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5341033
+file-id = 5796192
 project-id = 940521

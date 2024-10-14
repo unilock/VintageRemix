@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-extended-life.pw.toml"
-hash = "0342ed3fda1688920ac9a98c04310129562a20dcdaa30546bb105c54edabf9e7"
+hash = "7a360ce3ad4192e5f81baa11d6276981647c342c78eef6f0fe9d85286378bb1c"
 metafile = true
 
 [[files]]
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "bdc016b1cf0d0dda62152dba2e32bd019511b63dac93b65b8ad3d8ebda39956f"
+hash = "345cd3b65ed52d646336ad3c8d720d3cf444a9d33bf306a037e8494114c94fa4"
 metafile = true
 
 [[files]]
@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ic2-patcher.pw.toml"
-hash = "334bf9422fa7fa68e729792dfedf606cda30ecb56073d7316f10bb89a68a87b1"
+hash = "fb654cf14622c4b9e81c33ca49282ae34e7b4b12708f21db8eb35f5b354afff2"
 metafile = true
 
 [[files]]
@@ -1355,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-area-fixer.pw.toml"
-hash = "dd719c2d38fbb79885cb7eb00abd531a31328c5c8f1f357ea960ce62b5ca329e"
+hash = "efc9d2cf36118ad66fa7289acffd4c70c514035564986bae046214c697b39156"
 metafile = true
 
 [[files]]
@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-magiculture.pw.toml"
-hash = "4aa3be597066b9d3d84e98f6f50ac6db058922f5f38399c65388605d94b861a3"
+hash = "1213ad3134a5906b1fb4458aa9d7c0f0c08a70e45ef358e3f65b5453beda0000"
 metafile = true
 
 [[files]]
@@ -1485,7 +1485,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiculture-integrations.pw.toml"
-hash = "262f94e4cbbab371f2bc652081b959bf6ad199a0bbbde98d4b648e72b710179c"
+hash = "c818d12901760b57da4a29ba2ea593f7bf77773ede62e666fdf2d249b83b7604"
 metafile = true
 
 [[files]]
@@ -1755,7 +1755,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+hash = "03fa6aa4c44799b68f9f544d2ba1de8327acef11a6a405572125e93a474b7bcd"
 metafile = true
 
 [[files]]
@@ -1935,7 +1935,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "c6f917afa0f0525822f6e459e64166545d61220b9715c8b799854b9a66c3bf56"
+hash = "2eab5c5b0bbbd96523a0e9f5a90d4c01c297b1afb2861b2471e53760c970c069"
 metafile = true
 
 [[files]]
@@ -2145,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarcore.pw.toml"
-hash = "d73929311a1b0bd6851de726084940a4729ef3831f445815204e05ff7a6be90f"
+hash = "4c29332fc0432db86e010bb1ce881cc7f1d3a17e9a31ed63132c05e5b982ce9a"
 metafile = true
 
 [[files]]
@@ -2155,7 +2155,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "83cf4ba66c2a1af9b016dca0894068e8bd86e5448f8857baec8203f5b2152172"
+hash = "9aa575ca3ea4487c7d2c426d949f5ea5536cb9eaa1dc0670a9587873fdd97bf8"
 metafile = true
 
 [[files]]
@@ -2380,7 +2380,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92f8bff482d415a765df0f99ae9b6fa823743d159cf63f092bc8dbb88e9f47d2"
+hash = "8e641d534abe394534e899c066ce458f6a17f38ea2aba1fc2e532fd7c901d8b5"
 metafile = true
 
 [[files]]
