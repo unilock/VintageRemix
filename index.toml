@@ -389,6 +389,14 @@ file = "config/xaeroworldmap.txt"
 hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
+file = "groovy/postInit/InitialInventory.groovy"
+hash = "6945d5a5891e0568667c1bbddabbc5d993aa29ef64ad3c7a7b58689312b0812b"
+
+[[files]]
+file = "groovy/runConfig.json"
+hash = "858742d5a169b6cd4a86caa948f5ff10f38f40810721069a80fcbb28e5287cd7"
+
+[[files]]
 file = "local/client/sidebar_buttons.json"
 hash = "970a40276f8d12a1ee8510f60ec51aa8203b4b3f72872dbe26967a027ae29740"
 
@@ -1480,6 +1488,10 @@ metafile = true
 file = "mods/lost-books.pw.toml"
 hash = "830c5dec6822d386df8d4c49eabd3246be5a7c32a7ffb5afae51887f27dd4df0"
 metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify-f723648.jar"
+hash = "02cd87f9d05bb41dfcabdc05e8e33bfab1bdd324c5f1a12987042f54553c45df"
 
 [[files]]
 file = "mods/magic-bees.pw.toml"
