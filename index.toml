@@ -94,11 +94,11 @@ hash = "2ced6befa52c090a1214462c06ad319cfb4102fc0bfd3581144f389330be127a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "dd4f59d93dcc5ddaa2bd13079dcc5fc58e993031c8c84cc6058b3143aebea44e"
+hash = "d110575076ad382ed3aa641432c174af6a372588d5b6cfc63fd8848caea994e2"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4b1fb8b3335d073abaacc19c45e38a1c2609a2b446ae1ab7ec7398b8ea251434"
+hash = "64ba72980913f524500f564737f89521568b33158e0623d60ca1915422d969e1"
 
 [[files]]
 file = "config/discordcraft/config.cfg"
@@ -262,7 +262,7 @@ hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "d7b75bf217bf05940f791310870729bd54fc73b41a4d0d34144e1825a49fa4c7"
+hash = "93c7d45584a0ae3a9a21de750c2060fac1fca68d53ebfc459d4f316faa98111d"
 
 [[files]]
 file = "config/quiverbow_restrung/misc.cfg"
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/beast-slayer.pw.toml"
-hash = "f266bdf214f8fc292996768e6d46c81e0811885b6a8b819aa5c4352acc3722e3"
+hash = "3d0b972e92a2959dcc9aa841b01f0f669c8dc20ceb1c19260be91845c2b8ccb8"
 metafile = true
 
 [[files]]
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "345cd3b65ed52d646336ad3c8d720d3cf444a9d33bf306a037e8494114c94fa4"
+hash = "bdc016b1cf0d0dda62152dba2e32bd019511b63dac93b65b8ad3d8ebda39956f"
 metafile = true
 
 [[files]]
