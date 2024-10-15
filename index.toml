@@ -338,7 +338,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "f867043daa97dbfd89467d044373c403eb982765f66764378f83ef825f411624"
+hash = "ddab0ebaab1134dc6ae639db78fd834e131550d13a01a980a8b5810a21bddfbb"
 
 [[files]]
 file = "config/tconevo.cfg"
