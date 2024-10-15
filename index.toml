@@ -2250,11 +2250,6 @@ hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
 metafile = true
 
 [[files]]
-file = "mods/thermionics.pw.toml"
-hash = "385a6a51155f5014d0eead1cc4bf13dfc3549a3e604b91919cdac886ef47f0b8"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-addons-fork.pw.toml"
 hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
 metafile = true
