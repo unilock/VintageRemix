@@ -150,7 +150,7 @@ hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
 
 [[files]]
 file = "config/fruitphone.cfg"
-hash = "8727b0077271d8401aa95e8d03290e72c710bb39f9bf12574eb911c32e7f2b58"
+hash = "62f25077105cd48128f20df0df7d764a9072b133dc37a3cf8918373cfedce358"
 
 [[files]]
 file = "config/ftbbackups.cfg"
