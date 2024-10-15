@@ -901,11 +901,6 @@ hash = "6f006a50dfb0dffb8409cb6b9e33efd2e0c79e0847e5094b6272a7b2ef88c6f4"
 metafile = true
 
 [[files]]
-file = "mods/configanytime.pw.toml"
-hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
-metafile = true
-
-[[files]]
 file = "mods/constructs-armory.pw.toml"
 hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
@@ -1173,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "b4d5dfbefd9286524d40edcabca88608c86f40d1a4f8f92d2372c9cfcc776262"
 metafile = true
 
 [[files]]
@@ -1516,10 +1516,6 @@ hash = "830c5dec6822d386df8d4c49eabd3246be5a7c32a7ffb5afae51887f27dd4df0"
 metafile = true
 
 [[files]]
-file = "mods/lwjgl3ify-f723648.jar"
-hash = "02cd87f9d05bb41dfcabdc05e8e33bfab1bdd324c5f1a12987042f54553c45df"
-
-[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
@@ -1612,11 +1608,6 @@ metafile = true
 [[files]]
 file = "mods/missing-pieces.pw.toml"
 hash = "c1922bbd3fe60836ac2b9cb60e70144785b0446526c74f73ff4071b7dbaa5385"
-metafile = true
-
-[[files]]
-file = "mods/mixin-booter.pw.toml"
-hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
 metafile = true
 
 [[files]]
@@ -2122,6 +2113,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "183173e77c1218a84e37a06ce2eccc3cda67771e067bfa07ba9e434b728f4207"
+metafile = true
+
+[[files]]
+file = "mods/scalar.pw.toml"
+hash = "e3a22ef958757e82d498d61fe6b44d944879c3147da5f3fdf85026ae48981287"
 metafile = true
 
 [[files]]
