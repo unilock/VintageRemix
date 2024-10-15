@@ -129,6 +129,10 @@ file = "config/enderstorage.cfg"
 hash = "6c765706f50648c06cd62dfe9a9827466c8931f9f41b4824c40bcd70c2bc442a"
 
 [[files]]
+file = "config/engination.cfg"
+hash = "bbdd95a4384b94234250fd161d94cfde67524e5103758385172c752fe11a62bf"
+
+[[files]]
 file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
 
@@ -143,6 +147,10 @@ hash = "268fff84f0c6d2e0bd72f9113aab1f1486518dfc4c830ad2d79b6efc9d902d32"
 [[files]]
 file = "config/forge.cfg"
 hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
+
+[[files]]
+file = "config/fruitphone.cfg"
+hash = "8727b0077271d8401aa95e8d03290e72c710bb39f9bf12574eb911c32e7f2b58"
 
 [[files]]
 file = "config/ftbbackups.cfg"
@@ -1068,6 +1076,11 @@ hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
 metafile = true
 
 [[files]]
+file = "mods/engination.pw.toml"
+hash = "6cd8d18043f9acf247a10f5561a0d39582d402106b919b7421112fd8288af48c"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
 metafile = true
@@ -1140,6 +1153,11 @@ metafile = true
 [[files]]
 file = "mods/friendshipbracelet.pw.toml"
 hash = "1a0b40fe299c24241f6787605a5f73b1656c4ae8791c26ed3e1e82718a5fd607"
+metafile = true
+
+[[files]]
+file = "mods/fruitphone.pw.toml"
+hash = "efabbd5d39049de1fe9e9f98aefcbbbc7e4d531828bd60f083d1816fbdb9c561"
 metafile = true
 
 [[files]]
@@ -1907,6 +1925,11 @@ hash = "1f40058b5182500d29c287add5132b5004ab9d0a3f843402355fc0e9e29ec387"
 metafile = true
 
 [[files]]
+file = "mods/probedataprovider.pw.toml"
+hash = "a4872e28a6eeb0bac2739b641f3f7442b95c7502c18377aef19700cdb8392238"
+metafile = true
+
+[[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
 metafile = true
@@ -2224,6 +2247,11 @@ metafile = true
 [[files]]
 file = "mods/the-weirding-gadget.pw.toml"
 hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
+metafile = true
+
+[[files]]
+file = "mods/thermionics.pw.toml"
+hash = "385a6a51155f5014d0eead1cc4bf13dfc3549a3e604b91919cdac886ef47f0b8"
 metafile = true
 
 [[files]]

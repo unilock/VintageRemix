@@ -1,0 +1,15 @@
+name = "FruitPhone"
+filename = "FruitPhone-1.12.2-2.84.jar"
+side = "both"
+
+[download]
+url = "https://github.com/elytra/FruitPhone/releases/download/1.12.2-2.84/FruitPhone-1.12.2-2.84.jar"
+hash-format = "sha256"
+hash = "5df2d30c0427d70c520414925acb7ee87ca1dacff5cd0946bc0080abef1efd1b"
+
+[update]
+[update.github]
+branch = "1.12.2"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "elytra/FruitPhone"
+tag = "1.12.2-2.84"

@@ -1,0 +1,15 @@
+name = "ProbeDataProvider"
+filename = "ProbeDataProviderAPI-MC1.12_ver1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/elytra/ProbeDataProvider/releases/download/1.12-1.1.1/ProbeDataProviderAPI-MC1.12_ver1.1.1.jar"
+hash-format = "sha256"
+hash = "88f0e6368b94847834efa9a2714b3897bd9381b5132fe564f6cab3e476919f70"
+
+[update]
+[update.github]
+branch = "1.12"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "elytra/ProbeDataProvider"
+tag = "1.12-1.1.1"
