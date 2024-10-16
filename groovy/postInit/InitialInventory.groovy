@@ -196,6 +196,14 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'patchouli:book': 'twilightforest:guide'
 			]
 		],
+		'wizardry': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'wizardry:book',
+			'tag': [
+				'akashictome:definedMod': 'wizardry'
+			]
+		],
 		'woot': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,

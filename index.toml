@@ -434,7 +434,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "2ebc55f3ff85b314afef37052e5093322eb6eb91c855a601dc551dfdbfda5eef"
+hash = "ccef9f530cc8d6b2eee10ee1be83534ccbd716496a768ea4cb69943b9c543d4e"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
