@@ -317,6 +317,10 @@ file = "config/roots/general.cfg"
 hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
 
 [[files]]
+file = "config/sasit.cfg"
+hash = "9c9ca3d21bb44f5ac563adb51e508e5c8247dda014a7384b5aae381700938bbe"
+
+[[files]]
 file = "config/simplyjetpacks/common.cfg"
 hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
@@ -1742,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "b4f2adfe743a796895d56f4918f2b71745fc77cdb3c55348c6d04951392a6bcd"
+hash = "e45d8a17ea0354e6a662713bde01055070bbf7ac29a1ea80d5576c3fc29d38d0"
 metafile = true
 
 [[files]]
