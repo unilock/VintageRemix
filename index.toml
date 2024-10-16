@@ -129,10 +129,6 @@ file = "config/enderstorage.cfg"
 hash = "6c765706f50648c06cd62dfe9a9827466c8931f9f41b4824c40bcd70c2bc442a"
 
 [[files]]
-file = "config/engination.cfg"
-hash = "bbdd95a4384b94234250fd161d94cfde67524e5103758385172c752fe11a62bf"
-
-[[files]]
 file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
 
@@ -1088,11 +1084,6 @@ metafile = true
 [[files]]
 file = "mods/energy-control.pw.toml"
 hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
-metafile = true
-
-[[files]]
-file = "mods/engination.pw.toml"
-hash = "6cd8d18043f9acf247a10f5561a0d39582d402106b919b7421112fd8288af48c"
 metafile = true
 
 [[files]]
