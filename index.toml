@@ -54,7 +54,7 @@ hash = "b2826720f51d5593cd3b8793f355d3bfa5c6ad2d6e932c0ff6f78adc4e3a5d58"
 
 [[files]]
 file = "config/arcanearchives.cfg"
-hash = "8c0d236abe324f87887f3b650a7577b1ca2c735dea430a2d9ab26d1e31ac0fdf"
+hash = "3839944dd55b20ad0baf62cd63f5aeaa2b66619c75e31955f192d7c186cab5a3"
 
 [[files]]
 file = "config/astralsorcery.cfg"
@@ -71,6 +71,10 @@ hash = "b33a002d60d7a2110ec2e6ab75544db3447cb11be19201d152db24d34ba85fca"
 [[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
 hash = "88171d803877075679574fc29207f7a3bbc3af3056fe505d202c95e59b6525e9"
+
+[[files]]
+file = "config/botaniatweaks.cfg"
+hash = "39e3df963253befbea3c563df7081907425d3f0e725cc6faf1fe46763a3e8dd9"
 
 [[files]]
 file = "config/brandon3055/BrandonsCore.cfg"
@@ -267,6 +271,10 @@ hash = "15478ce33f34b1199c43a00d7175aa95becdbc42ddfbbb2af84e98801993b7eb"
 [[files]]
 file = "config/mysticalworld.cfg"
 hash = "5effed82878b60cbcc5b4bbad19d1b9803ee438f11dde29f6d077db2abf04b58"
+
+[[files]]
+file = "config/nyx.cfg"
+hash = "61b6b8924f66c2772686e4863bf2d668ee70eea33014cd30e95a148f6b7a4531"
 
 [[files]]
 file = "config/openblocks.cfg"
