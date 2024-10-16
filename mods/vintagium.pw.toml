@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/client/vintagium-mc1.12.2-0.1.jar"
 hash-format = "sha256"
-hash = "0e5464c2abffc2a3a0f9e504064cfad34a1eb9658da14d1f415d061cd2f6e200"
+hash = "78c2c3aca1a87e0c046ce4777f7a29eaa5444da339b35a1e3140f7c421a67f57"

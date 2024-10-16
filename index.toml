@@ -2009,7 +2009,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-things.pw.toml"
-hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
+hash = "3cbbc29c881db76565f5bbfa9f8a20df216e2da79be8d52145bfcc23889439b2"
 metafile = true
 
 [[files]]
@@ -2384,7 +2384,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagium.pw.toml"
-hash = "8327173aa924c76bc68d0779c939738896c48d5f98a39b47ab49dc6f1d7061c8"
+hash = "8abbb60624ce331e482856ff17f9fa25dbd78a7caf09b5dafa601fba901d488a"
 metafile = true
 
 [[files]]

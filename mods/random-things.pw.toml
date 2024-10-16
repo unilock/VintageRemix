@@ -1,13 +1,8 @@
 name = "Random Things"
-filename = "RandomThings-MC1.12.2-4.2.7.4.jar"
+filename = "randomthings-4.2.7.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4422c297678e8f07a476ca5d4972568cfc7576bb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2905241
-project-id = 59816
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/randomthings-4.2.7.5.jar"
+hash-format = "sha256"
+hash = "68384cdb68932540cbeb6d949a0d270675e9f16f5fb1a40c53a56a16c94c3b78"
