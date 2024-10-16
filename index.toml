@@ -185,6 +185,22 @@ file = "config/inspirations.cfg"
 hash = "9d9688a800c1c383e0e02c7bc679776c874735f23a7dc88edc46a2786dcf070d"
 
 [[files]]
+file = "config/jaopca/materials/brick.toml"
+hash = "ef1e95a8951cc6a9fc0ee648d756522218c54b08f3d10d880b3e2a2780360000"
+
+[[files]]
+file = "config/jaopca/materials/brick_nether.toml"
+hash = "d0681f55682ccb635ab9d003a863ca1678a4bca6a224bc4d8dfbeb1951717b86"
+
+[[files]]
+file = "config/jaopca/materials/brick_seared.toml"
+hash = "6846992200f5405e44d2b0b8e98f50ce9ae35645eb05b75cba3c0e45232e7bc9"
+
+[[files]]
+file = "config/jaopca/modules/block.toml"
+hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
+
+[[files]]
 file = "config/jei/jei.cfg"
 hash = "7e6e27c2255eb3395cfa8162444053a130600564136d3673607e136c2f1364e7"
 
