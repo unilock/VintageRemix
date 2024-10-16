@@ -740,6 +740,11 @@ hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
+file = "mods/botania-tweaks.pw.toml"
+hash = "9a1750719d2354f80e5734847abf2ea845c53e97ffd9ee7fa6e9760dd3e53e51"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
@@ -1485,6 +1490,11 @@ hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
 metafile = true
 
 [[files]]
+file = "mods/librarianlib-continuous.pw.toml"
+hash = "7c780eecab91bbda467b17c053d16bc457dfca6c24c3f13c30e53e4d5af2f6df"
+metafile = true
+
+[[files]]
 file = "mods/library-for-ar-reworked.pw.toml"
 hash = "6f3cd79eb43142203ba21deb183b39a1e8532a8c6e87ab7cb4ff607adfb8a2ea"
 metafile = true
@@ -1720,6 +1730,11 @@ hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
 metafile = true
 
 [[files]]
+file = "mods/natural-pledge.pw.toml"
+hash = "137a6ccac31d56b11191c0b1682dad66dd2752bd20724af28c1c42c00bc58570"
+metafile = true
+
+[[files]]
 file = "mods/natures-aura.pw.toml"
 hash = "3b72e6b9ed34050130edd8a6e3a6c4d6e88420a4a14b3f5d3ca4d44c30352b1a"
 metafile = true
@@ -1757,6 +1772,11 @@ metafile = true
 [[files]]
 file = "mods/numina.pw.toml"
 hash = "be048772c15768cdfad49db77fd785213946a0726dbcd689c57ab4119fc6645c"
+metafile = true
+
+[[files]]
+file = "mods/nyx.pw.toml"
+hash = "8d750cf36c7c2bafe55b30a9402d8fa9fe083a249eda405fb3cad64d5a973abc"
 metafile = true
 
 [[files]]
@@ -1907,6 +1927,11 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
+metafile = true
+
+[[files]]
+file = "mods/plusticminusbad.pw.toml"
+hash = "846c977b2d255defc39a07c12ca33b48b884bb2b96f5846ad0339c6178763376"
 metafile = true
 
 [[files]]
@@ -2412,6 +2437,11 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "cab1b602a391952b37e883b81cbd1aa24ec8b477efeacbefc3cc85d3feca819a"
+metafile = true
+
+[[files]]
+file = "mods/wizardry-mod.pw.toml"
+hash = "622ccbd2cddc5cbbededabdd795f425f9716931e643df1eb9c0034ff3f5bec67"
 metafile = true
 
 [[files]]

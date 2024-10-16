@@ -1,0 +1,13 @@
+name = "Nyx"
+filename = "Nyx-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c84f5c660f1be4e75614eedc2ecc13545532150"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3161738
+project-id = 349214
