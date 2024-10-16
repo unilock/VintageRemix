@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "3aa8985d241e1b6e04ea5e8f0b976900aad832418beae59484db3e46bb1b2162"
+hash = "24673b1748ab56f7a1117af1feddc831376ea90bf6aaae347211bd83f4f7a9b1"
 metafile = true
 
 [[files]]
@@ -2311,7 +2311,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweaked-lib.pw.toml"
-hash = "cd523c6345a988662493ffcee25e6605d193a622bd9f6840d25cffe10830a92e"
+hash = "31452f861ad41c26344a5b08e3b8dd27de603aab36a51d582eddb501a6d7b178"
 metafile = true
 
 [[files]]
