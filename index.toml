@@ -2027,11 +2027,6 @@ hash = "e8fef717ef2bb8ba83f2022f11c311dd8a1cd356dc03d8c106a625e198cd03e5"
 metafile = true
 
 [[files]]
-file = "mods/reauth.pw.toml"
-hash = "53105a0a24ba4be58571b056a85e09d7f3840777c7a6c6f6520c55620388e77a"
-metafile = true
-
-[[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
