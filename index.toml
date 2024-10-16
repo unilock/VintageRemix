@@ -422,7 +422,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "216c785e1b9aed33d8f029b7bbeeee18d8ef49f9009db5e7f9f1b3a886fec4e5"
+hash = "2ebc55f3ff85b314afef37052e5093322eb6eb91c855a601dc551dfdbfda5eef"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -1158,11 +1158,6 @@ metafile = true
 [[files]]
 file = "mods/friendshipbracelet.pw.toml"
 hash = "1a0b40fe299c24241f6787605a5f73b1656c4ae8791c26ed3e1e82718a5fd607"
-metafile = true
-
-[[files]]
-file = "mods/fruitphone.pw.toml"
-hash = "efabbd5d39049de1fe9e9f98aefcbbbc7e4d531828bd60f083d1816fbdb9c561"
 metafile = true
 
 [[files]]
@@ -1923,11 +1918,6 @@ metafile = true
 [[files]]
 file = "mods/practical-logistics-2.pw.toml"
 hash = "1f40058b5182500d29c287add5132b5004ab9d0a3f843402355fc0e9e29ec387"
-metafile = true
-
-[[files]]
-file = "mods/probedataprovider.pw.toml"
-hash = "a4872e28a6eeb0bac2739b641f3f7442b95c7502c18377aef19700cdb8392238"
 metafile = true
 
 [[files]]

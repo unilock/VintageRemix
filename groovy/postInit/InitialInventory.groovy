@@ -8,7 +8,7 @@ player.addStartingItem(item('minecraft:stone_pickaxe'))
 player.addStartingItem(item('minecraft:stone_axe'))
 player.addStartingItem(item('minecraft:stone_shovel'))
 
-player.addStartingItem(item('fruitphone:handheld', 1))
+//player.addStartingItem(item('fruitphone:handheld', 1))
 
 player.addStartingItem(item('akashictome:tome').withNbt([
 	'akashictome:data': [
