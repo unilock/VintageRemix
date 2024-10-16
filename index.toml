@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "bdc016b1cf0d0dda62152dba2e32bd019511b63dac93b65b8ad3d8ebda39956f"
+hash = "345cd3b65ed52d646336ad3c8d720d3cf444a9d33bf306a037e8494114c94fa4"
 metafile = true
 
 [[files]]
@@ -1391,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "c2187e79e62792c0c14c361249a365cf567651d380ccb93b98d883ee9ba2184b"
+hash = "3fa8ef7e43de7270cda35fcd507256f02dd5453ae62b2d1792f59d0350894e4f"
 metafile = true
 
 [[files]]

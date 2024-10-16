@@ -1,8 +1,13 @@
 name = "JAOPCA"
-filename = "JAOPCA-1.12.2-2.3.10.21.jar"
+filename = "JAOPCA-1.12.2-2.3.11.27.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/JAOPCA-1.12.2-2.3.10.21.jar"
-hash-format = "sha256"
-hash = "8c285986586f30eee6ba1b1c89e45c0340394039dc0b3b9181bccd2ef478cb80"
+hash-format = "sha1"
+hash = "e56431b69c84d1d577e7f8638ab50869218d2c45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5601294
+project-id = 266936
