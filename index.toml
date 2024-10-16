@@ -165,6 +165,10 @@ file = "config/hats.cfg"
 hash = "30b539facad34bbb28856612da8513d7638f08c8e63093a3a103294fc69b4e63"
 
 [[files]]
+file = "config/homoium.cfg"
+hash = "84cb928deb351b05a65f0c4e06cd7605dec8e9ac5e1edf0a4ec62341dbac2f44"
+
+[[files]]
 file = "config/ichunutil.cfg"
 hash = "465297e20f3aec3d11dc585dc5cecf38220f27954b2088a159ed09a49938ff14"
 
