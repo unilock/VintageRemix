@@ -146,7 +146,7 @@ hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
 
 [[files]]
 file = "config/fruitphone.cfg"
-hash = "62f25077105cd48128f20df0df7d764a9072b133dc37a3cf8918373cfedce358"
+hash = "1f0f39a12324c2cde938a5863b1d84af9d8dc08344751d1acd4210433fd4895b"
 
 [[files]]
 file = "config/ftbbackups.cfg"
@@ -422,7 +422,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "08e789b8482761b08425f52a855292573fc3bb6e4f98facaa67905b9804f3f6e"
+hash = "216c785e1b9aed33d8f029b7bbeeee18d8ef49f9009db5e7f9f1b3a886fec4e5"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -1118,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.pw.toml"
 hash = "9329b9fdd763bd2ab90037e7c24dfacd6d9571a90da2b3261dba12ce925633f8"
-metafile = true
-
-[[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "4752a90956923c1bdce1c237e67a6e8f4fd4b3f5a476acecda01a77acf6c01f3"
 metafile = true
 
 [[files]]
