@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-extended-life.pw.toml"
-hash = "7a360ce3ad4192e5f81baa11d6276981647c342c78eef6f0fe9d85286378bb1c"
+hash = "9fd1ca661b22f3083dd975d8281b668e295d75dc77e03cf8bd1963066de00153"
 metafile = true
 
 [[files]]
