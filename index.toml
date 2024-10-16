@@ -1538,11 +1538,6 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
-file = "mods/lost-books.pw.toml"
-hash = "830c5dec6822d386df8d4c49eabd3246be5a7c32a7ffb5afae51887f27dd4df0"
-metafile = true
-
-[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
