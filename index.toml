@@ -422,7 +422,11 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "c17080d8c54072041d1f3623850ad975af31f6cbd925319988fbbdc0671a0d82"
+hash = "08e789b8482761b08425f52a855292573fc3bb6e4f98facaa67905b9804f3f6e"
+
+[[files]]
+file = "groovy/postInit/Tooltips.groovy"
+hash = "aeec6ac33b557e6eef6cae3cb370f91c53601257bd5f687e511ad4b553ae21a3"
 
 [[files]]
 file = "groovy/runConfig.json"

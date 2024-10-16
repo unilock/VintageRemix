@@ -1,7 +1,5 @@
 // InitialInventory
 
-import net.minecraftforge.event.entity.player.ItemTooltipEvent
-
 player.testingStartingItems = false // Enable this to have the items be given every time you join the world. Use in testing only.
 player.replaceDefaultInventory = false // Enable this to replace any existing items with GroovyScript's starting inventory items.
 
@@ -224,9 +222,3 @@ player.addStartingItem(item('minecraft:leather_helmet'))
 player.addStartingItem(item('minecraft:leather_chestplate'))
 player.addStartingItem(item('minecraft:leather_leggings'))
 player.addStartingItem(item('minecraft:leather_boots'))
-
-event_manager.listen { ItemTooltipEvent event ->
-    if (event.getItemStack() in item('akashictome:tome')) {
-        event.getToolTip() << '§cDO NOT ADD: Astral Tome, Lexica Alquimia, Lexica Botania, Skill Book'
-    }
-}
