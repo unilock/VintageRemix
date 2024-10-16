@@ -1778,11 +1778,6 @@ hash = "be048772c15768cdfad49db77fd785213946a0726dbcd689c57ab4119fc6645c"
 metafile = true
 
 [[files]]
-file = "mods/nyx.pw.toml"
-hash = "8d750cf36c7c2bafe55b30a9402d8fa9fe083a249eda405fb3cad64d5a973abc"
-metafile = true
-
-[[files]]
 file = "mods/oauth.pw.toml"
 hash = "2e36215d70a77efa7454bb83247e8766b6dca081f3b56639975dc2a03f58b7a4"
 metafile = true
