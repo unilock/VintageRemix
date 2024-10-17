@@ -13,6 +13,10 @@ file = "config/IC2.ini"
 hash = "943d71e99adefd72fb39a0c7b9e21f89d5b61fe451a3c4b94f0049a65409d9de"
 
 [[files]]
+file = "config/LiketechniksTinkerTweaks.cfg"
+hash = "9802d87f2328a59186210881e1ab22f9ce5ccaca22252354e67c7192d905f46c"
+
+[[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
 hash = "00c3d49c589a55e999dc87a306c1966b85c95a862785bf5aefb5a61d936d3b9b"
 
@@ -2275,6 +2279,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-complement.pw.toml"
 hash = "d2ea631f738d6cd7423210f2d34c4157149d358a15b763f054f53c25cfb91284"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct-tool-leveling-with-random.pw.toml"
+hash = "a2a56d8b19e29e76a578f792850d87a5871d150a22a10535072b88dd69b8b782"
 metafile = true
 
 [[files]]
