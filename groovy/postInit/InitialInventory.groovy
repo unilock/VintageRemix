@@ -54,6 +54,14 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'patchouli:book': 'corvus:book'
 			]
 		],
+		'crossroads': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'guideapi:crossroads-info_guide',
+			'tag': [
+				'akashictome:definedMod': 'crossroads'
+			]
+		],
 		'elementaristics': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
