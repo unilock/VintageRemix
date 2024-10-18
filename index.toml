@@ -230,7 +230,7 @@ hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "85923532819d402b88ac824773c7f2865d0fdccc38b52d3201276126a27e00fb"
+hash = "9ce6a12f3d7429a5ee0b3de7c77fbbfb90418b7f339a4aa85b0551431f5cfb42"
 
 [[files]]
 file = "config/jei/jei.cfg"
