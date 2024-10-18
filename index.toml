@@ -10,7 +10,7 @@ hash = "c6a1f9473f5c88a79aa930515bd6f530b72fc6ae5b325eb911c9fff93de0db15"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "943d71e99adefd72fb39a0c7b9e21f89d5b61fe451a3c4b94f0049a65409d9de"
+hash = "8fbbe18803b5d14a98cc2b0ae675798a032ade833f765f2c29127ad458528c6a"
 
 [[files]]
 file = "config/LiketechniksTinkerTweaks.cfg"
@@ -133,6 +133,26 @@ file = "config/dsurround/dsurround.cfg"
 hash = "6dd409e2237404c69764606023c3c42ad6c87f73558ed2bd77652f3e6b37578e"
 
 [[files]]
+file = "config/dynamiclights.cfg"
+hash = "fc01b86ea1ea45d68c56f9e363831d143a2f35995d4693e12d8bbb590b343ab6"
+
+[[files]]
+file = "config/dynamiclights_dropitems.cfg"
+hash = "cc291b4bf343e9f9ed9e6909ac7dc4e69dd4d759453f6c959c9f3cce9eb17fdc"
+
+[[files]]
+file = "config/dynamiclights_mobequipment.cfg"
+hash = "b5274402571ddc417c4cc841ce47aee6560018fdb8957a8f51b187dfe9e767f3"
+
+[[files]]
+file = "config/dynamiclights_otherplayers.cfg"
+hash = "6f50b0364602cd82e6f7941bd61e0ccec0fcbf787a21c2dfac6521c7bfd3eca8"
+
+[[files]]
+file = "config/dynamiclights_theplayer.cfg"
+hash = "0670259b16a88d42d2148299de9bf7ca9d4326dc9934d518eca23c13310f87cd"
+
+[[files]]
 file = "config/enderstorage.cfg"
 hash = "6c765706f50648c06cd62dfe9a9827466c8931f9f41b4824c40bcd70c2bc442a"
 
@@ -209,8 +229,12 @@ file = "config/jaopca/modules/block.toml"
 hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
 
 [[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "85923532819d402b88ac824773c7f2865d0fdccc38b52d3201276126a27e00fb"
+
+[[files]]
 file = "config/jei/jei.cfg"
-hash = "7e6e27c2255eb3395cfa8162444053a130600564136d3673607e136c2f1364e7"
+hash = "ed116fcde3198641ff7fac6b4b4731ce7e5015c937195f381334b8c371928de3"
 
 [[files]]
 file = "config/lemonlib.cfg"
