@@ -230,7 +230,7 @@ hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "9ce6a12f3d7429a5ee0b3de7c77fbbfb90418b7f339a4aa85b0551431f5cfb42"
+hash = "4adf3643afb04dff00f4898c6d872fdf8c7304a991ae2ac199c05abf6eb8035f"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -943,11 +943,6 @@ metafile = true
 [[files]]
 file = "mods/commons0815.pw.toml"
 hash = "8e948dba900f6e492e7fa3778568ff8b6b617b37e0746fc71b9ef97621f0c599"
-metafile = true
-
-[[files]]
-file = "mods/compact-solars.pw.toml"
-hash = "c91e9bd1f944d41f57506f289fb43d4cb9dbf7e53d1b51c746bad7a34b31498c"
 metafile = true
 
 [[files]]
@@ -1728,11 +1723,6 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriexpansion.pw.toml"
-hash = "9d5c961e0999ae97815e9e0677d466a08f888f63cc100a9bb5525450b9b56ee0"
 metafile = true
 
 [[files]]
