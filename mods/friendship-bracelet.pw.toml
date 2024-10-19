@@ -1,0 +1,13 @@
+name = "Friendship Bracelet"
+filename = "FriendshipBracelet-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a86f51cc490243216cda0fa3598d4bb2e5b71115"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2594861
+project-id = 297306

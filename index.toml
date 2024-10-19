@@ -346,7 +346,7 @@ hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "57eaed41251efdd3e769f3e5e8921ce5ffeb0623035893e31cd1227cff596678"
+hash = "5b35c4b68e043bc8e45db10153e05eb5d3d42753d8d36dc0d318603adf82683e"
 
 [[files]]
 file = "config/quiverbow_restrung/misc.cfg"
@@ -1204,8 +1204,8 @@ hash = "f3eb9c779b90bf950100b0bb4a65c5fff8f518c7fcff8a4d7b728fdee81c43b9"
 metafile = true
 
 [[files]]
-file = "mods/friendshipbracelet.pw.toml"
-hash = "1a0b40fe299c24241f6787605a5f73b1656c4ae8791c26ed3e1e82718a5fd607"
+file = "mods/friendship-bracelet.pw.toml"
+hash = "caaaa37dd6a609b8cee3354b096dc2798fa63f2db02e4f38c4d09d007fc268ec"
 metafile = true
 
 [[files]]
