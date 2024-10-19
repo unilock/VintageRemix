@@ -381,6 +381,10 @@ file = "config/roots/general.cfg"
 hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
 
 [[files]]
+file = "config/rustic.cfg"
+hash = "975e78a709628bc0767c11d9947cee6064bd7384a524c912f9b5c71de56e40f5"
+
+[[files]]
 file = "config/sasit.cfg"
 hash = "b7b1649b323920775059cd90932d66887380bbb265f7eef940ef61a9083f0e7f"
 
