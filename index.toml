@@ -49,6 +49,10 @@ file = "config/akashictome.cfg"
 hash = "e38bccda4c54c23e51b4b4989ca97c580fa7fb1e9c335296b4fbae317e06fcd4"
 
 [[files]]
+file = "config/alquimia.cfg"
+hash = "b8cf35f9fd875ae4453ffc60ef1b72705df221bd92dd6ad210b973888e2a26ba"
+
+[[files]]
 file = "config/animania.cfg"
 hash = "d99c0318c01368481a5f51e82b858ac668c16a878a5584e6a601b7d70243f89a"
 
