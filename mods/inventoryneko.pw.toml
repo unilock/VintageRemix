@@ -1,0 +1,13 @@
+name = "InventoryNeko"
+filename = "InventoryNeko-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60c1e1933353ff7cc28b103fd6a28aae7ed0f6e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2483812
+project-id = 278732

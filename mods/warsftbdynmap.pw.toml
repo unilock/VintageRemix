@@ -1,0 +1,13 @@
+name = "WarsFtbDynmap"
+filename = "WarsFtbDynmap-1.0.4.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "60ab951a801edad4651d07488cc2d71f7e93098c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2660734
+project-id = 309320

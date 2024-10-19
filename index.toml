@@ -93,6 +93,10 @@ file = "config/brandon3055/DraconicEvolution.cfg"
 hash = "04268f3aee06782c2309bc4917f0bc860e47f21da6867a8d0cea38da8b19e8f3"
 
 [[files]]
+file = "config/bringmetherings.cfg"
+hash = "70db5584b54706f155f8ba6763d12c925041a6fa8fa0feb235208b763a7d7154"
+
+[[files]]
 file = "config/charset/module/lib.cfg"
 hash = "31c114616f5a3cdc42a2a6a604d56e503e9518eb6c249ec7457dc2bda00eb8a6"
 
@@ -346,7 +350,7 @@ hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "5b35c4b68e043bc8e45db10153e05eb5d3d42753d8d36dc0d318603adf82683e"
+hash = "cde9d82ff44729c612a9fd806c3f4756e82a218970cffad4b02031617a990afa"
 
 [[files]]
 file = "config/quiverbow_restrung/misc.cfg"
@@ -435,6 +439,10 @@ hash = "8dcc7038038daafab2b216ff9dc2baa57c34a2423f176ee3585fe672fa6de72a"
 [[files]]
 file = "config/waila/waila.cfg"
 hash = "11f1f1f435a394d49fda85d04fd3f5be9dcccdb676ee74a3ef75818a6ce47d28"
+
+[[files]]
+file = "config/warsftbdynmap.cfg"
+hash = "81f22e7650a7340635f16e37b7f45694fc1a6898312e3f03176ef7672c6c884e"
 
 [[files]]
 file = "config/wawla.cfg"
@@ -639,11 +647,6 @@ hash = "81ae6f1ed3a8cb18aa0fc0aba5101c5aa80b9e1e3781645f37f33ad39060f12b"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "6f5db2862c4b5e4f90fdace8291e1998e7496f821dfb7fb27e1d217e58463ca2"
-metafile = true
-
-[[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
 metafile = true
@@ -681,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/base.pw.toml"
 hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
+metafile = true
+
+[[files]]
+file = "mods/bauble-of-undying.pw.toml"
+hash = "4e9d53b865583d4d4f86bed56261260a8cdd07937d928e9ce10a457934becbf9"
 metafile = true
 
 [[files]]
@@ -804,6 +812,11 @@ hash = "e6b6f908221c3ff5f821e0f648a05f037ca100a242fb3d0122db9209e2531be2"
 metafile = true
 
 [[files]]
+file = "mods/bring-me-the-rings.pw.toml"
+hash = "15b2766621163e3e1eca15bffe87895074abb6b30059a7e315db6ac8298edd97"
+metafile = true
+
+[[files]]
 file = "mods/broken-wings.pw.toml"
 hash = "03eb9750199373b2ea6122d8a33c484e4b744754a77cc898402aa29f3a1c510e"
 metafile = true
@@ -864,6 +877,11 @@ hash = "0374f62727fb3525bc6d37c42ed407da341c85454b3580ed44b969143c4d34f6"
 metafile = true
 
 [[files]]
+file = "mods/charset-block-carrying.pw.toml"
+hash = "fd0f4613108cb60d8702d8eac475dc090d7d053757fde4059cc270a0f1f6d77f"
+metafile = true
+
+[[files]]
 file = "mods/charset-crafting.pw.toml"
 hash = "4267f12c399e459be0828b1b63ad0997004bf62caaa5962c1a3b676e8112ae1c"
 metafile = true
@@ -876,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/charset-lib.pw.toml"
 hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
+metafile = true
+
+[[files]]
+file = "mods/charset-optics.pw.toml"
+hash = "83619cce504e56e584b7ada16e1f258cb4d7f94403492da6f29b7482198d703a"
 metafile = true
 
 [[files]]
@@ -916,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/charset-tweaks.pw.toml"
 hash = "f0562c7caf88ab61ca5c694bd09df8887472026c751a1f3400a2946e1d3f91b4"
+metafile = true
+
+[[files]]
+file = "mods/charsetpatches.pw.toml"
+hash = "f7bff273f5682068112f76766311518cf69e3c056d081902131e0c2540b48304"
 metafile = true
 
 [[files]]
@@ -1096,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "8b336d5d14de620619008089da72b399ffac0a4e0a729726d358f5ad26dea988"
 metafile = true
 
 [[files]]
@@ -1411,6 +1444,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
+metafile = true
+
+[[files]]
+file = "mods/inventoryneko.pw.toml"
+hash = "a1ecf80614d8a78257b56a5893990b0569bc3b72963acb8ee96e2dfd6859f823"
 metafile = true
 
 [[files]]
@@ -1749,8 +1787,8 @@ hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
 metafile = true
 
 [[files]]
-file = "mods/natura.pw.toml"
-hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
+file = "mods/natura-legacy.pw.toml"
+hash = "d5b1481a744fe27fcd898c142abd3aa73fc29f64a005ba8e0437e91b1da5765d"
 metafile = true
 
 [[files]]
@@ -2139,6 +2177,11 @@ hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
 metafile = true
 
 [[files]]
+file = "mods/rl-artifacts.pw.toml"
+hash = "8503e8b65e6d261989062a2fcbf4cd33f468bb7275b957e1bb7fae82f4dae686"
+metafile = true
+
+[[files]]
 file = "mods/roots.pw.toml"
 hash = "6b56810779d29cdb1d0fff42375de45900f888f9c1342bc2cf930d5975521b89"
 metafile = true
@@ -2424,8 +2467,18 @@ hash = "181fffb728b086d5828ba582b603f68b1a814f219391b8e5be1880b690aa3b51"
 metafile = true
 
 [[files]]
+file = "mods/waim-what-am-i-missing.pw.toml"
+hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
+metafile = true
+
+[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
+metafile = true
+
+[[files]]
+file = "mods/warsftbdynmap.pw.toml"
+hash = "06979a8bd9acb10f4108e50fae8e15bbc35e699cc3ffb3869818cf870daf871a"
 metafile = true
 
 [[files]]

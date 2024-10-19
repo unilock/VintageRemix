@@ -1,0 +1,13 @@
+name = "WAIM - What am I missing?"
+filename = "WAIM-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eedc08b69c18e33eb69ca78995fc2c334dd5f8ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2526205
+project-id = 286518

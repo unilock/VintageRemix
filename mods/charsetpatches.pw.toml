@@ -1,0 +1,13 @@
+name = "CharsetPatches"
+filename = "CharsetPatches-0.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e3113adb7bb0d7b94d83cd40d7810dff53e5ccf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2748288
+project-id = 278527

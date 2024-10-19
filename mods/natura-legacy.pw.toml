@@ -1,0 +1,13 @@
+name = "Natura Legacy"
+filename = "natura-1.12.2-4.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b1b820d5b535a048b9a252be594cd22c14a8a47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5788723
+project-id = 1116420
