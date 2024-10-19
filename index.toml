@@ -14,7 +14,7 @@ hash = "8fbbe18803b5d14a98cc2b0ae675798a032ade833f765f2c29127ad458528c6a"
 
 [[files]]
 file = "config/LiketechniksTinkerTweaks.cfg"
-hash = "9802d87f2328a59186210881e1ab22f9ce5ccaca22252354e67c7192d905f46c"
+hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -193,6 +193,10 @@ file = "config/ftbutilities.cfg"
 hash = "738a41e5c2ebb000d679ff29c2ccd57934e117cb991be7daaea94746c52eb04c"
 
 [[files]]
+file = "config/harvestcraft.cfg"
+hash = "44e4888d56cf6f259555c147700756d4bdf799b81a1563d8299c34e1d1c95d55"
+
+[[files]]
 file = "config/hats.cfg"
 hash = "30b539facad34bbb28856612da8513d7638f08c8e63093a3a103294fc69b4e63"
 
@@ -342,7 +346,7 @@ hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "93c7d45584a0ae3a9a21de750c2060fac1fca68d53ebfc459d4f316faa98111d"
+hash = "57eaed41251efdd3e769f3e5e8921ce5ffeb0623035893e31cd1227cff596678"
 
 [[files]]
 file = "config/quiverbow_restrung/misc.cfg"
