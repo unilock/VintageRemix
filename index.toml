@@ -1720,11 +1720,6 @@ hash = "3f2f0bcf939bf6b455a51a8bf383885acf75aa19e2fe2fa2760192e7d027b815"
 metafile = true
 
 [[files]]
-file = "mods/mystical-agriculture-tiered-crystals.pw.toml"
-hash = "7ddeccbc4d5b26e122a25d0e04e257a90dcf95880730120596bdffd87844f524"
-metafile = true
-
-[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
 metafile = true
