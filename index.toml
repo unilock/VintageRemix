@@ -2450,7 +2450,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagecore.pw.toml"
-hash = "83bc9af4cf7082caf61d01c5ed895c6195e39045ee2fcc36e11ef441e086fe2b"
+hash = "cdd766e7d67375cbabdcd14e7248efccc5a2d32d58b6e403995b52b3670c547c"
 metafile = true
 
 [[files]]
