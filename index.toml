@@ -118,7 +118,7 @@ hash = "b8a5334d1e4a1b89ea6dcce63d948a8c749d9af12ce934cdcc6c48b90cd088eb"
 
 [[files]]
 file = "config/cuisine.cfg"
-hash = "2ced6befa52c090a1214462c06ad319cfb4102fc0bfd3581144f389330be127a"
+hash = "4870995054840c904d671129d99f1f3688a8477f7f82e7c01ab60c43265beb72"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
