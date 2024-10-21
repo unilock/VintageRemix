@@ -2451,6 +2451,11 @@ hash = "9fbc5db48d1dde322a25ed2b6237d5f99fce118ac36b28d8ae04a5cd72bb0dd2"
 metafile = true
 
 [[files]]
+file = "mods/vintagecore.pw.toml"
+hash = "83bc9af4cf7082caf61d01c5ed895c6195e39045ee2fcc36e11ef441e086fe2b"
+metafile = true
+
+[[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "d4b265db96d54164964d11bddc7a1abc78777e56850b1d94683febb7d8009cf4"
 metafile = true

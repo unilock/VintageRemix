@@ -1,0 +1,8 @@
+name = "VintageCore"
+filename = "vintagecore-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/vintagecore-1.0.0.jar"
+hash-format = "sha256"
+hash = "da3337c83033932692879223f3743c9e787da2347b51d73ba51932ad4fd444fd"
