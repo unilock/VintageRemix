@@ -433,6 +433,14 @@ file = "config/twilightforest.cfg"
 hash = "9bd8109dd0b80f44e49302fc58f74ad2990fedf7582a74b26f902038eddcbb39"
 
 [[files]]
+file = "config/unidict/UniDict.cfg"
+hash = "04dfb3f7193b630c6338eed392cf14bb5025322bcf21688b14f0370cd77969c6"
+
+[[files]]
+file = "config/unidict/specificEntrySorting.json"
+hash = "2cf4fbe18f21f611e97d236fee90362191c13d18a95afc2293c0f919c8359bc6"
+
+[[files]]
 file = "config/vintagefix.properties"
 hash = "b412570dc26a0502b7f1fe31ba9bf6429fd7463f0a9e200d18a94aa07761a8c1"
 
@@ -668,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/auraddons.pw.toml"
 hash = "6a2f688e21c1385d6489890b84bdf0cf46db698c76ce094843c7ec900391b75f"
-metafile = true
-
-[[files]]
-file = "mods/auto-ore-dictionary-converter.pw.toml"
-hash = "22db7234c1875a5ba9d005b630fe58e6e571248d2452eff550b045d60967291c"
 metafile = true
 
 [[files]]
@@ -1648,11 +1651,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
-metafile = true
-
-[[files]]
-file = "mods/mattdahepic-core.pw.toml"
-hash = "3863bcded8243f76cd61887696d17c6e0abce84759c37b069d1c533fd8f4a435"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+[
+	{
+		"entryName" : "oreSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"immersiveengineering",
+			"metallurgy",
+			"ic2"
+		]
+	}
+]
