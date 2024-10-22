@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "f3eb9c779b90bf950100b0bb4a65c5fff8f518c7fcff8a4d7b728fdee81c43b9"
+hash = "afe73aa395f8867fbc531b38bb265b3108abb2aa7816165f1f8ec726d77cd85d"
 metafile = true
 
 [[files]]
@@ -1495,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-area-fixer.pw.toml"
-hash = "0f66437c662e103fab08443d7a0ea699ca6fb6ad49afb4235a17f69d476d5b0e"
+hash = "91316f18517dc1e4bd336cc3efa8c0eb97b0387ba09161d467c8924658b36da7"
 metafile = true
 
 [[files]]
