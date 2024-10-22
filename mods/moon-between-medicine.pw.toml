@@ -1,0 +1,13 @@
+name = "Moon Between : medicine"
+filename = "moonbetweenmedicine-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "271d734b5e5a4e192bb254b127c6e5f4930c0607"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5597963
+project-id = 1077941
