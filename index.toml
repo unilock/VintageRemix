@@ -1734,16 +1734,6 @@ hash = "394979d466449434539b556b7a958220510e2b14060b8f338a947eca0c926f7b"
 metafile = true
 
 [[files]]
-file = "mods/moon-between-medicine.pw.toml"
-hash = "199850a1141b4c7f9b94dc50e50744ef7391852dfe48f6dafcddddbdad4bcbfd"
-metafile = true
-
-[[files]]
-file = "mods/moonbetween.pw.toml"
-hash = "52f62c22d746a5d45d73b4233522fe00336ae789eb756005e67bc55d27c5fd76"
-metafile = true
-
-[[files]]
 file = "mods/more-overlays.pw.toml"
 hash = "d9dbc8ced8fcfe4c0b04e8e7c13cc65f53ce499539d495ae0dc04f0d9e870631"
 metafile = true
