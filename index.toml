@@ -394,7 +394,7 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "3dbf9e2c506e28958e624557a4c9ebde398344e27064df5fbc0cd3716f8b8289"
+hash = "695587b5fc3fdb9fc548938ec9fb83045bd82b15972dcba213f7e29821eebafd"
 
 [[files]]
 file = "config/snowrealmagic.cfg"
@@ -1324,6 +1324,11 @@ hash = "35f42d7f7f11e661ae83da8f7c27bb50fde49fbca188ba5e7b34a83aa44c3d56"
 metafile = true
 
 [[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
+metafile = true
+
+[[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "24673b1748ab56f7a1117af1feddc831376ea90bf6aaae347211bd83f4f7a9b1"
 metafile = true
@@ -1371,6 +1376,16 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/ifbhfix.pw.toml"
+hash = "8aa6b1661029448ae45ad36d4f8ea9f874c4ede5dff209885e749628c9898958"
+metafile = true
+
+[[files]]
+file = "mods/ifpatcher.pw.toml"
+hash = "ced5d0eb6629d71d940725bff84422c67f2ee6dc1016b7ee047302abf0973818"
 metafile = true
 
 [[files]]
@@ -1424,6 +1439,16 @@ hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing-oc-compat.pw.toml"
+hash = "aeb6983112bcb3cc30ea5cc1170919a9e746233eb60dcb49fbb192f30bf85e9a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
 file = "mods/industrial-wires-reengineered.pw.toml"
 hash = "66866726364abfeed4fe72c2f7e2152a8428a81159e191badda710ef16d528b8"
 metafile = true
@@ -1446,6 +1471,11 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
+metafile = true
+
+[[files]]
+file = "mods/integration-foregoing.pw.toml"
+hash = "87faafe82f6d61165d42928b6dd667aba7d62d4207f359f98a73781b97c994f3"
 metafile = true
 
 [[files]]
@@ -2311,6 +2341,11 @@ metafile = true
 [[files]]
 file = "mods/taiga-tinkers-alloying-addon.pw.toml"
 hash = "b0b818fb4dfdadcf3e5f33d2fa6f268c3e7352be2ce69cfd4a5872e7e8e32315"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]

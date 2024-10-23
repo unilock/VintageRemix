@@ -1,0 +1,13 @@
+name = "IFBHFix"
+filename = "ifbhfix-1.12.x-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a9c6dcc623048aecedff1fb44cc011deb807189"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3208410
+project-id = 446961
