@@ -1719,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/metallurgy-chests.pw.toml"
-hash = "6a476828e8c5a15d2394715b6730541cf4053f18e046f0ee0fc15c9962ce9c94"
+hash = "a48806c6c7829e2e7b986d6d9f17ebed0255fb7537f215a0684badbcf52289ba"
 metafile = true
 
 [[files]]
@@ -2004,7 +2004,7 @@ metafile = true
 
 [[files]]
 file = "mods/pickle-tweaks.pw.toml"
-hash = "f85e408025b77f7f05d32bf5c999bd2da3cc4461ac6e53610a0bfd0505557f93"
+hash = "cda2c47426526af03b1c6f29b9633774b2b188214ea8a8ea4c3148d55c58b6b1"
 metafile = true
 
 [[files]]
