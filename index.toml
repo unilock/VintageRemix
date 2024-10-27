@@ -5,6 +5,10 @@ file = "config/Arcane World.cfg"
 hash = "ae69543a42cfb00978c4ae5f232a7b77104cedbb64c015e3dde0430d5950c6e6"
 
 [[files]]
+file = "config/FeaturedServers/featuredservers.json"
+hash = "148d8c536a70b7975c5a613a7e9d7b0e75cb7629b0903ac016f1c011b45e2b75"
+
+[[files]]
 file = "config/Guide-API/Guide-API.cfg"
 hash = "c6a1f9473f5c88a79aa930515bd6f530b72fc6ae5b325eb911c9fff93de0db15"
 
@@ -1229,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
+metafile = true
+
+[[files]]
+file = "mods/featured-servers.pw.toml"
+hash = "75dc361e5d0757e0637c659a11fb33298373a45e37754ce82512113926b31264"
 metafile = true
 
 [[files]]
