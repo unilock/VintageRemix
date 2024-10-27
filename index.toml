@@ -321,6 +321,10 @@ file = "config/nyx.cfg"
 hash = "61b6b8924f66c2772686e4863bf2d668ee70eea33014cd30e95a148f6b7a4531"
 
 [[files]]
+file = "config/omniwand.cfg"
+hash = "5841f8c3cf62465c24570f12aa6a33d8e9d8f703fdcd8ead658053c63b889c0c"
+
+[[files]]
 file = "config/openblocks.cfg"
 hash = "f2a8448ff3155eaa47ff241fc93e95cedceb88b81e94b82943c4106fd898afe6"
 
