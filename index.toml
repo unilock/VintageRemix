@@ -1168,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-extended-life.pw.toml"
-hash = "9fd1ca661b22f3083dd975d8281b668e295d75dc77e03cf8bd1963066de00153"
+hash = "6b504d782ea9c9d14ab70947f75140ba2c75d2b62601454cf9112c2819cde623"
 metafile = true
 
 [[files]]
@@ -1523,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "3fa8ef7e43de7270cda35fcd507256f02dd5453ae62b2d1792f59d0350894e4f"
+hash = "cb99afca7bb245217551144d1086f02debc234acedfac9baf71f6e72d6dccb5a"
 metafile = true
 
 [[files]]
@@ -2643,5 +2643,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "329968e8a95811f64a7a3a7460dff79cad843891f9f577878e256f4ac7c1aecd"
+hash = "5b66c21dbf46e62cd6b33f85e165cdc3af540ad7a1898cf11eadb02e4baf81ae"
 metafile = true
