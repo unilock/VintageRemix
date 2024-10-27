@@ -21,6 +21,10 @@ file = "config/LiketechniksTinkerTweaks.cfg"
 hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
+file = "config/MatterOverdrive/MatterOverdrive.cfg"
+hash = "5bfbefe0fc0a2779c4005a3a446ebf0afb0b7ed1251d5ae165e03b44219d7f45"
+
+[[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
 hash = "00c3d49c589a55e999dc87a306c1966b85c95a862785bf5aefb5a61d936d3b9b"
 
@@ -1698,6 +1702,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
+metafile = true
+
+[[files]]
+file = "mods/matter-overdrive-community-edition.pw.toml"
+hash = "1e14ae5ecf397147330d8a12d38f13559e70339b3da097b9284fd4ddaf4f6435"
 metafile = true
 
 [[files]]
