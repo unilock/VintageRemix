@@ -54,7 +54,7 @@ hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
 [[files]]
 file = "config/akashictome.cfg"
-hash = "e38bccda4c54c23e51b4b4989ca97c580fa7fb1e9c335296b4fbae317e06fcd4"
+hash = "a3d6f5067d2ce2ca940b740eba8d2d1e20346490dd954a847a9a89cc58d96cab"
 
 [[files]]
 file = "config/alquimia.cfg"
@@ -506,7 +506,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "9ee71e1e367419341a0dd01eb55fec75b34409bbaafda96ba14cc9b05046fe3f"
+hash = "31a09e6ed27de6e4377689ab9acf39b1cfa910a6243a754ab9423e9feb7d33e1"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"

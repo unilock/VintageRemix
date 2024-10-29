@@ -96,12 +96,28 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'extrautils2'
 			]
 		],
+		'forestry': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'forestry:book_forester',
+			'tag': [
+				'akashictome:definedMod': 'forestry'
+			]
+		],
 		'mahoutsukai': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
 			'id': 'mahoutsukai:guidebook',
 			'tag': [
 				'akashictome:definedMod': 'mahoutsukai'
+			]
+		],
+		'matteroverdrive': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'matteroverdrive:data_pad',
+			'tag': [
+				'akashictome:definedMod': 'matteroverdrive'
 			]
 		],
 		'naturesaura': [
