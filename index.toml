@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "b4d5dfbefd9286524d40edcabca88608c86f40d1a4f8f92d2372c9cfcc776262"
+hash = "824039c89441bcd7ce2ae0334cc3aa3ea92c10e065c71272606cf75bbeae92ea"
 metafile = true
 
 [[files]]
@@ -2332,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarcore.pw.toml"
-hash = "4c29332fc0432db86e010bb1ce881cc7f1d3a17e9a31ed63132c05e5b982ce9a"
+hash = "18fadfb4685f861a0fb31c736224ba47e3703c9b80f5d978e9d5c089ccf9fa41"
 metafile = true
 
 [[files]]
@@ -2477,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "7db541563e5f3da249cad0778e6982d1555c3b0347aa26793832fa0ca61e8929"
+hash = "4f2be4a9451756453a8c654b5cf127dc25427ede6b5dba469c138ac6023f8cd5"
 metafile = true
 
 [[files]]
@@ -2597,7 +2597,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8e641d534abe394534e899c066ce458f6a17f38ea2aba1fc2e532fd7c901d8b5"
+hash = "34187f7962eed006c3aa80c73ca94c71bc9c96d77c234b5ebd43347e45f9b9cd"
 metafile = true
 
 [[files]]
@@ -2657,5 +2657,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "5b66c21dbf46e62cd6b33f85e165cdc3af540ad7a1898cf11eadb02e4baf81ae"
+hash = "7d24b0c83c5abbbe68ad6aea7e7e48191025492503c73de750f436f3afbffd92"
 metafile = true
