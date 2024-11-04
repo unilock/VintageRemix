@@ -297,10 +297,6 @@ file = "config/malisisdoors.cfg"
 hash = "2c51cba17e0cf141b312541638485c97cd8bef802af0d469343030d1572a1924"
 
 [[files]]
-file = "config/mattdahepic/mdecore.cfg"
-hash = "a0e9cd734cb247e12b5bf27faf0f23b2b6f7842cac26c1659b205971fb9b63bc"
-
-[[files]]
 file = "config/metallurgy_reforged/general.cfg"
 hash = "8775dbf61a63a7e77e598d5ef68ba3139c57afad901d7a214544c94d7a088f5c"
 
@@ -1255,8 +1251,8 @@ hash = "e84d7697c5f92056573ab081fee5d635d9d9a05f2bd49516c97485fdbbc6b6b6"
 metafile = true
 
 [[files]]
-file = "mods/forestry.pw.toml"
-hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
+file = "mods/forestry-community-edition.pw.toml"
+hash = "19c4cc54f83daa2bd54d040a397623cb50915c2060e74a3e676321b88a783953"
 metafile = true
 
 [[files]]
