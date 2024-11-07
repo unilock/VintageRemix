@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "68305e8ed6b65a7b237b36b2f10800fcf8eee8953b79e4069b72cc9b48a47906"
+hash = "e8bc0a028f03741b14f6c802dcf084025efebadc11c8d21825fb74a267dd04d6"
 metafile = true
 
 [[files]]
