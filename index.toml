@@ -776,6 +776,11 @@ hash = "8e27c954be35a2c6e5eedfe2e7373b465547ad571a8f7b7cde66f63f83ef3a1d"
 metafile = true
 
 [[files]]
+file = "mods/blahajasm.pw.toml"
+hash = "9d546aa1711f8eb76d13dce13cc4cc9efe4ce17fff4190314b3aabadfb656e92"
+metafile = true
+
+[[files]]
 file = "mods/blockcraftery.pw.toml"
 hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
@@ -1246,11 +1251,6 @@ hash = "75dc361e5d0757e0637c659a11fb33298373a45e37754ce82512113926b31264"
 metafile = true
 
 [[files]]
-file = "mods/flare.pw.toml"
-hash = "24fa50f6958381fcf97d902da91dcfec37b9cca60b6eb08f796f68e442227466"
-metafile = true
-
-[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "e84d7697c5f92056573ab081fee5d635d9d9a05f2bd49516c97485fdbbc6b6b6"
 metafile = true
@@ -1283,11 +1283,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
-metafile = true
-
-[[files]]
-file = "mods/fugue.pw.toml"
-hash = "824039c89441bcd7ce2ae0334cc3aa3ea92c10e065c71272606cf75bbeae92ea"
 metafile = true
 
 [[files]]
@@ -1656,11 +1651,6 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
-file = "mods/lolasm.pw.toml"
-hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
@@ -1758,6 +1748,11 @@ metafile = true
 [[files]]
 file = "mods/missing-pieces.pw.toml"
 hash = "c1922bbd3fe60836ac2b9cb60e70144785b0446526c74f73ff4071b7dbaa5385"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "06749d5ef9c2e430dec0243040098e71f1df160f9dacca34ee38459c14275043"
 metafile = true
 
 [[files]]
@@ -2261,11 +2256,6 @@ hash = "183173e77c1218a84e37a06ce2eccc3cda67771e067bfa07ba9e434b728f4207"
 metafile = true
 
 [[files]]
-file = "mods/scalar.pw.toml"
-hash = "e3a22ef958757e82d498d61fe6b44d944879c3147da5f3fdf85026ae48981287"
-metafile = true
-
-[[files]]
 file = "mods/seared-ladder-backport.pw.toml"
 hash = "f434238a4aa7c39e323c7ccfbfa83be4783faa02eba3dc39a76764de7c979747"
 metafile = true
@@ -2328,6 +2318,11 @@ metafile = true
 [[files]]
 file = "mods/soot-extended-life.pw.toml"
 hash = "bc0e51459dcdd01cb684fd33fc1c12ef4d1b28b06048e882262e70aa33ca2341"
+metafile = true
+
+[[files]]
+file = "mods/spark-unforged.pw.toml"
+hash = "c7a2d0108ecf79d5c06b8d7c8862388563efa8cc2d048b3d7b1793c4376328fe"
 metafile = true
 
 [[files]]

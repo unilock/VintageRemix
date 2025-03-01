@@ -1,0 +1,13 @@
+name = "Spark Unforged"
+filename = "spark-unforged-1.11.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af74282257aeb9f38f33eee968c5a426a1c8a093"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5322123
+project-id = 900927
