@@ -696,6 +696,11 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
+file = "mods/backpack-display.pw.toml"
+hash = "db38796d306e5a624a4fc441f51296865dd4e85f20a8526d911e84d3f2e90d84"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "015243b60b4dcb33daf534acaf70c1dd4f8c6a28c9eebb8152603ad57fa539da"
 metafile = true
