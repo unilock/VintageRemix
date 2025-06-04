@@ -1,8 +1,8 @@
 name = "Pam's BrewCraft"
-filename = "Pam's BrewCraft 1.12.2-1.0.2.jar"
+filename = "Pams_BrewCraft_1.12.2-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/Pam's BrewCraft 1.12.2-1.0.2.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/Pams_BrewCraft_1.12.2-1.0.2.jar"
 hash-format = "sha256"
 hash = "9b0862311f5ca8854ed9d6eb8bce3e50564ecef6e3d4411595af4b346360b563"
