@@ -277,10 +277,6 @@ file = "config/login_shield.cfg"
 hash = "f055711de053d1059e4c7174a8cb398a4015c92ef1d04bae397bb9e1a0aaaf1d"
 
 [[files]]
-file = "config/loliasm.cfg"
-hash = "4046cdd129df7564ffd82eaafbc1c5c18b90ca07aabc7e98afa0e9582ff7fd77"
-
-[[files]]
 file = "config/lwjgl3ify-early.json"
 hash = "aa858b1fab117a91c4822d9d770dc64fc9bc22b6b362bab6766111c575d6dc3f"
 
@@ -1023,6 +1019,11 @@ metafile = true
 [[files]]
 file = "mods/condition-overload.pw.toml"
 hash = "6f006a50dfb0dffb8409cb6b9e33efd2e0c79e0847e5094b6272a7b2ef88c6f4"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
 
 [[files]]
