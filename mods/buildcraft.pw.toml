@@ -1,13 +1,13 @@
 name = "Buildcraft"
-filename = "buildcraft-all-7.99.24.8.jar"
+filename = "buildcraft-all-8.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "46c7bcb2c81f4786a84f951e7204277c967deb96"
+hash = "dba9b2f4560b6482affc85a535a13406f4a999ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3204475
+file-id = 6376391
 project-id = 61811

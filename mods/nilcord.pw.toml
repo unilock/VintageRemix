@@ -1,13 +1,13 @@
 name = "Nilcord"
-filename = "nilcord-2.3.4+1.12.2+forge.jar"
+filename = "nilcord-2.4.2+1.12.2+forge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/sMgjo4Pm/nilcord-2.3.4%2B1.12.2%2Bforge.jar"
-hash-format = "sha1"
-hash = "c78f0d8ae8fceb586bc0831d37c4213acd217f47"
+url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/kCMMnlnP/nilcord-2.4.2%2B1.12.2%2Bforge.jar"
+hash-format = "sha512"
+hash = "7edec064394ebd613845117af84bd56112442c0d534ca9a33300fd81e2a9d260faa8b6e35c496036b9c1ba709b8497c4b0e527679a6c1cae99846c89675ab11f"
 
 [update]
 [update.modrinth]
 mod-id = "W4HQBVeF"
-version = "sMgjo4Pm"
+version = "kCMMnlnP"

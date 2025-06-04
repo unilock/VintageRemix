@@ -1,13 +1,13 @@
 name = "Doomlike Dungeons"
-filename = "DoomlikeDungeons-1.14.12-MC1.12.2.jar"
+filename = "dldungeonsjbg-1.14.14-MC1.12.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d5cb5e4c4f1670658221e4af91fa66ecf0da8f0f"
+hash = "638b3f3f9f4baa50c4bb4ef4939bed5367ea1deb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4094523
+file-id = 6160526
 project-id = 74246

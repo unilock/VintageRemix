@@ -1,13 +1,13 @@
 name = "Forestry: Community Edition"
-filename = "forestry_1.12.2-5.8.2.423.jar"
+filename = "forestry_1.12.2-5.8.2.424.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2oORTOi2/versions/ZE0J9o49/forestry_1.12.2-5.8.2.423.jar"
-hash-format = "sha1"
-hash = "5544120224a2a346ae42967984902a73e7b60e1c"
+url = "https://cdn.modrinth.com/data/2oORTOi2/versions/HgY1dW7s/forestry_1.12.2-5.8.2.424.jar"
+hash-format = "sha512"
+hash = "35499d7302b8cfb30dfe157f665bc87370d562595066808860d72cdaace8b9b65a9b883d1edb35bbdc89adfec98b62d1b8a1286c3dd4fc25744e04323bdf1aa9"
 
 [update]
 [update.modrinth]
 mod-id = "2oORTOi2"
-version = "ZE0J9o49"
+version = "HgY1dW7s"

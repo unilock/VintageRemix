@@ -1,13 +1,13 @@
 name = "Advanced Rocketry - Reworked"
-filename = "AdvancedRocketry-1.12.2-2.1.4-8.jar"
+filename = "AdvancedRocketry-1.12.2-2.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hcD3XROK/versions/vMXbYzxz/AdvancedRocketry-1.12.2-2.1.4-8.jar"
-hash-format = "sha1"
-hash = "63be2c0ebfb1eb18a5687aa205b683974610d85d"
+url = "https://cdn.modrinth.com/data/hcD3XROK/versions/nQov2Lbl/AdvancedRocketry-1.12.2-2.1.6.jar"
+hash-format = "sha512"
+hash = "8e650d6efa9d3320a274f891a7a4561844fda8a748731759264cbe90821311ecbcaa41e4605f3ff1be454e5bbb2a4b1226afe93b439033b708e3a7d2f57333ca"
 
 [update]
 [update.modrinth]
 mod-id = "hcD3XROK"
-version = "vMXbYzxz"
+version = "nQov2Lbl"

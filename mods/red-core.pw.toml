@@ -1,13 +1,13 @@
 name = "Red Core"
-filename = "!Red-Core-MC-1.8-1.12-0.6-Dev-7.jar"
+filename = "!Red-Core-MC-1.8-1.12-0.7-Dev-1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ed633decb7ed1e88aa9d73f1176d64759af0935"
+hash = "acd8a82862086b81e441a914af207881cb62955f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5618189
+file-id = 6230904
 project-id = 873867

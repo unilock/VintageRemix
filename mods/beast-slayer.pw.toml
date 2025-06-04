@@ -1,13 +1,13 @@
 name = "Beast Slayer"
-filename = "beastslayer-2.0.test_1.04.jar"
+filename = "beastslayer-2.0.test_1.05.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39758ce249457ff95331c0e6e371f3f686109bcf"
+hash = "2a3eea9e882c7a014c6e3c1960c1914a875c02de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5591694
+file-id = 6504136
 project-id = 518157
