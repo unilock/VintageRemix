@@ -1,0 +1,8 @@
+name = "lwjgl3ify"
+filename = "lwjgl3ify-g8a51832.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/lwjgl3ify-g8a51832.jar"
+hash-format = "sha256"
+hash = "c8182c45f90597cd733a9568b600592092b6f7bf12ee7e297805133d5dc1df9f"

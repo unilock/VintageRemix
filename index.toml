@@ -121,6 +121,10 @@ file = "config/coralreef.cfg"
 hash = "9cfd6c4f0293c749616d5259e4627f4e76d74815fb2d1fd5ad07ce9b23c08040"
 
 [[files]]
+file = "config/correlated.cfg"
+hash = "09cb96356d4b535e0dfe6b5bd4d05faa8a92e3202096983705fe64a29d43a9c2"
+
+[[files]]
 file = "config/crossroads.cfg"
 hash = "b8a5334d1e4a1b89ea6dcce63d948a8c749d9af12ce934cdcc6c48b90cd088eb"
 
@@ -1657,6 +1661,11 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "808e4159336d46a9b15cd6a8eee6b4260872beb8cb34d309f21e054308174a42"
+metafile = true
+
+[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
@@ -2507,13 +2516,13 @@ hash = "24e83c5d40f37e5d26cc55576979d237c9704621eaf408e16d52f9e1f5e4dae9"
 metafile = true
 
 [[files]]
-file = "mods/vintagecore.pw.toml"
-hash = "4d13e1031b86f21e03821835ac3f6a3d3454091b2aaedde5d168e3463e2b9ba1"
+file = "mods/vintagefix.pw.toml"
+hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
 metafile = true
 
 [[files]]
-file = "mods/vintagefix.pw.toml"
-hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
+file = "mods/vintageremix.pw.toml"
+hash = "d8060ab488c873274be7a266a746f426cc0506d48434f5b47b52b896ad25eb2f"
 metafile = true
 
 [[files]]
