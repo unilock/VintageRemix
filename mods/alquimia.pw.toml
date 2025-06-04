@@ -3,6 +3,6 @@ filename = "alquimia-0.0.5.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/alquimia-0.0.5.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/alquimia-0.0.5.jar"
 hash-format = "sha256"
 hash = "0cdb8efff6e14d0fe4ea29075bcb66b5e20741a81736a7011b284d45f3e1695f"

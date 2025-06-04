@@ -3,6 +3,6 @@ filename = "UniDict-1.12.2-3.0.10.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintage/manual-jars/both/UniDict-1.12.2-3.0.10.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/UniDict-1.12.2-3.0.10.jar"
 hash-format = "sha256"
 hash = "34bd7eb753a9bf04c1eefe073754dbd28226e66d49ff13fb76b423c8a3f9e0d1"
