@@ -510,7 +510,7 @@ hash = "aeec6ac33b557e6eef6cae3cb370f91c53601257bd5f687e511ad4b553ae21a3"
 
 [[files]]
 file = "groovy/runConfig.json"
-hash = "858742d5a169b6cd4a86caa948f5ff10f38f40810721069a80fcbb28e5287cd7"
+hash = "7d5959c1ca42a24d87e22a2d81c59e8183f69a41c677c7b2e064983bcf7bfbef"
 
 [[files]]
 file = "local/client/sidebar_buttons.json"
@@ -563,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-locator.pw.toml"
 hash = "b41571d9a66238aa09a65296a01e66b00a378d0bb223bf039d4b2c05188c7830"
-metafile = true
-
-[[files]]
-file = "mods/aetherium-ashen-armor.pw.toml"
-hash = "54cfed3b8e91f4d5e91bf81acdb9e2fb66e6884054c94a0b563b992374577719"
 metafile = true
 
 [[files]]
@@ -2133,16 +2128,6 @@ metafile = true
 [[files]]
 file = "mods/random-things.pw.toml"
 hash = "3310057e9b43ffb1d29777d54793489aaccd246526e651b865370e6fe79458cf"
-metafile = true
-
-[[files]]
-file = "mods/randompatches-forge.pw.toml"
-hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
-metafile = true
-
-[[files]]
-file = "mods/randompatches-integration.pw.toml"
-hash = "ea91ab38ffeb5965aeee99cfce10b1b2afe6306c87109726166a72085b7e6402"
 metafile = true
 
 [[files]]
