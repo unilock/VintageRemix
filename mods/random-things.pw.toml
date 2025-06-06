@@ -1,8 +1,0 @@
-name = "Random Things"
-filename = "randomthings-4.2.7.5.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/randomthings-4.2.7.5.jar"
-hash-format = "sha256"
-hash = "68384cdb68932540cbeb6d949a0d270675e9f16f5fb1a40c53a56a16c94c3b78"
