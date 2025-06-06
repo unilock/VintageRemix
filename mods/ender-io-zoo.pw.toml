@@ -1,0 +1,13 @@
+name = "Ender IO Zoo"
+filename = "EnderIO-zoo-1.12.2-5.3.72.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b8e9f27f1c795e98122aead5c6f9d8bd135635c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674239
+project-id = 303001

@@ -1,0 +1,13 @@
+name = "Ender Flowergirls"
+filename = "flowergirls-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd0f4be6b111c8c546cdc2ab0f30606386ae4865"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2545225
+project-id = 241625

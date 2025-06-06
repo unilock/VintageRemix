@@ -21,10 +21,6 @@ file = "config/LiketechniksTinkerTweaks.cfg"
 hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
-file = "config/MatterOverdrive/MatterOverdrive.cfg"
-hash = "5bfbefe0fc0a2779c4005a3a446ebf0afb0b7ed1251d5ae165e03b44219d7f45"
-
-[[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
 hash = "00c3d49c589a55e999dc87a306c1966b85c95a862785bf5aefb5a61d936d3b9b"
 
@@ -47,10 +43,6 @@ hash = "b6dd73eae167922cb28b4cc147746aeeadbdc52b44b1a2febd031781ac10a622"
 [[files]]
 file = "config/abyssaldepths.cfg"
 hash = "0921658a20a73051c0c940186cedfa3d55cc0db0eb58c57ed2db0c7b39d852f1"
-
-[[files]]
-file = "config/agricraft/config.cfg"
-hash = "42a22a63cb22f9447ab43fbcebf696bfed71c48f70dfd3c729a9e82b77e3da7b"
 
 [[files]]
 file = "config/akashictome.cfg"
@@ -141,14 +133,6 @@ file = "config/defaultoptions/options.txt"
 hash = "64ba72980913f524500f564737f89521568b33158e0623d60ca1915422d969e1"
 
 [[files]]
-file = "config/discordcraft/config.cfg"
-hash = "15ade1e2e7e0a9b94485cbc30e8efecb3a0139b07f0e0bbf2ad09fef2e32349c"
-
-[[files]]
-file = "config/doggytalents.cfg"
-hash = "3b5af99793525aaa77fa619bb4fb594431eb0fc8644540ad2028ef44197df600"
-
-[[files]]
 file = "config/dsurround/dsurround.cfg"
 hash = "6dd409e2237404c69764606023c3c42ad6c87f73558ed2bd77652f3e6b37578e"
 
@@ -171,10 +155,6 @@ hash = "6f50b0364602cd82e6f7941bd61e0ccec0fcbf787a21c2dfac6521c7bfd3eca8"
 [[files]]
 file = "config/dynamiclights_theplayer.cfg"
 hash = "0670259b16a88d42d2148299de9bf7ca9d4326dc9934d518eca23c13310f87cd"
-
-[[files]]
-file = "config/enderstorage.cfg"
-hash = "6c765706f50648c06cd62dfe9a9827466c8931f9f41b4824c40bcd70c2bc442a"
 
 [[files]]
 file = "config/extrabotany.cfg"
@@ -313,10 +293,6 @@ file = "config/multipart.cfg"
 hash = "84173959cd7c22380c60050d0aba54e4e33f1b524c505df9111ba623f8755684"
 
 [[files]]
-file = "config/mysticalagradditions.cfg"
-hash = "15478ce33f34b1199c43a00d7175aa95becdbc42ddfbbb2af84e98801993b7eb"
-
-[[files]]
 file = "config/mysticalworld.cfg"
 hash = "5effed82878b60cbcc5b4bbad19d1b9803ee438f11dde29f6d077db2abf04b58"
 
@@ -369,10 +345,6 @@ file = "config/quiverbow_restrung/misc.cfg"
 hash = "0590d797627a4c44f426d1a1211329918f092c3c4d5000790c276ce90a8cec83"
 
 [[files]]
-file = "config/randompatches.cfg"
-hash = "146a8268538397107acd3f6894fb95214ffc96b3b50c721a2b70a0f47c625f31"
-
-[[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
 hash = "733692d16addda618aa12ed47eb28d692041a00629f01e113aa416cd79c83f39"
 
@@ -407,10 +379,6 @@ hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
 [[files]]
 file = "config/sledgehammer.conf"
 hash = "3dbf9e2c506e28958e624557a4c9ebde398344e27064df5fbc0cd3716f8b8289"
-
-[[files]]
-file = "config/snowrealmagic.cfg"
-hash = "ee246fc465f373038db1bb60d23f9112230581bc3454725c3a9c53d608ccf748"
 
 [[files]]
 file = "config/solcarrot.cfg"
@@ -1141,6 +1109,36 @@ hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
 metafile = true
 
 [[files]]
+file = "mods/ender-flowergirls.pw.toml"
+hash = "af5619c7073bc7804be175d3ba0445f980e08d95cf8a053c1c089f54bf7fb5b7"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-endergy.pw.toml"
+hash = "e5caa0d3aaef61ed8af1e27f310d733e4c2ef3b4bf7a23bbf03cf73450641af9"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-tweaks.pw.toml"
+hash = "e5916fc7dca127bad2b2ecc61d2de8e7092ddb47d0871c50f0e8597f0b7a4726"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-zoo.pw.toml"
+hash = "513cd07c2785300d840a2b7cf3994f7ad4b4b534e5f4ffd6ac923c90a74dc9c6"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.pw.toml"
+hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
+metafile = true
+
+[[files]]
 file = "mods/energy-control.pw.toml"
 hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
 metafile = true
@@ -1561,6 +1559,11 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
+file = "mods/loot-capacitor-tooltips.pw.toml"
+hash = "3bb5f4b036b7dbf9b1b270810a220ddffe89aca866df5d61b38d9738d3ac5b1e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
@@ -1683,6 +1686,11 @@ metafile = true
 [[files]]
 file = "mods/modularui.pw.toml"
 hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
+metafile = true
+
+[[files]]
+file = "mods/more-capacitor.pw.toml"
+hash = "cb375d186ef7c8a4916adcc7850333408c35a1711b8b76eb6353861e0a785e8f"
 metafile = true
 
 [[files]]
@@ -2288,6 +2296,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-fixes.pw.toml"
 hash = "ebb38b39615a9886d74a2dd8554b37f61b2458dd76766dc7fa59cecb52f2885f"
+metafile = true
+
+[[files]]
+file = "mods/uber-conduit-probe.pw.toml"
+hash = "88da0bcb4a9fde247bc4bc3e6ed30254dab092a57c340dd4776b2123310562fe"
 metafile = true
 
 [[files]]
