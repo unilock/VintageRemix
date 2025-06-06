@@ -1,8 +1,8 @@
 name = "lwjgl3ify"
-filename = "lwjgl3ify-g8a51832.jar"
+filename = "lwjgl3ify-1.0.1-26-g337d89a.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/lwjgl3ify-g8a51832.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/lwjgl3ify-1.0.1-26-g337d89a.jar"
 hash-format = "sha256"
-hash = "c8182c45f90597cd733a9568b600592092b6f7bf12ee7e297805133d5dc1df9f"
+hash = "310d09ab1ae39554c8d3d8e59d4bbb940c228ab236eabeb941da205a821b6baa"
