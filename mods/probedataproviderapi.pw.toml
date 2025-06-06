@@ -1,0 +1,8 @@
+name = "ProbeDataProviderAPI"
+filename = "ProbeDataProviderAPI-MC1.12_ver1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://oldci.y2k.diy/job/elytra/job/ProbeDataProvider/1.12/ProbeDataProviderAPI-MC1.12_ver1.1.1.jar"
+hash-format = "sha256"
+hash = "cd6f10997d059174585fe381e98610bfdd5d0ded327216ef77f3bf2b5d223310"

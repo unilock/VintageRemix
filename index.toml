@@ -2066,6 +2066,11 @@ hash = "1f40058b5182500d29c287add5132b5004ab9d0a3f843402355fc0e9e29ec387"
 metafile = true
 
 [[files]]
+file = "mods/probedataproviderapi.pw.toml"
+hash = "7bd229a516e7455ad9c9bf1caf45a06b00893a5be4c64a9f2cafb95a5e34c678"
+metafile = true
+
+[[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
 metafile = true
@@ -2386,6 +2391,16 @@ hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
 metafile = true
 
 [[files]]
+file = "mods/thermionics-world.pw.toml"
+hash = "9deec740785a437fe80f11b41933f7d2f4acaaca7f7154a8d7162afc05b4a9ff"
+metafile = true
+
+[[files]]
+file = "mods/thermionics.pw.toml"
+hash = "2c208f4527b0ec7f34a1f7077661f579cef95613af62df70fbd99aac9e932fea"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-addons-fork.pw.toml"
 hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
 metafile = true
@@ -2512,7 +2527,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagium.pw.toml"
-hash = "a5c01216ca0e7af63cb590cbc760dc5bf16975e01947bb5f49a825b90c815e55"
+hash = "131d0e570272db99060cc4d42d923f08a8ffaa88e6d65c3f15d61765e3b77049"
 metafile = true
 
 [[files]]

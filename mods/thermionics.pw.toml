@@ -1,0 +1,8 @@
+name = "Thermionics"
+filename = "Thermionics-MC1.12.2_ver1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/Thermionics-MC1.12.2_ver1.1.4.jar"
+hash-format = "sha256"
+hash = "1734c6b2344f7d0fdbacd717f90d3f60ec673cdcbeb5cb5b6511ff4f8b4b7ac2"

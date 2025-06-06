@@ -1,0 +1,8 @@
+name = "Thermionics World"
+filename = "ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://oldci.y2k.diy/job/elytra/job/ThermionicsWorld/job/master/32/artifact/build/libs/ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
+hash-format = "sha256"
+hash = "32c83f40daf8eddf02e8ce8f498c4bc2444078a1720a1b5b018dca3f925e9298"
