@@ -494,6 +494,11 @@ hash = "87005bafb1855e4c3929842d81a202346d3f1bcf309dd52f093e44b35ce9edc8"
 metafile = true
 
 [[files]]
+file = "mods/academycraft.pw.toml"
+hash = "366f0b519caacbff2eb3641566b5b0cb163239e87bd2aa1c50fab7ab837c4453"
+metafile = true
+
+[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "9ecae3ed22198021da10e3bbd3bdf9b851f2fc6116b4f242cc275c48889b7bfa"
 metafile = true
@@ -1059,6 +1064,11 @@ hash = "26a170f040c197f5ba9c2f12b4206b85831a9bae6c3f297e499bacf13b543586"
 metafile = true
 
 [[files]]
+file = "mods/depths-of-madness.pw.toml"
+hash = "5f003147d222f6e15cb24d8c3cc6b1d7dbc21ae9323bdcd9ed99609f40b5288a"
+metafile = true
+
+[[files]]
 file = "mods/doomlike-dungeons.pw.toml"
 hash = "f00558baffe6231f568d45283d1915f330e8e4fd7d3a89ddf87839b5ee8517a3"
 metafile = true
@@ -1106,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
+metafile = true
+
+[[files]]
+file = "mods/end-expansion-the-lamented-islands.pw.toml"
+hash = "6d3cb870967ac0709046e1b581b1a1320f6d94b1e21efc567347de0c7ab7529c"
 metafile = true
 
 [[files]]
@@ -1194,6 +1209,11 @@ hash = "75dc361e5d0757e0637c659a11fb33298373a45e37754ce82512113926b31264"
 metafile = true
 
 [[files]]
+file = "mods/fluidlogged-api.pw.toml"
+hash = "1617ecb1e35f263c96351461f9872f2dc38155a64a2167daa9072c9d45eeef1f"
+metafile = true
+
+[[files]]
 file = "mods/forestry-community-edition.pw.toml"
 hash = "d34b3c5793de971465f314cdd5d304aa8d0fc4ee253d3d86aefe3d8b62f3dd7c"
 metafile = true
@@ -1231,6 +1251,11 @@ metafile = true
 [[files]]
 file = "mods/gambling-style.pw.toml"
 hash = "d3c1ea159d88e1d2273f4784642eb389c3903735f41f112b3f18415a6bba19fc"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4e87ea91ac584b6c91dbac23bd05db9be1a848e47dda3524224bb189f4fe5b10"
 metafile = true
 
 [[files]]
@@ -2321,6 +2346,11 @@ metafile = true
 [[files]]
 file = "mods/unlimited-chisel-works.pw.toml"
 hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-bosses-of-mass-destruction-dungeon.pw.toml"
+hash = "9041a30f7f4e528a0844189168153d896a440f8722a8d05c68b8b02a6782de82"
 metafile = true
 
 [[files]]
