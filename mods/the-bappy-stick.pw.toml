@@ -1,0 +1,13 @@
+name = "The Bappy Stick"
+filename = "TheBappyStick-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04e457c800ff2392b715732861355a45a921dfeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2688696
+project-id = 317636

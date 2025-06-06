@@ -1,0 +1,13 @@
+name = "Magic Arsenal"
+filename = "MagicArsenal-MC1.12_ver1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "781d7a61136679043ab33a8f39ef7bdf34aba2a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2574047
+project-id = 292227

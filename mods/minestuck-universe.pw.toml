@@ -1,0 +1,13 @@
+name = "Minestuck Universe"
+filename = "MinestuckUniverse-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0912712402ccfed9118bf23b3623057ca0f153c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4370108
+project-id = 353613

@@ -1,0 +1,13 @@
+name = "Impractical Storage"
+filename = "ImpraticalStorage-1.5.1-MC1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b6b50f6411f356d14572e8321e1b2e1ae36a05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6217297
+project-id = 263456

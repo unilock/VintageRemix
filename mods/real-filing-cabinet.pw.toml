@@ -1,0 +1,13 @@
+name = "Real Filing Cabinet"
+filename = "realfilingcabinet-1.12-0.2.0.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "052ec2ada7f9672d01e0f3dd12a825cb3c766a78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2899820
+project-id = 253619

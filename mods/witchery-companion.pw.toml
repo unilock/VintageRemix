@@ -1,0 +1,13 @@
+name = "Witchery: Companion"
+filename = "witcherycompanion-0.36.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af3f98b87108bba94bd365a47c6b94a1546ab33d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6602047
+project-id = 1020447

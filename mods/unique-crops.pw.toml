@@ -1,0 +1,13 @@
+name = "Unique Crops"
+filename = "uniquecrops-1.12.2-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ed9735072d16479996753ada4adeca31475c63e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3304509
+project-id = 261124

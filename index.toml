@@ -281,6 +281,14 @@ file = "config/metallurgy_reforged/general.cfg"
 hash = "8775dbf61a63a7e77e598d5ef68ba3139c57afad901d7a214544c94d7a088f5c"
 
 [[files]]
+file = "config/minestuck.cfg"
+hash = "75189b12f272704663839548a8d5ae2ed0b51e66f26057c025590e32aa75282a"
+
+[[files]]
+file = "config/minestuckuniverse.cfg"
+hash = "ef37b6baa74c3cf7d3c3281197906cb89cde7f699a368ff04ce3a2d9f2ed5a4c"
+
+[[files]]
 file = "config/morpheus.cfg"
 hash = "48a2ba291d7d9be464d8f7aefd08d6bc3d9bd7cd6f9a4699d3b01773dd554ba6"
 
@@ -641,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/atomicstrykers-battle-towers.pw.toml"
 hash = "b5845b085b68412be56643fae73e648bdf47ec1d4b4e7bae9d530d3726cef124"
+metafile = true
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "ff652e35880dbddd1095a2c002246fc967e7f6d256778a053b6a8408d2c9fe39"
 metafile = true
 
 [[files]]
@@ -1084,6 +1097,11 @@ hash = "2e133532a25212d98b2fcd33ac9c5ec5f2e012229117ebd3b165f63b32c7c4c7"
 metafile = true
 
 [[files]]
+file = "mods/dummycore-unofficial.pw.toml"
+hash = "688d6de0bb4edabbeaa36c2456dd3cfe7a9f0be9a4a1b3631fb2f1d2dd77d141"
+metafile = true
+
+[[files]]
 file = "mods/dye-it-yourself.pw.toml"
 hash = "e8ea2cb9f8e41da78352df75547bc32709d02946bebf4dcc4f673b0bab24aa2d"
 metafile = true
@@ -1166,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/engineers-doors.pw.toml"
 hash = "08b5f8fc94a262879e96d04d848344be148fed9fa724853caab2e7abe391f759"
+metafile = true
+
+[[files]]
+file = "mods/essentialcraft-4-unofficial.pw.toml"
+hash = "62777a67d0aca652f881c6c6e4b6025a7d13a5e0c28d29d8846d19507d855771"
 metafile = true
 
 [[files]]
@@ -1269,6 +1292,11 @@ hash = "466b15cefb457971c6b7c3f8c351c22abeb0bfd6baaba60e5b3d3159910fb3ff"
 metafile = true
 
 [[files]]
+file = "mods/glass-jaw.pw.toml"
+hash = "4e6dcc6c21cf313946fbce9b3e6e6682c9efd1543c430fea8ff3c2c1147d9419"
+metafile = true
+
+[[files]]
 file = "mods/glassential.pw.toml"
 hash = "b8df673c1b40bd1ce8afbec2cc86c36361df98968a9847c8cee9efd3adc57c27"
 metafile = true
@@ -1339,11 +1367,6 @@ hash = "7edce448dfd9f9cedce2943bdb5ec285540a98a11c30a6c262fc7c2ff90f85f5"
 metafile = true
 
 [[files]]
-file = "mods/hwyla.pw.toml"
-hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
-metafile = true
-
-[[files]]
 file = "mods/ic2-nei-crop-plugin.pw.toml"
 hash = "db0acb023abcdb316495ac764415c90e85b279248bb66b3e6a311c49fbd5dc29"
 metafile = true
@@ -1389,6 +1412,11 @@ hash = "9db816216e6683322c0d3b72f8bce3c71ce97d2be4afb4944bbf31a842b3475c"
 metafile = true
 
 [[files]]
+file = "mods/impractical-storage.pw.toml"
+hash = "096d46156a6bc38f4704e08a681826f6a7617cce4678bb93f0695cdf1a372d66"
+metafile = true
+
+[[files]]
 file = "mods/improvedbackpacks.pw.toml"
 hash = "5d343f60bc5a70c0515b9ff7bf8f86ac41d52c398db163b66c9d08a6075fa039"
 metafile = true
@@ -1406,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
+metafile = true
+
+[[files]]
+file = "mods/industrial-renewal.pw.toml"
+hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
 metafile = true
 
 [[files]]
@@ -1599,6 +1632,11 @@ hash = "39f48287cdbbaddb543b4a6c45e28b25b7a741da85c52bd6453f299c48db9b6b"
 metafile = true
 
 [[files]]
+file = "mods/magic-arsenal.pw.toml"
+hash = "fbebf722c1ae9c03d508bba8094a8bf82f37a6628beb337b60e5771bfb9dab25"
+metafile = true
+
+[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
@@ -1674,6 +1712,16 @@ hash = "67cb2e90632afb08bae1671b9fb0e3f3f015073b18c6826a5fac5ab943005c1e"
 metafile = true
 
 [[files]]
+file = "mods/minestuck-universe.pw.toml"
+hash = "77998bdd34d498fd116e1cee54ed43959abcefff2f73c711c96c294d6e67310a"
+metafile = true
+
+[[files]]
+file = "mods/minestuck.pw.toml"
+hash = "e289e5ef7a4badab63471a1e0c952d83e391db62c783852db90af5aec5f8ad5f"
+metafile = true
+
+[[files]]
 file = "mods/minor-integrations-and-additions-mia.pw.toml"
 hash = "535c613c27f48c9ace2bffee98c3bd7f74f131d5156fbdb12ea0fa4fd38d4bc1"
 metafile = true
@@ -1711,6 +1759,11 @@ metafile = true
 [[files]]
 file = "mods/modularui.pw.toml"
 hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
+metafile = true
+
+[[files]]
+file = "mods/moonbetween.pw.toml"
+hash = "fb0942fccd2b9d7ed13562424379102cc6781ddb66f2e8bf4b0eea66e45eb89b"
 metafile = true
 
 [[files]]
@@ -2054,6 +2107,11 @@ hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
 metafile = true
 
 [[files]]
+file = "mods/real-filing-cabinet.pw.toml"
+hash = "0dbeed73c526db8c114d00fcd4ee33420349ccc67fa1c935bc5a1acb7cda9787"
+metafile = true
+
+[[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
@@ -2224,6 +2282,11 @@ hash = "11e592e95e6e2133d9d1792d9badc42a967ed99d97b43f2e9639a20904e02ca1"
 metafile = true
 
 [[files]]
+file = "mods/the-bappy-stick.pw.toml"
+hash = "30f6e064660a3eae027ac4d55e464b126b6efb2167801f9a4f28cbaded3e89bf"
+metafile = true
+
+[[files]]
 file = "mods/the-eight-fabled-blades.pw.toml"
 hash = "4d0bed7fbd559d56fb6d15f2467ff9f6cef328c625004ca945cffcb03fcc5e94"
 metafile = true
@@ -2236,6 +2299,11 @@ metafile = true
 [[files]]
 file = "mods/the-weirding-gadget.pw.toml"
 hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
+metafile = true
+
+[[files]]
+file = "mods/theonesmeagle.pw.toml"
+hash = "4610c51e5687bed5396656339afa9b80bd3574728e85bac893a9721774369dfe"
 metafile = true
 
 [[files]]
@@ -2331,6 +2399,11 @@ metafile = true
 [[files]]
 file = "mods/unidict.pw.toml"
 hash = "b8d3ca8c1caff2092afa5fd882e6b114ba8b247b9929b22fc82c710f1cc24587"
+metafile = true
+
+[[files]]
+file = "mods/unique-crops.pw.toml"
+hash = "b1ff1a497463b1347a6c5426b769c3f939729b949218633b3d985cf1f775b8d5"
 metafile = true
 
 [[files]]
@@ -2431,6 +2504,16 @@ metafile = true
 [[files]]
 file = "mods/wireless-redstone-cbe.pw.toml"
 hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
+metafile = true
+
+[[files]]
+file = "mods/witchery-companion.pw.toml"
+hash = "6170ba6a0d6799830fffb27b8339a49719e0f0cf8288c980ef459d22b243c82e"
+metafile = true
+
+[[files]]
+file = "mods/witchery-resurrected.pw.toml"
+hash = "df99549ff3c98d4203bef836402011624d0a7ecf4c0019b10ff7de369819ae1f"
 metafile = true
 
 [[files]]
