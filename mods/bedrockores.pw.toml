@@ -1,0 +1,13 @@
+name = "Bedrock Ores"
+filename = "Bedrock Ores-MC1.12-1.2.7.42.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ba7e7a7c2ace2a9b7c640b59e2f800d15c92565"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2602707
+project-id = 275083

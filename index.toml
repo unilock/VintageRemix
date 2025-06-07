@@ -692,6 +692,11 @@ hash = "4b7290dedeb3e3cfe25710c8456c32d3110e804d101169e8a4b14646429b5278"
 metafile = true
 
 [[files]]
+file = "mods/bedrockores.pw.toml"
+hash = "38283265b62c0337abbb40cf768062f7b7a8746fdfd3a3f20e17a21a9c886685"
+metafile = true
+
+[[files]]
 file = "mods/beebetteratbees.pw.toml"
 hash = "15ea3e792a624a6c0edc648e4d5882a8d23d572399353c3851a72c38cdfb0eca"
 metafile = true
@@ -764,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/bloodmagic-meteors-jei-support.pw.toml"
 hash = "a7ce293f8ab515e2e0f66a391505fdd3582e06874ebc5c4bd6ef16a76070082a"
+metafile = true
+
+[[files]]
+file = "mods/bonfires.pw.toml"
+hash = "2cdab6ad6b5db2ec33a00171c691db6b5e7b1194b835ca569b5509470064d490"
 metafile = true
 
 [[files]]
@@ -1449,6 +1459,11 @@ metafile = true
 [[files]]
 file = "mods/ion-chests.pw.toml"
 hash = "ac9ce20170fbd7afef66a12a889bea65c7e181903f492d935a6bdadc57eb5600"
+metafile = true
+
+[[files]]
+file = "mods/iridescent.pw.toml"
+hash = "3e18474e52bd49d88b977e4b78ac52a5d9b4475cde8ce39c8675de44d0019517"
 metafile = true
 
 [[files]]
@@ -2298,7 +2313,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermionics-world.pw.toml"
-hash = "9deec740785a437fe80f11b41933f7d2f4acaaca7f7154a8d7162afc05b4a9ff"
+hash = "51b602ba7690096d169aa02bc91974cfca381d81649291af9d7f2a54df5a4253"
 metafile = true
 
 [[files]]
@@ -2334,6 +2349,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-jei.pw.toml"
 hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-mechworks-legacy.pw.toml"
+hash = "2821ac04a1e10032442b31bcbc6a6f3c6bd14b62eb666e877fb3f11adbc11732"
 metafile = true
 
 [[files]]

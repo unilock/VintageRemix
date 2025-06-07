@@ -1,0 +1,13 @@
+name = "Tinkers' Mechworks (Legacy 1.12.2)"
+filename = "TMechworks-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f964aad09e0b06b0e44c2c9d7dc549f0fdc1037a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6440483
+project-id = 1215257

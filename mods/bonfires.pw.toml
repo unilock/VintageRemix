@@ -1,0 +1,13 @@
+name = "Bonfires"
+filename = "Bonfires-1.12.2-1.2.2-16eac59.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b07711817370a7aacfda52401a28a9f46f6da24d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2564473
+project-id = 255347

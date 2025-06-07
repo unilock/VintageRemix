@@ -1,0 +1,8 @@
+name = "Iridescent"
+filename = "Iridescent-1.12.2-1.10.jar"
+side = "both"
+
+[download]
+url = "https://oldci.y2k.diy/job/elytra/job/Iridescent/job/1.12.2/Iridescent-1.12.2-1.10.jar"
+hash-format = "sha256"
+hash = "bc454fe71d4e73579ee09a9d74f17260872d919bf56d694b23bcc900072f7b49"
