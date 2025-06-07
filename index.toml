@@ -262,7 +262,7 @@ hash = "f055711de053d1059e4c7174a8cb398a4015c92ef1d04bae397bb9e1a0aaaf1d"
 
 [[files]]
 file = "config/lwjgl3ify-early.json"
-hash = "5e16ce97eabf1c96d623d1fb0851efbe1a1038e29aaddb673ac643d32fe0ab8f"
+hash = "1f1fc3c3cdc780d984d78955e0c177a4e69c8ffc4ce866a462d4353112612405"
 
 [[files]]
 file = "config/lwjgl3ify.cfg"
