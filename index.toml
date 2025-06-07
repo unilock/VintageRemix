@@ -2197,6 +2197,11 @@ hash = "80b1091dc9c2932d4e8ad3786c5a290a36ef7f3cf02896e42a132bbb2c8fe9c9"
 metafile = true
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "1632cc51a3dd64f0924c351fcacacc95dc6c1271c9029fff982b1b4151b3f482"
+metafile = true
+
+[[files]]
 file = "mods/signpost.pw.toml"
 hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
 metafile = true
