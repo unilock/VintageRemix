@@ -742,6 +742,11 @@ hash = "d37155d617d87fa1ede424228bc42aedc4853aa3b3fd565baae7f02ee93f37f9"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
+
+[[files]]
 file = "mods/binnies-mods-patched.pw.toml"
 hash = "8e27c954be35a2c6e5eedfe2e7373b465547ad571a8f7b7cde66f63f83ef3a1d"
 metafile = true
