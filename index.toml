@@ -457,26 +457,6 @@ file = "config/wizardry.cfg"
 hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "f06b2452cec58f6357c69271668fbf3f50133a9a92375b117439e9671a62225c"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "a487ad33f2a27fd900e92ea89215c2263719f31d5d41f5cbfc47423543f192aa"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "b2f2ad6b6d701b44f79a34d9a04755be176d0cbee031a30359e6f23c7279b256"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "242060ec1e0b85b76bfdad7daf8518505a6793ee666f76e9290175f6bc64b843"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
-
-[[files]]
 file = "groovy/postInit/InitialInventory.groovy"
 hash = "c4da6cf16fe6feeb0e79a95f0aabd1c698c2646a6e4b4613be1ae0a903a294e3"
 
@@ -632,6 +612,11 @@ hash = "81ae6f1ed3a8cb18aa0fc0aba5101c5aa80b9e1e3781645f37f33ad39060f12b"
 metafile = true
 
 [[files]]
+file = "mods/astikorcarts.pw.toml"
+hash = "6bc7323bd41bca9cc6d288309a231dc374f0a95a0845fbad0bdc5c339e1ab5d2"
+metafile = true
+
+[[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
 metafile = true
@@ -729,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/better-signs.pw.toml"
 hash = "60fd545f4dab17f45604cb7f03816d9cbd3fad49bdca781a6602225f5e0e0799"
+metafile = true
+
+[[files]]
+file = "mods/betterbuilderswandsfix.pw.toml"
+hash = "0a53e46092820fa6ab66465dc76ae89b27e79e1734dd918f7475dbfeb85e63b2"
 metafile = true
 
 [[files]]
@@ -939,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/climbable.pw.toml"
+hash = "00283dc505dded56a7fbca77e10fa4a883a23e77d87a06ea468dd8ee4aa153fb"
 metafile = true
 
 [[files]]
@@ -1647,6 +1642,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/mapwriter-2.pw.toml"
+hash = "ef134677a3a8a3ebfeab32e84773466eea683f58e7b95e96a8bce14788586d82"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
@@ -1719,6 +1719,11 @@ metafile = true
 [[files]]
 file = "mods/modelloader.pw.toml"
 hash = "383d4d74a349752da06b370738d6b81e717add1607efb4adb1777fe287190ac6"
+metafile = true
+
+[[files]]
+file = "mods/modernmarkings.pw.toml"
+hash = "4f7773ac23d67983869e5b403b47b7c52b17a9f50ab2315e04b096ccdc13c8a4"
 metafile = true
 
 [[files]]
@@ -1809,6 +1814,11 @@ metafile = true
 [[files]]
 file = "mods/nco-java-legacy-lib.pw.toml"
 hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
+metafile = true
+
+[[files]]
+file = "mods/neonium.pw.toml"
+hash = "258f4b824039de32284d22c109153db219e6badee62363e18354f3b29e0ae466"
 metafile = true
 
 [[files]]
@@ -2437,8 +2447,8 @@ hash = "496ae7d648fd65ef55d2a35329c1a83fffdd0bb508dd608be53043fb9b8c6d7d"
 metafile = true
 
 [[files]]
-file = "mods/vintagium.pw.toml"
-hash = "131d0e570272db99060cc4d42d923f08a8ffaa88e6d65c3f15d61765e3b77049"
+file = "mods/visualclaiming.pw.toml"
+hash = "04bce90d3e6fa7d55afae54a737c943c53281011ba163758aebaf8612111ae5f"
 metafile = true
 
 [[files]]
@@ -2519,16 +2529,6 @@ metafile = true
 [[files]]
 file = "mods/wrapup.pw.toml"
 hash = "43ab58d9452c47716b9e1c3ec4753dc287821b2cdaa6cc0e047ec29cdf26877a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a1c7e5f8634628b91aabaf5a118c81ea992722d118b5c23765e8f33e67a369e3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "02f3364aef434c2dfdc04c593fcbed294c0c046b2c50a9f36ad0a5eed1cd6f7e"
 metafile = true
 
 [[files]]
