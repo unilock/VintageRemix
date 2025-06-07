@@ -1147,41 +1147,6 @@ hash = "af5619c7073bc7804be175d3ba0445f980e08d95cf8a053c1c089f54bf7fb5b7"
 metafile = true
 
 [[files]]
-file = "mods/ender-io-base.pw.toml"
-hash = "6d053a1f480016f046d0904823734e0ddd5cdb2c3252fba485f48e15cec09cbd"
-metafile = true
-
-[[files]]
-file = "mods/ender-io-endergy.pw.toml"
-hash = "e5caa0d3aaef61ed8af1e27f310d733e4c2ef3b4bf7a23bbf03cf73450641af9"
-metafile = true
-
-[[files]]
-file = "mods/ender-io-forestry.pw.toml"
-hash = "a2437597e99866adfccf4caad59546da9772922b62ac07c44c5ff3f0d264aa2f"
-metafile = true
-
-[[files]]
-file = "mods/ender-io-machines.pw.toml"
-hash = "6345611d0ffef25034944f08cffe6fae654ce3b13b4ee482ed4a7503306e5e87"
-metafile = true
-
-[[files]]
-file = "mods/ender-io-tic.pw.toml"
-hash = "0f762a79cdf06a4ee753a6863f522fa55ed5afe046e69b22c65ac125c152fd7b"
-metafile = true
-
-[[files]]
-file = "mods/ender-io-zoo.pw.toml"
-hash = "513cd07c2785300d840a2b7cf3994f7ad4b4b534e5f4ffd6ac923c90a74dc9c6"
-metafile = true
-
-[[files]]
-file = "mods/endercore.pw.toml"
-hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
-metafile = true
-
-[[files]]
 file = "mods/energy-control.pw.toml"
 hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
 metafile = true
@@ -1627,11 +1592,6 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
-file = "mods/loot-capacitor-tooltips.pw.toml"
-hash = "3bb5f4b036b7dbf9b1b270810a220ddffe89aca866df5d61b38d9738d3ac5b1e"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
@@ -1774,11 +1734,6 @@ metafile = true
 [[files]]
 file = "mods/moonbetween.pw.toml"
 hash = "fb0942fccd2b9d7ed13562424379102cc6781ddb66f2e8bf4b0eea66e45eb89b"
-metafile = true
-
-[[files]]
-file = "mods/more-capacitor.pw.toml"
-hash = "cb375d186ef7c8a4916adcc7850333408c35a1711b8b76eb6353861e0a785e8f"
 metafile = true
 
 [[files]]
@@ -2394,11 +2349,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-fixes.pw.toml"
 hash = "ebb38b39615a9886d74a2dd8554b37f61b2458dd76766dc7fa59cecb52f2885f"
-metafile = true
-
-[[files]]
-file = "mods/uber-conduit-probe.pw.toml"
-hash = "88da0bcb4a9fde247bc4bc3e6ed30254dab092a57c340dd4776b2123310562fe"
 metafile = true
 
 [[files]]
