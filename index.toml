@@ -502,11 +502,6 @@ hash = "87005bafb1855e4c3929842d81a202346d3f1bcf309dd52f093e44b35ce9edc8"
 metafile = true
 
 [[files]]
-file = "mods/academycraft.pw.toml"
-hash = "366f0b519caacbff2eb3641566b5b0cb163239e87bd2aa1c50fab7ab837c4453"
-metafile = true
-
-[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "9ecae3ed22198021da10e3bbd3bdf9b851f2fc6116b4f242cc275c48889b7bfa"
 metafile = true
