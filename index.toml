@@ -98,7 +98,7 @@ hash = "70db5584b54706f155f8ba6763d12c925041a6fa8fa0feb235208b763a7d7154"
 
 [[files]]
 file = "config/charset/module/lib.cfg"
-hash = "31c114616f5a3cdc42a2a6a604d56e503e9518eb6c249ec7457dc2bda00eb8a6"
+hash = "dc2d422ff192f44cd33b5e83fd8cee90982ad1b1d0347d234cd6af650eb2747f"
 
 [[files]]
 file = "config/charset/module/tweak.bonemeal.cfg"
@@ -1147,23 +1147,33 @@ hash = "af5619c7073bc7804be175d3ba0445f980e08d95cf8a053c1c089f54bf7fb5b7"
 metafile = true
 
 [[files]]
+file = "mods/ender-io-base.pw.toml"
+hash = "6d053a1f480016f046d0904823734e0ddd5cdb2c3252fba485f48e15cec09cbd"
+metafile = true
+
+[[files]]
 file = "mods/ender-io-endergy.pw.toml"
 hash = "e5caa0d3aaef61ed8af1e27f310d733e4c2ef3b4bf7a23bbf03cf73450641af9"
 metafile = true
 
 [[files]]
-file = "mods/ender-io-tweaks.pw.toml"
-hash = "e5916fc7dca127bad2b2ecc61d2de8e7092ddb47d0871c50f0e8597f0b7a4726"
+file = "mods/ender-io-forestry.pw.toml"
+hash = "a2437597e99866adfccf4caad59546da9772922b62ac07c44c5ff3f0d264aa2f"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-machines.pw.toml"
+hash = "6345611d0ffef25034944f08cffe6fae654ce3b13b4ee482ed4a7503306e5e87"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-tic.pw.toml"
+hash = "0f762a79cdf06a4ee753a6863f522fa55ed5afe046e69b22c65ac125c152fd7b"
 metafile = true
 
 [[files]]
 file = "mods/ender-io-zoo.pw.toml"
 hash = "513cd07c2785300d840a2b7cf3994f7ad4b4b534e5f4ffd6ac923c90a74dc9c6"
-metafile = true
-
-[[files]]
-file = "mods/ender-io.pw.toml"
-hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
 metafile = true
 
 [[files]]
