@@ -2427,6 +2427,11 @@ hash = "9041a30f7f4e528a0844189168153d896a440f8722a8d05c68b8b02a6782de82"
 metafile = true
 
 [[files]]
+file = "mods/untouched-nature.pw.toml"
+hash = "b76c8edbb5177ae98495c2df2e3238b2ef4429cbc78bd856b4459607843c647d"
+metafile = true
+
+[[files]]
 file = "mods/uppers.pw.toml"
 hash = "7411360a284b434d752326dad439dd50815a131684cc0e29c69e5b10932b66db"
 metafile = true
