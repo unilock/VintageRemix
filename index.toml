@@ -1127,6 +1127,11 @@ hash = "8d21de09cd5f0c9cdf43d5b77b7333bfb68fba67e47578d3d46f08e5864f8bd0"
 metafile = true
 
 [[files]]
+file = "mods/earthworks-extended-life.pw.toml"
+hash = "3fcd241570c1be3ba5fd5d12207c47731e0b69b7f15da33cc844e096f35e922b"
+metafile = true
+
+[[files]]
 file = "mods/eerie-entities.pw.toml"
 hash = "7bcb26c132296ded42eb4bdb47a7c3d65701ffebe694852987c3927ced15f6dd"
 metafile = true
