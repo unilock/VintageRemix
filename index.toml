@@ -2037,11 +2037,6 @@ hash = "6a1fdbd82220623df973bbff92795fe3bb91356a60d63f71c314e4700e6385cc"
 metafile = true
 
 [[files]]
-file = "mods/project-vibrant-journeys.pw.toml"
-hash = "dafd422b0ecc5c35e948b63b2324d77d2020562b3abce504a98525dde865844b"
-metafile = true
-
-[[files]]
 file = "mods/pseudonym.pw.toml"
 hash = "26e2d57a4a9d6672173cc6402b55990b17bd1d3933677a5f4ba1188d5dcdba28"
 metafile = true
