@@ -45,38 +45,12 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'correlated'
 			]
 		],
-		'corvus': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'corvus',
-				'patchouli:book': 'corvus:book'
-			]
-		],
 		'crossroads': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
 			'id': 'guideapi:crossroads-info_guide',
 			'tag': [
 				'akashictome:definedMod': 'crossroads'
-			]
-		],
-		'elementaristics': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'elementaristics',
-				'patchouli:book': 'elementaristics:liber_elementium'
-			]
-		],
-		'embers': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'embers:codex',
-			'tag': [
-				'akashictome:definedMod': 'embers'
 			]
 		],
 		'engineersdecor': [
@@ -112,14 +86,6 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'mahoutsukai'
 			]
 		],
-		'matteroverdrive': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'matteroverdrive:data_pad',
-			'tag': [
-				'akashictome:definedMod': 'matteroverdrive'
-			]
-		],
 		'naturesaura': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -152,30 +118,6 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 			'tag': [
 				'akashictome:definedMod': 'quiverbow_restrung',
 				'patchouli:book': 'quiverbow_restrung:weaponsmiths_journal'
-			]
-		],
-		'rftools': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'rftools:rftools_manual',
-			'tag': [
-				'akashictome:definedMod': 'rftools'
-			]
-		],
-		'rftools1': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'rftools:rftools_shape_manual',
-			'tag': [
-				'akashictome:definedMod': 'rftools1'
-			]
-		],
-		'rftools2': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'rftoolsdim:rftoolsdim_manual',
-			'tag': [
-				'akashictome:definedMod': 'rftools2'
 			]
 		],
 		'roots': [
@@ -234,14 +176,6 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 			'id': 'guideapi:woot-guide',
 			'tag': [
 				'akashictome:definedMod': 'woot'
-			]
-		],
-		'xnet': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'xnet:xnet_manual',
-			'tag': [
-				'akashictome:definedMod': 'xnet'
 			]
 		]
 	]

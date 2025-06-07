@@ -478,7 +478,7 @@ hash = "21497c84a1889dff2e4642d3dd8bb79bf17607c8601dc54b24fbc24945a79f2d"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "31a09e6ed27de6e4377689ab9acf39b1cfa910a6243a754ab9423e9feb7d33e1"
+hash = "c4da6cf16fe6feeb0e79a95f0aabd1c698c2646a6e4b4613be1ae0a903a294e3"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -1862,11 +1862,6 @@ hash = "64e969417a3b244d33a076087731e25f6d918633e6b0c60de32ca3f24d80bd6f"
 metafile = true
 
 [[files]]
-file = "mods/oc-xnet-driver.pw.toml"
-hash = "ec9d518eea5fa5d8f1d5e681ccce69d2e19e117feb66d430fc7824e1efd424a0"
-metafile = true
-
-[[files]]
 file = "mods/ocrocketry.pw.toml"
 hash = "487393bfea43c17ef670b5f7ac68fad84b5e64ee450e54de4d6d1431d9061cb6"
 metafile = true
@@ -2552,11 +2547,6 @@ hash = "02f3364aef434c2dfdc04c593fcbed294c0c046b2c50a9f36ad0a5eed1cd6f7e"
 metafile = true
 
 [[files]]
-file = "mods/xnet.pw.toml"
-hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
-metafile = true
-
-[[files]]
 file = "mods/xnicex.pw.toml"
 hash = "4a4330a5dd219c2c34d6188cf5e43c4fed739ea291b4b339c22b8dcad3990cff"
 metafile = true
@@ -2569,11 +2559,6 @@ metafile = true
 [[files]]
 file = "mods/yarcf.pw.toml"
 hash = "bc1de0af630e42d00d50ea30e3c76c76475d720fe39b6ff69e0939af719bf8ed"
-metafile = true
-
-[[files]]
-file = "mods/ynot.pw.toml"
-hash = "85647a1347d09afc1158bd9bc5acf2afbb6b2a7d2b0eb5e1f684ff29879e4203"
 metafile = true
 
 [[files]]
