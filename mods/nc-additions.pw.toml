@@ -1,0 +1,13 @@
+name = "NuclearCraft Additions"
+filename = "NuclearCraftAdditions-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "474bb31ad491169f665caf411e15a1cb24ed004a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5767969
+project-id = 564602

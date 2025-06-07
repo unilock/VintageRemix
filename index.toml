@@ -1802,6 +1802,16 @@ hash = "225769e039a569a0d43b03989e1b1307181f26f3fc9fdee85a054ccf024f587a"
 metafile = true
 
 [[files]]
+file = "mods/nc-additions.pw.toml"
+hash = "cf32538bb169ca8d640894ddb5577a3bb2154ae620126aa2d95f3ae6b07e1856"
+metafile = true
+
+[[files]]
+file = "mods/nco-java-legacy-lib.pw.toml"
+hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
+metafile = true
+
+[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
 metafile = true
@@ -1809,6 +1819,11 @@ metafile = true
 [[files]]
 file = "mods/nilcord.pw.toml"
 hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "c66f31686d87a2a4ba595732a7733181f6456040248286af18efb9029cb10677"
 metafile = true
 
 [[files]]
@@ -2004,6 +2019,11 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
+metafile = true
+
+[[files]]
+file = "mods/qmd.pw.toml"
+hash = "f87add3ad2c433b025f776be5160dd372a6597a7962c3c5fb726bff4bf7b1d4c"
 metafile = true
 
 [[files]]
@@ -2329,6 +2349,11 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
+metafile = true
+
+[[files]]
+file = "mods/trinity.pw.toml"
+hash = "3ffbfbfc2f02d758c3bf07bb999bff3536254ded11b12c4f19a093fe408c2e06"
 metafile = true
 
 [[files]]
