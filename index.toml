@@ -2498,7 +2498,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "496ae7d648fd65ef55d2a35329c1a83fffdd0bb508dd608be53043fb9b8c6d7d"
+hash = "e62dd7ee1929715527c8bc94daea66d03215de73297aacad978e431bcc153186"
 metafile = true
 
 [[files]]

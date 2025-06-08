@@ -1,8 +1,8 @@
 name = "VintageRemix"
-filename = "vintageremix-1.2.0.jar"
+filename = "vintageremix-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/vintageremix-1.2.0.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/vintageremix-1.3.0.jar"
 hash-format = "sha256"
-hash = "ec8f848953cd0eca6cea4e416422f8ee557513ecaf31ae12af93431e11213d85"
+hash = "3cf0f7393193407e414df565fc36009c1bcfbf8e3658a02c939893c193a6346c"
