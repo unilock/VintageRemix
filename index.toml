@@ -2177,11 +2177,6 @@ hash = "c6728afb4ad11f4f3be013ebd43c617aa94ceb214a774a8b08c4c553ba38a5de"
 metafile = true
 
 [[files]]
-file = "mods/requiem.pw.toml"
-hash = "a946d2298048d60bf5b6500893b2d60300950d70f175db6b23a0eeb3eb78c485"
-metafile = true
-
-[[files]]
 file = "mods/resizing-potion.pw.toml"
 hash = "a4ebc81b46fa001ade8ea0411ef3fde6637d07c0870c78750bc6057a6baf5edb"
 metafile = true
