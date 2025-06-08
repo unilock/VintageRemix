@@ -1,0 +1,13 @@
+name = "Balkon's Expansion"
+filename = "BalkonsExpansion-1.12.2-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0f0cac8e236aa24a1bc6502f58b9c7f9559a76b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352764
+project-id = 1145870

@@ -657,6 +657,16 @@ hash = "015243b60b4dcb33daf534acaf70c1dd4f8c6a28c9eebb8152603ad57fa539da"
 metafile = true
 
 [[files]]
+file = "mods/balkons-expansion.pw.toml"
+hash = "5daffde028c448f01190a9a7fc1dacc4301aad52d2980910b0156a1214ac3b65"
+metafile = true
+
+[[files]]
+file = "mods/balkons-weaponmod-legacy.pw.toml"
+hash = "9a61d056097aed21eef418ff6c56d61ca1236e23fdde4da9bfcf741dc2b98fd3"
+metafile = true
+
+[[files]]
 file = "mods/base.pw.toml"
 hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
 metafile = true
@@ -1202,6 +1212,11 @@ hash = "9329b9fdd763bd2ab90037e7c24dfacd6d9571a90da2b3261dba12ce925633f8"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "518753e7430d4fb4b2f737dcb0b4c2ca9c47ec7f1789a3470f59c510eb91d044"
+metafile = true
+
+[[files]]
 file = "mods/fancy-lamps.pw.toml"
 hash = "e37d3e3dcfed2931cf83994ceeb29eb8022ce98eb2a7e78b9fd4ce5cd086ab0f"
 metafile = true
@@ -1282,6 +1297,11 @@ hash = "466b15cefb457971c6b7c3f8c351c22abeb0bfd6baaba60e5b3d3159910fb3ff"
 metafile = true
 
 [[files]]
+file = "mods/general-laymans-aesthetic-spying-screen-glass.pw.toml"
+hash = "ae864551a585713791cd2be7bcd418ed3011b4eca3b023d804a6b5c53388ecf9"
+metafile = true
+
+[[files]]
 file = "mods/glass-jaw.pw.toml"
 hash = "4e6dcc6c21cf313946fbce9b3e6e6682c9efd1543c430fea8ff3c2c1147d9419"
 metafile = true
@@ -1304,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/gravitation-suite.pw.toml"
 hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
+metafile = true
+
+[[files]]
+file = "mods/gravity-gun.pw.toml"
+hash = "a25c4212034f33af7d6c03f09b64ea9b8756156e57e769a893b1acae207c0246"
 metafile = true
 
 [[files]]
@@ -1664,11 +1689,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
-metafile = true
-
-[[files]]
-file = "mods/mapwriter-2.pw.toml"
-hash = "ef134677a3a8a3ebfeab32e84773466eea683f58e7b95e96a8bce14788586d82"
 metafile = true
 
 [[files]]
@@ -2157,6 +2177,11 @@ hash = "c6728afb4ad11f4f3be013ebd43c617aa94ceb214a774a8b08c4c553ba38a5de"
 metafile = true
 
 [[files]]
+file = "mods/requiem.pw.toml"
+hash = "a946d2298048d60bf5b6500893b2d60300950d70f175db6b23a0eeb3eb78c485"
+metafile = true
+
+[[files]]
 file = "mods/resizing-potion.pw.toml"
 hash = "a4ebc81b46fa001ade8ea0411ef3fde6637d07c0870c78750bc6057a6baf5edb"
 metafile = true
@@ -2484,6 +2509,16 @@ metafile = true
 [[files]]
 file = "mods/visualores.pw.toml"
 hash = "6c3af4243926a375a9f5aa3a7bb65894b617e9a2f2b0f5fbeca080cc5c282243"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap-fixes.pw.toml"
+hash = "9244eacd7f00e5dd957f03babc4b7274a8af59f40ffffeb27743b06ce35c590c"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.pw.toml"
+hash = "36a79c33d217a0b8e9f0b59924182457a5f814a0586ccf5844b14cfeb00b4dc4"
 metafile = true
 
 [[files]]

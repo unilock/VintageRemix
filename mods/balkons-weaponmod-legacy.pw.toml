@@ -1,0 +1,13 @@
+name = "Balkon's WeaponMod: Legacy"
+filename = "weaponmod-forge-1.12.2-1.23.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9edcd77be0237914de0314de2f7ca5eb0526478c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6332469
+project-id = 1033985

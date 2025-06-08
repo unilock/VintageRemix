@@ -1,0 +1,13 @@
+name = "VoxelMap Fixes"
+filename = "VoxelMapFixes-1.12.2-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c85365ba167796d9e8dcd1efa2fbc8ee4fdc540"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6382130
+project-id = 674732

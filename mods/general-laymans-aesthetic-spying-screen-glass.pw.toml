@@ -1,0 +1,13 @@
+name = "General Layman's Aesthetic Spying Screen (GLASS)"
+filename = "GeneralLaymansAestheticSpyingScreen-1.12.2-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "535e7abe47877d960f3b9b0ec5668896f29fbd6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2501251
+project-id = 282164

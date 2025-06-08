@@ -1,0 +1,13 @@
+name = "Requiem"
+filename = "Dissolution-1.12.2-0.3.13r2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd3e5996f7c81b7ae4f977de7e0b96cd40fc4af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2942107
+project-id = 265729
