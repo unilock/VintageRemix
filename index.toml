@@ -982,6 +982,11 @@ hash = "b0d7f13274f23c625c63cc8bf79a22b95909a472af8e6348ac97848b990fd636"
 metafile = true
 
 [[files]]
+file = "mods/computronics.pw.toml"
+hash = "b27ae6cf39982a8a5822ff88e61c0a94fcf92d4cc75101be2e3da1bc5e2e4824"
+metafile = true
+
+[[files]]
 file = "mods/condition-overload.pw.toml"
 hash = "6f006a50dfb0dffb8409cb6b9e33efd2e0c79e0847e5094b6272a7b2ef88c6f4"
 metafile = true
@@ -1838,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "mods/neonium.pw.toml"
-hash = "258f4b824039de32284d22c109153db219e6badee62363e18354f3b29e0ae466"
+hash = "3ec598f42db8381f9df050de4ffc6d9214355ff80c95fa32ea970591e9d8671f"
 metafile = true
 
 [[files]]
