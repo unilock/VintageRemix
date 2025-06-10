@@ -417,6 +417,10 @@ file = "config/thebetweenlands/config.cfg"
 hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
 
 [[files]]
+file = "config/thermionics_world.cfg"
+hash = "ee6c2e05bc56f4567d687580072b87f8ad8565f56c5b669556e73f089fa14b7e"
+
+[[files]]
 file = "config/twilightforest.cfg"
 hash = "9bd8109dd0b80f44e49302fc58f74ad2990fedf7582a74b26f902038eddcbb39"
 
@@ -2354,11 +2358,6 @@ metafile = true
 [[files]]
 file = "mods/theonesmeagle.pw.toml"
 hash = "4610c51e5687bed5396656339afa9b80bd3574728e85bac893a9721774369dfe"
-metafile = true
-
-[[files]]
-file = "mods/thermionics-world.pw.toml"
-hash = "51b602ba7690096d169aa02bc91974cfca381d81649291af9d7f2a54df5a4253"
 metafile = true
 
 [[files]]
