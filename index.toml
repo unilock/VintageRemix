@@ -270,7 +270,7 @@ hash = "1f1fc3c3cdc780d984d78955e0c177a4e69c8ffc4ce866a462d4353112612405"
 
 [[files]]
 file = "config/lwjgl3ify.cfg"
-hash = "b3634f015ef9330b2af1df8f2c0d11cfac7cd333c40eb8709de423460675e4f4"
+hash = "ec4db560888ebff3991be6b338fc0851a559e4b5069e98b0f7f2b8809cfbf826"
 
 [[files]]
 file = "config/machinemuse/numina.cfg"
