@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PnFQ4uO8/versions/p1mXZTtC/homoium-1.0.8.jar"
-hash-format = "sha1"
-hash = "8295f6842b44fabd2a2cc8400464ba8c94ed8da4"
+hash-format = "sha512"
+hash = "4c985f74d3090417317b87ad27b9b5c4bc727d40c74f3e599b144a65b9f5349d859529af61b0b67bd173aaece64b806e81bc3a97cc542a91e8b4609cc28e0c10"
 
 [update]
 [update.modrinth]

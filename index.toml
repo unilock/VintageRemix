@@ -502,8 +502,8 @@ hash = "3606d6de09f7c5b7beb9f94cbde59c622fc05b6515513a9dea4bde31474d27b8"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry-reworked.pw.toml"
-hash = "be66e4ab084081061814baf8c8995f37dc706a8ed6aa865d88d92c43d7570ee0"
+file = "mods/advanced-rocketry-2.pw.toml"
+hash = "a73fee27c5fa63a55a3a0b61659b51024516664a9560e5c06aae4f44f231d567"
 metafile = true
 
 [[files]]
@@ -674,11 +674,6 @@ metafile = true
 [[files]]
 file = "mods/backpack-display.pw.toml"
 hash = "4654c9d56629603ed8fe6e1b6dab24e7c0227946ab7fedd1b37944e8696f5375"
-metafile = true
-
-[[files]]
-file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "015243b60b4dcb33daf534acaf70c1dd4f8c6a28c9eebb8152603ad57fa539da"
 metafile = true
 
 [[files]]
@@ -1403,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "mods/homoium.pw.toml"
-hash = "7edce448dfd9f9cedce2943bdb5ec285540a98a11c30a6c262fc7c2ff90f85f5"
+hash = "da82e873b33107d6659c96f1ffab9e7d2dda58169e40f35579efa3b4f5b307e7"
 metafile = true
 
 [[files]]
@@ -1888,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether-api.pw.toml"
-hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
+hash = "c73dfd79e2c7ab1b4ce2c225238d869d4b96a5a58b6fcf4c2338b8e68547a8f4"
 metafile = true
 
 [[files]]
