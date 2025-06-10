@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "c6dce75794a20c32bfce0a0162b08127510914c493f25325f451c33c7a017a92"
+hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
 metafile = true
 
 [[files]]
@@ -1633,7 +1633,7 @@ metafile = true
 
 [[files]]
 file = "mods/librarianlib-continuous.pw.toml"
-hash = "7c780eecab91bbda467b17c053d16bc457dfca6c24c3f13c30e53e4d5af2f6df"
+hash = "4d1f29cf1402d3f62c0ad05ca3cf2e4aeb1cbdf9ab2176409082550355cee520"
 metafile = true
 
 [[files]]
@@ -1688,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiculture-integrations.pw.toml"
-hash = "52823260a6cc0923f804df3fde172ed0a21347eb70c22d0bf2b21218f16e0b41"
+hash = "afc1932c65b49682c45a2bb4020ce14cbac99dbdbc6c6bff99663f5f83f84629"
 metafile = true
 
 [[files]]
