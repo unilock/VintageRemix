@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
+hash = "c6dce75794a20c32bfce0a0162b08127510914c493f25325f451c33c7a017a92"
 metafile = true
 
 [[files]]
@@ -1633,7 +1633,7 @@ metafile = true
 
 [[files]]
 file = "mods/librarianlib-continuous.pw.toml"
-hash = "4d1f29cf1402d3f62c0ad05ca3cf2e4aeb1cbdf9ab2176409082550355cee520"
+hash = "7c780eecab91bbda467b17c053d16bc457dfca6c24c3f13c30e53e4d5af2f6df"
 metafile = true
 
 [[files]]
