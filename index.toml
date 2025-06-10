@@ -1062,11 +1062,6 @@ hash = "af0aa1cee536f36f02d5eccce65dd3f36176502ea4256797f7e3bbc41e2474d1"
 metafile = true
 
 [[files]]
-file = "mods/crossroads-mc.pw.toml"
-hash = "e08ceeb80871114e54c825a3617107995ba9b6b6da16ab102a4d3d0a6243a19c"
-metafile = true
-
-[[files]]
 file = "mods/ctm.pw.toml"
 hash = "1d529eda949507fa4491da34cda9c048aa146e7360323f45e50d8f2d4dca2f13"
 metafile = true
@@ -1214,11 +1209,6 @@ metafile = true
 [[files]]
 file = "mods/essentialcraft-4-unofficial.pw.toml"
 hash = "62777a67d0aca652f881c6c6e4b6025a7d13a5e0c28d29d8846d19507d855771"
-metafile = true
-
-[[files]]
-file = "mods/essentials.pw.toml"
-hash = "dc1252b2d6eb8696db32904a61bb707284e74d49d82f61124546d98a48d3290c"
 metafile = true
 
 [[files]]
