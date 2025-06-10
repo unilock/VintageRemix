@@ -217,6 +217,10 @@ file = "config/inspirations.cfg"
 hash = "9d9688a800c1c383e0e02c7bc679776c874735f23a7dc88edc46a2786dcf070d"
 
 [[files]]
+file = "config/iridescent.cfg"
+hash = "6b90f2a73b885d25c37dd7973a9b54442061fcc689a4cbc5222ee4131554be7f"
+
+[[files]]
 file = "config/jaopca/materials/brick.toml"
 hash = "ef1e95a8951cc6a9fc0ee648d756522218c54b08f3d10d880b3e2a2780360000"
 
@@ -411,10 +415,6 @@ hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
 [[files]]
 file = "config/thebetweenlands/config.cfg"
 hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
-
-[[files]]
-file = "config/tombmanygraves.cfg"
-hash = "7461cf281fe4e3fc901ed3b6ad6ebf716317fe8de493f3de9107df1a04c20644"
 
 [[files]]
 file = "config/twilightforest.cfg"
@@ -1877,11 +1877,6 @@ hash = "7e207c2e2f673d2b4395090c853edf983f61e1f28fe80d5b4954d546400856ed"
 metafile = true
 
 [[files]]
-file = "mods/neonium.pw.toml"
-hash = "3ec598f42db8381f9df050de4ffc6d9214355ff80c95fa32ea970591e9d8671f"
-metafile = true
-
-[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "a6b0e0ef2bce90dae4b2823a7e4dbce36f537cb7297f07ce2053a0441d06026f"
 metafile = true
@@ -2417,11 +2412,6 @@ hash = "fd46472c4bd4bf286eee7f2c1eacc625a0d00f0032cbc7afe35faba395ad86de"
 metafile = true
 
 [[files]]
-file = "mods/tomb-many-graves-2.pw.toml"
-hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
-metafile = true
-
-[[files]]
 file = "mods/too-many-efficiency-losses.pw.toml"
 hash = "7b5881f68d494df7853aab753b1200c4fde0d15f80fdadb7a7c2da20e731a71b"
 metafile = true
@@ -2514,6 +2504,11 @@ metafile = true
 [[files]]
 file = "mods/vintageremix.pw.toml"
 hash = "e62dd7ee1929715527c8bc94daea66d03215de73297aacad978e431bcc153186"
+metafile = true
+
+[[files]]
+file = "mods/vintagium.pw.toml"
+hash = "131d0e570272db99060cc4d42d923f08a8ffaa88e6d65c3f15d61765e3b77049"
 metafile = true
 
 [[files]]

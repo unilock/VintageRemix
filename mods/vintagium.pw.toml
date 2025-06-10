@@ -1,0 +1,8 @@
+name = "Vintagium"
+filename = "vintagium-mc1.12.2-0.1.jar"
+side = "client"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/client/vintagium-mc1.12.2-0.1.jar"
+hash-format = "sha256"
+hash = "f3343b703aba12d7f3a3cf0534a315f9454f34d16137ec0c92ff7eb19d4f5bec"
