@@ -1,0 +1,13 @@
+name = "Alchemistry - Redox"
+filename = "alchemistry-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60250bf694a09680ed3dc5043ab511f69de411ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6556841
+project-id = 1218726

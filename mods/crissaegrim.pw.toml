@@ -1,0 +1,13 @@
+name = "Crissaegrim"
+filename = "Crissaegrim-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca5f35c937c73e8806835f3316f9d99baaca54e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2647376
+project-id = 278058

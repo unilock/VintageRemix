@@ -1,0 +1,13 @@
+name = "Ender's Modpack Tweaks"
+filename = "endermodpacktweaks-0.5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c64595da380a2015d548f1909b60ef40b64a804"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6608681
+project-id = 1221029

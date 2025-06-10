@@ -532,6 +532,21 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/alchemistry-redox.pw.toml"
+hash = "30c32eec4e413fe7b65cd8bd0db0be84b36cf243d06b2469afb4b8a5288d0e6f"
+metafile = true
+
+[[files]]
+file = "mods/alchemistrydriver.pw.toml"
+hash = "4fae2735c1af323168aaf2f364f7471e4b810e8c4e2b15c5ffd172659b58e732"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "326a3f2039867c0515e552f1ac3c396c62b136e560f126e3cf80975a0351a95f"
+metafile = true
+
+[[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "4178f220d660d21cba7f04acb8d671fd650896d3f00f2936ca9d091c99a700df"
 metafile = true
@@ -1042,6 +1057,11 @@ hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
 metafile = true
 
 [[files]]
+file = "mods/crissaegrim.pw.toml"
+hash = "af0aa1cee536f36f02d5eccce65dd3f36176502ea4256797f7e3bbc41e2474d1"
+metafile = true
+
+[[files]]
 file = "mods/crossroads-mc.pw.toml"
 hash = "e08ceeb80871114e54c825a3617107995ba9b6b6da16ab102a4d3d0a6243a19c"
 metafile = true
@@ -1169,6 +1189,11 @@ metafile = true
 [[files]]
 file = "mods/ender-flowergirls.pw.toml"
 hash = "af5619c7073bc7804be175d3ba0445f980e08d95cf8a053c1c089f54bf7fb5b7"
+metafile = true
+
+[[files]]
+file = "mods/ender-modpack-tweaks.pw.toml"
+hash = "879aada3da7158517dbdcf903e3d576a95de1fbb90c3de8f487ad6cbd0763f0e"
 metafile = true
 
 [[files]]
@@ -2007,8 +2032,13 @@ hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+file = "mods/patchouli-books.pw.toml"
+hash = "5b18582de3b580b9b10e1f49520882d59fe366a03be71ec3bf11c7f93b470cdd"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-rofl-edition.pw.toml"
+hash = "ce98dd5f963b816d7df24f76b2ccb4d5e72e04db8b0e975dc90652e1f0f2f5e6"
 metafile = true
 
 [[files]]
