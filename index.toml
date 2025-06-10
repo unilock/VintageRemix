@@ -587,16 +587,6 @@ hash = "6303fa1a2c9ba98acd32a225211819339dfb0263332ff15f13268b77a6a9cabb"
 metafile = true
 
 [[files]]
-file = "mods/antiqueatlas-recurrentcomplex-compatability.pw.toml"
-hash = "418056eba899b7e56f6e94e3e6081a51d4ed914a1538e56c1535f5a4184c8449"
-metafile = true
-
-[[files]]
-file = "mods/antiqueatlasautomarker.pw.toml"
-hash = "84c9f55707d289b2723edfc7a3b43595610b658361995fc6aac3387d3e366c4e"
-metafile = true
-
-[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
