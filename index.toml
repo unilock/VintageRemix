@@ -1891,6 +1891,11 @@ hash = "c73dfd79e2c7ab1b4ce2c225238d869d4b96a5a58b6fcf4c2338b8e68547a8f4"
 metafile = true
 
 [[files]]
+file = "mods/netherex.pw.toml"
+hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
+metafile = true
+
+[[files]]
 file = "mods/nilcord.pw.toml"
 hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
 metafile = true
