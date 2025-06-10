@@ -1522,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/iridescent.pw.toml"
-hash = "3e18474e52bd49d88b977e4b78ac52a5d9b4475cde8ce39c8675de44d0019517"
+hash = "6544bc051de9927a4a345bb57762df18d9f3e49e40e429cb80a0143ab8ea4002"
 metafile = true
 
 [[files]]
