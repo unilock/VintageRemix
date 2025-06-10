@@ -1,0 +1,13 @@
+name = "AntiqueAtlas - RecurrentComplex Compatability"
+filename = "AARCAddon-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7506b4f8a16010b35682b92015ad1429fd8b7650"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2965215
+project-id = 384446

@@ -582,6 +582,21 @@ hash = "5054812fbdd2e49509d2c5fc78712733d6b0ed377a97ed9942f5769efc6133fc"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "6303fa1a2c9ba98acd32a225211819339dfb0263332ff15f13268b77a6a9cabb"
+metafile = true
+
+[[files]]
+file = "mods/antiqueatlas-recurrentcomplex-compatability.pw.toml"
+hash = "418056eba899b7e56f6e94e3e6081a51d4ed914a1538e56c1535f5a4184c8449"
+metafile = true
+
+[[files]]
+file = "mods/antiqueatlasautomarker.pw.toml"
+hash = "84c9f55707d289b2723edfc7a3b43595610b658361995fc6aac3387d3e366c4e"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -634,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
+metafile = true
+
+[[files]]
+file = "mods/atlas-extras.pw.toml"
+hash = "9c7d4422ca6f05a78f2b272a5100c5e44b913e9894da870d525fbfa9bd0c0ca2"
 metafile = true
 
 [[files]]
@@ -2252,11 +2272,6 @@ hash = "1632cc51a3dd64f0924c351fcacacc95dc6c1271c9029fff982b1b4151b3f482"
 metafile = true
 
 [[files]]
-file = "mods/signpost.pw.toml"
-hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
-metafile = true
-
-[[files]]
 file = "mods/simplelogic-gates.pw.toml"
 hash = "cc88befaed636d0e186d32ad4cf5ed5774918f635e481fafed75065333985558"
 metafile = true
@@ -2519,16 +2534,6 @@ metafile = true
 [[files]]
 file = "mods/visualores.pw.toml"
 hash = "6c3af4243926a375a9f5aa3a7bb65894b617e9a2f2b0f5fbeca080cc5c282243"
-metafile = true
-
-[[files]]
-file = "mods/voxelmap-fixes.pw.toml"
-hash = "9244eacd7f00e5dd957f03babc4b7274a8af59f40ffffeb27743b06ce35c590c"
-metafile = true
-
-[[files]]
-file = "mods/voxelmap.pw.toml"
-hash = "36a79c33d217a0b8e9f0b59924182457a5f814a0586ccf5844b14cfeb00b4dc4"
 metafile = true
 
 [[files]]

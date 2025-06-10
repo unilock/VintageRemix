@@ -1,0 +1,13 @@
+name = "Atlas Extras"
+filename = "AtlasExtras-1.12.2-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4881cd2399390d9268231c5d9f3886e2d75673f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2933507
+project-id = 302128
