@@ -5,12 +5,12 @@ file = "config/Arcane World.cfg"
 hash = "ae69543a42cfb00978c4ae5f232a7b77104cedbb64c015e3dde0430d5950c6e6"
 
 [[files]]
-file = "config/FeaturedServers/featuredservers.json"
-hash = "148d8c536a70b7975c5a613a7e9d7b0e75cb7629b0903ac016f1c011b45e2b75"
+file = "config/DummyCore.cfg"
+hash = "9cd6526d5a1bfe2509e46673420c3a2445b3b15cebd9e2908d5c7e45e56f4a37"
 
 [[files]]
 file = "config/Guide-API/Guide-API.cfg"
-hash = "c6a1f9473f5c88a79aa930515bd6f530b72fc6ae5b325eb911c9fff93de0db15"
+hash = "8f2e3b8f747904df501edf160162ea17ecf31bab9e594accf275e60a0001a867"
 
 [[files]]
 file = "config/IC2.ini"
@@ -22,15 +22,15 @@ hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "00c3d49c589a55e999dc87a306c1966b85c95a862785bf5aefb5a61d936d3b9b"
-
-[[files]]
-file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "4340e7b7f3eb1016eecb594ec2f2a8afd0bff691b1c92a209f92f6beb5c63f9c"
+hash = "287f26e000c116ec603d2ee2e24fd5474dce5cdaff4008958267ce2f4a9e0074"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "628bccfa283fded0afa36c8b870e977df6cebfef32b76ce3b51e1642be7aa1ca"
+hash = "b57c61830dc6762cdd036420316fad2b27c6801364e32d5318947563d9746a0b"
+
+[[files]]
+file = "config/UntouchedNature.cfg"
+hash = "f83dcbcec3031c289ebf28057ed0872cf1306ceba450098becbb7c8943a8997e"
 
 [[files]]
 file = "config/VillageNames4/general.cfg"
@@ -49,6 +49,10 @@ file = "config/akashictome.cfg"
 hash = "a3d6f5067d2ce2ca940b740eba8d2d1e20346490dd954a847a9a89cc58d96cab"
 
 [[files]]
+file = "config/alchemistry.cfg"
+hash = "a107affc970fe4c48234543f285e7f55f597809b5e411d4860e1cf4ef3d0aaef"
+
+[[files]]
 file = "config/alquimia.cfg"
 hash = "b8cf35f9fd875ae4453ffc60ef1b72705df221bd92dd6ad210b973888e2a26ba"
 
@@ -57,12 +61,24 @@ file = "config/animania.cfg"
 hash = "d99c0318c01368481a5f51e82b858ac668c16a878a5584e6a601b7d70243f89a"
 
 [[files]]
+file = "config/antiqueatlas/antiqueatlas.cfg"
+hash = "2c9642317083587e0187343e45866dd2e6d85e4f33ac786c2a863ff1b0707158"
+
+[[files]]
+file = "config/antiqueatlas/atlas_overlay.cfg"
+hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
+
+[[files]]
 file = "config/aquaacrobatics.cfg"
 hash = "b2826720f51d5593cd3b8793f355d3bfa5c6ad2d6e932c0ff6f78adc4e3a5d58"
 
 [[files]]
 file = "config/arcanearchives.cfg"
 hash = "3839944dd55b20ad0baf62cd63f5aeaa2b66619c75e31955f192d7c186cab5a3"
+
+[[files]]
+file = "config/astikorcarts.cfg"
+hash = "9f2dcb4c0bafe411a72e23dfe38cf7c9b1b5543bc86d33325ff453851308b8e2"
 
 [[files]]
 file = "config/astralsorcery.cfg"
@@ -74,7 +90,15 @@ hash = "d908ff0ecf63102204e66e3a2b7ad540195adc0b3037332931a2d9843071d17c"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "b33a002d60d7a2110ec2e6ab75544db3447cb11be19201d152db24d34ba85fca"
+hash = "62608a13c3e4f6f3e92240141d1b3f1027f16de301e070b5be5c9e8e70f1b21f"
+
+[[files]]
+file = "config/bedrockores.cfg"
+hash = "fd7749fd67fa9f9f4ad553d6d5b182fd6e4ac5106f615f9c3f69082528fb4883"
+
+[[files]]
+file = "config/bibliocraft.cfg"
+hash = "55bd32bf64745efec54e9ab4cd65e07289e468785e196e4e4eb25e872845c7dd"
 
 [[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
@@ -157,8 +181,28 @@ file = "config/dynamiclights_theplayer.cfg"
 hash = "0670259b16a88d42d2148299de9bf7ca9d4326dc9934d518eca23c13310f87cd"
 
 [[files]]
+file = "config/endermodpacktweaks/features.cfg"
+hash = "a1083b241ff51538ad3cdbeb98d2a92697a91777a90c76afd39d92d4958efd92"
+
+[[files]]
+file = "config/endermodpacktweaks/minecraft.cfg"
+hash = "a28dea930022a1ad245c0ab344a6c9aeef13165706b647d615556166240e03cf"
+
+[[files]]
+file = "config/endermodpacktweaks/modpack.cfg"
+hash = "b160048f71521407eba6ed3006374f82592d84db7f63579dc67703aa13bc8b5a"
+
+[[files]]
+file = "config/endermodpacktweaks/tweaks.cfg"
+hash = "417a5f8d0d1cd5aa621e8c2b8188f84e1ca3b23383da53c53504ca3f9ad3cfd3"
+
+[[files]]
 file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
+
+[[files]]
+file = "config/fairylights.cfg"
+hash = "760f8bbc9b462f17e54d7ace43b09475a23fc0f5a21fc640d177cae2704232ec"
 
 [[files]]
 file = "config/falling_tree.cfg"
@@ -187,6 +231,10 @@ hash = "bae145bde332989ca3dc4470bc5b2b08223520b9edb489aa20024200e6ddd5b6"
 [[files]]
 file = "config/ftbutilities.cfg"
 hash = "738a41e5c2ebb000d679ff29c2ccd57934e117cb991be7daaea94746c52eb04c"
+
+[[files]]
+file = "config/gravitygun.cfg"
+hash = "8a2b149d159f26e2710644a782b3e3b97fd69eb4c48e6996a2a8afff22be3a4d"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -234,7 +282,7 @@ hash = "6846992200f5405e44d2b0b8e98f50ce9ae35645eb05b75cba3c0e45232e7bc9"
 
 [[files]]
 file = "config/jaopca/modules/block.toml"
-hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
+hash = "831c5c65c5a13c48acb986c48c4e9f0abe12027df43b00321ebf1e94f5f6f0b2"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -286,11 +334,11 @@ hash = "8775dbf61a63a7e77e598d5ef68ba3139c57afad901d7a214544c94d7a088f5c"
 
 [[files]]
 file = "config/minestuck.cfg"
-hash = "75189b12f272704663839548a8d5ae2ed0b51e66f26057c025590e32aa75282a"
+hash = "554082d5bfcddcf3fe14edcfcec8223d7db185165ff0d3b3f5b57eac97329d47"
 
 [[files]]
 file = "config/minestuckuniverse.cfg"
-hash = "ef37b6baa74c3cf7d3c3281197906cb89cde7f699a368ff04ce3a2d9f2ed5a4c"
+hash = "6c9f942146dd27eb003f0e317bb864b5cadf47cb4d392c806def0b8d57e65de2"
 
 [[files]]
 file = "config/morpheus.cfg"
@@ -309,12 +357,16 @@ file = "config/mysticalworld.cfg"
 hash = "5effed82878b60cbcc5b4bbad19d1b9803ee438f11dde29f6d077db2abf04b58"
 
 [[files]]
+file = "config/nuclearcraft.cfg"
+hash = "42771fe4c1b584f5f8130eba9606b7e593daa093b269315cdfbecc752b8ee462"
+
+[[files]]
 file = "config/nyx.cfg"
 hash = "61b6b8924f66c2772686e4863bf2d668ee70eea33014cd30e95a148f6b7a4531"
 
 [[files]]
 file = "config/omniwand.cfg"
-hash = "5841f8c3cf62465c24570f12aa6a33d8e9d8f703fdcd8ead658053c63b889c0c"
+hash = "71fd6d4264a6d29e8d6fe5f3c21b981a38f0921f951c30aab884327921ca5e4c"
 
 [[files]]
 file = "config/openblocks.cfg"
@@ -322,7 +374,7 @@ hash = "f2a8448ff3155eaa47ff241fc93e95cedceb88b81e94b82943c4106fd898afe6"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "a7d3cac6a10bb9bb0bfe701b034371b4b5826a0bed6ed81c357815304790762e"
+hash = "26a3539303105389a49fccd44c59f2758701570efa522c5fafaf53dd4fe9b4b4"
 
 [[files]]
 file = "config/openlights.cfg"
@@ -335,6 +387,10 @@ hash = "e404723a39711ae5690ec7287bfa41f791560c533245a26ed2bbdb6aa9756a87"
 [[files]]
 file = "config/p455w0rdsLib.cfg"
 hash = "103a91484b75f99dd4cfe33785bf23dc4b8e06964c48f426946ef2584d457a2e"
+
+[[files]]
+file = "config/patchoulibooks.cfg"
+hash = "fb9c9c65bb6074f18d009ee9267ddba1af8a6d67dbafabc2ccd2fe33cdfebfe0"
 
 [[files]]
 file = "config/pickletweaks.cfg"
@@ -350,7 +406,7 @@ hash = "27f4abec84c1fb1b613807043682f3bf0b62ecee97a5049053395a4168c7e7fb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "9883dfada9bae9b994921c9376b0c5d7cf65e3a6ec2af2d652709ec284d50f39"
+hash = "a31cef37280e14ee12802cb554c90b0a3c8a7c8afb1dde070b7489a909afb2c5"
 
 [[files]]
 file = "config/quiverbow_restrung/misc.cfg"
@@ -363,6 +419,10 @@ hash = "733692d16addda618aa12ed47eb28d692041a00629f01e113aa416cd79c83f39"
 [[files]]
 file = "config/rats.cfg"
 hash = "5f7bd170449d31f4bc7edd805a47a77aa292b8f72168fffdbd4a09a5004e1faf"
+
+[[files]]
+file = "config/realfilingcabinet.cfg"
+hash = "9a77fe59897d9f39e898797c9f4b6b095fc899deb7a3d222f895a847ac686fed"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -378,7 +438,7 @@ hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
 
 [[files]]
 file = "config/rustic.cfg"
-hash = "975e78a709628bc0767c11d9947cee6064bd7384a524c912f9b5c71de56e40f5"
+hash = "64d328d41b1916112b41a85253082c77b5ab748a15b364deca790ac22e4d48ab"
 
 [[files]]
 file = "config/sasit.cfg"
@@ -386,7 +446,7 @@ hash = "2be1906c9514b3be3e940c01fc505f0cf887dcac0cdbbff40ae6fde9277b864d"
 
 [[files]]
 file = "config/simplyjetpacks/common.cfg"
-hash = "1bd16d807e2bf1fab9104c4cfbffdcd7bed3c0caeb407edf58a486048c9be195"
+hash = "a5f197a3edcd4aeb580eee5a45ffb2a8ef9bb3bd408e337fd0e72f250fe5cdcb"
 
 [[files]]
 file = "config/sledgehammer.conf"
@@ -402,7 +462,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "ddab0ebaab1134dc6ae639db78fd834e131550d13a01a980a8b5810a21bddfbb"
+hash = "0434149e7da4dc53e58c11de592ba2c4586408472378cc7551b2727a284449c9"
 
 [[files]]
 file = "config/tconevo.cfg"
@@ -413,8 +473,16 @@ file = "config/tconstruct.cfg"
 hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
 
 [[files]]
+file = "config/thebappystick.cfg"
+hash = "43d46b77c2463c7891dea8b3d271b268b954c26eee476a21167c2dd00f67eee6"
+
+[[files]]
 file = "config/thebetweenlands/config.cfg"
 hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
+
+[[files]]
+file = "config/theoneprobe.cfg"
+hash = "68d541343f58fd4523e715c34052fa17ced80169092e5eafbe3379b6eb9d6226"
 
 [[files]]
 file = "config/thermionics_world.cfg"
@@ -433,8 +501,12 @@ file = "config/unidict/specificEntrySorting.json"
 hash = "2cf4fbe18f21f611e97d236fee90362191c13d18a95afc2293c0f919c8359bc6"
 
 [[files]]
+file = "config/unlimitedchiselworks_botany.cfg"
+hash = "0fbee3a74a9502f7191634f994b24c0cf243c3f820d876d24f7c96e740b59b4d"
+
+[[files]]
 file = "config/vintagefix.properties"
-hash = "b412570dc26a0502b7f1fe31ba9bf6429fd7463f0a9e200d18a94aa07761a8c1"
+hash = "1d05fa14704d3607c516bdcda254f054282397c93b21010cad922b506fd04586"
 
 [[files]]
 file = "config/vintagium-options.json"
@@ -462,7 +534,7 @@ hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "506508d8c15e6546648dfec5d8ab82e676c86b40426078164ebcc3c0bf7319e7"
+hash = "3f18985037df6379f0fa10b35717928e190317eec01e167d54c4aeef8cf7ee1a"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -1036,11 +1108,6 @@ hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "252e337cc66d7a8f1d2ec3e51f72be6b4198ecf8781cda6a1cbf8c4cffd93f58"
-metafile = true
-
-[[files]]
 file = "mods/coralreef.pw.toml"
 hash = "d3c4aa1f0516560421d843de606d1a4e5c2a5f4c26d057c41a5b1c4e37a891e9"
 metafile = true
@@ -1253,11 +1320,6 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
-metafile = true
-
-[[files]]
-file = "mods/featured-servers.pw.toml"
-hash = "75dc361e5d0757e0637c659a11fb33298373a45e37754ce82512113926b31264"
 metafile = true
 
 [[files]]
@@ -1758,6 +1820,11 @@ metafile = true
 [[files]]
 file = "mods/minestuck.pw.toml"
 hash = "e289e5ef7a4badab63471a1e0c952d83e391db62c783852db90af5aec5f8ad5f"
+metafile = true
+
+[[files]]
+file = "mods/minieffects-legacy-extended-life.pw.toml"
+hash = "61223d38ebe4fa770cc5c32dd8edd15649dbe7cd40968372ac183ce2c02af724"
 metafile = true
 
 [[files]]
@@ -2523,11 +2590,6 @@ metafile = true
 [[files]]
 file = "mods/visualores.pw.toml"
 hash = "6c3af4243926a375a9f5aa3a7bb65894b617e9a2f2b0f5fbeca080cc5c282243"
-metafile = true
-
-[[files]]
-file = "mods/waila-harvestability.pw.toml"
-hash = "181fffb728b086d5828ba582b603f68b1a814f219391b8e5be1880b690aa3b51"
 metafile = true
 
 [[files]]

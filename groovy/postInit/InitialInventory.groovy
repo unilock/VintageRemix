@@ -9,8 +9,9 @@ player.addStartingItem(item('minecraft:stone_axe'))
 player.addStartingItem(item('minecraft:stone_shovel'))
 
 //player.addStartingItem(item('fruitphone:handheld', 1))
+player.addStartingItem(item('antiqueatlas:empty_antique_atlas'))
 
-player.addStartingItem(item('akashictome:tome').withNbt([
+def akashicTome = item('akashictome:tome').withNbt([
 	'akashictome:data': [
 		'arcanearchives': [
 			'Count': 1 as byte,
@@ -45,14 +46,14 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'correlated'
 			]
 		],
-		'crossroads': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'guideapi:crossroads-info_guide',
-			'tag': [
-				'akashictome:definedMod': 'crossroads'
-			]
-		],
+		// 'crossroads': [
+		// 	'Count': 1 as byte,
+		// 	'Damage': 0 as short,
+		// 	'id': 'guideapi:crossroads-info_guide',
+		// 	'tag': [
+		// 		'akashictome:definedMod': 'crossroads'
+		// 	]
+		// ],
 		'ee': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -213,7 +214,7 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'uniquecrops',
 			]
 		],
-		'uniquecrops': [
+		'uniquecrops1': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
 			'id': 'uniquecrops:generic',
@@ -347,8 +348,9 @@ player.addStartingItem(item('akashictome:tome').withNbt([
 			]
 		]
 	]
-]))
+])
 
+player.addStartingItem(akashicTome)
 player.addStartingItem(item('astralsorcery:itemjournal'))
 player.addStartingItem(item('alquimia:lexicon'))
 player.addStartingItem(item('botania:lexicon'))
@@ -358,3 +360,5 @@ player.addStartingItem(item('minecraft:leather_helmet'))
 player.addStartingItem(item('minecraft:leather_chestplate'))
 player.addStartingItem(item('minecraft:leather_leggings'))
 player.addStartingItem(item('minecraft:leather_boots'))
+
+crafting.addShapeless(akashicTome, [item('minecraft:book')])
