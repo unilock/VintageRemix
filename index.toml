@@ -2433,6 +2433,11 @@ hash = "4610c51e5687bed5396656339afa9b80bd3574728e85bac893a9721774369dfe"
 metafile = true
 
 [[files]]
+file = "mods/thermionics-world.pw.toml"
+hash = "5ea654a0d73135cacb3ad362fe30f0473ffd68ba9196ce62a307702e1f1d10c6"
+metafile = true
+
+[[files]]
 file = "mods/thermionics.pw.toml"
 hash = "2c208f4527b0ec7f34a1f7077661f579cef95613af62df70fbd99aac9e932fea"
 metafile = true
@@ -2574,7 +2579,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "f66978eac8ca20f756e27270a0de1280b0e6b1714f8f9e376a1f438e97031f81"
+hash = "02c004fcccd5edbae918e44ce5f36c442f6523b6675a103867d55a80537589f7"
 metafile = true
 
 [[files]]

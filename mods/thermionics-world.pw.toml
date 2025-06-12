@@ -1,0 +1,8 @@
+name = "Thermionics World"
+filename = "ThermionicsWorld-MC1.12.2_ver1.0.2+noBasalt.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/ThermionicsWorld-MC1.12.2_ver1.0.2+noBasalt.jar"
+hash-format = "sha256"
+hash = "7d686b934856605d8a0ff7aab4626572afe91917280ca4a03d3fce4b4ead773f"
