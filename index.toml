@@ -2584,7 +2584,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagium.pw.toml"
-hash = "131d0e570272db99060cc4d42d923f08a8ffaa88e6d65c3f15d61765e3b77049"
+hash = "fc4ce46a4d010dca375cfd28b69df48f27c1e389a5c95ef3b1715cb1e9c901be"
 metafile = true
 
 [[files]]
