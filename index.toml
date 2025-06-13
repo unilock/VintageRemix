@@ -1729,7 +1729,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "39f48287cdbbaddb543b4a6c45e28b25b7a741da85c52bd6453f299c48db9b6b"
+hash = "f4a8af87cec9eb631ad4138ab9f6beb88f398ed7cb481a3c0b1a7e95ba09322c"
 metafile = true
 
 [[files]]
