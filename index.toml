@@ -101,6 +101,10 @@ file = "config/bibliocraft.cfg"
 hash = "55bd32bf64745efec54e9ab4cd65e07289e468785e196e4e4eb25e872845c7dd"
 
 [[files]]
+file = "config/blahajasm.cfg"
+hash = "fb195125c175ece7ff9c4689f238d7bf5b929d5f58ebed8daf36ec16e98e6fab"
+
+[[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
 hash = "88171d803877075679574fc29207f7a3bbc3af3056fe505d202c95e59b6525e9"
 
