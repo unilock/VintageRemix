@@ -9,7 +9,6 @@ player.addStartingItem(item('minecraft:stone_axe'))
 player.addStartingItem(item('minecraft:stone_shovel'))
 
 //player.addStartingItem(item('fruitphone:handheld', 1))
-player.addStartingItem(item('antiqueatlas:empty_antique_atlas'))
 
 def akashicTome = item('akashictome:tome').withNbt([
 	'akashictome:data': [
@@ -355,6 +354,8 @@ player.addStartingItem(item('astralsorcery:itemjournal'))
 player.addStartingItem(item('alquimia:lexicon'))
 player.addStartingItem(item('botania:lexicon'))
 player.addStartingItem(item('levelup2:skillbook'))
+
+player.addStartingItem(item('antiqueatlas:empty_antique_atlas'))
 
 player.addStartingItem(item('minecraft:leather_helmet'))
 player.addStartingItem(item('minecraft:leather_chestplate'))
