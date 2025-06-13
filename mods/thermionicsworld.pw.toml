@@ -1,0 +1,15 @@
+name = "ThermionicsWorld"
+filename = "ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bluberry-Kat/ThermionicsWorld/releases/download/MC1.12.2_ver1.0.2/ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
+hash-format = "sha256"
+hash = "b346d033034284089e4619e6f8d8fa849c22d1244bf6b127921c3be20f1edf5d"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Bluberry-Kat/ThermionicsWorld"
+tag = "MC1.12.2_ver1.0.2"

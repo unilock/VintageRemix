@@ -1,8 +1,8 @@
 name = "Thermionics"
-filename = "Thermionics-MC1.12.2_ver1.1.4.jar"
+filename = "ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/Thermionics-MC1.12.2_ver1.1.4.jar"
+url = "https://oldci.y2k.diy/job/elytra/job/ThermionicsWorld/master/ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
 hash-format = "sha256"
-hash = "1734c6b2344f7d0fdbacd717f90d3f60ec673cdcbeb5cb5b6511ff4f8b4b7ac2"
+hash = "32c83f40daf8eddf02e8ce8f498c4bc2444078a1720a1b5b018dca3f925e9298"
