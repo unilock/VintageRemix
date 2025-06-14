@@ -341,10 +341,6 @@ file = "config/malisisdoors.cfg"
 hash = "2c51cba17e0cf141b312541638485c97cd8bef802af0d469343030d1572a1924"
 
 [[files]]
-file = "config/metallurgy_reforged/general.cfg"
-hash = "8775dbf61a63a7e77e598d5ef68ba3139c57afad901d7a214544c94d7a088f5c"
-
-[[files]]
 file = "config/minestuck.cfg"
 hash = "554082d5bfcddcf3fe14edcfcec8223d7db185165ff0d3b3f5b57eac97329d47"
 
@@ -2793,7 +2789,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "7f3d918e9214439d28a82da5e1e968143f0d44a01ccdb67f1f37c00c2b71826d"
+hash = "7f40b9792b0a9443c732f3bb851fdb858343e957f25d5f554649fb451b09386a"
 metafile = true
 
 [[files]]
