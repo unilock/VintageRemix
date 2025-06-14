@@ -742,11 +742,6 @@ hash = "81ae6f1ed3a8cb18aa0fc0aba5101c5aa80b9e1e3781645f37f33ad39060f12b"
 metafile = true
 
 [[files]]
-file = "mods/asgard-shield-reloaded.pw.toml"
-hash = "0686dcbcf062743f1a650c0c68b75b187bd6e309d9e690b8999a22159203c5ca"
-metafile = true
-
-[[files]]
 file = "mods/astikorcarts.pw.toml"
 hash = "6bc7323bd41bca9cc6d288309a231dc374f0a95a0845fbad0bdc5c339e1ab5d2"
 metafile = true
@@ -1514,11 +1509,6 @@ metafile = true
 [[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "f3d56a2af8454e4ccf94b86c17aef630c1952ba92783745fa47bd6dc20d2d162"
-metafile = true
-
-[[files]]
-file = "mods/harken-scythe-resharpened.pw.toml"
-hash = "b3b8ee4598ce569204e6bb3710010e2f844bc88dae5aba30b7bfac2835144f71"
 metafile = true
 
 [[files]]
