@@ -1803,11 +1803,6 @@ hash = "dcf4d6542ae9889581412b847485de2186b22108a0134de18291e3e353510e09"
 metafile = true
 
 [[files]]
-file = "mods/magic-bees.pw.toml"
-hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
-metafile = true
-
-[[files]]
 file = "mods/magic-cracker-factory.pw.toml"
 hash = "c1b8f02176aa11578f2ebf2a7e9920f4b27545ccb6ee0bd1a11f3077168ff33d"
 metafile = true
