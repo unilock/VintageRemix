@@ -1,0 +1,13 @@
+name = "Expanded Arcanum"
+filename = "ExpandedArcanum-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70ed5fd423ed43db8097f20218b99ee93e528f3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2609701
+project-id = 301722

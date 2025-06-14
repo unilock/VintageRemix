@@ -1,0 +1,13 @@
+name = "Thaumic Gadgets"
+filename = "Thaumic_Gadgets_1.12.2_0.1.6_tb.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca900519310509288861256bc45d9e50aba7e431"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3258616
+project-id = 301795

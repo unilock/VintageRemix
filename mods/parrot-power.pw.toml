@@ -1,0 +1,13 @@
+name = "Parrot Power"
+filename = "parrotpower-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3ffe1e8b8ee245eb090f5c14937c9a64d180a0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2818153
+project-id = 270304

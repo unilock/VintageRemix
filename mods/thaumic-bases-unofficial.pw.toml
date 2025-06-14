@@ -1,0 +1,13 @@
+name = "Thaumic Bases Unofficial"
+filename = "thaumicbases-3.6.020.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7ff108427427a220cd2cb51526072fb81612aa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6601750
+project-id = 293406

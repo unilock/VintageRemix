@@ -1,0 +1,13 @@
+name = "Ichorium Kit"
+filename = "IchoriumKit-1.12.2-v1.1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55817b9dc6cd11ba71f2fb0b39f1a6f7a1b48398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741834
+project-id = 709836

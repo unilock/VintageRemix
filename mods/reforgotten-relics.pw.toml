@@ -1,0 +1,13 @@
+name = "ReForgotten Relics"
+filename = "ForgottenRelicsKedition-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2704d684456e56622a37aed1bb6618bda80ba705"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6178495
+project-id = 999000
