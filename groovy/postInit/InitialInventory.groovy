@@ -3,13 +3,6 @@
 player.testingStartingItems = false // Enable this to have the items be given every time you join the world. Use in testing only.
 player.replaceDefaultInventory = false // Enable this to replace any existing items with GroovyScript's starting inventory items.
 
-player.addStartingItem(item('minecraft:stone_sword'))
-player.addStartingItem(item('minecraft:stone_pickaxe'))
-player.addStartingItem(item('minecraft:stone_axe'))
-player.addStartingItem(item('minecraft:stone_shovel'))
-
-//player.addStartingItem(item('fruitphone:handheld', 1))
-
 def akashicTome = item('akashictome:tome').withNbt([
 	'akashictome:data': [
 		'arcanearchives': [
@@ -349,17 +342,22 @@ def akashicTome = item('akashictome:tome').withNbt([
 	]
 ])
 
-player.addStartingItem(akashicTome)
-player.addStartingItem(item('astralsorcery:itemjournal'))
-player.addStartingItem(item('alquimia:lexicon'))
-player.addStartingItem(item('botania:lexicon'))
-player.addStartingItem(item('levelup2:skillbook'))
+player.addStartingItem(item('minecraft:stone_sword'), 0)
+player.addStartingItem(item('minecraft:stone_pickaxe'), 1)
+player.addStartingItem(item('minecraft:stone_axe'), 2)
+player.addStartingItem(item('minecraft:stone_shovel'), 3)
+player.addStartingItem(item('fruitphone:handheld', 1), 7)
+player.addStartingItem(item('antiqueatlas:empty_antique_atlas'), 8)
 
-player.addStartingItem(item('antiqueatlas:empty_antique_atlas'))
+player.addStartingItem(akashicTome, 9)
+player.addStartingItem(item('astralsorcery:itemjournal'), 10)
+player.addStartingItem(item('alquimia:lexicon'), 11)
+player.addStartingItem(item('botania:lexicon'), 12)
+player.addStartingItem(item('levelup2:skillbook'), 13)
 
-player.addStartingItem(item('minecraft:leather_helmet'))
-player.addStartingItem(item('minecraft:leather_chestplate'))
-player.addStartingItem(item('minecraft:leather_leggings'))
-player.addStartingItem(item('minecraft:leather_boots'))
+player.addStartingItem(item('minecraft:leather_helmet'), 103)
+player.addStartingItem(item('minecraft:leather_chestplate'), 102)
+player.addStartingItem(item('minecraft:leather_leggings'), 101)
+player.addStartingItem(item('minecraft:leather_boots'), 100)
 
 crafting.addShapeless(akashicTome, [item('minecraft:book')])

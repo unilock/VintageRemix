@@ -1,0 +1,8 @@
+name = "FruitPhone"
+filename = "FruitPhone-1.12.2-2.86.jar"
+side = "both"
+
+[download]
+url = "https://oldci.y2k.diy/job/elytra/job/FruitPhone/1.12.2/FruitPhone-1.12.2-2.86.jar"
+hash-format = "sha256"
+hash = "48942fd6ca7e8434abdabbae8f3bca1dc666ac842750c0b9d58d2a545360cfa3"

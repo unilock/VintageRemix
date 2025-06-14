@@ -222,7 +222,7 @@ hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
 
 [[files]]
 file = "config/fruitphone.cfg"
-hash = "1f0f39a12324c2cde938a5863b1d84af9d8dc08344751d1acd4210433fd4895b"
+hash = "48635a2be2f50112fadf75d5d8e4cec86590435a51d04b6149bc321f3ed57245"
 
 [[files]]
 file = "config/ftbbackups.cfg"
@@ -485,10 +485,6 @@ file = "config/thebetweenlands/config.cfg"
 hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
 
 [[files]]
-file = "config/theoneprobe.cfg"
-hash = "50a76ebf8c75298ff0d9e5fbcff06e8f395404213818ab4e230fb0c6f688c86b"
-
-[[files]]
 file = "config/thermionics_world.cfg"
 hash = "ee6c2e05bc56f4567d687580072b87f8ad8565f56c5b669556e73f089fa14b7e"
 
@@ -538,7 +534,7 @@ hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "46f5258a8521e5aa1d7e97842427ca6bae891613d8bfb2abbfb1b4c2389ff747"
+hash = "93818c7273ff9a0abf321b728ce87b543ebb99ef525449f95f44c2020691497a"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -584,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
 hash = "a73fee27c5fa63a55a3a0b61659b51024516664a9560e5c06aae4f44f231d567"
+metafile = true
+
+[[files]]
+file = "mods/advanced-smelter.pw.toml"
+hash = "a4feb07854eed01df466e31a4873922d86a2c037fcb3a0271fd7a0cd1560b983"
 metafile = true
 
 [[files]]
@@ -679,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/arcane-archives.pw.toml"
 hash = "0f172097972b6d1be0cf645cd02a38350bd112df1bfe3f33249f06418f729c84"
+metafile = true
+
+[[files]]
+file = "mods/arcane-arteries-kedition.pw.toml"
+hash = "a9eab4c147c10ff4e33d85dd790a6812a64fc62870780f9c5cf24cb06b7f029e"
 metafile = true
 
 [[files]]
@@ -1137,6 +1143,11 @@ hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
 metafile = true
 
 [[files]]
+file = "mods/crimson-warfare.pw.toml"
+hash = "d256a1e8404045bf30ddadeac830060ab5ad11de3a250e0095be383c36f0c2fe"
+metafile = true
+
+[[files]]
 file = "mods/crissaegrim.pw.toml"
 hash = "af0aa1cee536f36f02d5eccce65dd3f36176502ea4256797f7e3bbc41e2474d1"
 metafile = true
@@ -1277,6 +1288,11 @@ hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
 metafile = true
 
 [[files]]
+file = "mods/engineered-golems.pw.toml"
+hash = "c4cd5fadeb4210f047549736911600273a292ecf56554df50ed0af94f0f127db"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
 metafile = true
@@ -1289,6 +1305,11 @@ metafile = true
 [[files]]
 file = "mods/essentialcraft-4-unofficial.pw.toml"
 hash = "62777a67d0aca652f881c6c6e4b6025a7d13a5e0c28d29d8846d19507d855771"
+metafile = true
+
+[[files]]
+file = "mods/expanded-arcanum.pw.toml"
+hash = "02235a5779cd2357569aa65358f41afbe9ae99a1232e4be684c86dfe2c7e4fa5"
 metafile = true
 
 [[files]]
@@ -1344,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/friendship-bracelet.pw.toml"
 hash = "caaaa37dd6a609b8cee3354b096dc2798fa63f2db02e4f38c4d09d007fc268ec"
+metafile = true
+
+[[files]]
+file = "mods/fruitphone.pw.toml"
+hash = "5aced517e8a5c9433250081a35e1fb919d5af7883f3367f56cfb001b5a59c1f1"
 metafile = true
 
 [[files]]
@@ -1457,6 +1483,11 @@ hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
 metafile = true
 
 [[files]]
+file = "mods/helpfixer.pw.toml"
+hash = "784d35624aaa7743591b03750f7741b3401959e2f1d2b8fb06ce5531a8992579"
+metafile = true
+
+[[files]]
 file = "mods/heterorustichromia.pw.toml"
 hash = "4c4ff38c8f7ac9dc8a1f9d540a8abcd6df7ec595fd032425d1374f8c20c62cd2"
 metafile = true
@@ -1482,8 +1513,18 @@ hash = "03632619205ad18debbb4930d97114105d0ed019654ac63aea0b51820e74f623"
 metafile = true
 
 [[files]]
+file = "mods/ichorium-kit.pw.toml"
+hash = "1b01a189c91278a51197e48cccd3898e1c4f4a18e491f99ea1b596f3f0ba242e"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/im-crossover-ic2.pw.toml"
+hash = "3b1e82425a7a54c8ab47353710118980bf055f88c8979991a23a57d2fd7cae27"
 metafile = true
 
 [[files]]
@@ -1559,6 +1600,11 @@ metafile = true
 [[files]]
 file = "mods/infraredstone.pw.toml"
 hash = "7669fddafeb4711e2278877b1d4595b6bff4608642355ec3e521ec7c23c7991f"
+metafile = true
+
+[[files]]
+file = "mods/infusion-automate.pw.toml"
+hash = "512f460e71624c44f365c84111157dfed9fdc1562edd9d871b5f49beacc5712f"
 metafile = true
 
 [[files]]
@@ -1677,6 +1723,11 @@ hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
 metafile = true
 
 [[files]]
+file = "mods/kitchen-tools.pw.toml"
+hash = "eff256000c01a83cda438fb645a52ae19e85eb10aa03447d5f573b865ed91ebf"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "a645cb005f0e1d209861849896c45ef668721e8f0662a42e0ebd2099abf0d3c9"
 metafile = true
@@ -1732,6 +1783,11 @@ hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
 
 [[files]]
+file = "mods/lost-magic.pw.toml"
+hash = "8ada588bc194bb0c2b3e78366d9efbbb5ca30df5267ab7577406a1030f2448e7"
+metafile = true
+
+[[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "f4a8af87cec9eb631ad4138ab9f6beb88f398ed7cb481a3c0b1a7e95ba09322c"
 metafile = true
@@ -1739,6 +1795,11 @@ metafile = true
 [[files]]
 file = "mods/magic-arsenal.pw.toml"
 hash = "fbebf722c1ae9c03d508bba8094a8bf82f37a6628beb337b60e5771bfb9dab25"
+metafile = true
+
+[[files]]
+file = "mods/magic-bees-kedition.pw.toml"
+hash = "dcf4d6542ae9889581412b847485de2186b22108a0134de18291e3e353510e09"
 metafile = true
 
 [[files]]
@@ -1972,6 +2033,11 @@ hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
 metafile = true
 
 [[files]]
+file = "mods/new-crimson-revelations.pw.toml"
+hash = "78669d3d761cbeffcecf61ff5d1cb0881785aab0eb6ab924777b4b6f9e8e410f"
+metafile = true
+
+[[files]]
 file = "mods/nilcord.pw.toml"
 hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
 metafile = true
@@ -2102,6 +2168,11 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
+file = "mods/parrot-power.pw.toml"
+hash = "039d1093fb4ee9d2bf513399c0fa0184dde3d6e2d4d78a3fea69df307809530f"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
 metafile = true
@@ -2117,6 +2188,11 @@ hash = "ce98dd5f963b816d7df24f76b2ccb4d5e72e04db8b0e975dc90652e1f0f2f5e6"
 metafile = true
 
 [[files]]
+file = "mods/persistency.pw.toml"
+hash = "ad073ac7a995a53b2a0e1244b121e54a09145026531edb432bf736cd3d9c1c0c"
+metafile = true
+
+[[files]]
 file = "mods/pickle-tweaks.pw.toml"
 hash = "5e63b47275b90e991447f5dcced3aa989b4ca56ac5bb35fa334af0c6abc0a470"
 metafile = true
@@ -2124,6 +2200,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/planar-artifice-forked-continuation.pw.toml"
+hash = "738e5c0e37181023d55cb439cbe3e8c7411f1b9daf6a08f4ffbbf797deaec36e"
 metafile = true
 
 [[files]]
@@ -2277,6 +2358,16 @@ hash = "2d248655ae4d2c454641cd2124bf481baaa1a6c5c11ccc64a88141738b8e32cf"
 metafile = true
 
 [[files]]
+file = "mods/reforbidden-magic.pw.toml"
+hash = "919e67d51e1890b10c0602c48e1af592846bd8a5eb053e6ad4a5fb05cd4065c9"
+metafile = true
+
+[[files]]
+file = "mods/reforgotten-relics.pw.toml"
+hash = "950ade58af9f80a19f681d8e1b2204e2b019001b0db14cd411ee3291afbd7a9e"
+metafile = true
+
+[[files]]
 file = "mods/reid.pw.toml"
 hash = "c6728afb4ad11f4f3be013ebd43c617aa94ceb214a774a8b08c4c553ba38a5de"
 metafile = true
@@ -2314,6 +2405,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-furniture-compat.pw.toml"
 hash = "8a5ba8073ff3245dfcc88d4e314b4482b76c306b41931301d8d57db9a524ce87"
+metafile = true
+
+[[files]]
+file = "mods/rustic-thaumaturgy.pw.toml"
+hash = "d25c9c442f29c9cebdf8feac723be7b700d78ec64a1a06515d0e1b1928ee4674"
 metafile = true
 
 [[files]]
@@ -2412,6 +2508,96 @@ hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-integration.pw.toml"
+hash = "9e0a2c2052053d73fb71a161d903ecf868b598b2595cf9f8ff70b57ff051d79a"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "2a4f25616f9e5c2f1b84c833c392cc3b6f4fd4797ce30ca3cf8fbbb934c1bdbc"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraftfix.pw.toml"
+hash = "bdf1881c7f6ba7117d21139afb754c7864aeb2bf3a7952f6960f04e5a490123d"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-bases-unofficial.pw.toml"
+hash = "69f21efd345789e2bb88a68af29b41814bcb6aea0e4f051a84bb45a70d807b42"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-computers.pw.toml"
+hash = "ecb913cf712aab3070f60d821edc14f063b0c2af6d7811005f961eaf53f4d1f1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-gadgets.pw.toml"
+hash = "a30218d03b3135b18194e3af04839dd7f5567653e4e93d45e5739f4e3d3d02ea"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-isorropia-kedition.pw.toml"
+hash = "feba658f48ce9f9d7deafd0a19ac1c296935fdc44cca20b7488f32e66a90576b"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-jei.pw.toml"
+hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-mercy.pw.toml"
+hash = "2688f4e8c84f0b09c220fa122725be4180c2dadadbae094b1d8583a2007c6fb0"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-periphery.pw.toml"
+hash = "53cdf49c85206b55844da3156cd38293a9df27d01ea26f773779544125a0ea63"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-restoration.pw.toml"
+hash = "1dfabd96ebaedac09f57015e7e581845fa3b92693d3d40e9b27c8720fa5b06d9"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-speedup.pw.toml"
+hash = "43d41187b5758e6a85d7daa32840347bff58e6303ef559e07561512255e4da37"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer-unofficial.pw.toml"
+hash = "f4f3521fd4e9c3e696c37004b8c4f4a358a03b7d3d18ef4d2d99df182d1f9e34"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-wonders.pw.toml"
+hash = "3bc2edd43279be99c4ccded082abddfee9b1deb17eeab1267008c0872be5fad0"
+metafile = true
+
+[[files]]
+file = "mods/thaumicwaila.pw.toml"
+hash = "523853a3e9489ee18d7d29c60134e8c0dd44d13415993d17c0f06d14d1ba25b0"
+metafile = true
+
+[[files]]
+file = "mods/thaumtweaks.pw.toml"
+hash = "726ce9c5020a66e0002ea6cec0cc5897d3ca514deeea0a0e907467c8305c050d"
+metafile = true
+
+[[files]]
 file = "mods/the-aurorian.pw.toml"
 hash = "11e592e95e6e2133d9d1792d9badc42a967ed99d97b43f2e9639a20904e02ca1"
 metafile = true
@@ -2434,11 +2620,6 @@ metafile = true
 [[files]]
 file = "mods/the-weirding-gadget.pw.toml"
 hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
-metafile = true
-
-[[files]]
-file = "mods/theonesmeagle.pw.toml"
-hash = "4610c51e5687bed5396656339afa9b80bd3574728e85bac893a9721774369dfe"
 metafile = true
 
 [[files]]
