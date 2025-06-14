@@ -1483,11 +1483,6 @@ hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
 metafile = true
 
 [[files]]
-file = "mods/helpfixer.pw.toml"
-hash = "784d35624aaa7743591b03750f7741b3401959e2f1d2b8fb06ce5531a8992579"
-metafile = true
-
-[[files]]
 file = "mods/heterorustichromia.pw.toml"
 hash = "4c4ff38c8f7ac9dc8a1f9d540a8abcd6df7ec595fd032425d1374f8c20c62cd2"
 metafile = true
