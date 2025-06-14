@@ -355,9 +355,4 @@ player.addStartingItem(item('alquimia:lexicon'), 11)
 player.addStartingItem(item('botania:lexicon'), 12)
 player.addStartingItem(item('levelup2:skillbook'), 13)
 
-player.addStartingItem(item('minecraft:leather_helmet'), 103)
-player.addStartingItem(item('minecraft:leather_chestplate'), 102)
-player.addStartingItem(item('minecraft:leather_leggings'), 101)
-player.addStartingItem(item('minecraft:leather_boots'), 100)
-
 crafting.addShapeless(akashicTome, [item('minecraft:book')])
