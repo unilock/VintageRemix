@@ -1777,6 +1777,11 @@ hash = "a645cb005f0e1d209861849896c45ef668721e8f0662a42e0ebd2099abf0d3c9"
 metafile = true
 
 [[files]]
+file = "mods/kjlib.pw.toml"
+hash = "62ec42dee67bcdac8b6fa38fe3747b5ae676658a12c4c086b23e25a69673da34"
+metafile = true
+
+[[files]]
 file = "mods/lemonlib.pw.toml"
 hash = "717602c35019706b22199976573829f71846e8ef940a45c44ffaae394fa5826c"
 metafile = true
