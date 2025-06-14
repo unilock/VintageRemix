@@ -1,0 +1,13 @@
+name = "Just Extra Drags"
+filename = "justextradrags-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60a823639b7d02d6860f11928b2389cf7a82da6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6358274
+project-id = 1117822

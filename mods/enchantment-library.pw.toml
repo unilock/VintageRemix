@@ -1,0 +1,13 @@
+name = "Enchantment Library"
+filename = "enchlib-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "450b747ebea29d8683a0c488b7829f17521fa233"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6252566
+project-id = 1143553

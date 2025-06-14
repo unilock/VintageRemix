@@ -130,7 +130,7 @@ hash = "04268f3aee06782c2309bc4917f0bc860e47f21da6867a8d0cea38da8b19e8f3"
 
 [[files]]
 file = "config/bringmetherings.cfg"
-hash = "70db5584b54706f155f8ba6763d12c925041a6fa8fa0feb235208b763a7d7154"
+hash = "87911d1162d03c345e034f636d8addbb2e255e5db49beeb4e4928ba792923d0b"
 
 [[files]]
 file = "config/charset/module/lib.cfg"
@@ -1302,6 +1302,11 @@ hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-library.pw.toml"
+hash = "f3f0454893c9011ca0881104ecaa9770fd2c84783df1c80308e75baeb80c9434"
+metafile = true
+
+[[files]]
 file = "mods/end-expansion-the-lamented-islands.pw.toml"
 hash = "6d3cb870967ac0709046e1b581b1a1320f6d94b1e21efc567347de0c7ab7529c"
 metafile = true
@@ -1379,6 +1384,11 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace-decreased.pw.toml"
 hash = "1f7bdfe05a58ed39fc4afa52c1c490706adf45f69a6f7164a20be5f4858511d2"
+metafile = true
+
+[[files]]
+file = "mods/fermiumbooter2mixinbooter.pw.toml"
+hash = "35087155c1df11194609b518c9e67d07944905a532404f7f906f6c17ea8e2349"
 metafile = true
 
 [[files]]
@@ -1762,6 +1772,11 @@ hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
 metafile = true
 
 [[files]]
+file = "mods/just-extra-drags.pw.toml"
+hash = "2d52cb6cb081fad3e5d70618270c16e5184a0d343356580c3e9aedf89e6dff37"
+metafile = true
+
+[[files]]
 file = "mods/kitchen-tools.pw.toml"
 hash = "eff256000c01a83cda438fb645a52ae19e85eb10aa03447d5f573b865ed91ebf"
 metafile = true
@@ -2079,6 +2094,11 @@ metafile = true
 [[files]]
 file = "mods/nilcord.pw.toml"
 hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
+metafile = true
+
+[[files]]
+file = "mods/noisethreader.pw.toml"
+hash = "86a0f4723fc2db5871a73182875d12e10e5f96d0cfdf0e63a1f5e395d1fea307"
 metafile = true
 
 [[files]]
@@ -2644,6 +2664,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
 hash = "f4f3521fd4e9c3e696c37004b8c4f4a358a03b7d3d18ef4d2d99df182d1f9e34"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tweaks.pw.toml"
+hash = "91a7ffa21e092faf4e8e3ab8e81049d4eebf2e25fec235f8fae60ffa9e260071"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "FermiumBooterDepoliticization"
+filename = "`FermiumBooterDepoliticization-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14e06b466701752140f15af6c10c12597b82518a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6552152
+project-id = 1163720
