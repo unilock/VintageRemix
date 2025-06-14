@@ -425,6 +425,10 @@ file = "config/quiverbow_restrung/misc.cfg"
 hash = "0590d797627a4c44f426d1a1211329918f092c3c4d5000790c276ce90a8cec83"
 
 [[files]]
+file = "config/railway_depot_worker.cfg"
+hash = "ec91e53e175bfc304730005d0e5fc887548160adf5f607eed100888bfbf2f756"
+
+[[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
 hash = "733692d16addda618aa12ed47eb28d692041a00629f01e113aa416cd79c83f39"
 
