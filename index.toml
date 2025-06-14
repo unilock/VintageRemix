@@ -1402,6 +1402,11 @@ hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
 metafile = true
 
 [[files]]
+file = "mods/friendly-chests.pw.toml"
+hash = "60bfc06a3407c18fe036f94ea115804ff99017e3c069ac8e6e7bbaf1e7d01667"
+metafile = true
+
+[[files]]
 file = "mods/friendship-bracelet.pw.toml"
 hash = "caaaa37dd6a609b8cee3354b096dc2798fa63f2db02e4f38c4d09d007fc268ec"
 metafile = true
@@ -2833,7 +2838,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "3b23f7beaa2aa64b425a880e1d8ae0930b4133c8e083cf374f709313febf8c77"
+hash = "4bde940c711d47a77856eaae6dc2b775675d5b259c9f90211c847b5ada304e8e"
 metafile = true
 
 [[files]]

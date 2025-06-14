@@ -1,0 +1,13 @@
+name = "Friendly Chests"
+filename = "Friendly-Chests-v1.0.3-mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b928477593912f172aa0e753efd8dc64e09ef75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4476120
+project-id = 715086
