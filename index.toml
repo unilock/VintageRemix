@@ -21,6 +21,10 @@ file = "config/LiketechniksTinkerTweaks.cfg"
 hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
+file = "config/New Crimson Revelations.cfg"
+hash = "aa4830eecc6af4d414b0e747c50d05d38fdd97647061dacd064e8ef594fb04ec"
+
+[[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
 hash = "287f26e000c116ec603d2ee2e24fd5474dce5cdaff4008958267ce2f4a9e0074"
 
@@ -221,8 +225,12 @@ file = "config/forge.cfg"
 hash = "1e87e0a6c8a5f3e4d60e616c0a1127ea7ae0d1ff250188d8e665dfabf14c5c4f"
 
 [[files]]
+file = "config/forgotten_relics.cfg"
+hash = "6340bab4bb2b0ab69ad7ebf143c04e1b5322b55b0188cb14f38dce15ef9efe00"
+
+[[files]]
 file = "config/fruitphone.cfg"
-hash = "48635a2be2f50112fadf75d5d8e4cec86590435a51d04b6149bc321f3ed57245"
+hash = "07c86bcd536ade1913f162eae0cde4bb829529ea3a95a294e01c84789449cc32"
 
 [[files]]
 file = "config/ftbbackups.cfg"
@@ -475,6 +483,18 @@ hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 [[files]]
 file = "config/tconstruct.cfg"
 hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
+
+[[files]]
+file = "config/thaumcraftfix.cfg"
+hash = "26968d7901da920135d76bd09d10a13889ef3ee3f24f8bc5d4dfee0166f1fe80"
+
+[[files]]
+file = "config/thaumicaugmentation.cfg"
+hash = "363804815cdcddf3166bdfe64467a5647026c59c57b8afd7e776ddee6bdd047a"
+
+[[files]]
+file = "config/thaumicjei.cfg"
+hash = "d85acd9be20ec13ddd9deaac73ed8f2cb2712f95bf88153b7180b86c006eef28"
 
 [[files]]
 file = "config/thebappystick.cfg"
