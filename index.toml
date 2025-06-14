@@ -1503,6 +1503,11 @@ hash = "da82e873b33107d6659c96f1ffab9e7d2dda58169e40f35579efa3b4f5b307e7"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
 file = "mods/ic2-nei-crop-plugin.pw.toml"
 hash = "db0acb023abcdb316495ac764415c90e85b279248bb66b3e6a311c49fbd5dc29"
 metafile = true
@@ -1510,11 +1515,6 @@ metafile = true
 [[files]]
 file = "mods/ic2-patcher.pw.toml"
 hash = "03632619205ad18debbb4930d97114105d0ed019654ac63aea0b51820e74f623"
-metafile = true
-
-[[files]]
-file = "mods/ichorium-kit.pw.toml"
-hash = "1b01a189c91278a51197e48cccd3898e1c4f4a18e491f99ea1b596f3f0ba242e"
 metafile = true
 
 [[files]]
