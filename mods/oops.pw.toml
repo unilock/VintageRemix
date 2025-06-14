@@ -1,0 +1,8 @@
+name = "Oops"
+filename = "oops-1.12-5.15.jar"
+side = "both"
+
+[download]
+url = "https://oldci.y2k.diy/job/elytra/job/Oops/1.12/oops-1.12-5.15.jar"
+hash-format = "sha256"
+hash = "8376314de35b3ed51d4c14924776f388955b4e90ce90c517a847db377b9ebd96"

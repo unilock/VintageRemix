@@ -953,6 +953,11 @@ hash = "af71f8f04546075c36675046836b2a642b19ab54a912e5cb8f6295c2eb0b8db6"
 metafile = true
 
 [[files]]
+file = "mods/btfu.pw.toml"
+hash = "41967c500148eaa8c7fb9c70202d20527c80f4641ff5b59f3aed634c8b9cb9c1"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
 metafile = true
@@ -2085,6 +2090,11 @@ metafile = true
 [[files]]
 file = "mods/omniwand.pw.toml"
 hash = "6da53cc11cd39482bf696eba201b1a2268e3a0a7a096bebd4a57f7dd2a9557a9"
+metafile = true
+
+[[files]]
+file = "mods/oops.pw.toml"
+hash = "e7cf74a30ef568a68d4ef071a85cf0e0662fb2f59ed374cd3ca02a71a13e7dbd"
 metafile = true
 
 [[files]]

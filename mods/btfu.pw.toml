@@ -1,0 +1,13 @@
+name = "BTFU continuous rsync incremental backup"
+filename = "BTFU-1.12.2-2.5.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "84cc397f411d2f36ff6b5813efbe15aff5ca72d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2535073
+project-id = 246105
