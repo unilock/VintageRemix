@@ -1,0 +1,13 @@
+name = "Harken Scythe: Resharpened"
+filename = "HarkenScytheResharpened-1.12.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "789f833b0c6f98efc21ba99a4e45fe7bdbb97af8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6431609
+project-id = 1163747

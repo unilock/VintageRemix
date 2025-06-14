@@ -1,0 +1,13 @@
+name = "Tinkers' Arsenal Reloaded"
+filename = "tinkersarsenal-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c75934d67de0164fe72516dea22730be75fe84bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5005361
+project-id = 957660

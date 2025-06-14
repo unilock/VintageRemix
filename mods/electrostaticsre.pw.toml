@@ -1,0 +1,13 @@
+name = "ElectrostaticsRE"
+filename = "ElectrostaticsRE-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d4304e3a0b0aa256159708941923110d2bbfaec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6135826
+project-id = 1188146

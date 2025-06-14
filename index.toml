@@ -26,11 +26,15 @@ hash = "aa4830eecc6af4d414b0e747c50d05d38fdd97647061dacd064e8ef594fb04ec"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "287f26e000c116ec603d2ee2e24fd5474dce5cdaff4008958267ce2f4a9e0074"
+hash = "ca300e1f18a9f0cf0b10433278b4f75289f1212f7b6919d5e04892ec8453024e"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "3610e74e459f4450520aebe8ae690e3e884d2fe6c27ade100f9650bb8b835d48"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "b57c61830dc6762cdd036420316fad2b27c6801364e32d5318947563d9746a0b"
+hash = "f46aec99c3c6e68cb305e3c0632be16b3af91ad20e3d29c8355bfd6575836292"
 
 [[files]]
 file = "config/UntouchedNature.cfg"
@@ -462,7 +466,7 @@ hash = "a5f197a3edcd4aeb580eee5a45ffb2a8ef9bb3bd408e337fd0e72f250fe5cdcb"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "3dbf9e2c506e28958e624557a4c9ebde398344e27064df5fbc0cd3716f8b8289"
+hash = "e34ac54804189b79d39bd3b7ce69ac8240c8cda4aa659b10f356299d499da363"
 
 [[files]]
 file = "config/solcarrot.cfg"
@@ -474,7 +478,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "0434149e7da4dc53e58c11de592ba2c4586408472378cc7551b2727a284449c9"
+hash = "1dc553896dbf11ec0d01072b93f3c89fbaf143f41f19b1c4951c107dc9b58d35"
 
 [[files]]
 file = "config/tconevo.cfg"
@@ -738,6 +742,11 @@ hash = "81ae6f1ed3a8cb18aa0fc0aba5101c5aa80b9e1e3781645f37f33ad39060f12b"
 metafile = true
 
 [[files]]
+file = "mods/asgard-shield-reloaded.pw.toml"
+hash = "0686dcbcf062743f1a650c0c68b75b187bd6e309d9e690b8999a22159203c5ca"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts.pw.toml"
 hash = "6bc7323bd41bca9cc6d288309a231dc374f0a95a0845fbad0bdc5c339e1ab5d2"
 metafile = true
@@ -835,11 +844,6 @@ metafile = true
 [[files]]
 file = "mods/beebetteratbees.pw.toml"
 hash = "15ea3e792a624a6c0edc648e4d5882a8d23d572399353c3851a72c38cdfb0eca"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "8f33477af900c12942185f33cbd3664425103d5d71de6e08c42e0df1232a07fa"
 metafile = true
 
 [[files]]
@@ -1218,6 +1222,11 @@ hash = "2cc05ae6ec1817985e3eb8833e3c2059b4c408f427bad21869fbdd68d1a93d9f"
 metafile = true
 
 [[files]]
+file = "mods/decorative-crystal-clusters.pw.toml"
+hash = "a389a0e208037b906838f963254d66066346f8d8744d87f52acc5e50ca6b1991"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "2d93ed5044fafbbabeab41598ff9de1ed8234e9e43f6330a4c5c090836f9b834"
 metafile = true
@@ -1280,6 +1289,11 @@ metafile = true
 [[files]]
 file = "mods/eerie-entities.pw.toml"
 hash = "7bcb26c132296ded42eb4bdb47a7c3d65701ffebe694852987c3927ced15f6dd"
+metafile = true
+
+[[files]]
+file = "mods/electrostaticsre.pw.toml"
+hash = "dc8985ced0bfefa86c99d19573df32c2f78a81f790ebd5248dedc0fa149087f8"
 metafile = true
 
 [[files]]
@@ -1368,8 +1382,13 @@ hash = "2412145ac3688d33a36efc242c766ea7f598761ef1672c2629541b332f4a78c6"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.pw.toml"
-hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
+file = "mods/fastfurnace-decreased.pw.toml"
+hash = "1f7bdfe05a58ed39fc4afa52c1c490706adf45f69a6f7164a20be5f4858511d2"
+metafile = true
+
+[[files]]
+file = "mods/fishs-undead-rising.pw.toml"
+hash = "b6836ec2218927d0bd6e476818b2b3ad7e8644b9acb54de483f3603d20db9978"
 metafile = true
 
 [[files]]
@@ -1495,6 +1514,11 @@ metafile = true
 [[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "f3d56a2af8454e4ccf94b86c17aef630c1952ba92783745fa47bd6dc20d2d162"
+metafile = true
+
+[[files]]
+file = "mods/harken-scythe-resharpened.pw.toml"
+hash = "b3b8ee4598ce569204e6bb3710010e2f844bc88dae5aba30b7bfac2835144f71"
 metafile = true
 
 [[files]]
@@ -2213,6 +2237,11 @@ hash = "ad073ac7a995a53b2a0e1244b121e54a09145026531edb432bf736cd3d9c1c0c"
 metafile = true
 
 [[files]]
+file = "mods/pet-rocktm.pw.toml"
+hash = "33aa310a7c065d2114ba14a559e3d52a52fcee703f8a8055e50c6cc4e02c44df"
+metafile = true
+
+[[files]]
 file = "mods/pickle-tweaks.pw.toml"
 hash = "5e63b47275b90e991447f5dcced3aa989b4ca56ac5bb35fa334af0c6abc0a470"
 metafile = true
@@ -2448,6 +2477,11 @@ hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
+file = "mods/shotguns-glitter.pw.toml"
+hash = "c7625ab7fbd70a090afb4c5c67ad061cff9361b8dae8fa33809b62455d724535"
+metafile = true
+
+[[files]]
 file = "mods/shut-up-model-loader.pw.toml"
 hash = "80b1091dc9c2932d4e8ad3786c5a290a36ef7f3cf02896e42a132bbb2c8fe9c9"
 metafile = true
@@ -2490,6 +2524,16 @@ metafile = true
 [[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
+metafile = true
+
+[[files]]
+file = "mods/soul-shards-respawn-patched.pw.toml"
+hash = "a39e77453edb17733ba2c8f9791cafad9813a0b5f6972f0d8a1af18bb9246487"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remixin.pw.toml"
+hash = "2c160ad20e478704312f5128fd5ebde2d6c88cc086d758b4b48056abf7bee730"
 metafile = true
 
 [[files]]
@@ -2658,6 +2702,16 @@ hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-antique.pw.toml"
+hash = "08de5a1a8d37b30af890f65d9271ad0ae1ce7a8b0d862e2527ff7bae66c48d04"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-arsenal-reloaded.pw.toml"
+hash = "ca6d3f947fb6b44afe4e20ac17798992a2ed8456c411ce8551501710dcf1daa2"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-complement.pw.toml"
 hash = "d2ea631f738d6cd7423210f2d34c4157149d358a15b763f054f53c25cfb91284"
 metafile = true
@@ -2665,11 +2719,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct-tool-leveling-with-random.pw.toml"
 hash = "a2a56d8b19e29e76a578f792850d87a5871d150a22a10535072b88dd69b8b782"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
@@ -2810,6 +2859,11 @@ metafile = true
 [[files]]
 file = "mods/waim-what-am-i-missing.pw.toml"
 hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
+metafile = true
+
+[[files]]
+file = "mods/wall-jump-continuation.pw.toml"
+hash = "5bf742803f541f1bbf65cfdd595252c0b768df7d18c0af3ef5d42aadb3ec1baa"
 metafile = true
 
 [[files]]

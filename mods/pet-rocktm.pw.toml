@@ -1,0 +1,13 @@
+name = "Pet Rock™"
+filename = "petrock-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e24bb5b35d6b702cfeb161af28ac1322dfd76889"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6373825
+project-id = 1233325

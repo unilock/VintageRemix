@@ -1,0 +1,13 @@
+name = "Wall-Jump. Continuation!"
+filename = "walljump-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0501fc472abe9b82698dedabe22bc5c9d7750431"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6216500
+project-id = 1204052
