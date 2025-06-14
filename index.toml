@@ -2257,11 +2257,6 @@ hash = "ad073ac7a995a53b2a0e1244b121e54a09145026531edb432bf736cd3d9c1c0c"
 metafile = true
 
 [[files]]
-file = "mods/pet-rocktm.pw.toml"
-hash = "33aa310a7c065d2114ba14a559e3d52a52fcee703f8a8055e50c6cc4e02c44df"
-metafile = true
-
-[[files]]
 file = "mods/pickle-tweaks.pw.toml"
 hash = "5e63b47275b90e991447f5dcced3aa989b4ca56ac5bb35fa334af0c6abc0a470"
 metafile = true
