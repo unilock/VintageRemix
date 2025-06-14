@@ -193,6 +193,10 @@ file = "config/dynamiclights_theplayer.cfg"
 hash = "0670259b16a88d42d2148299de9bf7ca9d4326dc9934d518eca23c13310f87cd"
 
 [[files]]
+file = "config/electrostatics/electrostatics.cfg"
+hash = "d2e05ef0df7e90e201f5febc12dc2409dad80d78cc769f28679dc84b1d8c96ab"
+
+[[files]]
 file = "config/endermodpacktweaks/features.cfg"
 hash = "a1083b241ff51538ad3cdbeb98d2a92697a91777a90c76afd39d92d4958efd92"
 
@@ -501,6 +505,10 @@ file = "config/thaumicjei.cfg"
 hash = "d85acd9be20ec13ddd9deaac73ed8f2cb2712f95bf88153b7180b86c006eef28"
 
 [[files]]
+file = "config/thaumictweaks.cfg"
+hash = "0bae6e80036da867adc6f0bbdbe9ecefdc9efd978d2941ffa62ce1c39f88c8da"
+
+[[files]]
 file = "config/thebappystick.cfg"
 hash = "43d46b77c2463c7891dea8b3d271b268b954c26eee476a21167c2dd00f67eee6"
 
@@ -539,6 +547,10 @@ hash = "8dcc7038038daafab2b216ff9dc2baa57c34a2423f176ee3585fe672fa6de72a"
 [[files]]
 file = "config/waila/waila.cfg"
 hash = "11f1f1f435a394d49fda85d04fd3f5be9dcccdb676ee74a3ef75818a6ce47d28"
+
+[[files]]
+file = "config/walljump.cfg"
+hash = "3262cc7e715c4655e262b2b795f3425d08e103dfdd1002fda1dfeab94a78fd55"
 
 [[files]]
 file = "config/warsftbdynmap.cfg"
