@@ -803,8 +803,8 @@ hash = "4e9d53b865583d4d4f86bed56261260a8cdd07937d928e9ce10a457934becbf9"
 metafile = true
 
 [[files]]
-file = "mods/baubles-lts.pw.toml"
-hash = "fb922989697d3e3aa83916829c6a5d33f16e4871904a2c93883691d7bdf24f0f"
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
