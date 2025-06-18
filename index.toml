@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "9a61d056097aed21eef418ff6c56d61ca1236e23fdde4da9bfcf741dc2b98fd3"
+hash = "71af3e363047ce63d40d172448b9be9d4eca8b67c3e5a4f651cd1385838f8dbe"
 metafile = true
 
 [[files]]
@@ -1995,7 +1995,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernmarkings.pw.toml"
-hash = "4f7773ac23d67983869e5b403b47b7c52b17a9f50ab2315e04b096ccdc13c8a4"
+hash = "ab1038aab9b6148238aa80b556a96457477fad2eb1c3552df3d130418362b346"
 metafile = true
 
 [[files]]

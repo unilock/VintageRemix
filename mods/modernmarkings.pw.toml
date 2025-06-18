@@ -1,13 +1,13 @@
 name = "ModernMarkings"
-filename = "AGS ModernMarkings Mod-0.3.jar"
+filename = "AGS ModernMarkings Mod-0.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0ccdb0ed4c4c26f25d5af3a6642e3c0c30ef8898"
+hash = "e8cff07ee5892fe707ecbc94c03d6f0d863384e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6563626
+file-id = 6657304
 project-id = 1267477
