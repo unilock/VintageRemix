@@ -2959,6 +2959,11 @@ hash = "26a1a2b40bd7c218325c3f1582b04f32e21d50b01122981e67a2953682e776a1"
 metafile = true
 
 [[files]]
+file = "mods/worleys-caves.pw.toml"
+hash = "a9256cd9ead27830c3eaae401056a728ff684204c304426c22ee130c2c68ce84"
+metafile = true
+
+[[files]]
 file = "mods/wrapup.pw.toml"
 hash = "43ab58d9452c47716b9e1c3ec4753dc287821b2cdaa6cc0e047ec29cdf26877a"
 metafile = true
@@ -2981,11 +2986,6 @@ metafile = true
 [[files]]
 file = "mods/yoyos.pw.toml"
 hash = "ecdb97bcee67abdbc3abc4940180db9eda43b3bc46cb1683f2754196fcd5cde1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
 metafile = true
 
 [[files]]

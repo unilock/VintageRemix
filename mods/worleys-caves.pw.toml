@@ -1,0 +1,13 @@
+name = "Worley's Caves"
+filename = "worleycaves-1.12.2-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad8d5845683a65981b54d9737d9dcccaf8ae9b9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3038801
+project-id = 299815
