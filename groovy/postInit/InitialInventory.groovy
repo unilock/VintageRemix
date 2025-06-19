@@ -43,7 +43,16 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'ee:end_info_book',
 			'tag': [
-				'akashictome:definedMod': 'ee',
+				'akashictome:definedMod': 'ee'
+			]
+		],
+		'elementaristics': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'patchouli:guide_book',
+			'tag': [
+				'akashictome:definedMod': 'elementaristics',
+				'patchouli:book': 'elementaristics:liber_elementium'
 			]
 		],
 		'engineersdecor': [
@@ -187,7 +196,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'uniquecrops:generic',
 			'tag': [
-				'akashictome:definedMod': 'uniquecrops',
+				'akashictome:definedMod': 'uniquecrops'
 			]
 		],
 		'uniquecrops1': [
@@ -195,43 +204,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'uniquecrops:bookmultiblock',
 			'tag': [
-				'akashictome:definedMod': 'uniquecrops',
-			]
-		],
-		'untouched_nature': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'untouched_nature',
-				'patchouli:book': 'untouched_nature:plants'
-			]
-		],
-		'untouched_nature1': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'untouched_nature',
-				'patchouli:book': 'untouched_nature:lifestyle'
-			]
-		],
-		'untouched_nature2': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'untouched_nature',
-				'patchouli:book': 'untouched_nature:supernatural'
-			]
-		],
-		'untouched_nature3': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'untouched_nature',
-				'patchouli:book': 'untouched_nature:tastes'
+				'akashictome:definedMod': 'uniquecrops'
 			]
 		],
 		'witchery': [
@@ -239,7 +212,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:brews_and_infusions_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery1': [
@@ -247,7 +220,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:circle_magic_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery2': [
@@ -255,7 +228,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:collecting_fumes_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery3': [
@@ -263,7 +236,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:conjuration_and_fetishes_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery4': [
@@ -271,7 +244,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:distilling_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery5': [
@@ -279,7 +252,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:herbology_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witchery6': [
@@ -287,15 +260,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'Damage': 0 as short,
 			'id': 'witchery:symbology_book',
 			'tag': [
-				'akashictome:definedMod': 'witchery',
-			]
-		],
-		'witchery7': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'witchery:witches_brew_book',
-			'tag': [
-				'akashictome:definedMod': 'witchery',
+				'akashictome:definedMod': 'witchery'
 			]
 		],
 		'witcherycompanion': [
