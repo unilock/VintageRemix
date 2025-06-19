@@ -573,8 +573,12 @@ file = "config/wizardry.cfg"
 hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
+file = "groovy/postInit/AkashicTome.groovy"
+hash = "c3c21c1bc93a068699c75b9913a2a08870776b21590591c973d1331ec8d16e6f"
+
+[[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "2995999e264f5413715e601b6bb7a4d010bc84631eee20d327e1ce8016934b5b"
+hash = "d82eb9ee086f8d5b2aa219f20895901dfeae702dfd640abb738b85abc27182e1"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
