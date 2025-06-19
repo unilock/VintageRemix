@@ -38,6 +38,15 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'correlated'
 			]
 		],
+		'divinefavor': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'patchouli:guide_book',
+			'tag': [
+				'akashictome:definedMod': 'divinefavor',
+				'patchouli:book': 'divinefavor:immaterial_guide'
+			]
+		],
 		'ee': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,

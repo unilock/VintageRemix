@@ -570,7 +570,7 @@ hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
 file = "groovy/postInit/AkashicTome.groovy"
-hash = "c3c21c1bc93a068699c75b9913a2a08870776b21590591c973d1331ec8d16e6f"
+hash = "0044e3ed565a90ee04db599fb84511bc341775f9fee0de11edde529b692093d9"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
