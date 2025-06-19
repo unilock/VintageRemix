@@ -141,6 +141,10 @@ file = "config/charset/module/tweak.bonemeal.cfg"
 hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
 [[files]]
+file = "config/cofh/core/common.cfg"
+hash = "8b88925cc489424f2951f922ae630aa1f1e574037b859aac8e6b821088b93604"
+
+[[files]]
 file = "config/conarm.cfg"
 hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
 
@@ -274,7 +278,7 @@ hash = "465297e20f3aec3d11dc585dc5cecf38220f27954b2088a159ed09a49938ff14"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "86bd113530eebfdb1502cce22c71ae431d5d7e930f9dabdc96e2b16a26870933"
+hash = "f81a60ff7c976b6be8b9912335ccd0140ddc72ae47109dc7c8b085df184e538d"
 
 [[files]]
 file = "config/immersiveintelligence.cfg"
@@ -490,7 +494,7 @@ hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
+hash = "df54ebdd99f3640273225b3224fc60a2895b1bb2997bb9a13e4d5513833ef296"
 
 [[files]]
 file = "config/thaumcraftfix.cfg"
@@ -526,11 +530,11 @@ hash = "9bd8109dd0b80f44e49302fc58f74ad2990fedf7582a74b26f902038eddcbb39"
 
 [[files]]
 file = "config/unidict/UniDict.cfg"
-hash = "04dfb3f7193b630c6338eed392cf14bb5025322bcf21688b14f0370cd77969c6"
+hash = "f0dfa1dd8bab23d465981f9f2214c5691b61abce4d4878d7871b54625161dded"
 
 [[files]]
 file = "config/unidict/specificEntrySorting.json"
-hash = "2cf4fbe18f21f611e97d236fee90362191c13d18a95afc2293c0f919c8359bc6"
+hash = "8df634f04e813d59f4e1e6c41df35897bd24feda67cb0cfe5ce32699e7059856"
 
 [[files]]
 file = "config/unlimitedchiselworks_botany.cfg"

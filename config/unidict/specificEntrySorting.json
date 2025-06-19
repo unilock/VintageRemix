@@ -4,8 +4,8 @@
 		"modIdPriorityList" :
 		[
 			"minecraft",
-			"immersiveengineering",
 			"metallurgy",
+			"immersiveengineering",
 			"ic2"
 		]
 	}
