@@ -1,0 +1,13 @@
+name = "Strides"
+filename = "Strides-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adaf61a3b4728f013ed252d08ec098d2a92aefe9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2548160
+project-id = 291466

@@ -1,0 +1,13 @@
+name = "Voidaic Arcania"
+filename = "Voidaic Arcania v0.2.6b mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2dcfd5913058039d815a66943c9ad506f27ca5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2650526
+project-id = 293520

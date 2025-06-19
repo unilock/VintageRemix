@@ -30,11 +30,11 @@ hash = "ca300e1f18a9f0cf0b10433278b4f75289f1212f7b6919d5e04892ec8453024e"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "3610e74e459f4450520aebe8ae690e3e884d2fe6c27ade100f9650bb8b835d48"
+hash = "4c81c79e3a483a62f93ae8c8d44c58d0e54548a89232a63775db3649a165b185"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "f46aec99c3c6e68cb305e3c0632be16b3af91ad20e3d29c8355bfd6575836292"
+hash = "8af31fc0dfd1b8d659a50846b742c410cee5708d95a4aad9e24bf8a02166f102"
 
 [[files]]
 file = "config/UntouchedNature.cfg"
@@ -474,7 +474,7 @@ hash = "a5f197a3edcd4aeb580eee5a45ffb2a8ef9bb3bd408e337fd0e72f250fe5cdcb"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "e89b45f30c1fbc275136338148219022d4113e10e8929c73bbefb14f901ff0ef"
+hash = "3a65a69c003af2829bbe366259f3b7357f2a7699bcd5b6f3a4b4adccca501b86"
 
 [[files]]
 file = "config/solcarrot.cfg"
@@ -486,7 +486,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "1dc553896dbf11ec0d01072b93f3c89fbaf143f41f19b1c4951c107dc9b58d35"
+hash = "ab44e3ea3034c99fe06f5ee000666b9be4e86e54edab3cabdca2e53e0887a684"
 
 [[files]]
 file = "config/tconevo.cfg"
@@ -494,7 +494,7 @@ hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "df54ebdd99f3640273225b3224fc60a2895b1bb2997bb9a13e4d5513833ef296"
+hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
 
 [[files]]
 file = "config/thaumcraftfix.cfg"
@@ -553,10 +553,6 @@ file = "config/waila/waila.cfg"
 hash = "11f1f1f435a394d49fda85d04fd3f5be9dcccdb676ee74a3ef75818a6ce47d28"
 
 [[files]]
-file = "config/walljump.cfg"
-hash = "3262cc7e715c4655e262b2b795f3425d08e103dfdd1002fda1dfeab94a78fd55"
-
-[[files]]
 file = "config/warsftbdynmap.cfg"
 hash = "81f22e7650a7340635f16e37b7f45694fc1a6898312e3f03176ef7672c6c884e"
 
@@ -578,7 +574,7 @@ hash = "c3c21c1bc93a068699c75b9913a2a08870776b21590591c973d1331ec8d16e6f"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "d82eb9ee086f8d5b2aa219f20895901dfeae702dfd640abb738b85abc27182e1"
+hash = "da068fbbb21f98c25e28b26bf2450646b7a519c52f5ab64cb02625f1573ae397"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -942,6 +938,11 @@ hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
+file = "mods/borealisexpansion.pw.toml"
+hash = "b6ab91a3daa34c9f6b505dd46cf0a1ce1e6e595620989be6222dbfd30248211b"
+metafile = true
+
+[[files]]
 file = "mods/botania-tweaks.pw.toml"
 hash = "9a1750719d2354f80e5734847abf2ea845c53e97ffd9ee7fa6e9760dd3e53e51"
 metafile = true
@@ -984,6 +985,11 @@ metafile = true
 [[files]]
 file = "mods/calculator.pw.toml"
 hash = "b47249d95ba9a0018ce31965eaaf9dde075f60eb96e772c7c439f198eafa3f80"
+metafile = true
+
+[[files]]
+file = "mods/camera-obscura.pw.toml"
+hash = "23c223e39999203c1e25720b6cd36e3cf94e35bc6e72fc24cfdd6d77dc3cf4f0"
 metafile = true
 
 [[files]]
@@ -1262,8 +1268,18 @@ hash = "26a170f040c197f5ba9c2f12b4206b85831a9bae6c3f297e499bacf13b543586"
 metafile = true
 
 [[files]]
+file = "mods/demesne.pw.toml"
+hash = "f7d535a33f3fcd582674e0ffd366ff20ee1cddef04a323a500e125ab4202a786"
+metafile = true
+
+[[files]]
 file = "mods/depths-of-madness.pw.toml"
 hash = "5f003147d222f6e15cb24d8c3cc6b1d7dbc21ae9323bdcd9ed99609f40b5288a"
+metafile = true
+
+[[files]]
+file = "mods/divine-favor.pw.toml"
+hash = "88fb022ad0c3035d5a2a8a35e2c3c31f5876775ea7986c9a01a83078566988c3"
 metafile = true
 
 [[files]]
@@ -2357,6 +2373,11 @@ hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
 metafile = true
 
 [[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
+metafile = true
+
+[[files]]
 file = "mods/qmd.pw.toml"
 hash = "f87add3ad2c433b025f776be5160dd372a6597a7962c3c5fb726bff4bf7b1d4c"
 metafile = true
@@ -2567,6 +2588,11 @@ hash = "0d2ccb6adb0f2906d5d796efceb7ec38f73a81048c7499fc1f2e452456131e14"
 metafile = true
 
 [[files]]
+file = "mods/solar.pw.toml"
+hash = "2410cf5d305f0c189dc0ba7743196ae5dd0322f46e5b97a2cf740a046a8bde07"
+metafile = true
+
+[[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
 metafile = true
@@ -2594,6 +2620,16 @@ metafile = true
 [[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
+metafile = true
+
+[[files]]
+file = "mods/strangelib.pw.toml"
+hash = "063df251b0e8bea7eade144666393b544476dbbe648f3294bda7d13ba817ec89"
+metafile = true
+
+[[files]]
+file = "mods/strides.pw.toml"
+hash = "ae9bb8f3d8c4a49cbace67941934b1bf1ef960555c1c315f9aff53611625fd7b"
 metafile = true
 
 [[files]]
@@ -2772,11 +2808,6 @@ hash = "5fd1a4c2621984ca0589d88b9144efe9dc1889ed0bc4d7dc056d89118a256f2e"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-antique.pw.toml"
-hash = "08de5a1a8d37b30af890f65d9271ad0ae1ce7a8b0d862e2527ff7bae66c48d04"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-arsenal-reloaded.pw.toml"
 hash = "ca6d3f947fb6b44afe4e20ac17798992a2ed8456c411ce8551501710dcf1daa2"
 metafile = true
@@ -2789,6 +2820,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct-tool-leveling-with-random.pw.toml"
 hash = "a2a56d8b19e29e76a578f792850d87a5871d150a22a10535072b88dd69b8b782"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
@@ -2922,13 +2958,13 @@ hash = "6c3af4243926a375a9f5aa3a7bb65894b617e9a2f2b0f5fbeca080cc5c282243"
 metafile = true
 
 [[files]]
-file = "mods/waim-what-am-i-missing.pw.toml"
-hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
+file = "mods/voidaic-arcania.pw.toml"
+hash = "33930598ab0f52b4a6a272cd1f8933c90e9ed9689fe8b61614b6e4894e0be6fa"
 metafile = true
 
 [[files]]
-file = "mods/wall-jump-continuation.pw.toml"
-hash = "5bf742803f541f1bbf65cfdd595252c0b768df7d18c0af3ef5d42aadb3ec1baa"
+file = "mods/waim-what-am-i-missing.pw.toml"
+hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
 metafile = true
 
 [[files]]

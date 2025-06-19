@@ -1,0 +1,13 @@
+name = "Divine Favor"
+filename = "divinefavor-1.0.788.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a15983727c7d6d02144e0011a180b06d4df833ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5441277
+project-id = 322571

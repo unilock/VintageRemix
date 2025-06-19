@@ -1,0 +1,13 @@
+name = "StrangeLib"
+filename = "starngeLib-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5fc6c1516575ae7dabcdd4dbe305109c1ae9359"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3697600
+project-id = 565659

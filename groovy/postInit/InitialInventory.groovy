@@ -9,5 +9,3 @@ player.addStartingItem(item('minecraft:stone_axe'), 2)
 player.addStartingItem(item('minecraft:stone_shovel'), 3)
 player.addStartingItem(item('fruitphone:handheld', 1), 7)
 player.addStartingItem(item('antiqueatlas:empty_antique_atlas'), 8)
-
-crafting.addShapeless(akashicTome, [item('minecraft:book')])

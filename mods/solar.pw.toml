@@ -1,0 +1,13 @@
+name = "Solar"
+filename = "Solar-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "163598b79849969725ba56eb40ed1b6d598b1676"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2625276
+project-id = 289505

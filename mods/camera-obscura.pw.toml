@@ -1,0 +1,13 @@
+name = "Camera Obscura"
+filename = "CameraObscura-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85012dd8830b4fad4546984b16d81989a0b0b863"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2550129
+project-id = 291501

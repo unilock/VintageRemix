@@ -1,0 +1,13 @@
+name = "Demesne"
+filename = "demesne-1.12.2-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af5236bff59d48845888e88cc3a86370bfc6d1b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2751507
+project-id = 320299
