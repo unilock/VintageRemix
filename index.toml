@@ -574,7 +574,7 @@ hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
-hash = "21e9cbd1061f4dc533aeb24ee9633842d60b29cf526cb0ab591fd13574181beb"
+hash = "1bb5cb43efc8c76fffe30e074ed404562e8ba18eddd2b2b7354ee81fc2472453"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
@@ -1318,6 +1318,11 @@ hash = "dc8985ced0bfefa86c99d19573df32c2f78a81f790ebd5248dedc0fa149087f8"
 metafile = true
 
 [[files]]
+file = "mods/elementaristics.pw.toml"
+hash = "30d653d73b63c14b5ee2826b5f14c59ae15e4872614132bfa55e917ea80457f3"
+metafile = true
+
+[[files]]
 file = "mods/emberroot-zoo.pw.toml"
 hash = "7ef0af6e244d97e5afbe32a7bf83393cba98fb55a73eebc9791bb1cce2261dc1"
 metafile = true
@@ -1900,11 +1905,6 @@ metafile = true
 [[files]]
 file = "mods/magnetic-engineering.pw.toml"
 hash = "f3c13666b69e6d4fbd120c9324004c7a93047a044e61f0ce8a00cbfc2847bca4"
-metafile = true
-
-[[files]]
-file = "mods/mahou-tsukai.pw.toml"
-hash = "eddc5a8949d892e85c535a8c55999b10e9edb6d7846237f6835ee16af89fad74"
 metafile = true
 
 [[files]]
@@ -2875,11 +2875,6 @@ metafile = true
 [[files]]
 file = "mods/unofficial-bosses-of-mass-destruction-dungeon.pw.toml"
 hash = "9041a30f7f4e528a0844189168153d896a440f8722a8d05c68b8b02a6782de82"
-metafile = true
-
-[[files]]
-file = "mods/untouched-nature.pw.toml"
-hash = "b76c8edbb5177ae98495c2df2e3238b2ef4429cbc78bd856b4459607843c647d"
 metafile = true
 
 [[files]]

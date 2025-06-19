@@ -38,14 +38,6 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'correlated'
 			]
 		],
-		// 'crossroads': [
-		// 	'Count': 1 as byte,
-		// 	'Damage': 0 as short,
-		// 	'id': 'guideapi:crossroads-info_guide',
-		// 	'tag': [
-		// 		'akashictome:definedMod': 'crossroads'
-		// 	]
-		// ],
 		'ee': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -85,14 +77,6 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'id': 'forestry:book_forester',
 			'tag': [
 				'akashictome:definedMod': 'forestry'
-			]
-		],
-		'mahoutsukai': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'mahoutsukai:guidebook',
-			'tag': [
-				'akashictome:definedMod': 'mahoutsukai'
 			]
 		],
 		'naturesaura': [
@@ -201,7 +185,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 		'uniquecrops': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
-			'id': 'uniquecrops:bookmultiblock',
+			'id': 'uniquecrops:generic',
 			'tag': [
 				'akashictome:definedMod': 'uniquecrops',
 			]
@@ -209,7 +193,7 @@ def akashicTome = item('akashictome:tome').withNbt([
 		'uniquecrops1': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
-			'id': 'uniquecrops:generic',
+			'id': 'uniquecrops:bookmultiblock',
 			'tag': [
 				'akashictome:definedMod': 'uniquecrops',
 			]
