@@ -1119,6 +1119,16 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
 file = "mods/commons0815.pw.toml"
 hash = "c64635acaec15a279ada14e302aee999707dc7961a79d7a42bcad9b6db5c59b9"
 metafile = true
@@ -2716,6 +2726,26 @@ metafile = true
 [[files]]
 file = "mods/the-weirding-gadget.pw.toml"
 hash = "52c82c111dabd10d454688a3dfb27db05709d2287d32228ad8423420b0c337d7"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/thermal-mj.pw.toml"
+hash = "7debe3f838a15b64453e29bea003ada918422c0d8b5403cd37a8b8764ec3d4d8"
 metafile = true
 
 [[files]]
