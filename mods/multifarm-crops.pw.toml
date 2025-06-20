@@ -1,0 +1,13 @@
+name = "Multifarm Crops"
+filename = "MultifarmCrops-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6bd81647856cb5221b08e5618c95394ff32a5fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2628754
+project-id = 265462

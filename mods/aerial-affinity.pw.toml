@@ -1,0 +1,13 @@
+name = "Aerial Affinity"
+filename = "aerialaffinity-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a195d560df219707f9a8c03309210eecd401af4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2700280
+project-id = 314471

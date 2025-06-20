@@ -643,6 +643,26 @@ hash = "b41571d9a66238aa09a65296a01e66b00a378d0bb223bf039d4b2c05188c7830"
 metafile = true
 
 [[files]]
+file = "mods/aerial-affinity.pw.toml"
+hash = "2cd50f853882d14d88df414ec83d22033d1abf6c10a679f4e69a7e37112dc0d5"
+metafile = true
+
+[[files]]
+file = "mods/agricomputers.pw.toml"
+hash = "6ef13cee9dfae7f28181af22379aacec55ce86d1470c70119e5184de2dd8f552"
+metafile = true
+
+[[files]]
+file = "mods/agricraft.pw.toml"
+hash = "55f7d78f2ac1e056acab58d6fb073a51bd64af8abc507819c9be719eaf8c6235"
+metafile = true
+
+[[files]]
+file = "mods/agrilib.pw.toml"
+hash = "178f719bbb20190a0221ad6b85822b9b1993e9b003fadb7af528d1ea75576b39"
+metafile = true
+
+[[files]]
 file = "mods/ai-reducer.pw.toml"
 hash = "7e2b92b486e5a6fed10f470e6c222dea72a12edd19e75aba12f293133187574b"
 metafile = true
@@ -900,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/blockcraftery.pw.toml"
 hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
+metafile = true
+
+[[files]]
+file = "mods/blood-agricraft.pw.toml"
+hash = "a8661eac454b9f6dc54124d3110b97f1398139e1aa8c876822c6fed97e6770f6"
 metafile = true
 
 [[files]]
@@ -1403,11 +1428,6 @@ hash = "02235a5779cd2357569aa65358f41afbe9ae99a1232e4be684c86dfe2c7e4fa5"
 metafile = true
 
 [[files]]
-file = "mods/extra-utilities-fixes.pw.toml"
-hash = "3d3593a93b98c8f41c4db591ff7cc2fee01527c80f6454a4aa1fd14c3644b8b3"
-metafile = true
-
-[[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
@@ -1690,11 +1710,6 @@ metafile = true
 [[files]]
 file = "mods/industrial-wires-reengineered.pw.toml"
 hash = "66866726364abfeed4fe72c2f7e2152a8428a81159e191badda710ef16d528b8"
-metafile = true
-
-[[files]]
-file = "mods/infinitylib.pw.toml"
-hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
 metafile = true
 
 [[files]]
@@ -2065,6 +2080,11 @@ metafile = true
 [[files]]
 file = "mods/movingworld.pw.toml"
 hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
+metafile = true
+
+[[files]]
+file = "mods/multifarm-crops.pw.toml"
+hash = "a9d33982111144bd1d4e94b2070576896de08caa90d8e9d51d691ada73708639"
 metafile = true
 
 [[files]]
@@ -2983,6 +3003,11 @@ hash = "06979a8bd9acb10f4108e50fae8e15bbc35e699cc3ffb3869818cf870daf871a"
 metafile = true
 
 [[files]]
+file = "mods/wasaila.pw.toml"
+hash = "6602dc64af3386d045f8295daed9196ef8b9b2685a3647a1632711d574626318"
+metafile = true
+
+[[files]]
 file = "mods/water-strainer.pw.toml"
 hash = "80cf345964727d1d0bafd0433a173b22159b6b421b9bfb43b1524adcfd881038"
 metafile = true
@@ -3050,6 +3075,11 @@ metafile = true
 [[files]]
 file = "mods/xtones.pw.toml"
 hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
+metafile = true
+
+[[files]]
+file = "mods/xu2-patcher.pw.toml"
+hash = "ee112ef8c4beb2011490a7f8b3e210ebf372898c75b22d166f6bea546496ce0a"
 metafile = true
 
 [[files]]

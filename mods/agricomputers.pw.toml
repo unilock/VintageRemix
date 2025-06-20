@@ -1,0 +1,13 @@
+name = "AgriComputers"
+filename = "agricraft-2.12.0-1.12.0-a6_oc_patch.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85f3ae4a9a638ef77cfa9673b7de4b0585e44dd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2913834
+project-id = 369250
