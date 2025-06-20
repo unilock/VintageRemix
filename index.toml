@@ -53,8 +53,16 @@ file = "config/abyssaldepths.cfg"
 hash = "0921658a20a73051c0c940186cedfa3d55cc0db0eb58c57ed2db0c7b39d852f1"
 
 [[files]]
+file = "config/academy.cfg"
+hash = "1155b7f81d0d5119ea8544ebedcc7c1a6e8958828629ee53ee62f7f1c4a191ce"
+
+[[files]]
+file = "config/agricraft/config.cfg"
+hash = "650582296e0e363f0e5fc4ef58c89580bc2c2dad35e66210e5ef11c6d737c8e6"
+
+[[files]]
 file = "config/akashictome.cfg"
-hash = "a3d6f5067d2ce2ca940b740eba8d2d1e20346490dd954a847a9a89cc58d96cab"
+hash = "bd04a293da5eead3cb280dc5966b44605bab491cc24c25852a16c820ffee7eaf"
 
 [[files]]
 file = "config/alchemistry.cfg"
@@ -529,6 +537,34 @@ file = "config/twilightforest.cfg"
 hash = "9bd8109dd0b80f44e49302fc58f74ad2990fedf7582a74b26f902038eddcbb39"
 
 [[files]]
+file = "config/txloader/forceload/taiga/blockstates/basalt_block.json"
+hash = "d3998c2b4788f880d40e77e50b88dcee5b6deafafd325d8478b815c16f6859f9"
+
+[[files]]
+file = "config/txloader/forceload/taiga/models/block/basalt_block.json"
+hash = "a05c20eb3535e698c3e0220869ef3a3c4983d0ae055fe59afae7c022a879a777"
+
+[[files]]
+file = "config/txloader/forceload/taiga/models/item/basalt_block.json"
+hash = "e46afb6783f66570967729e485c720f0411e32c42310cbb0280bd04ac8069d8d"
+
+[[files]]
+file = "config/txloader/forceload/taiga/textures/blocks/block/basalt.png"
+hash = "8deefae29a5d3b9261f8dcbbbf860f14eb5dac1541196c02e4675412410ad542"
+
+[[files]]
+file = "config/txloader/forceload/thermionics_world/textures/blocks/basalt/smooth.png"
+hash = "16c3900f24330e456a517575f729c22ac8281e3e8f8549f3bb125cea5ce91b21"
+
+[[files]]
+file = "config/txloader/forceload/thermionics_world/textures/blocks/fluids/pain.png"
+hash = "4d9debfbf996700bddf46bb24371e00f670e9910d8c087d60448fc24bb1cda4f"
+
+[[files]]
+file = "config/txloader/forceload/thermionics_world/textures/blocks/fluids/pain.png.mcmeta"
+hash = "4aad61201ef6a13b365e77792ff5aeb21590edba05746604fdbee32129cf0caf"
+
+[[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "f0dfa1dd8bab23d465981f9f2214c5691b61abce4d4878d7871b54625161dded"
 
@@ -570,7 +606,7 @@ hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
 file = "groovy/postInit/AkashicTome.groovy"
-hash = "0044e3ed565a90ee04db599fb84511bc341775f9fee0de11edde529b692093d9"
+hash = "06c9a7e7ca9e9752daa0a0a02093049a3152757e73513e7066c727c18bf38dd1"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
@@ -655,11 +691,6 @@ metafile = true
 [[files]]
 file = "mods/agricomputers.pw.toml"
 hash = "6ef13cee9dfae7f28181af22379aacec55ce86d1470c70119e5184de2dd8f552"
-metafile = true
-
-[[files]]
-file = "mods/agricraft.pw.toml"
-hash = "55f7d78f2ac1e056acab58d6fb073a51bd64af8abc507819c9be719eaf8c6235"
 metafile = true
 
 [[files]]
@@ -2163,6 +2194,11 @@ hash = "78669d3d761cbeffcecf61ff5d1cb0881785aab0eb6ab924777b4b6f9e8e410f"
 metafile = true
 
 [[files]]
+file = "mods/new-tardis-mod.pw.toml"
+hash = "e08823d1cf016afd5c34887773842cd6c775609fe099b1273c165eda7e363a8c"
+metafile = true
+
+[[files]]
 file = "mods/nilcord.pw.toml"
 hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
 metafile = true
@@ -2910,6 +2946,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-fixes.pw.toml"
 hash = "ebb38b39615a9886d74a2dd8554b37f61b2458dd76766dc7fa59cecb52f2885f"
+metafile = true
+
+[[files]]
+file = "mods/tx-loader.pw.toml"
+hash = "0add09ec7306b12e477b58edae8eebd8431ae4d863ab9f4db1fa5dd9aaf06ce4"
 metafile = true
 
 [[files]]

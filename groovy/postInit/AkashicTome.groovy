@@ -5,6 +5,14 @@ player.replaceDefaultInventory = false // Enable this to replace any existing it
 
 def akashicTome = item('akashictome:tome').withNbt([
 	'akashictome:data': [
+		'academy': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'academy:tutorial',
+			'tag': [
+				'akashictome:definedMod': 'academy'
+			]
+		],
 		'arcanearchives': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -130,6 +138,24 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'id': 'opencomputers:tool',
 			'tag': [
 				'akashictome:definedMod': 'opencomputers'
+			]
+		],
+		'patchoulibooks': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'patchouli:guide_book',
+			'tag': [
+				'akashictome:definedMod': 'patchoulibooks',
+				'patchouli:book': 'patchoulibooks:gendustry'
+			]
+		],
+		'patchoulibooks1': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'patchouli:guide_book',
+			'tag': [
+				'akashictome:definedMod': 'patchoulibooks',
+				'patchouli:book': 'patchoulibooks:patchoulibooks'
 			]
 		],
 		'practicallogistics2': [
