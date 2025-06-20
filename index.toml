@@ -2963,6 +2963,11 @@ hash = "33930598ab0f52b4a6a272cd1f8933c90e9ed9689fe8b61614b6e4894e0be6fa"
 metafile = true
 
 [[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "57dcdf70cea23a3a1d9f4f12594dc624fb3bb3e0c0fbb2aa4a2a1f817b345816"
+metafile = true
+
+[[files]]
 file = "mods/waim-what-am-i-missing.pw.toml"
 hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
 metafile = true
