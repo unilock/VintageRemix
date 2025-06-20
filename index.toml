@@ -553,18 +553,6 @@ file = "config/txloader/forceload/taiga/textures/blocks/block/basalt.png"
 hash = "8deefae29a5d3b9261f8dcbbbf860f14eb5dac1541196c02e4675412410ad542"
 
 [[files]]
-file = "config/txloader/forceload/thermionics_world/textures/blocks/basalt/smooth.png"
-hash = "16c3900f24330e456a517575f729c22ac8281e3e8f8549f3bb125cea5ce91b21"
-
-[[files]]
-file = "config/txloader/forceload/thermionics_world/textures/blocks/fluids/pain.png"
-hash = "4d9debfbf996700bddf46bb24371e00f670e9910d8c087d60448fc24bb1cda4f"
-
-[[files]]
-file = "config/txloader/forceload/thermionics_world/textures/blocks/fluids/pain.png.mcmeta"
-hash = "4aad61201ef6a13b365e77792ff5aeb21590edba05746604fdbee32129cf0caf"
-
-[[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "f0dfa1dd8bab23d465981f9f2214c5691b61abce4d4878d7871b54625161dded"
 
