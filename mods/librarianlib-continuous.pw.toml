@@ -1,6 +1,7 @@
 name = "LibrarianLib-Continuous"
 filename = "LibrarianLib-Continuous-1.12.2-4.22-2.0-2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

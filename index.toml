@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/librarianlib-continuous.pw.toml"
-hash = "7c780eecab91bbda467b17c053d16bc457dfca6c24c3f13c30e53e4d5af2f6df"
+hash = "3e79917fec09b92c7915389f85b6e158c1582afcf06b8f2cffd68e3bb3c06960"
 metafile = true
 
 [[files]]
