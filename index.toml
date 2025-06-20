@@ -1482,11 +1482,6 @@ hash = "e37d3e3dcfed2931cf83994ceeb29eb8022ce98eb2a7e78b9fd4ce5cd086ab0f"
 metafile = true
 
 [[files]]
-file = "mods/faster-ladder-climbing.pw.toml"
-hash = "2412145ac3688d33a36efc242c766ea7f598761ef1672c2629541b332f4a78c6"
-metafile = true
-
-[[files]]
 file = "mods/fastfurnace-decreased.pw.toml"
 hash = "1f7bdfe05a58ed39fc4afa52c1c490706adf45f69a6f7164a20be5f4858511d2"
 metafile = true
