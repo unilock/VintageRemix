@@ -1,0 +1,13 @@
+name = "PamSimpleHarvest"
+filename = "pamsimpleharvest-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ae02da86003f77d07143452ee0ab9462c1c2451"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2562683
+project-id = 293176

@@ -149,6 +149,10 @@ file = "config/charset/module/tweak.bonemeal.cfg"
 hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
 [[files]]
+file = "config/charset/modules.cfg"
+hash = "2de3552b8d247f02e38c8da244bc7b19a99d4d46597cdb5d3b3b27ac9772412b"
+
+[[files]]
 file = "config/cofh/core/common.cfg"
 hash = "8b88925cc489424f2951f922ae630aa1f1e574037b859aac8e6b821088b93604"
 
@@ -2332,6 +2336,11 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
+file = "mods/pamsimpleharvest.pw.toml"
+hash = "833d753e6592ff41a8c18fc06868cf68571eb03d145c08b8a42e31460ed9e87b"
+metafile = true
+
+[[files]]
 file = "mods/parrot-power.pw.toml"
 hash = "039d1093fb4ee9d2bf513399c0fa0184dde3d6e2d4d78a3fea69df307809530f"
 metafile = true
@@ -2609,6 +2618,11 @@ metafile = true
 [[files]]
 file = "mods/sidekick.pw.toml"
 hash = "1632cc51a3dd64f0924c351fcacacc95dc6c1271c9029fff982b1b4151b3f482"
+metafile = true
+
+[[files]]
+file = "mods/simpleharvest.pw.toml"
+hash = "423f26b5bc2b20dd4c3bd160ea1bea1bf10a1cb8ed805bcac4610c12f9087d1e"
 metafile = true
 
 [[files]]
