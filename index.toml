@@ -25,6 +25,10 @@ file = "config/New Crimson Revelations.cfg"
 hash = "aa4830eecc6af4d414b0e747c50d05d38fdd97647061dacd064e8ef594fb04ec"
 
 [[files]]
+file = "config/Shadow Legacy.cfg"
+hash = "57fc218e42bcde9c518a5a0d2a2c33cf4d01ac957af2791511521d3592b11402"
+
+[[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
 hash = "ca300e1f18a9f0cf0b10433278b4f75289f1212f7b6919d5e04892ec8453024e"
 
@@ -1373,11 +1377,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
 metafile = true
 
 [[files]]
