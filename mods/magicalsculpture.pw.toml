@@ -1,0 +1,13 @@
+name = "MagicalSculpture"
+filename = "magicalsculpture-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b18dbbc31b5c74971c5f2f1a45fafd3e3c7b7c5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2714951
+project-id = 322451

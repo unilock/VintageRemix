@@ -1,0 +1,13 @@
+name = "Lord Craft"
+filename = "Lord Craft 2.10.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85928465665a25a5f38255dd1f8275815fb8d7de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3257224
+project-id = 256950

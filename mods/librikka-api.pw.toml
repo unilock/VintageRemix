@@ -1,0 +1,13 @@
+name = "Librikka API"
+filename = "librikka-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb47b4878be1642536a15b2a1a340da2f99c4412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2727706
+project-id = 324943

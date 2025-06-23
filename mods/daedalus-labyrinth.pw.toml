@@ -1,0 +1,13 @@
+name = "Daedalus' Labyrinth"
+filename = "Labyrinth-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53190e34fb861bdf637e0fe98a3ace646258baa1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2688384
+project-id = 248424

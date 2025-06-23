@@ -1,0 +1,13 @@
+name = "Chromatic Foliage"
+filename = "ChromaticFoliage-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1a88c7a7c2dba2929800930a1c65725815c7ffa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3157166
+project-id = 290117

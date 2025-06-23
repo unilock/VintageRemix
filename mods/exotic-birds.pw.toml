@@ -1,0 +1,13 @@
+name = "Exotic Birds"
+filename = "Exotic Birds 1.12.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23e2f2ade24b2e259374937d074ab062aca02bef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2987034
+project-id = 242830

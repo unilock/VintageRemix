@@ -1,0 +1,13 @@
+name = "Runes of Wizardry - Classic Dusts Pack"
+filename = "RunesofWizardry-Classics-1.12.2-0.5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75b73c8b0e8c28b3b841ccb0889485ddcee4066d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2651755
+project-id = 243956

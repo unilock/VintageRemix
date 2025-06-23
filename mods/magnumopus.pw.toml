@@ -1,0 +1,13 @@
+name = "MagnumOpus"
+filename = "MagnumOpus-1.12.2-0.0.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56503f0bb878559c1762dae4b22b95e66c791bf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2789096
+project-id = 222836

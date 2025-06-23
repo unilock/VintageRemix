@@ -1,0 +1,13 @@
+name = "Practical Space Fireworks"
+filename = "practical-space-fireworks-0.2.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3d3179531498001d12cbff3325a4ba93ae65de9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2819658
+project-id = 291502

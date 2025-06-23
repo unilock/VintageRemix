@@ -1,0 +1,13 @@
+name = "ReWIRED"
+filename = "ReWIRED-1.0.9b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f115c2cf0317e42d54175300ec1050426e71e4e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2962840
+project-id = 285550

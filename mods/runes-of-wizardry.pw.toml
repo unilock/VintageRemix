@@ -1,0 +1,13 @@
+name = "Runes of Wizardry"
+filename = "Runes-of-Wizardry-1.12.2-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7cf144cb82130df99546a9a95232bf5ffea7702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2940192
+project-id = 235927

@@ -1,0 +1,13 @@
+name = "Shadow Legacy"
+filename = "Shadow Legacy 1.1.2 Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67d75ac207d0095ce1dc1209334a13743d5d8755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2717089
+project-id = 319957
