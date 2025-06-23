@@ -598,7 +598,7 @@ hash = "8dcc7038038daafab2b216ff9dc2baa57c34a2423f176ee3585fe672fa6de72a"
 
 [[files]]
 file = "config/waila/waila.cfg"
-hash = "11f1f1f435a394d49fda85d04fd3f5be9dcccdb676ee74a3ef75818a6ce47d28"
+hash = "b7fa3ec51d00b7c4bc893b6b3ac4f891378019736fbf70f9fde307d9bb56afec"
 
 [[files]]
 file = "config/warsftbdynmap.cfg"
@@ -606,7 +606,7 @@ hash = "81f22e7650a7340635f16e37b7f45694fc1a6898312e3f03176ef7672c6c884e"
 
 [[files]]
 file = "config/wawla.cfg"
-hash = "26bfeafa642502f7a923c16da284308d32e787765c693a9c945b32d739cd158f"
+hash = "acfa7d2c4a4bf29af2539ff71279c4d4d8541bc6a9ac66fac67b91c31599dec2"
 
 [[files]]
 file = "config/wither_skeleton_tweaks.cfg"
