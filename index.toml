@@ -153,6 +153,10 @@ file = "config/charset/modules.cfg"
 hash = "2de3552b8d247f02e38c8da244bc7b19a99d4d46597cdb5d3b3b27ac9772412b"
 
 [[files]]
+file = "config/chromaticfoliage/general.cfg"
+hash = "3a7e76de6a2aa40652b4a6546a9e832f8e7bc79eec345286af928812c9bb8f67"
+
+[[files]]
 file = "config/cofh/core/common.cfg"
 hash = "8b88925cc489424f2951f922ae630aa1f1e574037b859aac8e6b821088b93604"
 
@@ -229,8 +233,16 @@ file = "config/endermodpacktweaks/tweaks.cfg"
 hash = "417a5f8d0d1cd5aa621e8c2b8188f84e1ca3b23383da53c53504ca3f9ad3cfd3"
 
 [[files]]
+file = "config/exoticbirds.cfg"
+hash = "6a24397935b75f6190d1b6d0ed44f419ed0274f751b4135a26ec8abf303c57b2"
+
+[[files]]
 file = "config/extrabotany.cfg"
 hash = "3186f35536f047459eb7ededdaf70d52057c92b167023910e015d3ad7d75bfac"
+
+[[files]]
+file = "config/factorytech.cfg"
+hash = "7a6b7a604876bc881f55e18ea859d67b957bed961854a5d27a0a15103dcb5ae1"
 
 [[files]]
 file = "config/fairylights.cfg"
@@ -471,6 +483,14 @@ hash = "7966fe42145353f56a9f0d54e938100fafc10bf682c8636dad6d8546d1699816"
 [[files]]
 file = "config/roots/general.cfg"
 hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
+
+[[files]]
+file = "config/runesofwizardry.cfg"
+hash = "9d5e5138fc3d53c5a184bc2166008f7b78eb6acd8e409b861bd99e9c8b40a41f"
+
+[[files]]
+file = "config/runesofwizardry_classics.cfg"
+hash = "b6ff3495e6f39974b5ba19a6f93aa57a0c58433c12a75aa4ce0eab60614e44d4"
 
 [[files]]
 file = "config/rustic.cfg"
@@ -1331,11 +1351,6 @@ hash = "f7d535a33f3fcd582674e0ffd366ff20ee1cddef04a323a500e125ab4202a786"
 metafile = true
 
 [[files]]
-file = "mods/dense-ores-1-12-2.pw.toml"
-hash = "d9c3c7e284f343e97f11d9c96208802bfc42f9fb7fff4c501207e5f1ea5d1fd2"
-metafile = true
-
-[[files]]
 file = "mods/depths-of-madness.pw.toml"
 hash = "5f003147d222f6e15cb24d8c3cc6b1d7dbc21ae9323bdcd9ed99609f40b5288a"
 metafile = true
@@ -2021,11 +2036,6 @@ hash = "f3c13666b69e6d4fbd120c9324004c7a93047a044e61f0ce8a00cbfc2847bca4"
 metafile = true
 
 [[files]]
-file = "mods/magnumopus.pw.toml"
-hash = "664be7f318c1b505c982c7fbefe62e7bebe1c10c5369af7967d067c69ca39fb5"
-metafile = true
-
-[[files]]
 file = "mods/malisiscore.pw.toml"
 hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
 metafile = true
@@ -2458,11 +2468,6 @@ metafile = true
 [[files]]
 file = "mods/practical-logistics-2.pw.toml"
 hash = "1f40058b5182500d29c287add5132b5004ab9d0a3f843402355fc0e9e29ec387"
-metafile = true
-
-[[files]]
-file = "mods/primalcore.pw.toml"
-hash = "8fa82ae9aa321fd41e2639fba1082745b8fb50cd7316d0a0ad75a47f4b36cb38"
 metafile = true
 
 [[files]]
