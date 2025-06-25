@@ -1536,11 +1536,6 @@ hash = "35087155c1df11194609b518c9e67d07944905a532404f7f906f6c17ea8e2349"
 metafile = true
 
 [[files]]
-file = "mods/fishs-undead-rising.pw.toml"
-hash = "b6836ec2218927d0bd6e476818b2b3ad7e8644b9acb54de483f3603d20db9978"
-metafile = true
-
-[[files]]
 file = "mods/fluidlogged-api.pw.toml"
 hash = "1617ecb1e35f263c96351461f9872f2dc38155a64a2167daa9072c9d45eeef1f"
 metafile = true
