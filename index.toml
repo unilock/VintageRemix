@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "4178f220d660d21cba7f04acb8d671fd650896d3f00f2936ca9d091c99a700df"
+hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
 
 [[files]]
@@ -1442,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-library.pw.toml"
-hash = "f3f0454893c9011ca0881104ecaa9770fd2c84783df1c80308e75baeb80c9434"
+hash = "651589aa3d9b23d8ab4469ce3a053c8ca523bc9242ca2c81b39a44ebe6e20712"
 metafile = true
 
 [[files]]
@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiculture-integrations.pw.toml"
-hash = "afc1932c65b49682c45a2bb4020ce14cbac99dbdbc6c6bff99663f5f83f84629"
+hash = "ab939fc6789b8d3388211e653aade77c00cb2cf463852869669781ef22e7b83b"
 metafile = true
 
 [[files]]
@@ -2502,7 +2502,7 @@ metafile = true
 
 [[files]]
 file = "mods/qmd.pw.toml"
-hash = "f87add3ad2c433b025f776be5160dd372a6597a7962c3c5fb726bff4bf7b1d4c"
+hash = "cfdc7564e200179168168c73ba21ac1e76adb4c73e0acb4c61ffa873a240c052"
 metafile = true
 
 [[files]]
@@ -2982,7 +2982,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct-tool-leveling-with-random.pw.toml"
-hash = "a2a56d8b19e29e76a578f792850d87a5871d150a22a10535072b88dd69b8b782"
+hash = "0bf490431e9d7184126995a5adb0747fef4c0beb4f13c116b7ee5ae797f4a39e"
 metafile = true
 
 [[files]]
@@ -3067,7 +3067,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "0abec0949ca051ee96bdbfcd40a2a4d20413166b9a4f95e891faddb52d73a22a"
+hash = "b5f39d01a85a2d61db11ea5fbe74e7e5627c40740dd4648f8bed9f240e6178f9"
 metafile = true
 
 [[files]]

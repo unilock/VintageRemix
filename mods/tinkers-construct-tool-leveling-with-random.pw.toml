@@ -1,13 +1,13 @@
 name = "Tinker's Construct Addon: Tool Leveling with Random Modifiers"
-filename = "TinkersToolLevelingWithRandomModifiers-1.12.2-1.1.2.DEV.2cf38af.jar"
+filename = "TinkersToolLevelingWithRandomModifiers-1.12.2-1.1.3.DEV.0065a55.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc983e00df19fd21f8972a087a47b412588fc726"
+hash = "bc0661f0edc021861b44cf1c0617fad3e97be117"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4564082
+file-id = 6676988
 project-id = 534293

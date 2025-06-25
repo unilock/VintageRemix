@@ -1,13 +1,13 @@
 name = "QMD"
-filename = "QMD-1.4.2-1.12.2.jar"
+filename = "QMD-1.5 beta-1.12.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e910129914dc06ccbeb9d4d129321d7dcc909e38"
+hash = "6617a8542781fe0bbb518495c6a50dddcc6d2c67"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6098453
+file-id = 6681723
 project-id = 362056
