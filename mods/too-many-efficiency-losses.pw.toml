@@ -3,6 +3,11 @@ filename = "tmel-1.12.2-1.4.0.0.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/tmel-1.12.2-1.4.0.0.jar"
-hash-format = "sha256"
-hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
+hash-format = "sha1"
+hash = "f11b7b6cfe6bc5ef81f47f195693b2ea87309e3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2742442
+project-id = 308851

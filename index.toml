@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/animania.pw.toml"
-hash = "42fab0624d1a5e80d6071815700e0d32505d81cd600c63af64e0f189c1206973"
+hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/commons0815.pw.toml"
-hash = "c64635acaec15a279ada14e302aee999707dc7961a79d7a42bcad9b6db5c59b9"
+hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
 metafile = true
 
 [[files]]
@@ -2317,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/openglasses2.pw.toml"
-hash = "b7ce586b52aa5d89560ca3ddae464db582f70381b563c68b174676639063cde0"
+hash = "be80a6f0e3109bd4a647e05f1953e42ba40ecb537e709416a88d187e1bb8f54d"
 metafile = true
 
 [[files]]
@@ -2377,7 +2377,7 @@ metafile = true
 
 [[files]]
 file = "mods/pams-brewcraft.pw.toml"
-hash = "62914e3377a7e5c76dbd979b0ef0fc6cf28fb3541c9795f9dc96cf037ea282fb"
+hash = "f4bcd2ae2ba8d45686366da82ca98da0aeda3c50f8c9d07f0f11a7969c321782"
 metafile = true
 
 [[files]]
@@ -3007,7 +3007,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-weaponry-halberd-battleaxes-daggers.pw.toml"
-hash = "e4738e314d33bb825b74d54ea9f7ac54531478b45b13cf2b4c9732a9b060161d"
+hash = "c857c50edefbb43179201ee4f0edd2b188bec969586547e984d2dcf54ae586f5"
 metafile = true
 
 [[files]]
@@ -3017,7 +3017,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-efficiency-losses.pw.toml"
-hash = "7b5881f68d494df7853aab753b1200c4fde0d15f80fdadb7a7c2da20e731a71b"
+hash = "0051c3b051dd94db2ce230cf78d0795ad4b2b17a7f4de12cf2915a79bba69369"
 metafile = true
 
 [[files]]
@@ -3242,7 +3242,7 @@ metafile = true
 
 [[files]]
 file = "mods/yarcf.pw.toml"
-hash = "bc1de0af630e42d00d50ea30e3c76c76475d720fe39b6ff69e0939af719bf8ed"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
 metafile = true
 
 [[files]]
