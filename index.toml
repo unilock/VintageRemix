@@ -345,6 +345,22 @@ file = "config/jeresources/jeresources.cfg"
 hash = "19ee55e82bf755c9de6c488a905a398f2f801eac10292dacb541ccc37b34a744"
 
 [[files]]
+file = "config/jsg/jsgConfig_3.2/dhd.cfg"
+hash = "b267c2adeb7b59b807e41ce3f505cc3aa2e2d7c311c11c400b41909aaae650d3"
+
+[[files]]
+file = "config/jsg/jsgConfig_3.2/general.cfg"
+hash = "8805410a3ae65b487d7bfcf4ea9a07f26c27763b0b87280742d0d410874db27a"
+
+[[files]]
+file = "config/jsg/jsgConfig_3.2/stargates.cfg"
+hash = "8069070096628b55b88cbe910529644afa7a79c173b38cc0dedb5fdd44c79a20"
+
+[[files]]
+file = "config/jsg/jsgConfig_3.2/worldgen.cfg"
+hash = "b180d0747f6ea9f61da5b7808bf8874206b0ee3beaa72e4c3aca1a382707cf87"
+
+[[files]]
 file = "config/lemonlib.cfg"
 hash = "794278bfbc86e035aa4d5a22886dad702765c576b22549b8881ffdd5afcdcf4d"
 
@@ -1873,6 +1889,11 @@ metafile = true
 [[files]]
 file = "mods/jetif.pw.toml"
 hash = "6f1d8a3e3de1be04f029bf1b940fd671da21471ca084fb0c425c8923e582b60c"
+metafile = true
+
+[[files]]
+file = "mods/jsg.pw.toml"
+hash = "74abe8d9831f9ec0bc1ecd2915a2d54dec19dd3c627911595d1aee585c4abcaa"
 metafile = true
 
 [[files]]

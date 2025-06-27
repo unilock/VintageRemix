@@ -1,0 +1,13 @@
+name = "Just Stargate Mod (Aunis: Resurrection)"
+filename = "jsg-1.12.2-4.11.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c22ebb8a7f20a5ae6f0745c359c3aed4e1809530"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5788667
+project-id = 537047
