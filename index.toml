@@ -1206,6 +1206,11 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/coffee-workshop.pw.toml"
+hash = "f58339228b334bb82c18afbd27a200740ba3d3300b3709b744148fe20cc7cb43"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
 metafile = true
@@ -1298,11 +1303,6 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "ffecbfb48490b9b6b713077e8e2cf89a5a3335cc5d5240ed5e260e962e3eedee"
-metafile = true
-
-[[files]]
-file = "mods/cuisine.pw.toml"
-hash = "31e42c60bbedd16186222c1974f188b33bdd3fed0620b4dc1050f9ad981076bc"
 metafile = true
 
 [[files]]
@@ -2176,6 +2176,11 @@ hash = "a9d33982111144bd1d4e94b2070576896de08caa90d8e9d51d691ada73708639"
 metafile = true
 
 [[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "809a174614ee40940e6939b2ae104f7741c9af746331785e220f31a76d082d69"
+metafile = true
+
+[[files]]
 file = "mods/mystical-gears.pw.toml"
 hash = "6881d3001690f7e7f4c4bb2b06779600fde0c82ec1202a591220c43e476a04b3"
 metafile = true
@@ -2678,6 +2683,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
+metafile = true
+
+[[files]]
+file = "mods/sakura.pw.toml"
+hash = "1228d31273f8836cfcaab73157b923d6bbaef60d0076480babc8c182384bf1a8"
 metafile = true
 
 [[files]]

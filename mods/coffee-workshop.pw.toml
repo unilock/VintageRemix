@@ -1,0 +1,13 @@
+name = "Coffee Workshop"
+filename = "coffeework-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccf29519831fb8bc34d3b6b4b31830f93ca5ba68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2777387
+project-id = 298935
