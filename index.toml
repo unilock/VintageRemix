@@ -1658,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "b93853b9bfac85ac4b0b1dc55b62d015d9957fbe2e46076b1912dedcde729cab"
+hash = "97ea4af6d073d41cc4e1ee54fd99cf36a2a9631cb6db7c4b8588d18863719d26"
 metafile = true
 
 [[files]]
