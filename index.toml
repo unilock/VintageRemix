@@ -518,7 +518,7 @@ hash = "2be1906c9514b3be3e940c01fc505f0cf887dcac0cdbbff40ae6fde9277b864d"
 
 [[files]]
 file = "config/simplyjetpacks/common.cfg"
-hash = "a5f197a3edcd4aeb580eee5a45ffb2a8ef9bb3bd408e337fd0e72f250fe5cdcb"
+hash = "620c4a90d629a06a6c3c262e6093182e947611557b0c0642cec6cacccbebecc6"
 
 [[files]]
 file = "config/sledgehammer.conf"
