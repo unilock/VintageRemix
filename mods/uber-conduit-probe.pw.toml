@@ -1,0 +1,13 @@
+name = "Uber Conduit Probe"
+filename = "uberconduitprobe-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54641c644077747124b223a2363ec4b5a91e95f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3407210
+project-id = 473325

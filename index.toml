@@ -1472,8 +1472,28 @@ hash = "af5619c7073bc7804be175d3ba0445f980e08d95cf8a053c1c089f54bf7fb5b7"
 metafile = true
 
 [[files]]
+file = "mods/ender-io-endergy.pw.toml"
+hash = "e5caa0d3aaef61ed8af1e27f310d733e4c2ef3b4bf7a23bbf03cf73450641af9"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-tweaks.pw.toml"
+hash = "e5916fc7dca127bad2b2ecc61d2de8e7092ddb47d0871c50f0e8597f0b7a4726"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.pw.toml"
+hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
+metafile = true
+
+[[files]]
 file = "mods/ender-modpack-tweaks.pw.toml"
 hash = "acf4a06fbf39c30b33a63623a9354bbed45508f765a6527e40cee83d5fd5b309"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
 
 [[files]]
@@ -2002,6 +2022,11 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
+file = "mods/loot-capacitor-tooltips.pw.toml"
+hash = "3bb5f4b036b7dbf9b1b270810a220ddffe89aca866df5d61b38d9738d3ac5b1e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
@@ -2169,6 +2194,11 @@ metafile = true
 [[files]]
 file = "mods/moonbetween.pw.toml"
 hash = "fb0942fccd2b9d7ed13562424379102cc6781ddb66f2e8bf4b0eea66e45eb89b"
+metafile = true
+
+[[files]]
+file = "mods/more-capacitor.pw.toml"
+hash = "cb375d186ef7c8a4916adcc7850333408c35a1711b8b76eb6353861e0a785e8f"
 metafile = true
 
 [[files]]
@@ -2802,6 +2832,11 @@ hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
 metafile = true
 
 [[files]]
+file = "mods/stellar-fluid-conduits.pw.toml"
+hash = "f35567291d094ce3d5b1ef8364040e55c1e05e4bad48b261a2871f84550eed97"
+metafile = true
+
+[[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
@@ -3084,6 +3119,11 @@ metafile = true
 [[files]]
 file = "mods/tx-loader.pw.toml"
 hash = "0add09ec7306b12e477b58edae8eebd8431ae4d863ab9f4db1fa5dd9aaf06ce4"
+metafile = true
+
+[[files]]
+file = "mods/uber-conduit-probe.pw.toml"
+hash = "88da0bcb4a9fde247bc4bc3e6ed30254dab092a57c340dd4776b2123310562fe"
 metafile = true
 
 [[files]]
