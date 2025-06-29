@@ -1427,18 +1427,8 @@ hash = "7bcb26c132296ded42eb4bdb47a7c3d65701ffebe694852987c3927ced15f6dd"
 metafile = true
 
 [[files]]
-file = "mods/eleccore.pw.toml"
-hash = "07b07b3471076717ee2fc837c7e53eb237766c5e6218d48a5d00f115b5ee872b"
-metafile = true
-
-[[files]]
 file = "mods/electrostaticsre.pw.toml"
 hash = "dc8985ced0bfefa86c99d19573df32c2f78a81f790ebd5248dedc0fa149087f8"
-metafile = true
-
-[[files]]
-file = "mods/elemental-dimensions.pw.toml"
-hash = "e2b7eb9757c19115cde2e54c3bfe3b5fbbcf53db5b8f28bc0b0494f0d220b226"
 metafile = true
 
 [[files]]
