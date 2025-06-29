@@ -2157,11 +2157,6 @@ hash = "c1935baf4556652d07ce9dd18720d555137d218bf2dc429f4d297e5476a6cd7b"
 metafile = true
 
 [[files]]
-file = "mods/moar-tinkers.pw.toml"
-hash = "280125566b1c5a3d64fe29ecbbdded6da48231e546143c4e568f6260051c6627"
-metafile = true
-
-[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
 metafile = true
