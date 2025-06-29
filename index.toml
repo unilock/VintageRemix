@@ -229,6 +229,10 @@ file = "config/enderio/enderioconduits.cfg"
 hash = "126da3d59b2d7bcec341c648f888e9eee4f225da56dae9bf30231c952c70eb8b"
 
 [[files]]
+file = "config/enderio/enderiomachines.cfg"
+hash = "c4d9ad3634f9d37fd673bdb790976b7db2554c86f9a554c58f900dddd01d3895"
+
+[[files]]
 file = "config/endermodpacktweaks/features.cfg"
 hash = "a1083b241ff51538ad3cdbeb98d2a92697a91777a90c76afd39d92d4958efd92"
 
