@@ -1,0 +1,13 @@
+name = "Pages"
+filename = "pages-1.12.2-2.0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4d8d91b2476a0001e983fe53a5742f1fc22580f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6419560
+project-id = 310443

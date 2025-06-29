@@ -1693,6 +1693,11 @@ hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
 metafile = true
 
 [[files]]
+file = "mods/guidebook.pw.toml"
+hash = "cbf31d2569600a13c719bc820b7d9f8ed4e15b14ef680371eadb7c61936d17f7"
+metafile = true
+
+[[files]]
 file = "mods/gumobtainium.pw.toml"
 hash = "35f42d7f7f11e661ae83da8f7c27bb50fde49fbca188ba5e7b34a83aa44c3d56"
 metafile = true
@@ -2008,6 +2013,11 @@ hash = "0fe099b9d590ad362c4d618104b695932be4d51e4345965869e31e9c4bfb8ab8"
 metafile = true
 
 [[files]]
+file = "mods/linking-tweaks.pw.toml"
+hash = "d78bc981370ebad91fac2bf1851755d2c7a4cdb1e937ff4392ef233af24d6ea2"
+metafile = true
+
+[[files]]
 file = "mods/literal-ascension.pw.toml"
 hash = "c36352dbc0af27572c49b039d9157c311fe1141ffe969eded3243a5f1ed51bd1"
 metafile = true
@@ -2045,6 +2055,11 @@ metafile = true
 [[files]]
 file = "mods/lost-magic.pw.toml"
 hash = "8ada588bc194bb0c2b3e78366d9efbbb5ca30df5267ab7577406a1030f2448e7"
+metafile = true
+
+[[files]]
+file = "mods/ltta.pw.toml"
+hash = "67160c1627a313ae921055959acd2cf9a0c252bdede80ef6706cc06589ceef49"
 metafile = true
 
 [[files]]
@@ -2203,6 +2218,11 @@ hash = "cb375d186ef7c8a4916adcc7850333408c35a1711b8b76eb6353861e0a785e8f"
 metafile = true
 
 [[files]]
+file = "mods/more-mystcraft.pw.toml"
+hash = "811f1487af719a11e955a7b0892467aae3f56efa6f08733f6601abeb8ea243bc"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays.pw.toml"
 hash = "d9dbc8ced8fcfe4c0b04e8e7c13cc65f53ce499539d495ae0dc04f0d9e870631"
 metafile = true
@@ -2228,6 +2248,26 @@ hash = "a9d33982111144bd1d4e94b2070576896de08caa90d8e9d51d691ada73708639"
 metafile = true
 
 [[files]]
+file = "mods/mystcraft-info.pw.toml"
+hash = "54f5e29eaece38195a30ec1483044d5cfa34d6fe5c90e0051822894c96724728"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft-jei-plugin.pw.toml"
+hash = "69276f509472f3a9d4e6c1f03406c37de749a46dafdb0246c8e4bd516fe35f09"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft-oc-integration.pw.toml"
+hash = "a214d8378cf8b63e8c9ba67a445e6aeec916b5fcbec9af2fddea9d929c40b7da"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft.pw.toml"
+hash = "42335fb85fa32b9dbb44a30093a845fdfa5e38e9547cefed3299e9ae8e9ace1a"
+metafile = true
+
+[[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "809a174614ee40940e6939b2ae104f7741c9af746331785e220f31a76d082d69"
 metafile = true
@@ -2250,6 +2290,11 @@ metafile = true
 [[files]]
 file = "mods/mysticalmechanics.pw.toml"
 hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
+metafile = true
+
+[[files]]
+file = "mods/mystlibrary.pw.toml"
+hash = "086d5e75ae77c2a7e987bbf2bbd51075c79ee08c4bbffedf0081e222b7cc2f67"
 metafile = true
 
 [[files]]
@@ -2425,6 +2470,11 @@ metafile = true
 [[files]]
 file = "mods/p455w0rds-library.pw.toml"
 hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
+metafile = true
+
+[[files]]
+file = "mods/pages.pw.toml"
+hash = "cd38a77822f254c2d0674525ddcc685a5e07e1020656898b646fa717e37cf2df"
 metafile = true
 
 [[files]]

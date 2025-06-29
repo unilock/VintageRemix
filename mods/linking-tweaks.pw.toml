@@ -1,0 +1,13 @@
+name = "linking-tweaks"
+filename = "linking_tweaks-1.12.2-1.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6ef076a565456ecce401ac8c8e7ad9d1bfdd4bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2600881
+project-id = 300462

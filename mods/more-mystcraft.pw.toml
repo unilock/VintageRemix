@@ -1,0 +1,13 @@
+name = "More Mystcraft"
+filename = "moremystcraft-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "724f7b9ac63bca4a73cc9a97280728d3a7dfccd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2959961
+project-id = 302888

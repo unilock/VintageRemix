@@ -1,0 +1,13 @@
+name = "Myst Library"
+filename = "mystlibrary-1.12.2-0.0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "681b05020426a9b64a1a59b96d54001f50818aa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3736681
+project-id = 344701

@@ -1,0 +1,13 @@
+name = "Mystcraft / OC Integration"
+filename = "mystcraft-oc-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6787c4524d83516cc0e4f1f61da9f6a871775f9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2979495
+project-id = 389578

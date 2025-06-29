@@ -1,0 +1,15 @@
+name = "mystcraft-jei-plugin"
+filename = "mystcraft-jei-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/brisingraerowing/mystcraft-jei-plugin/releases/download/1.0/mystcraft-jei-1.12.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "63d206709072e1fdce21fa4328bd18e784e71a167a1bdae81bf880938b6aa957"
+
+[update]
+[update.github]
+branch = "1.12.2"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "brisingraerowing/mystcraft-jei-plugin"
+tag = "1.0"
