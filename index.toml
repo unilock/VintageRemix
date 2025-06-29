@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter2mixinbooter.pw.toml"
-hash = "35087155c1df11194609b518c9e67d07944905a532404f7f906f6c17ea8e2349"
+hash = "a069b8000d1f55b57273e50df86f5cba3c5173f920cc0b804306bec4126d2b3a"
 metafile = true
 
 [[files]]
@@ -2948,7 +2948,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
-hash = "f4f3521fd4e9c3e696c37004b8c4f4a358a03b7d3d18ef4d2d99df182d1f9e34"
+hash = "508510bae3d529101408a211f7dd59a213d0dcb47adfc5b46d1d6bb97e54edd4"
 metafile = true
 
 [[files]]
