@@ -2178,16 +2178,6 @@ hash = "383d4d74a349752da06b370738d6b81e717add1607efb4adb1777fe287190ac6"
 metafile = true
 
 [[files]]
-file = "mods/modern-beta-forge-release-plus.pw.toml"
-hash = "deafa26d45aeb4357aef9273bab8b0b2aee5673b6dd6b7b1b40100bade233566"
-metafile = true
-
-[[files]]
-file = "mods/modern-beta-forge.pw.toml"
-hash = "dffec0d1e105fec5b4d3ea8036f626256c0bf0107ac505e0ce195f222a429423"
-metafile = true
-
-[[files]]
 file = "mods/modernmarkings.pw.toml"
 hash = "ab1038aab9b6148238aa80b556a96457477fad2eb1c3552df3d130418362b346"
 metafile = true
