@@ -217,6 +217,18 @@ file = "config/electrostatics/electrostatics.cfg"
 hash = "d2e05ef0df7e90e201f5febc12dc2409dad80d78cc769f28679dc84b1d8c96ab"
 
 [[files]]
+file = "config/endercore/endercore.cfg"
+hash = "67fa5d2fc5668c00f2c206bc7888d09185610120e2b44d249fb0a31b7833037e"
+
+[[files]]
+file = "config/enderio/enderio.cfg"
+hash = "c31f593e4e0c8cef9c73b8b73132cb0e54727f1ecf93bf8318f9ee4acab1ca23"
+
+[[files]]
+file = "config/enderio/enderioconduits.cfg"
+hash = "126da3d59b2d7bcec341c648f888e9eee4f225da56dae9bf30231c952c70eb8b"
+
+[[files]]
 file = "config/endermodpacktweaks/features.cfg"
 hash = "a1083b241ff51538ad3cdbeb98d2a92697a91777a90c76afd39d92d4958efd92"
 
@@ -2162,6 +2174,16 @@ hash = "383d4d74a349752da06b370738d6b81e717add1607efb4adb1777fe287190ac6"
 metafile = true
 
 [[files]]
+file = "mods/modern-beta-forge-release-plus.pw.toml"
+hash = "deafa26d45aeb4357aef9273bab8b0b2aee5673b6dd6b7b1b40100bade233566"
+metafile = true
+
+[[files]]
+file = "mods/modern-beta-forge.pw.toml"
+hash = "dffec0d1e105fec5b4d3ea8036f626256c0bf0107ac505e0ce195f222a429423"
+metafile = true
+
+[[files]]
 file = "mods/modernmarkings.pw.toml"
 hash = "ab1038aab9b6148238aa80b556a96457477fad2eb1c3552df3d130418362b346"
 metafile = true
@@ -3194,11 +3216,6 @@ metafile = true
 [[files]]
 file = "mods/waim-what-am-i-missing.pw.toml"
 hash = "83cc17e9d1336c30498eb8baa2aaccd79ba953a6ea40c1ad6b64bcca3839d808"
-metafile = true
-
-[[files]]
-file = "mods/waitingtime.pw.toml"
-hash = "ed8ae7c05afe5654e4cda37695e86cdb58275d476b88be6827e434f62b165296"
 metafile = true
 
 [[files]]

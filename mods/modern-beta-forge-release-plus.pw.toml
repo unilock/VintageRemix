@@ -1,0 +1,13 @@
+name = "Modern Beta Forge Release Plus"
+filename = "modernbetareleaseplus-1.12.2-1.3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2707b3686d6a4ba67e1818f681a717c42a32d3e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6482582
+project-id = 1173564
