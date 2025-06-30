@@ -230,7 +230,7 @@ hash = "126da3d59b2d7bcec341c648f888e9eee4f225da56dae9bf30231c952c70eb8b"
 
 [[files]]
 file = "config/enderio/enderiomachines.cfg"
-hash = "c4d9ad3634f9d37fd673bdb790976b7db2554c86f9a554c58f900dddd01d3895"
+hash = "ab0400065c119ca2137a1089a1329f91a0bbb22f44138163eb854f4ca0af1df1"
 
 [[files]]
 file = "config/endermodpacktweaks/features.cfg"
@@ -393,6 +393,10 @@ file = "config/login_shield.cfg"
 hash = "f055711de053d1059e4c7174a8cb398a4015c92ef1d04bae397bb9e1a0aaaf1d"
 
 [[files]]
+file = "config/ltta.cfg"
+hash = "d6bea2b1791d954ebf6a8d84adc04f434c3df3b11547c1b31d7d25971ba11d7d"
+
+[[files]]
 file = "config/lwjgl3ify-early.json"
 hash = "1f1fc3c3cdc780d984d78955e0c177a4e69c8ffc4ce866a462d4353112612405"
 
@@ -427,6 +431,18 @@ hash = "ec788911c6b9590a859eaef99e1417dc2457467a0896f86e15912a8b8b2530ef"
 [[files]]
 file = "config/multipart.cfg"
 hash = "84173959cd7c22380c60050d0aba54e4e33f1b524c505df9111ba623f8755684"
+
+[[files]]
+file = "config/mystcraft/core.cfg"
+hash = "ba18423814373739d54f2d37bd0e2b64312a8e47d46d6d0e27f3fb3e8ab437b9"
+
+[[files]]
+file = "config/mystcraft/instabilities.cfg"
+hash = "e3c2ba7d533fb5ab838547ed6e00f88bc2d81eaadabcbfe1c865bc205d900f21"
+
+[[files]]
+file = "config/mystcraft/symbols.cfg"
+hash = "b7bdcbb773f7203f188a00d47893c4a3878fe9d54258dd997d3858f7e175794d"
 
 [[files]]
 file = "config/mysticalworld.cfg"
