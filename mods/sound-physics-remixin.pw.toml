@@ -1,6 +1,6 @@
 name = "籁/Sound Physics Remixin"
 filename = "soundphysics-1.1.12.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

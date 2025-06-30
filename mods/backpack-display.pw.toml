@@ -1,6 +1,6 @@
 name = "Backpack Display"
 filename = "backpackdisplay-1.6.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

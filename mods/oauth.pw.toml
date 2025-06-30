@@ -1,6 +1,6 @@
 name = "OAuth"
 filename = "oauth-1.06.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

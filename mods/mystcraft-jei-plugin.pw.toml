@@ -1,6 +1,6 @@
 name = "mystcraft-jei-plugin"
 filename = "mystcraft-jei-1.12.2-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/brisingraerowing/mystcraft-jei-plugin/releases/download/1.0/mystcraft-jei-1.12.2-1.0.0.jar"
