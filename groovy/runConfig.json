@@ -1,6 +1,6 @@
 {
-  "packName": "VintageRemix",
-  "packId": "vintageremix",
+  "packName": "VintageRemixGroovy",
+  "packId": "vintageremixgroovy",
   "version": "1.0.0",
   "debug": false,
   "loaders": {
