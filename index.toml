@@ -665,6 +665,10 @@ file = "config/wizardry.cfg"
 hash = "5380ee13bf3dbd5b84534b717dfa27bddb97be393abcbffd1fed66d4dc4a437e"
 
 [[files]]
+file = "correlated/assets/sounds/music/enceladus.ogg"
+hash = "cd5f22cfa82730289f42b40ee794d8bf6e9cc7b03cf5e167ef1974e69da0a56f"
+
+[[files]]
 file = "groovy/postInit/AkashicTome.groovy"
 hash = "06c9a7e7ca9e9752daa0a0a02093049a3152757e73513e7066c727c18bf38dd1"
 
