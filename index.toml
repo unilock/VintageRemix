@@ -409,6 +409,10 @@ file = "config/minestuckuniverse.cfg"
 hash = "6c9f942146dd27eb003f0e317bb864b5cadf47cb4d392c806def0b8d57e65de2"
 
 [[files]]
+file = "config/mm_lib.cfg"
+hash = "6bfedc8ec602e63b267f8bda69cd0c9d203cc1a0239d49512f0961ca1107b380"
+
+[[files]]
 file = "config/morpheus.cfg"
 hash = "48a2ba291d7d9be464d8f7aefd08d6bc3d9bd7cd6f9a4699d3b01773dd554ba6"
 
@@ -745,13 +749,8 @@ hash = "2cd50f853882d14d88df414ec83d22033d1abf6c10a679f4e69a7e37112dc0d5"
 metafile = true
 
 [[files]]
-file = "mods/agricomputers.pw.toml"
-hash = "6ef13cee9dfae7f28181af22379aacec55ce86d1470c70119e5184de2dd8f552"
-metafile = true
-
-[[files]]
-file = "mods/agrilib.pw.toml"
-hash = "178f719bbb20190a0221ad6b85822b9b1993e9b003fadb7af528d1ea75576b39"
+file = "mods/agricraft.pw.toml"
+hash = "55f7d78f2ac1e056acab58d6fb073a51bd64af8abc507819c9be719eaf8c6235"
 metafile = true
 
 [[files]]
@@ -1837,6 +1836,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-wires-reengineered.pw.toml"
 hash = "66866726364abfeed4fe72c2f7e2152a8428a81159e191badda710ef16d528b8"
+metafile = true
+
+[[files]]
+file = "mods/infinitylib.pw.toml"
+hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
 metafile = true
 
 [[files]]
