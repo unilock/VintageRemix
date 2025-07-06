@@ -1,0 +1,13 @@
+name = "AUNIS"
+filename = "aunis-1.12.2-1.9.11-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f99869cff09a6ff634dcc8201e83a5f06bcce3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3156118
+project-id = 324500

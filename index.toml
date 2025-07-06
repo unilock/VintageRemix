@@ -361,22 +361,6 @@ file = "config/jeresources/jeresources.cfg"
 hash = "19ee55e82bf755c9de6c488a905a398f2f801eac10292dacb541ccc37b34a744"
 
 [[files]]
-file = "config/jsg/jsgConfig_3.2/dhd.cfg"
-hash = "b267c2adeb7b59b807e41ce3f505cc3aa2e2d7c311c11c400b41909aaae650d3"
-
-[[files]]
-file = "config/jsg/jsgConfig_3.2/general.cfg"
-hash = "074312ccf4bb67b5562043a61fa4942e0570cc2aaee54a6bc3b67bde141c248b"
-
-[[files]]
-file = "config/jsg/jsgConfig_3.2/stargates.cfg"
-hash = "8069070096628b55b88cbe910529644afa7a79c173b38cc0dedb5fdd44c79a20"
-
-[[files]]
-file = "config/jsg/jsgConfig_3.2/worldgen.cfg"
-hash = "b180d0747f6ea9f61da5b7808bf8874206b0ee3beaa72e4c3aca1a382707cf87"
-
-[[files]]
 file = "config/lemonlib.cfg"
 hash = "794278bfbc86e035aa4d5a22886dad702765c576b22549b8881ffdd5afcdcf4d"
 
@@ -898,8 +882,8 @@ hash = "b5845b085b68412be56643fae73e648bdf47ec1d4b4e7bae9d530d3726cef124"
 metafile = true
 
 [[files]]
-file = "mods/atum.pw.toml"
-hash = "ff652e35880dbddd1095a2c002246fc967e7f6d256778a053b6a8408d2c9fe39"
+file = "mods/aunis.pw.toml"
+hash = "32a01e8edf2d18c6c8152ea40b8836ce373218f360879bb348390ca08e049a40"
 metafile = true
 
 [[files]]
@@ -1935,11 +1919,6 @@ metafile = true
 [[files]]
 file = "mods/jetif.pw.toml"
 hash = "6f1d8a3e3de1be04f029bf1b940fd671da21471ca084fb0c425c8923e582b60c"
-metafile = true
-
-[[files]]
-file = "mods/jsg.pw.toml"
-hash = "74abe8d9831f9ec0bc1ecd2915a2d54dec19dd3c627911595d1aee585c4abcaa"
 metafile = true
 
 [[files]]
@@ -3406,3 +3385,7 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "7d24b0c83c5abbbe68ad6aea7e7e48191025492503c73de750f436f3afbffd92"
 metafile = true
+
+[[files]]
+file = "mystcraft/myst_baseline.dat"
+hash = "5c79338c3cffb5bfca088d4271ad102c38a2863edff8af5b88f763241aa25173"
