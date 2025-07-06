@@ -1375,6 +1375,11 @@ hash = "2cc05ae6ec1817985e3eb8833e3c2059b4c408f427bad21869fbdd68d1a93d9f"
 metafile = true
 
 [[files]]
+file = "mods/debark.pw.toml"
+hash = "82082f91a6c398a8a007c9cec2b21a10cb299e4d15c9ea4d59973309f8d35596"
+metafile = true
+
+[[files]]
 file = "mods/decorative-crystal-clusters.pw.toml"
 hash = "a389a0e208037b906838f963254d66066346f8d8744d87f52acc5e50ca6b1991"
 metafile = true
