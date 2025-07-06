@@ -1864,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
+hash = "d7961a9ee9eaf2ab8178f92fb7cbd9a7aeb221b79660770a44d0716d5f82ba7d"
 metafile = true
 
 [[files]]
@@ -2899,7 +2899,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remixin.pw.toml"
-hash = "600567d8201029f02af7ba441732427cc8109a3483402b2c1e8fcdc55e12b95a"
+hash = "eca12a0ae52e830018879364c64f1846330ab3e53a226ff5aa24bbad46013740"
 metafile = true
 
 [[files]]
@@ -2999,7 +2999,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-isorropia-kedition.pw.toml"
-hash = "feba658f48ce9f9d7deafd0a19ac1c296935fdc44cca20b7488f32e66a90576b"
+hash = "c842ebf4b0283cd8e6761fa5af1d250a7792326c58fd631ccd5a8e05c0a3492f"
 metafile = true
 
 [[files]]
@@ -3029,7 +3029,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
-hash = "508510bae3d529101408a211f7dd59a213d0dcb47adfc5b46d1d6bb97e54edd4"
+hash = "2506c35334ff88efb5b0674c3408828835823074479a0c6319e70b0101a2646e"
 metafile = true
 
 [[files]]
