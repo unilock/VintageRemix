@@ -477,10 +477,6 @@ file = "config/p455w0rdsLib.cfg"
 hash = "103a91484b75f99dd4cfe33785bf23dc4b8e06964c48f426946ef2584d457a2e"
 
 [[files]]
-file = "config/passableleaves.cfg"
-hash = "36e851b53fb42821c8f7bc062042ea10aa5e12bbcc297318b053eeab8abc2d71"
-
-[[files]]
 file = "config/patchoulibooks.cfg"
 hash = "fb9c9c65bb6074f18d009ee9267ddba1af8a6d67dbafabc2ccd2fe33cdfebfe0"
 
@@ -2530,11 +2526,6 @@ metafile = true
 [[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
-metafile = true
-
-[[files]]
-file = "mods/passable-leaves.pw.toml"
-hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
 metafile = true
 
 [[files]]
