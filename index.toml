@@ -361,6 +361,10 @@ file = "config/jeresources/jeresources.cfg"
 hash = "19ee55e82bf755c9de6c488a905a398f2f801eac10292dacb541ccc37b34a744"
 
 [[files]]
+file = "config/leatherworks.cfg"
+hash = "9a5c3c587c06a23f408d546db0e06419be91d7d7f55a36a9147014c9af9cd382"
+
+[[files]]
 file = "config/lemonlib.cfg"
 hash = "794278bfbc86e035aa4d5a22886dad702765c576b22549b8881ffdd5afcdcf4d"
 
@@ -463,6 +467,10 @@ hash = "e404723a39711ae5690ec7287bfa41f791560c533245a26ed2bbdb6aa9756a87"
 [[files]]
 file = "config/p455w0rdsLib.cfg"
 hash = "103a91484b75f99dd4cfe33785bf23dc4b8e06964c48f426946ef2584d457a2e"
+
+[[files]]
+file = "config/passableleaves.cfg"
+hash = "36e851b53fb42821c8f7bc062042ea10aa5e12bbcc297318b053eeab8abc2d71"
 
 [[files]]
 file = "config/patchoulibooks.cfg"
