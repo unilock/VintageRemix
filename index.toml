@@ -58,7 +58,7 @@ hash = "1155b7f81d0d5119ea8544ebedcc7c1a6e8958828629ee53ee62f7f1c4a191ce"
 
 [[files]]
 file = "config/agricraft/config.cfg"
-hash = "650582296e0e363f0e5fc4ef58c89580bc2c2dad35e66210e5ef11c6d737c8e6"
+hash = "f954c390bd2872fe422544de01426af2182b27573e051b19d0296b05c9d46f8b"
 
 [[files]]
 file = "config/akashictome.cfg"
@@ -99,6 +99,10 @@ hash = "9f2dcb4c0bafe411a72e23dfe38cf7c9b1b5543bc86d33325ff453851308b8e2"
 [[files]]
 file = "config/astralsorcery.cfg"
 hash = "ebe5e157cb4ecff689ec3c99771317b269224a853876c8922268c77f6221a38f"
+
+[[files]]
+file = "config/aunis_dimensions.json"
+hash = "ad40165ea2de26adeaccb8a3541a30fa7c74dc92166c24627100f5c893143e1d"
 
 [[files]]
 file = "config/badwithernocookiereloaded.cfg"
@@ -362,7 +366,7 @@ hash = "19ee55e82bf755c9de6c488a905a398f2f801eac10292dacb541ccc37b34a744"
 
 [[files]]
 file = "config/leatherworks.cfg"
-hash = "9a5c3c587c06a23f408d546db0e06419be91d7d7f55a36a9147014c9af9cd382"
+hash = "6e23e6eab766a1fffacc1f6c9008b5c13c901d6a59e334c65d6cb1f874908946"
 
 [[files]]
 file = "config/lemonlib.cfg"
@@ -1371,11 +1375,6 @@ metafile = true
 [[files]]
 file = "mods/dazzle.pw.toml"
 hash = "2cc05ae6ec1817985e3eb8833e3c2059b4c408f427bad21869fbdd68d1a93d9f"
-metafile = true
-
-[[files]]
-file = "mods/debark.pw.toml"
-hash = "82082f91a6c398a8a007c9cec2b21a10cb299e4d15c9ea4d59973309f8d35596"
 metafile = true
 
 [[files]]
@@ -3250,7 +3249,12 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "861f86ff8ef6e63eb1ade3d611c4f7b355f76f628bf342136d8449303bee2c50"
+hash = "d30f41c2b5653b9a2972db712cb63ade361c3ab869d59eb640a940873fba9648"
+metafile = true
+
+[[files]]
+file = "mods/vintageremixcore.pw.toml"
+hash = "21eb1e1701d9a42a90f5802b697766f91ea6119d4dd1a7a9f64f707259409816"
 metafile = true
 
 [[files]]

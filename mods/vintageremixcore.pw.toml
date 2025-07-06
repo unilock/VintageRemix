@@ -1,0 +1,8 @@
+name = "VintageRemixCore"
+filename = "vintageremixcore-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/vintageremixcore-3.0.0.jar"
+hash-format = "sha256"
+hash = "e4d2e2be4c681c27b11d3b38fd6c47a4d923041e3659354ace5023587977328b"
