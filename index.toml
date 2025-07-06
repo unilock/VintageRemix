@@ -434,7 +434,7 @@ hash = "84173959cd7c22380c60050d0aba54e4e33f1b524c505df9111ba623f8755684"
 
 [[files]]
 file = "config/mystcraft/core.cfg"
-hash = "ba18423814373739d54f2d37bd0e2b64312a8e47d46d6d0e27f3fb3e8ab437b9"
+hash = "89a3d9bcf93b133829ed295906794d6d37cbc4ec9199a53e9423d331f56384d3"
 
 [[files]]
 file = "config/mystcraft/instabilities.cfg"
@@ -1243,6 +1243,11 @@ hash = "fd2f7e5f55e3f73ba6beac545c1a9457f09707e82770e48f590e41858df924d8"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-phase-2.pw.toml"
+hash = "40649663354bfd60c0f5a57c5f0bda874b557cc8c5ca62f562febeeac527e492"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -1988,6 +1993,11 @@ hash = "62ec42dee67bcdac8b6fa38fe3747b5ae676658a12c4c086b23e25a69673da34"
 metafile = true
 
 [[files]]
+file = "mods/leather-works.pw.toml"
+hash = "53798a797f5e6ebe9497a9fd430e45b6ec84f34924c32e561571d7a8f1cf6d3d"
+metafile = true
+
+[[files]]
 file = "mods/lemonlib.pw.toml"
 hash = "717602c35019706b22199976573829f71846e8ef940a45c44ffaae394fa5826c"
 metafile = true
@@ -2250,6 +2260,11 @@ metafile = true
 [[files]]
 file = "mods/movingworld.pw.toml"
 hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
+metafile = true
+
+[[files]]
+file = "mods/multi-mine.pw.toml"
+hash = "bc5bee1dfa77341aaba73ee0bfbf44c0cd5c4483445333a2c122622d21bba0d4"
 metafile = true
 
 [[files]]
@@ -2523,6 +2538,11 @@ hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
 metafile = true
 
 [[files]]
+file = "mods/passable-leaves.pw.toml"
+hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-books.pw.toml"
 hash = "5b18582de3b580b9b10e1f49520882d59fe366a03be71ec3bf11c7f93b470cdd"
 metafile = true
@@ -2715,6 +2735,11 @@ metafile = true
 [[files]]
 file = "mods/reforgotten-relics.pw.toml"
 hash = "950ade58af9f80a19f681d8e1b2204e2b019001b0db14cd411ee3291afbd7a9e"
+metafile = true
+
+[[files]]
+file = "mods/refraction-continuation.pw.toml"
+hash = "31b6133aafee1e7d53bd2f267ef7b32c67aed52a2c7ab8ccce3c7856e326cf8b"
 metafile = true
 
 [[files]]

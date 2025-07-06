@@ -1,0 +1,13 @@
+name = "Clockwork Phase 2"
+filename = "clockworkphase2-1.12-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "689d83b5031b9c8fd96b96e92fd6b60109eb7517"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2479553
+project-id = 275361

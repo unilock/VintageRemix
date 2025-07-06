@@ -1,0 +1,13 @@
+name = "Leather Works"
+filename = "LeatherWorks-1.12-1.78.0.42.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa9123596ae2705c36ffc9b082d76f6a42a44f76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2695934
+project-id = 269714
