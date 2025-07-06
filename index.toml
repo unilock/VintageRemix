@@ -358,7 +358,7 @@ hash = "4adf3643afb04dff00f4898c6d872fdf8c7304a991ae2ac199c05abf6eb8035f"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "03d229dfba677742466cb1325e519a3a97f655c13816e4c4f7c9d008135affe3"
+hash = "c75894f5c0728caf65e78789b45e306bf5e0255999aa461ae3cc93996beff222"
 
 [[files]]
 file = "config/jeresources/jeresources.cfg"
@@ -2191,11 +2191,6 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
-metafile = true
-
-[[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "3734d70704626c28a955744664944226e5d31b397b54967a12e0013cedaf6762"
 metafile = true
 
 [[files]]
