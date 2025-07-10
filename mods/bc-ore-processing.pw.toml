@@ -1,0 +1,13 @@
+name = "BC Ore Processing"
+filename = "bc-ore-processing-7.99.24.4-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc80ee584520ffa0aa2a272a218ba4e266caba82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2882663
+project-id = 277910

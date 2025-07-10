@@ -939,6 +939,16 @@ hash = "4790dd1b78378e9d843dc3f9216b8049696acad2b5ad26d799b087867da24efe"
 metafile = true
 
 [[files]]
+file = "mods/bc-extra-pipes.pw.toml"
+hash = "3bc8d510903db95699a39057a9dedd75e82ed09fe184de5f636aa4ec8de79043"
+metafile = true
+
+[[files]]
+file = "mods/bc-ore-processing.pw.toml"
+hash = "e91fca0a034479bd363a299852cb2ecc1a61b0058c0f8341dd8aeb51186a84d4"
+metafile = true
+
+[[files]]
 file = "mods/bdlib.pw.toml"
 hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
 metafile = true

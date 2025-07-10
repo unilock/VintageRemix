@@ -1,0 +1,13 @@
+name = "BC eXtra Pipes"
+filename = "bc-extra-pipes-1.12.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91d1db5955b83c754c899d3451462b64b7463162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2554063
+project-id = 276711
