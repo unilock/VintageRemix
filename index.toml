@@ -2895,7 +2895,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark-unforged.pw.toml"
-hash = "c7a2d0108ecf79d5c06b8d7c8862388563efa8cc2d048b3d7b1793c4376328fe"
+hash = "0931b2da9afcab488a7ce46834611a53e8633fcf9a1cec0a680fe3820a7356a9"
 metafile = true
 
 [[files]]
@@ -3255,7 +3255,7 @@ metafile = true
 
 [[files]]
 file = "mods/visualclaiming.pw.toml"
-hash = "dbf0a3b51f659455380a6bb8496297eb4ba5374151bcc0fc987214dde97589e7"
+hash = "48eb0bf3225a3eac0222aea94e350201a99d33a12ed1399485d4bb0b79cb5442"
 metafile = true
 
 [[files]]
