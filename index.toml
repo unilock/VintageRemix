@@ -1439,6 +1439,11 @@ hash = "8b336d5d14de620619008089da72b399ffac0a4e0a729726d358f5ad26dea988"
 metafile = true
 
 [[files]]
+file = "mods/e4mc-retro.pw.toml"
+hash = "f54f341bd4f758cd2597c5b2b4dd389055f3d2790ab12dd2b515edf9bde22dde"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "6507e0ba601a92899955009f585f4386bbe6020f3591a549d14389bd65db964f"
 metafile = true
@@ -2396,6 +2401,11 @@ metafile = true
 [[files]]
 file = "mods/ocrocketry.pw.toml"
 hash = "487393bfea43c17ef670b5f7ac68fad84b5e64ee450e54de4d6d1431d9061cb6"
+metafile = true
+
+[[files]]
+file = "mods/offlawn-legacy.pw.toml"
+hash = "59726df9ba5752ef53caa1b7dc773c484eb2d68908941fcf0cec9234a2c2c173"
 metafile = true
 
 [[files]]
