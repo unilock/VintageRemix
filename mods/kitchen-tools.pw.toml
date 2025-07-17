@@ -1,13 +1,13 @@
 name = "Kitchen Tools"
-filename = "KitchenTools-0.4.1.jar"
+filename = "KitchenTools-0.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7e79d4dd0c9777cee3abced5be233e3f4d72b24b"
+hash = "f1696dc24a26f227c735fb7fcce5301f2c97b82a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6633575
+file-id = 6763594
 project-id = 1191926
