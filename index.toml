@@ -3039,8 +3039,8 @@ hash = "91a7ffa21e092faf4e8e3ab8e81049d4eebf2e25fec235f8fae60ffa9e260071"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-wonders.pw.toml"
-hash = "3bc2edd43279be99c4ccded082abddfee9b1deb17eeab1267008c0872be5fad0"
+file = "mods/thaumic-wonders-unofficial.pw.toml"
+hash = "025e809380647789e9d016b725bc2fb4fa92d7ed8fad8a131b7c6db9fc792d21"
 metafile = true
 
 [[files]]
