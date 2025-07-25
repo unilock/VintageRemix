@@ -313,6 +313,10 @@ file = "config/hats.cfg"
 hash = "30b539facad34bbb28856612da8513d7638f08c8e63093a3a103294fc69b4e63"
 
 [[files]]
+file = "config/hbm/hbm.cfg"
+hash = "efb1bfbafff78020483dc8845be5a816395661a87ee0787879c2f76d4af1606d"
+
+[[files]]
 file = "config/homoium.cfg"
 hash = "84cb928deb351b05a65f0c4e06cd7605dec8e9ac5e1edf0a4ec62341dbac2f44"
 
@@ -338,15 +342,19 @@ hash = "6b90f2a73b885d25c37dd7973a9b54442061fcc689a4cbc5222ee4131554be7f"
 
 [[files]]
 file = "config/jaopca/materials/brick.toml"
-hash = "ef1e95a8951cc6a9fc0ee648d756522218c54b08f3d10d880b3e2a2780360000"
+hash = "a5717697bfa4363135220e1e136c2e7d74d84eb3cc89407058b21ff349a30926"
 
 [[files]]
 file = "config/jaopca/materials/brick_nether.toml"
-hash = "d0681f55682ccb635ab9d003a863ca1678a4bca6a224bc4d8dfbeb1951717b86"
+hash = "f4577941815c6634261af3f4267aa1e6b76ad3e5cd563446b828451b58268dfe"
+
+[[files]]
+file = "config/jaopca/materials/brick_nether_glazed.toml"
+hash = "bc7f368dcaa1b10ab3eae4a76149579fa2f5dad782113a28a337525dee42498d"
 
 [[files]]
 file = "config/jaopca/materials/brick_seared.toml"
-hash = "6846992200f5405e44d2b0b8e98f50ce9ae35645eb05b75cba3c0e45232e7bc9"
+hash = "385fed75ccb6cc6e4552fa6f96c5322695ce3b5eceb4303db76607e5adcae776"
 
 [[files]]
 file = "config/jaopca/modules/block.toml"
@@ -563,10 +571,6 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 [[files]]
 file = "config/stellar_core.cfg"
 hash = "ab44e3ea3034c99fe06f5ee000666b9be4e86e54edab3cabdca2e53e0887a684"
-
-[[files]]
-file = "config/tconevo.cfg"
-hash = "42aac4b8246dbd43920572d403dc9736a22bdee5e7fac9112811e582b38f5329"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -1744,11 +1748,6 @@ hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
 metafile = true
 
 [[files]]
-file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
-hash = "32d8245ea0bee2c2a1e5e2e2cc2877e2bc0799970e407453ff6d10c148cacdab"
-metafile = true
-
-[[files]]
 file = "mods/heterorustichromia.pw.toml"
 hash = "4c4ff38c8f7ac9dc8a1f9d540a8abcd6df7ec595fd032425d1374f8c20c62cd2"
 metafile = true
@@ -2269,11 +2268,6 @@ hash = "bec5a418dde61d83bd202a2984a709f04cfbd912c6746ef22c709e6bba313199"
 metafile = true
 
 [[files]]
-file = "mods/multi-mine.pw.toml"
-hash = "bc5bee1dfa77341aaba73ee0bfbf44c0cd5c4483445333a2c122622d21bba0d4"
-metafile = true
-
-[[files]]
 file = "mods/multifarm-crops.pw.toml"
 hash = "a9d33982111144bd1d4e94b2070576896de08caa90d8e9d51d691ada73708639"
 metafile = true
@@ -2296,11 +2290,6 @@ metafile = true
 [[files]]
 file = "mods/mystcraft.pw.toml"
 hash = "42335fb85fa32b9dbb44a30093a845fdfa5e38e9547cefed3299e9ae8e9ace1a"
-metafile = true
-
-[[files]]
-file = "mods/mysterious-mountain-lib.pw.toml"
-hash = "809a174614ee40940e6939b2ae104f7741c9af746331785e220f31a76d082d69"
 metafile = true
 
 [[files]]
@@ -2675,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "760d88f51a856f16b74079de0ab19485804bbb0bb6113bbae2a09bbacd659d4f"
+hash = "3ae6fa9b8c5601f6206e5b822d61eb1d4b0736e60b963705c2e7bab007ddbd74"
 metafile = true
 
 [[files]]
@@ -2821,11 +2810,6 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
-metafile = true
-
-[[files]]
-file = "mods/sakura.pw.toml"
-hash = "1228d31273f8836cfcaab73157b923d6bbaef60d0076480babc8c182384bf1a8"
 metafile = true
 
 [[files]]
