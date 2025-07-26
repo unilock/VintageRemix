@@ -3,8 +3,8 @@ filename = "RunesofWizardry-Classics-1.12.2-0.5.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "75b73c8b0e8c28b3b841ccb0889485ddcee4066d"
+hash-format = "sha512"
+hash = "7eb2b2eed71b6322bde70ef459003b626cec3495ee4ddb173e8233a4fcd4b17bd3b6ac4cd85cf7eda09e4f0dce6c6867b3d8eabff23b265d21fd0aabe17b8dc0"
 mode = "metadata:curseforge"
 
 [update]

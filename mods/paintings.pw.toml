@@ -3,8 +3,8 @@ filename = "morepaintings-paintings-1.12.2-5.0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "56cfbddccfa9edb611fde4adf69cb2dd4fadcaa5"
+hash-format = "sha512"
+hash = "ffd249823440f8ab03ac36dea395bb6e89230796730c0fe254dadd1a1e520059a92e461a17b959244230199ce87ceaa1a4e002bd64e946e93662661f5f636eb0"
 mode = "metadata:curseforge"
 
 [update]

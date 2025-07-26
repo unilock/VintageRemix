@@ -3,8 +3,8 @@ filename = "Runes-of-Wizardry-1.12.2-0.9.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7cf144cb82130df99546a9a95232bf5ffea7702"
+hash-format = "sha512"
+hash = "437193ca1e68dc947d0cbb8b7790e13f0bf8653eae178b110cd9889e8f6cf827aebf83e7be3fdecfd5dffdb05d0096b26ace9ce5e817d956c93700b0ec148d48"
 mode = "metadata:curseforge"
 
 [update]

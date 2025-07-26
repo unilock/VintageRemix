@@ -3,8 +3,8 @@ filename = "LeatherWorks-1.12-1.78.0.42.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aa9123596ae2705c36ffc9b082d76f6a42a44f76"
+hash-format = "sha512"
+hash = "dc8da0049b6ff813139a21e35a2a9faeb4804d5d3891b5c2270cef19f4f338a3a24458e90cf7190c8760a74947facd79aea62041cecc4c108d790d075cb3b53b"
 mode = "metadata:curseforge"
 
 [update]

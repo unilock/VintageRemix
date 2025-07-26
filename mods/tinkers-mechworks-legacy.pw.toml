@@ -3,8 +3,8 @@ filename = "TMechworks-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f964aad09e0b06b0e44c2c9d7dc549f0fdc1037a"
+hash-format = "sha512"
+hash = "b9bbfce761f7cde1cb24ad65f8abf00886911bd899bc58e97a22027a3aba9e3a65d8204810e8a5188893021e0e7d676f121a459880556a6846b197298e77de8b"
 mode = "metadata:curseforge"
 
 [update]

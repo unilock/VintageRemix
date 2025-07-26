@@ -3,8 +3,8 @@ filename = "Pam's HarvestCraft 1.12.2zg.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a064b434253305424755943dd66f389855ade953"
+hash-format = "sha512"
+hash = "6f1d9c2bc96f4fea68d51afbb765be61167b465114b485087a05e2af0b964cc2c3af7f705699a32eadc5e1ed198a914517d7be28813577d72a5e893cd37de9e8"
 mode = "metadata:curseforge"
 
 [update]

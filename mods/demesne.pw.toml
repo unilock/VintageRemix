@@ -3,8 +3,8 @@ filename = "demesne-1.12.2-1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af5236bff59d48845888e88cc3a86370bfc6d1b4"
+hash-format = "sha512"
+hash = "2cc3b99c4e3f1e66779c1026b600bdc13e9eb110f79810ed90989257412526388a196a0f0983c316683121e55fd7121d6d53415669c08b74c4bb32ace468f8a5"
 mode = "metadata:curseforge"
 
 [update]

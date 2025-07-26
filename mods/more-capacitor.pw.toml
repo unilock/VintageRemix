@@ -3,8 +3,8 @@ filename = "MoreCapacitor-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6a47f9149c5ca1204eb520259c9e5787c69d7e8b"
+hash-format = "sha512"
+hash = "07ea3dc59f6ab44965ce19e191a5f00a899b9779fd1c8a88db43f829a983167feb45f0d8f0bc8064d67e438a6d12685febfdbdd81747f2a9a5f895d01065c672"
 mode = "metadata:curseforge"
 
 [update]

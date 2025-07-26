@@ -3,8 +3,8 @@ filename = "IC2-Patcher-2.0.10-Beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9a653c5c579f22bc938d04959c16e11b5045cf01"
+hash-format = "sha512"
+hash = "1023283d4a172ef86fbb6f36c2cadefffe75a39c867e3c95a2ec4403c35f0cbacb5257637b1d9f53729e345ee3d0da7a2ea67393186cbf0642a17a31b4633f84"
 mode = "metadata:curseforge"
 
 [update]

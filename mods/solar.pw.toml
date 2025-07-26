@@ -3,8 +3,8 @@ filename = "Solar-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "163598b79849969725ba56eb40ed1b6d598b1676"
+hash-format = "sha512"
+hash = "e082fdea1253389e7db0d5d76c7026fc1c6e9a366d42a65b38fd26a2c5ed795cee0a745f1a1ba301fb8e45816a22640d391598d6368044d7c62488457b973a40"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "PTRLib-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c33ddf5660c2a1c39537bd6552b2cdd73b654e18"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

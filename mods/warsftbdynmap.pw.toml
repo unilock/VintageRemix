@@ -3,8 +3,8 @@ filename = "WarsFtbDynmap-1.0.4.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "60ab951a801edad4651d07488cc2d71f7e93098c"
+hash-format = "sha512"
+hash = "7eaed2d87118447d40a71408f12691fb3a756bf147176e7c8608a9fc5740d984ca0636d93325d7d6ee418e8d93f8da6ec2bfdefee9c8975389035c4c4eb34155"
 mode = "metadata:curseforge"
 
 [update]

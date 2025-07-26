@@ -3,8 +3,8 @@ filename = "wings-1.1.6-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "62283c00b42cea20b49927fd886866b7aee7382e"
+hash-format = "sha512"
+hash = "cb7d30fcff12a0c6cb88b15e608fc92e4418b0c925d16bf5551022be5bfa3c42917f9230e6e07513412b5065b718fa3f788c2b7d266dece6a732ee69829177b9"
 mode = "metadata:curseforge"
 
 [update]

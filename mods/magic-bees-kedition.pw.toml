@@ -3,8 +3,8 @@ filename = "MagicBees-1.12.2-kedition-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e8a66ce3f59d3f3b427e5bdd9f48cb9eab34983"
+hash-format = "sha512"
+hash = "315bbb81eec0b2aca5331a7bf5bc891e40e3432eb7a68d798563fa12cddc60cc48b07c0a9099ad3bf90d450a21901b6b99ac7d31503c64600d1e90a045c1ca2c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "TheBetweenlands-3.9.6-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ebc8805b1152fdb1220f4fe8b38741d4723cfba"
+hash-format = "sha512"
+hash = "a53f5f3d28e46b81a352419d05120bf01113d3ec57b6334cac72833a412c538415e278d1b6779619fa946b7adc1cd8a2f8de6a12edc3e53248353d251280b02c"
 mode = "metadata:curseforge"
 
 [update]

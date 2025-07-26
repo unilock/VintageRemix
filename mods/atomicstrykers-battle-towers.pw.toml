@@ -3,8 +3,8 @@ filename = "BattleTowers-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a67d73e74c211f0e958cab6f0acdec73d7d6236e"
+hash-format = "sha512"
+hash = "1f7604b986f5da05325e5a5a191b9c36ee680224286d5d7ba0af8a07f6d9a3d999dad3d3337ca5b616e37943ef4359564abe9a817fd548bf880e68230bf4ca24"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Into The End - 1.2 HotFix.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "043e99d22cfe8d080ff020068723fec84a01508c"
+hash-format = "sha512"
+hash = "2fcd4a6d73ae634b98b6882d0a85671eb3794805f3821fc88d0212f8032eecca152beee828f13a5e9edea532caa2d05b7e711948aa8a7a8dab1917e368ba5cc8"
 mode = "metadata:curseforge"
 
 [update]

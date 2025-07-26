@@ -3,8 +3,8 @@ filename = "refraction-1.12.2-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "848545ad21f9c6b0e1adfc1318706059598bb8fe"
+hash-format = "sha512"
+hash = "20d77a29fdcde895833f516c31584450c535a602c1b878b49e62cde43b7f6afebdb2f8a29bb561e2ee6708809ad27c2a07124280c165113fc0d66b95a07ec248"
 mode = "metadata:curseforge"
 
 [update]

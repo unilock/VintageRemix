@@ -3,8 +3,8 @@ filename = "OCRocketry-1.1.1-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "46864adcaba8d310a45e9f7f8fcc024589b31ee1"
+hash-format = "sha512"
+hash = "0d8bb51d8b755e5e6989710860ace5c5b6728acf5e5ba23328aeb33d796c9e708306e6ba65951f69299da5a31e4d5a0029231fe323fa4f2deff2465c5c1c9a70"
 mode = "metadata:curseforge"
 
 [update]

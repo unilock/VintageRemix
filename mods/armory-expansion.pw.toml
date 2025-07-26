@@ -3,8 +3,8 @@ filename = "armoryexpansion-2.0.0-alpha.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "42fffb0f228fa75588bd4fb91f28b98378b473ce"
+hash-format = "sha512"
+hash = "b84f8186ab66753115b7e5a119e00a3835ebbfbe7389fe72f7722239981c50be50a7a9cfd26e78156c432dfe09f9342fb0c3306464baa6041a0fe07b374af482"
 mode = "metadata:curseforge"
 
 [update]

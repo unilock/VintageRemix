@@ -3,8 +3,8 @@ filename = "bogosorter-1.4.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3818a1b8826868dfa0aa784ec28dd4f78876d20a"
+hash-format = "sha512"
+hash = "c1286d3192cf106703b46804c3313a9e8e439914146e3315217cf962b2b44ac113aeaf37267629ce90c8667e345654881c4dd121c7672c9325487658fed71c7c"
 mode = "metadata:curseforge"
 
 [update]

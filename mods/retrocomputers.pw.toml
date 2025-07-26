@@ -3,8 +3,8 @@ filename = "retrocomputers-3.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9e7c8f143d21f331f5502bb99f77d7f02c6b4415"
+hash-format = "sha512"
+hash = "9e34e37c24b98587f1014856e9249fbfc4ad40072db1a66721d6e4efed4e712a2dd928f9177ddc354be9ffcfe95a21761a0eba985db7f923f9e9bcf14e9ee9ef"
 mode = "metadata:curseforge"
 
 [update]

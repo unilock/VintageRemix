@@ -3,8 +3,8 @@ filename = "ImmersivePosts-0.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7f8b97e25ed8072715f558cc6efe7f7997f492b7"
+hash-format = "sha512"
+hash = "cf099e9849c8f5b80b65ce2df945c95e086b952a952daadf0b2a8be806be34f76d579b816f8fb1a5864fe4f7621c119e202b0ec4e1b372a7d931e4e54929035a"
 mode = "metadata:curseforge"
 
 [update]

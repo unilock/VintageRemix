@@ -3,8 +3,8 @@ filename = "TheBappyStick-1.12.2-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "04e457c800ff2392b715732861355a45a921dfeb"
+hash-format = "sha512"
+hash = "2a862eeb0bd574e63470047cc2266b071d3d253f0dbfe0dbfa96f9c88ea6a31a7b26f91a67c960f79413fcb55c5cd61d00da936981adb01d86a0a13170040207"
 mode = "metadata:curseforge"
 
 [update]

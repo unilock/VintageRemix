@@ -3,8 +3,8 @@ filename = "antiqueatlas-1.12.2-4.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9531e665ad5d5aa7a84890147dddb6eaf86a5752"
+hash-format = "sha512"
+hash = "fbad60cd8560b9b87302f5f62dd404523f8678360350b79f61b069aa0b85217aefa4ecb9fd6eb40923e7b9bac79056dcb8b07099943c1667427cdfbb3158cecc"
 mode = "metadata:curseforge"
 
 [update]

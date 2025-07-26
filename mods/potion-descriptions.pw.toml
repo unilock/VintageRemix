@@ -3,8 +3,8 @@ filename = "potiondescriptions-1.12.2-1.2.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8fd141799a05622e7d8a19aa73b272ee5e16f240"
+hash-format = "sha512"
+hash = "0d4c4791ebd3cc0215ff3be3bef9e4cf0f8dbf7784935edfffe3ee8cc876e37a98eb298e89145cb6277c578c1c0b79591e6f97b6e7966fe4dad08f37275363e0"
 mode = "metadata:curseforge"
 
 [update]

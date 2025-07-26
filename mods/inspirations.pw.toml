@@ -3,8 +3,8 @@ filename = "Inspirations-1.12.2-0.2.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5bb254759f738570c53ef0bddb46220cf8659895"
+hash-format = "sha512"
+hash = "d6cc0ac8de23513350c7f58ccf810cdff0e8442a2c0408ecf424e3b855f98171cb0642408d6a204ada88e11f4922ce967ce20c0b6e955e65716745ff5bf4f621"
 mode = "metadata:curseforge"
 
 [update]

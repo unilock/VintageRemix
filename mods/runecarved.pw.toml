@@ -3,8 +3,8 @@ filename = "runecarved-1.12.2-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9de22adfb4e42892c0285053e80aa0c72d4754bb"
+hash-format = "sha512"
+hash = "188401cd58286df9b6df65c4001e9e056594b4866d412da63b58e9a7a702a2cdf059dcc0df74536b9e50366b881e7f99d3375f172d68587c1b4a24459f25bde8"
 mode = "metadata:curseforge"
 
 [update]

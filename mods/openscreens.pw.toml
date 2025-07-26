@@ -3,8 +3,8 @@ filename = "openscreens-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba8baa9401376fd233ad24c128569c71cb873a34"
+hash-format = "sha512"
+hash = "4193904b7bc360412d611f5793b601d297ceb00db48f868230ff38ffe22f3734dde8ece542a8d495a250647d86fd386694ae3a26098113d07f8f6dbbbe784650"
 mode = "metadata:curseforge"
 
 [update]

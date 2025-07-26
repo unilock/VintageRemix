@@ -3,8 +3,8 @@ filename = "uniquecrops-1.12.2-0.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ed9735072d16479996753ada4adeca31475c63e"
+hash-format = "sha512"
+hash = "0296f9b1fe913e1025753ee70eefdad26605366ece7c34fe5825f532c79e60da75fc2067383bac934e5dc78b0c470c54d750f0e868c87dc16bd86e26ce119812"
 mode = "metadata:curseforge"
 
 [update]

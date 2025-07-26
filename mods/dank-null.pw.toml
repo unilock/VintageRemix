@@ -3,8 +3,8 @@ filename = "DankNull-1.12.2-1.7.101.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d082f6a00a3a11bc2bc4c9f8aac40851a413b92c"
+hash-format = "sha512"
+hash = "29cc8ea7900a53a69a6999f659ddc8702a604ec8ac1e9514cd03ef4a1e2322446e6349e958f28ac49122956e023c864f09732ed24b43075fddd006af59405966"
 mode = "metadata:curseforge"
 
 [update]

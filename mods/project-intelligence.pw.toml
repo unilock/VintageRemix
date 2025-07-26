@@ -3,8 +3,8 @@ filename = "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6424c4111913a48f9c983199d07140136a12ee1"
+hash-format = "sha512"
+hash = "9a93ad8f745b77c49ac2f7d5242fb103efd10680e481ecced9213e69629ab523ffa8cd598b7e121eccef98824cf2246d1840a11a6d96177d063de9632a01cdf5"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "lostmagic-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11cb7faf05eb640e191b2aab8504f1e221dfc2fc"
+hash-format = "sha512"
+hash = "b9f0f28ff4799bc520127d4a4dec7e0882d7355415ef2f576a24d729d426dae1b80667e7843ace7e786f3d6a1f560a1a3d16a6d80023e65337e22bcc500b299b"
 mode = "metadata:curseforge"
 
 [update]

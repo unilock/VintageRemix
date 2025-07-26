@@ -3,8 +3,8 @@ filename = "ModularPowersuits-1.12.2-1.1.048.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8188dd8bb35c7dbd41275dd6c67e74bf8c9eb001"
+hash-format = "sha512"
+hash = "6357cc0af112e7ec0b27d48e733cbe72c6a568704652ad6672a4a9f31c6da0b730dae31436e41141f515c98ffd21318a6d0e6c50526739a2208ec018e2c487ef"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "astralsorcery-1.12.2-1.10.27.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9fa8c82a06e0a1320087f5fa4a5ac48b6ddb75c4"
+hash-format = "sha512"
+hash = "a54b060f24e6d57f33e03ef18e86943ca3d9e7c4215b3f45bd86743ac1ca3ee9b949388e9d0efe0fae2a9f92a0a377d00021206c50ba848151b9cd5426be4d4b"
 mode = "metadata:curseforge"
 
 [update]

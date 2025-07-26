@@ -3,8 +3,8 @@ filename = "Dynmap-3.7-beta-6-forge-1.12.2.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "e2b0f2fb2b530d21ece8e69dac9285eb04faac36"
+hash-format = "sha512"
+hash = "f5825f9347d9a981792c1bcdeef94d695ace928986c407eee9b8009444710a61a95de613945e6c1c22a44136ba962482763f69b895ec4b517c93f589c1246630"
 mode = "metadata:curseforge"
 
 [update]

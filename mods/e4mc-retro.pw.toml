@@ -3,8 +3,8 @@ filename = "e4mc-retro_forge-1.0.2+1.9-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3f6c3de137c10b7144ea84395ded8a8a1aa1a591"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

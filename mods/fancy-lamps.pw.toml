@@ -3,8 +3,8 @@ filename = "fancylamps-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a6fb0a15784dbaab4a003911deaa35566bc7bab"
+hash-format = "sha512"
+hash = "26c8098f0073732a71a6dd2f0f811d935c9edec8eb972be6e4bfe6779f31e4a4d0395ff441e8874bac4a31c13f0e54ddeb5bf0141f09842b6bcae21ec53963ac"
 mode = "metadata:curseforge"
 
 [update]

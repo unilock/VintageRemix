@@ -3,8 +3,8 @@ filename = "magicultureintegrations-1.12.2-2.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fe695b35af830eafdd3dcb4a6ae0ae05aef988e"
+hash-format = "sha512"
+hash = "791d2900e8b854b2ca011ef23daa3e76498918917a4493f735bd0415b623a543f497f81d1f0a21474db02d87e9f0894941332e5743bb7fd1955cc2aecb872e8e"
 mode = "metadata:curseforge"
 
 [update]

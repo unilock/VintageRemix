@@ -3,8 +3,8 @@ filename = "tinkersarsenal-0.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c75934d67de0164fe72516dea22730be75fe84bf"
+hash-format = "sha512"
+hash = "2fac51a32b8ebbbfe315fe5b2ad8b177b0143cc850d1cc5b64e61d98db118ed5b1d0ed1197f9e5a274f5e8bcafd33de4697bfbad15f5bd6d3454215549389605"
 mode = "metadata:curseforge"
 
 [update]

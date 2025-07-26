@@ -3,8 +3,8 @@ filename = "aldriver-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7c02cc69aef02606f149d14956e6db8d8d6b34b5"
+hash-format = "sha512"
+hash = "344c443f034f03af5de5a4adf9b0266404b6cc908619d629b196e0296e6ced47266b9a574e98048a4e0d42019cf5a3493ab9918436dea8205fc7875cd89398bd"
 mode = "metadata:curseforge"
 
 [update]

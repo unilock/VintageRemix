@@ -3,8 +3,8 @@ filename = "Streams-1.12-0.4.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "82408b7604a56f06fbb25f23e9aef2ea154e17c2"
+hash-format = "sha512"
+hash = "5cd7fc261dedf23cb3c6d9cb6c1786418e248a2b1cbf4ca78d551c7a829d4c74b7917b941a5930ec832be678f3dd9f7801785de587c75376fd7b8f91ca6d3ddc"
 mode = "metadata:curseforge"
 
 [update]

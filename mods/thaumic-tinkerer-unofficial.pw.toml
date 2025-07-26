@@ -3,8 +3,8 @@ filename = "thaumictinkerer-1.12.2-5.9.8-Unofficial.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c1e60c67d0641c5bd5e8b148aaa288ad26b4953"
+hash-format = "sha512"
+hash = "8ca47f26cf6df934dcc9c6efe2fc19887f8f760dc18fc9edaba077cc45fcaa89f2028070bbd11af82726cc87d336112c6efecf0bdc25c59036cc5e44aec9919d"
 mode = "metadata:curseforge"
 
 [update]

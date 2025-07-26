@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/metallurgychests-1.2.1.jar"
-hash-format = "sha256"
-hash = "93a392e7267ae749a16c3089f285f9188680cc3faee0ade031b69a6db80d3b50"
+hash-format = "sha512"
+hash = "ea9985c61ebc49b478fc8084674845971dce5de7cc98961b8b4a818257318cda78cbb39760a07678384c01f1d8eb37a9369de2cf4eb96d76286175f6a0faf0f4"

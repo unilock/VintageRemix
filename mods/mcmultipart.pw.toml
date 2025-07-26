@@ -3,8 +3,8 @@ filename = "MCMultiPart-2.5.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b32fb5efb99dedf207d3623e222ea67e20655fcc"
+hash-format = "sha512"
+hash = "86e5666c254112929123ebeee897e2623e24fa54fb495596860be6873e4b7a45a8e32203b6d5a2c37d03b3d69490fecf4e37ad1f3ad912f44e44679ca89855ab"
 mode = "metadata:curseforge"
 
 [update]

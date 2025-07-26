@@ -3,8 +3,8 @@ filename = "SimpleLogic-Gates-0.5.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2eb6e956579e3b83736c428683bbed3fcc71cc6d"
+hash-format = "sha512"
+hash = "0a0671b417c26225ced0d804a232ceb311f0249269de21c5c46cc92c8fbe6ec17379b94f5f2ff93504e385d4fe710aa58d0d6212d8be9ec249525e87b2b16420"
 mode = "metadata:curseforge"
 
 [update]

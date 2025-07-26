@@ -3,8 +3,8 @@ filename = "!configanytime-3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b6d8a10219d3802e04de6b1e815a5853e50adbcc"
+hash-format = "sha512"
+hash = "27103270deb607da87d983a0a12ab3a64497b138b4748364f777dd5606f9c0ed6174f039edc6c2db0e401b1d8e99ae88ddce252b104892fc98273cc9259bcf87"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "stellarfluidconduit-1.12.2-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ce9c8bd7d2d175781bcd298a74e6fd93061c8897"
+hash-format = "sha512"
+hash = "8a2f040e5e98ce929ebca3097fe0e218f620835ab2a44e0cc07e56be1ddd304bb5c93777b74791fdc452f795aaa6338beae24db0fbff98387699bb4b970e79ed"
 mode = "metadata:curseforge"
 
 [update]

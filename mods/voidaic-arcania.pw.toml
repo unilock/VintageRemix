@@ -3,8 +3,8 @@ filename = "Voidaic Arcania v0.2.6b mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e2dcfd5913058039d815a66943c9ad506f27ca5d"
+hash-format = "sha512"
+hash = "a9c761dc6d3293e5a55d19617ac51429a026f35ea34dd42d615e64598da50ab291c936e550fb67b5c4f9a3e4a95ff1b909640ed83e0d7d68eb6a1d98d43f24e4"
 mode = "metadata:curseforge"
 
 [update]

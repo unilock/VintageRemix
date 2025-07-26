@@ -3,8 +3,8 @@ filename = "bloodagricraft-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a93dc23bc9f949f4c50a2fbf39d862019a723ed3"
+hash-format = "sha512"
+hash = "935158dc4221eb9318569ac15b536368c398d6b73ce0ec61a962386358d6642ea54d07789f54368a68afdc539cde2071c1054b7ea3afef3485fa27c1457cd71e"
 mode = "metadata:curseforge"
 
 [update]

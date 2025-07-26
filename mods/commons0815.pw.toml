@@ -3,8 +3,8 @@ filename = "Commons0815-1.12.2-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "076ed53a86f503add06c252856a1a8ad7b0d2667"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "elementaristics-0.0.9.6.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fbe8596061805b410c1d34557565ce9fe15dbb8e"
+hash-format = "sha512"
+hash = "afaca0101493db2e0c0bfec44a3383d07730ae6ab8d8d5d3a3d5408201b2f38ef2d5ae6eb2a9a3ca951206772f3be8ce8b43ace560be94b6d49751902303619f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "mia-1.12.2-0.2.2a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2053d1616165de4c6649d025d0957ebe1e6dd9ae"
+hash-format = "sha512"
+hash = "e99415e2df1d809a63fd0e036b1c7471eddee65adca85fe7e2b7485a8401734369afd50cc30a73d045bea7dabe81fe5bddea4cc49d2d43fd2b45dd6ff963aec5"
 mode = "metadata:curseforge"
 
 [update]

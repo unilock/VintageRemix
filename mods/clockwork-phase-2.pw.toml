@@ -3,8 +3,8 @@ filename = "clockworkphase2-1.12-0.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "689d83b5031b9c8fd96b96e92fd6b60109eb7517"
+hash-format = "sha512"
+hash = "5191b3ae17c9c011a67d700f119806a8c52dbda6e85933ebe63e561384204557950ab3752d37f54e5aff10ec018763c329d94cb7395f1bd894c53eaf559f080d"
 mode = "metadata:curseforge"
 
 [update]

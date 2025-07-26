@@ -3,8 +3,8 @@ filename = "Mystical Mechanics-0.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b08cf41a9d0312d4a07dd2ed6b2b605a6246c351"
+hash-format = "sha512"
+hash = "71fbcb65e73563a95cd56509ff8a6f0c5de63b42960bfc52f7dba345448ffc79373ae9e2c5d8940f780b86f264e00d4073df7a79b05158dcb28aec3ede8c5cf0"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "shotgunsandglitter-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6996e5b12976fbb8b5bf2499b164855ef3e08d02"
+hash-format = "sha512"
+hash = "e68fa496f6e63fedf2f54da724c98d596175ba7637fe185048691b8448bf2b65c5ab907b7eeb1f14fc5d8b783cc149ead17a5809409ecbf7e99a1fbc4c8600a6"
 mode = "metadata:curseforge"
 
 [update]

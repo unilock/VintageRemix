@@ -3,8 +3,8 @@ filename = "libnine-1.12.2-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c99daa72265e227875eea94897a9041faceec79a"
+hash-format = "sha512"
+hash = "f6eef70a4414ec55ee16ac98cb7df4afdf69a98f5a75a7cd358efa404dd657dc2aefe5868a02d1dc17401ffefcebd5a682fd79a577b8efab8e931b91217004e3"
 mode = "metadata:curseforge"
 
 [update]

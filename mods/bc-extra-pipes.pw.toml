@@ -3,8 +3,8 @@ filename = "bc-extra-pipes-1.12.2-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "91d1db5955b83c754c899d3451462b64b7463162"
+hash-format = "sha512"
+hash = "46490b0d2876b0a3eed04c147a27dc68aed628a27aaa5cdc73368402d8832e2ff350f45b4284b66d631a4afffaeba17a4c83680b2ef55b53fb8e849317c82711"
 mode = "metadata:curseforge"
 
 [update]

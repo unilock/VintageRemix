@@ -3,8 +3,8 @@ filename = "extrautils2-1.12-1.9.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f9a217b23626cb338cf229054ed490d913610dc"
+hash-format = "sha512"
+hash = "cf3bba219a3ccd472c5ebb64697bbcbe957376ac71a57dae866f24b1eb2c722da75808b4c2a3ddbabe7f905c4410895c8b94372a4cdef445efaf5530f5106cf5"
 mode = "metadata:curseforge"
 
 [update]

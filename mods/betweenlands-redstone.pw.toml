@@ -3,8 +3,8 @@ filename = "BetweenlandsRedstone-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c8927362f54bef0c0335e85ad0c12a692f70eeea"
+hash-format = "sha512"
+hash = "4e1a6576c3e877ce1c4c455060abd29246aa362132641a35129df17cf011e1905b0a64fd8c51f00e1d00ae254d88edb6d7fb4a0296734b4aef24b91ea8d3bff5"
 mode = "metadata:curseforge"
 
 [update]

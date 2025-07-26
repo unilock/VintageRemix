@@ -3,8 +3,8 @@ filename = "uberconduitprobe-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "54641c644077747124b223a2363ec4b5a91e95f5"
+hash-format = "sha512"
+hash = "50e5eb2b91ddcaa813e543726268c603edf23ce167e955c782a8c603adf0f7e0e883acad9c011e9bac03dd3584762c82929fe470a42552fc8a9953a0cf2941c5"
 mode = "metadata:curseforge"
 
 [update]

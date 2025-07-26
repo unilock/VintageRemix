@@ -3,8 +3,8 @@ filename = "BorealisExpansion-0.3.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "10756b3fceeb1c7dc5e08d838abf8d6dc7e6121f"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

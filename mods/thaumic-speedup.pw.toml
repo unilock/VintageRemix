@@ -3,8 +3,8 @@ filename = "thaumicspeedup-4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05b3b804f45a038329fc13e854dda03a0343a7f9"
+hash-format = "sha512"
+hash = "d5431ff9ec69d391ec654817d6b61e48393fb0018de7e0cc9bdca0c6ef15a37a430bb7dbad7d2cdb2a1b06a0c06a236c49415527e601a03842f0678b95bfa4a1"
 mode = "metadata:curseforge"
 
 [update]

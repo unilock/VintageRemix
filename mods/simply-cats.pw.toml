@@ -3,8 +3,8 @@ filename = "simplycats-1.12.2-0.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9e30a5485e490bd52b5f438a02a25bf0c247d9e0"
+hash-format = "sha512"
+hash = "ac48ca27d09141e6f0ddbda3c57f473eec4c53adb7b1dafcc73f4dcd2b6fff368ce0ace33a50a4bc8d2394179d6fe3fafef032ed239ddf92d26cae3cb2a9c7c7"
 mode = "metadata:curseforge"
 
 [update]

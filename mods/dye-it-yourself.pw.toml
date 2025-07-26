@@ -3,8 +3,8 @@ filename = "diy-1.12.2-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee0ee2c592b47f5083d3c2e68df50fdd307812b2"
+hash-format = "sha512"
+hash = "ba98d174e4cd46f281972c5d24a18d33ded7edf6d9647b8404fb01b40f841d53a7bae7d4cedea83e0ae45bf4ab5e67c7a558cc65761661897e5a892f588fb6ed"
 mode = "metadata:curseforge"
 
 [update]

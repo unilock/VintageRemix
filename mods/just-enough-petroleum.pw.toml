@@ -3,8 +3,8 @@ filename = "JustEnoughPetroleum-0.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "5c53e70b61328eaee4631529b0a46efc911e4c06"
+hash-format = "sha512"
+hash = "9dbbbb05b014d19f8f63c9db5f63cc4934662347c3336ab90e9944fd1cf9bd9547687b1c51fdd9d49a7c8e05bdd9da48694b40655a0cee48e14cc98256f8d696"
 mode = "metadata:curseforge"
 
 [update]

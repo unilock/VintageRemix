@@ -3,8 +3,8 @@ filename = "parrotpower-1.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3ffe1e8b8ee245eb090f5c14937c9a64d180a0e"
+hash-format = "sha512"
+hash = "23a50fdb7b84079d7d2bee8a22ac6b30572f6e1c4ee9640f5c2e709a6c5f084c60ae098eeb3822d9cea081c2aa94208403e8fef6a7df56f30264678ba6c94b51"
 mode = "metadata:curseforge"
 
 [update]

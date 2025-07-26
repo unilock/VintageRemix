@@ -3,8 +3,8 @@ filename = "ExtraBotany-r1.1-60-beta-hotfix.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cf1ae2efe4ecea129968caf0096b91705fdab810"
+hash-format = "sha512"
+hash = "788f7e4ad83cf1f3498b1a981603cd08105cc5e2a8cfe01f738eec6a5b0a58a38d9d731c94b3fb0e9973656bf6a8701a96d64114126289f66b9f4b1d8f803fa2"
 mode = "metadata:curseforge"
 
 [update]

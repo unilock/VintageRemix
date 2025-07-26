@@ -3,8 +3,8 @@ filename = "BetterRecords-1.12.2-1.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5283c0adafd42bd95da21ff3ec805fb7fae5bddc"
+hash-format = "sha512"
+hash = "89ad06023943dc9949fcc8e643e360b36a3914567b1cab564b5a31e290baac6e963138ad52f969f1519db7685ac4830d6a274a7241f14e5e60d960cb4bb0e2fd"
 mode = "metadata:curseforge"
 
 [update]

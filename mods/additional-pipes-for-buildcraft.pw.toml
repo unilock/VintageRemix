@@ -3,8 +3,8 @@ filename = "additionalpipes-6.0.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5e24a18c825385afe523229321c979fabfc5e4b"
+hash-format = "sha512"
+hash = "db09cacd4f15f09b16e92959d8f2c61c330516ea3a5e5138047705d92a5ac51e9bd2e1f2ae9b0a621c1fb2a3f48cb304e7578c8c8a6ae8f1f842b6c9870b0cec"
 mode = "metadata:curseforge"
 
 [update]

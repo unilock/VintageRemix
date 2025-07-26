@@ -3,8 +3,8 @@ filename = "careerbees-0.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f1a934c4dca379dfb733c36eab9bc63345a81abb"
+hash-format = "sha512"
+hash = "e77aeb4200a98fd49d65b78b9106c66a66f4a0fb396798380f501aff804980b04cd8b15043c112afcf69cc62195ce7d5928bbf61272d3b5e28ecac5791c13c67"
 mode = "metadata:curseforge"
 
 [update]

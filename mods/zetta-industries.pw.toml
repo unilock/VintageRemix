@@ -3,8 +3,8 @@ filename = "zettaindustries-1.3-1.12.2-166.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c2702d30e54c4f505a9f144e72a218cdf129f3c"
+hash-format = "sha512"
+hash = "6ab3d91c58506871c5297413f30d68c75c6cba0e20a6d5036207ac585b0477a44135b0764b9ed6072d1e562d4df4feed09f19816d75b01dfa11c3826c554c520"
 mode = "metadata:curseforge"
 
 [update]

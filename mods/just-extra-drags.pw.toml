@@ -3,8 +3,8 @@ filename = "justextradrags-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60a823639b7d02d6860f11928b2389cf7a82da6c"
+hash-format = "sha512"
+hash = "3fdb139887bc583c64dd18d952d8df69c6214317596e249fa30e9fad79e7b0ea81078cc489299f063210bddea2824d80d8afcc27a7197293bfd807a44bf03fdf"
 mode = "metadata:curseforge"
 
 [update]

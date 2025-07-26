@@ -3,8 +3,8 @@ filename = "grappling_hook_mod-1.12.2-v13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6e19255da276ab2a3a4adbc30652169adf6901d3"
+hash-format = "sha512"
+hash = "20771b2236e300508fe6459ba5926c007c418e343f29f610a052a501f2058feabfcaf4d92bb2dcce9f88849035bb774583da1e05ea4fbef867c7043aef6d2035"
 mode = "metadata:curseforge"
 
 [update]

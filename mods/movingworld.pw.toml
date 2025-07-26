@@ -3,8 +3,8 @@ filename = "movingworld-1.12-6.353-full.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9fffe84af553f1c4ecf35825e2d768248c5dd2d"
+hash-format = "sha512"
+hash = "690e54d05943b03c0773161135590439d67e24879a0a3dcc0ae868595d3ced9d7c174aac2e430536460a743401ce820aa9891aac099434c0b210e5f248fe68a0"
 mode = "metadata:curseforge"
 
 [update]

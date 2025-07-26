@@ -3,8 +3,8 @@ filename = "txloader-1.12.2-1.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b346e7f7d4940848027d4b554ebad36f7161726e"
+hash-format = "sha512"
+hash = "cfd5a3307f229cb3e8e1741d65319a903289aa0eafa08d3f467badf59eed16137c5f898816c76ddd03f55281ce251d87550b77c3e81991b673828b774116e3e3"
 mode = "metadata:curseforge"
 
 [update]

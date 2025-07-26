@@ -3,8 +3,8 @@ filename = "FriendshipBracelet-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a86f51cc490243216cda0fa3598d4bb2e5b71115"
+hash-format = "sha512"
+hash = "ff86d6eec54fac8c1e7efe1a6abcd48e2ef71e0110a3fbc35df37f174497e3cdc050d36b354be263139455226f5b61a68f51b4b6731622d802369dda6ae6b956"
 mode = "metadata:curseforge"
 
 [update]

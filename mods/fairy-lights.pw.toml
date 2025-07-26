@@ -3,8 +3,8 @@ filename = "fairylights-2.2.0-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "580435ee63ddb132b7cd6c8b3e3fb216199510ca"
+hash-format = "sha512"
+hash = "52549c2554e959abc552c86b4f0b53eeac94809ecccccbd3f0e1c869a542e77e4c87258c1f99c7ef7d38cf43f2ed6377efe73702b360f426ae89bdd9dbe9521d"
 mode = "metadata:curseforge"
 
 [update]

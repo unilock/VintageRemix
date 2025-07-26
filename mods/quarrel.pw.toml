@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://carbide-sun.github.io/dl/Quarrel-1.67.0.jar"
-hash-format = "sha256"
-hash = "c53d38355ad4f7162202a638bace97ccc3ce4446cbd3bed23be65d79046ace37"
+hash-format = "sha512"
+hash = "7208363771fc2c9a02ba7e68c1d8f9b400e11e21dff6126c74f0fe06f8f3a808051f525ab2196c62d67edc151f9db2750baba51043347fb0ec3379af55e770c9"

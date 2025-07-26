@@ -3,8 +3,8 @@ filename = "Vials-MC1.12-1.2.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e6f4a928964a25e6f73a9e8c8c599519c79b6edb"
+hash-format = "sha512"
+hash = "e66435a0ec1a517bc8fe6db5a263fdc15aa832f4ca0fd8ee75ab1332aeb2f3d140fe3c73a5fd5dc795528a615451f9f81a540ac66e6a6a11b0c5ff3bb34332e2"
 mode = "metadata:curseforge"
 
 [update]

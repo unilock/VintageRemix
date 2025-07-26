@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://witchery-api.msrandom.net/download/WitcheryResurrected0.5.2Hotfix4/WitcheryResurrected-1.12.2-0.5.2.4-forge-all.jar"
-hash-format = "sha256"
-hash = "40b3a6f8451ec63aa8ec9a9a38eb08dc8bb80ba05889babc1a783acc9431133c"
+hash-format = "sha512"
+hash = "18a8bc8dacd05b23ada8fcb8ab908a74db4f014839e63b6a131dc4bd1136fd8e14814aea8674ba26d9bb510aa01a9231d7cf326ad90e7ace29bf93a8675a054a"

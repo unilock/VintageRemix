@@ -3,8 +3,8 @@ filename = "CD4017BE_lib-1.12.2-6.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b5820b90f0dab4d30d58298d54fda04385b6f674"
+hash-format = "sha512"
+hash = "6bd987483c0b9d9fd9bdaf33c73215ade21c265b6a1ebe3fb687a7b4979968a265e439174822c79925caad044f4cd6a92246a637a210cb5f7e687689d643b17a"
 mode = "metadata:curseforge"
 
 [update]

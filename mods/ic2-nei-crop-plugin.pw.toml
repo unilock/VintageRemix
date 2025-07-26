@@ -3,8 +3,8 @@ filename = "IC2CropBreeding Plugin V1.12-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c43102e4193d5816a4aef867caf5d8d95bb32661"
+hash-format = "sha512"
+hash = "aef23dbf87ba23a311dbdcc1d49cc58cc9f3fa36d4eff1d15bd60e9441bb5126501894bb1ed755c87140c319473d6cd5172b95a8994a1787614a35cabb8c13c0"
 mode = "metadata:curseforge"
 
 [update]

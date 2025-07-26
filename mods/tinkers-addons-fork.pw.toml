@@ -3,8 +3,8 @@ filename = "Tinkers' Addons-1.12.2-1.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ebb2894fee87f27c12de58ada888dc4fc279b0a"
+hash-format = "sha512"
+hash = "54a944733f84a7d6938da1bd30cf773dfb5ad16578fe11c2a91f6f8776f5ba7558f6511f490c7fe9c647140cab0261d18ca9b5d4e927881424becf8acf3e88a6"
 mode = "metadata:curseforge"
 
 [update]

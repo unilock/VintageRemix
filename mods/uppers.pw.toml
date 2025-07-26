@@ -3,8 +3,8 @@ filename = "Uppers-0.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c7e77d0e2f6667680e861c8c7cfac740b2c3f01"
+hash-format = "sha512"
+hash = "0bb099b98a716cfdd3fc8cdaa61b10b97eec8b1f423d3bc8e9835a4d3db270045b029c7ab60baa375865ec0bf80339691a29927127c99ba67f2bf58f84a56ca6"
 mode = "metadata:curseforge"
 
 [update]

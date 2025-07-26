@@ -3,8 +3,8 @@ filename = "OpenModsLib-1.12.2-0.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "210cc6b18b63ae0d3110b8e8ed843bc847627eb0"
+hash-format = "sha512"
+hash = "c4a8d32493c09dacc91cba88ae5fa10857a522770024e3149c2c51d4f0717756d458beb39e33985e38e3789ecc36334d9596bea22cc1c560c8a0299c4171e4e3"
 mode = "metadata:curseforge"
 
 [update]

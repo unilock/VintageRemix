@@ -3,8 +3,8 @@ filename = "Immersive Energy-1.12.2-0.5.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "29ecb1f941e3147ab6094efdeedd7b31fe5b06eb"
+hash-format = "sha512"
+hash = "b26d15c4d91a54c677c5edb4b0711450b9954d4cf04d61e51ed0391eb2303669b76a80f81089804164544a90a44d17296593d05183d49948f40c6c58a5458ef0"
 mode = "metadata:curseforge"
 
 [update]

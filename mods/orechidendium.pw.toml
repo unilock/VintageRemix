@@ -3,8 +3,8 @@ filename = "OrechidEndium-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "86a0b0a8012abb0083df002a5e7d77e15936d415"
+hash-format = "sha512"
+hash = "cd7e1f6ace3bb2c25ccdd632574b7294412a8a740b6a0948718837ab578b8d6a3f77bcbea9425332981036937b1ebc48b87d129eef17edc4fad8a4159d6238a6"
 mode = "metadata:curseforge"
 
 [update]

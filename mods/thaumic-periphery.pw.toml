@@ -3,8 +3,8 @@ filename = "thaumicperiphery-0.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4c1e3d1fd50d4d4379f90c2d9a66e9493944d6e8"
+hash-format = "sha512"
+hash = "e8bd5d786df8f7d53ac70100237115e38490acb89b92e4e30be2c16f7de1dff0154c530c51d4aa12773a7400a9d362d82d92a9835ddd18bc554ac01599ba849d"
 mode = "metadata:curseforge"
 
 [update]

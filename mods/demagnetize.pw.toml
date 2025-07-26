@@ -3,8 +3,8 @@ filename = "demagnetize-1.12.2-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fc864e719d30fe4eb8d47bf716b1c5e5173c599"
+hash-format = "sha512"
+hash = "eb7c80e9d4f377747b004184941a2620ee7ca6714bdf0f52fce436473c9f3c0e1d6c452a636f8552ee2dc36a0709595fbdf26bc8094d079007c52dc54071f98c"
 mode = "metadata:curseforge"
 
 [update]

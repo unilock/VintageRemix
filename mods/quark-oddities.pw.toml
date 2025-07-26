@@ -3,8 +3,8 @@ filename = "QuarkOddities-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2ba40e084e31a00e1a93c44dd01d07384bd1fcd"
+hash-format = "sha512"
+hash = "80d6b5a5338aa49064fd3666fe8331223d5c5966f533afad536fc2e961970c3f3d57310ca751b3d221a9cbd145c18279e6ab86b12bd22798e1bec9f734903207"
 mode = "metadata:curseforge"
 
 [update]

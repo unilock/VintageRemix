@@ -3,8 +3,8 @@ filename = "davincisvessels-1.12-6.355-full.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0fde70727e786375b00cefd0233207c61e2de7e0"
+hash-format = "sha512"
+hash = "ed7d014de1a2c25b956221861ee314ba2d9db5a0cb18ec6063d780f77a545f87a43f40e2e32597e775fd7fb022360aa1ba06e154008767bd275f2b9774c93c22"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "plethora-1.12.2-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9d6854afb23e6c5646c6b644db0309adf04a20d8"
+hash-format = "sha512"
+hash = "7f5d96c34d861c963daa15f131b2cbc6c5a9f7fb013eb26f8d2cd915a8d1b1f4557bf06b60befecbb38f7cf462110959a4b5a24b1ed2c128a0859437eea45eee"
 mode = "metadata:curseforge"
 
 [update]

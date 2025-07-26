@@ -3,8 +3,8 @@ filename = "IonChests-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a796d63f3ec50b889e04c61e9c0129df1beac402"
+hash-format = "sha512"
+hash = "74f69b04005fb59f0bdcf445e12e58c51276a024ec8da2bec9f9c21d3214433d01ecdd099897dc117360ac1bca18995941cd7500ed4524c275d5a49da5a5a9ab"
 mode = "metadata:curseforge"
 
 [update]

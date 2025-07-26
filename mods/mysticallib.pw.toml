@@ -3,8 +3,8 @@ filename = "mysticallib-1.12.2-1.13.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "015d2d3768a3937e64af8bd93b59436603ad790d"
+hash-format = "sha512"
+hash = "ba8adca0491d67dfa9bfad46fdd009206eb192f70034686f7ddf6fb95f21739aabf04e6bbbece61668fb366e466d80c6d6fc1b770df24aadc2fc5f07efb499f4"
 mode = "metadata:curseforge"
 
 [update]

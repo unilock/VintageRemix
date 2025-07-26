@@ -3,8 +3,8 @@ filename = "ThaumicInventoryScanning_1.12.2-2.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "639253ac9c8aa30efaadeb9893ebb77d1b96a64c"
+hash-format = "sha512"
+hash = "86ebca28b3877583d48b520a12e0153bdbb31bc73c06bb040a6e0aabf0cd9c5bf4626c21d08f92233986d6db87a964642631a64230446930e492fb35d5414d3e"
 mode = "metadata:curseforge"
 
 [update]

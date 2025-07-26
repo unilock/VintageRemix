@@ -3,8 +3,8 @@ filename = "moreoverlays-1.15.1-mc1.12.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "b308fe363f23343d0b073d04883c5fca63b08d0b"
+hash-format = "sha512"
+hash = "4391403b2a8b61c9537e6576db236921e08079c45672751c7ae2f863ea548c6633aa3ac3ca3bf904e1ad7d882b75c0f8574f07bd1caf4587053e86541d954a31"
 mode = "metadata:curseforge"
 
 [update]

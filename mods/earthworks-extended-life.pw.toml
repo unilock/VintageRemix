@@ -3,8 +3,8 @@ filename = "earthworks_extended_life-1.3.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8ee9b8ac81898846e81f423aacd57b0b132ce0d1"
+hash-format = "sha512"
+hash = "d982e7e2b3dbd0d4cba3c41ebde08f460b045f673491617063a6d90ac75ec6e0d6635414c2db2412cdfdf1dffa35daa7a531a2ea734a639feea1e6bf553f9e6d"
 mode = "metadata:curseforge"
 
 [update]

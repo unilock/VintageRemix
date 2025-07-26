@@ -3,8 +3,8 @@ filename = "weaponmod-forge-1.12.2-1.23.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2aeb2fc6db61e4a3898f268055dd6c72b5e52930"
+hash-format = "sha512"
+hash = "1d136c93afbb0d857ad217e77c0837641dc3c2ff7b66dadd460d9936c5f59ce60d061c1e7d4bc4c63a0330138ecf372dfad5ab4a66fe6cc57024372298d42dd5"
 mode = "metadata:curseforge"
 
 [update]

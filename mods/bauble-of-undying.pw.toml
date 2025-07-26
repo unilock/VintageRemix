@@ -3,8 +3,8 @@ filename = "BaubleOfUndying-1.12-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5b46285e154e8d9eca24236596c08b72a8518e41"
+hash-format = "sha512"
+hash = "0b7d90ebd680a4a6a7fc5261654d96dff993366d82ffddb3813a933becef25621dbdbd76d71576b8abb294113f1ff855229f406dc56023fed16ced57f1eef014"
 mode = "metadata:curseforge"
 
 [update]

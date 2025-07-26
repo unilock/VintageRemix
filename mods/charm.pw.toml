@@ -3,8 +3,8 @@ filename = "Charm-1.12.2-1.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0afddc46fe43970d4586f99f3266279f262f6de5"
+hash-format = "sha512"
+hash = "8ce661837b55174d03af2fcb340917f81e16c659329fd57651e226be01ed48a4c7212b87c96b52da40ff037f5112ce1c581d14a7ac2a79db1548a6e21a7bcf05"
 mode = "metadata:curseforge"
 
 [update]

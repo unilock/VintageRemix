@@ -3,8 +3,8 @@ filename = "Charset-StorageTanks-0.5.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "1003109861"
+hash-format = "sha512"
+hash = "e681f902770ecde1a029995f68cbeb8f7bf1fc510ce62eac6ce9e1e474d8c19c955860b862a7be12eec0bf910ce24b4e607a47c7b7cced241cfad7de5cea6d04"
 mode = "metadata:curseforge"
 
 [update]

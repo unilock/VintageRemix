@@ -3,8 +3,8 @@ filename = "OpenBlocks-1.12.2-1.8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6c231ff28e0c80025b0ec11f86ce9de1e9d109db"
+hash-format = "sha512"
+hash = "ad021e82cdc0d319dddced786ddebe25c45e74ba4c2c41c406b8493439962c9924663fff56c4752d2c8d52f9d2193119f2014f505094de171c9e9dcac81712ce"
 mode = "metadata:curseforge"
 
 [update]

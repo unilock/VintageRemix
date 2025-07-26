@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/lwjgl3ify-1.0.1-27-g2f57a64.jar"
-hash-format = "sha256"
-hash = "4a4e6c56471fb71e6ea73e69f23ddaa1087428516fec34f9f3732e59ddecb8e7"
+hash-format = "sha512"
+hash = "804c283ecad4f9602dd9e7638d83ce107e259f416502ceeb20415e2b67ad314304042a0251b9a527a7f26c26d806fd60ec6414461e5a5b8f4a9a2c2a01d658f3"

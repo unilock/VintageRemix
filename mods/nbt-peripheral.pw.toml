@@ -3,8 +3,8 @@ filename = "nbtperipheral-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "3646661250"
+hash-format = "sha512"
+hash = "ca2d0d6fe50dd2f9904e2d4e27f36200294a7a911a014d0dd15fc82a5ab129e94ae0c4a46243bd9cba07cd28db3908fe8233407071e0f517a3cb6d18bb035edf"
 mode = "metadata:curseforge"
 
 [update]

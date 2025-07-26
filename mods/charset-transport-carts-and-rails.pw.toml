@@ -3,8 +3,8 @@ filename = "Charset-TransportCartsRails-0.5.6.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "54fbd09e168706d2e99ac4feca54ef9eca4d1185"
+hash-format = "sha512"
+hash = "4064b61fa2b74819744509cb58a71c55b78aa02bf550f5c857fcbad542e77ee8775120595e64589bdfc0d1ce15e4e5337b44ce6a8aa1053c3e5e90878f0228a9"
 mode = "metadata:curseforge"
 
 [update]

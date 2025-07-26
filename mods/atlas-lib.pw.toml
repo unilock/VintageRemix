@@ -3,8 +3,8 @@ filename = "Atlas-Lib-1.12.2-1.1.7a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5cee0083bd59091e3f21f6aa5fcceb82fdd6f73c"
+hash-format = "sha512"
+hash = "970a00a24fc0ec12c41c0126a1d2edec20740b7290b22adcea0f3a02e8f55e1e86f86765883e4f586ac3c0810b218836d395088a5b51231b81a78aec41aab275"
 mode = "metadata:curseforge"
 
 [update]

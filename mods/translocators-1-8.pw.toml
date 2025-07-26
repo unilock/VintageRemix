@@ -3,8 +3,8 @@ filename = "Translocators-1.12.2-2.5.2.81-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b008cc099c15e0cb121c43c889504fc367b3dedd"
+hash-format = "sha512"
+hash = "f72bcad5f6cc05dda81f87829d708ec9830b9a0d3bce505303b02e14b858972f06575a306d0df7bacba6fa79318aae62eff300080cbbc25baa28bdabd1fba366"
 mode = "metadata:curseforge"
 
 [update]

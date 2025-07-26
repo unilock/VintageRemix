@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/alquimia-0.0.5.jar"
-hash-format = "sha256"
-hash = "0cdb8efff6e14d0fe4ea29075bcb66b5e20741a81736a7011b284d45f3e1695f"
+hash-format = "sha512"
+hash = "806d030111e6286b06e4f0e4fecafd83b0adaccd304a98d79f44cb3d0876cfd23dd4c9d9b8c641d6f58955b8b21404d5354d90c9d116ae21fce31669f4fc07c9"

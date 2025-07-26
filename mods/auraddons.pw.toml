@@ -3,8 +3,8 @@ filename = "Auraddons-1.7.2-NAr14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ed0523d1f1bb72c1dd51f01b9b1bdfd57d5dc3e2"
+hash-format = "sha512"
+hash = "d7ea7af1f6525d5b4c86bda34a20c9234dc15e3cc5e5e6fb62e9d07726f40a7c6d4dd87695f43788e66b4a85bc713599ceeda33b67aa2f9bdbb897cbafd466db"
 mode = "metadata:curseforge"
 
 [update]

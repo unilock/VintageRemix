@@ -3,8 +3,8 @@ filename = "Advanced Solar Panels-4.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6688309faf8dc5b6c95111241c4c61e22adc426d"
+hash-format = "sha512"
+hash = "770166225eb14488a24ea622c86aeddc4278ee0e31aa1787727375c83aece3ef931cc17ff211ec63d5d7765abf740feda1d8d0e170791225d5372b3113e947ec"
 mode = "metadata:curseforge"
 
 [update]

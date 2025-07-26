@@ -3,8 +3,8 @@ filename = "BTFixes-1.12.2-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f2ad4a48ab73ea42e0019d61796c00f4a114ab7"
+hash-format = "sha512"
+hash = "09ceb64dfdd66d9b4c1568a3842361ef81b8233362aa319144164bf6e3b3a738d179fedceade73b9df41778773ba82e47c44308f1eefe72cb4846ff7cb8ffd1b"
 mode = "metadata:curseforge"
 
 [update]

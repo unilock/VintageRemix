@@ -3,8 +3,8 @@ filename = "CoralReef-2.5-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d3e1bf331eb3d875544062a48ed6ec39a701974a"
+hash-format = "sha512"
+hash = "ad16cacb96b101db5d23d8eca2edf12d9031d39dbe44e8937bf86dd3e83ceb85c9cf522c59141004e0e1d7a156bf587f6190d93f5feff1d3035f604b4a063bb0"
 mode = "metadata:curseforge"
 
 [update]

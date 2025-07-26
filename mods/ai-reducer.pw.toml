@@ -3,8 +3,8 @@ filename = "AIReducer-1.12.2-0.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a68d2b0996e8146f4c4fa270d7100c496120bfd3"
+hash-format = "sha512"
+hash = "dbb90d0cff95768099f8933c0101db0e22197631fe4bab20c8df0075cf2df0cdd7aa8eab41171067717a19a5ad29c250b466474bd558fdd31ef172719666f0e3"
 mode = "metadata:curseforge"
 
 [update]

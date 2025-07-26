@@ -3,8 +3,8 @@ filename = "railcraft-12.1.0-beta-8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3f894220b478ac454b731642aaf118b3ac7097ae"
+hash-format = "sha512"
+hash = "afeb484454c5eaa78b5a102ec7d920157ee56ee4df493fcc536753417e7911df8e445ee3dce77315b4f0c577315980df3647673b0fde7c140573b3f2f136b98f"
 mode = "metadata:curseforge"
 
 [update]

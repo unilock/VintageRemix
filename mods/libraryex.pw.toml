@@ -3,8 +3,8 @@ filename = "LibraryEx-1.12.2-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d7a987ce176d23e49c2f3bedd9bda218ef1160f"
+hash-format = "sha512"
+hash = "8964ecf88d203158fac588a35983c6de605c73d505e18336db73250eee496bbcfa6f4443fd56c24f88a0a9221ed575c964db590e1f79415317d3757c57532b0b"
 mode = "metadata:curseforge"
 
 [update]

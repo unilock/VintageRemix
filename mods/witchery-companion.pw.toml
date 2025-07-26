@@ -3,8 +3,8 @@ filename = "witcherycompanion-0.36.1-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af3f98b87108bba94bd365a47c6b94a1546ab33d"
+hash-format = "sha512"
+hash = "3df5b40f67d99a5c377ca7929cf1c6d3b8b96d2c65bec3e0e503d700756a541668dd1305126914c1a1c39fbf0de7e52a261a3f4d50f52c3f987609abec62808d"
 mode = "metadata:curseforge"
 
 [update]

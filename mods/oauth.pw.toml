@@ -3,8 +3,8 @@ filename = "oauth-1.06.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "cefbdb74897dd11c713a9a73b9075caafb25c64d"
+hash-format = "sha512"
+hash = "e3775eccc08226841d3267c42e94befed06ef42ca38b183410419ad572d3863a0aafaa7dade0c2867dbf4e1dbc933667c7e69b2d3cddf002bc9d596938e099c1"
 mode = "metadata:curseforge"
 
 [update]

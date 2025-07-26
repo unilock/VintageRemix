@@ -3,8 +3,8 @@ filename = "UnlimitedChiselWorks-Botany-0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "159233a95dcc9af607bc0658edc316ddfa99a620"
+hash-format = "sha512"
+hash = "a442fa0e4e5799355620bf21aaf4fd7f2638db5f7f0a56af74c440347994a7b9597ddf22510d7c3d82d56d2eb62e748de069bd19361b8fe6ce069b92b675d482"
 mode = "metadata:curseforge"
 
 [update]

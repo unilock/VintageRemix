@@ -3,8 +3,8 @@ filename = "AdvMachinesPatch-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d867783fb93db01a65316a9799d2646c1fa1898"
+hash-format = "sha512"
+hash = "cc9e7651be02afa6b95d1f301b23405b09df7567dd0857426878199ce26aa1aefb605370841c99adc2411555ff06204987bb0f599ed497767adae0b821977872"
 mode = "metadata:curseforge"
 
 [update]

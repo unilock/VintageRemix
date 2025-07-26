@@ -3,8 +3,8 @@ filename = "pages-1.12.2-2.0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a4d8d91b2476a0001e983fe53a5742f1fc22580f"
+hash-format = "sha512"
+hash = "ab3456049b45e8fd7456ab4734dd3d33448a5769c037883970b90a9c652b9a4d5bd4a558cbeb2baea4187e159b3eb60bccfc4f32c7328513c6883d888cae022f"
 mode = "metadata:curseforge"
 
 [update]

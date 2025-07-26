@@ -3,8 +3,8 @@ filename = "overloadedarmorbar-1.0.4g.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f9d557a6bb00e765984f39eec87eed9b5e873c7b"
+hash-format = "sha512"
+hash = "ded93a481e4fad52b407611a3bcd43d3be063309ce6c2334079ba5df26a2727384d64c61285857a8ed502e7f73e7152a91baafba2f4f6c1cf0567cf217bfecba"
 mode = "metadata:curseforge"
 
 [update]

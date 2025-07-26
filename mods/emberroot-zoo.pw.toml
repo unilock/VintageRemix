@@ -3,8 +3,8 @@ filename = "EmberRootZoo-1.12.2-1.3.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "036d673b7b3fb38ab8f46f3aa3371fa7f1f7d4c4"
+hash-format = "sha512"
+hash = "efef50e12d572ce072458760fdd3148ac821ad10f24b49a7818ae85961b62e53cc6e5be3579a43dbc651feacb7ac9cdba2acd4537c51aa4ce1fdbe94531df4a0"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "RLArtifacts-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f6b09ccfe0f3bbf59a3e4a693a396cc050faec95"
+hash-format = "sha512"
+hash = "656a9d4bde117e68a776df81d35da135a9fdc6af57539864e048e9473e934614a16184bf88eb65a96cdcb487c83b1271a5f1ac21522fba0b5dda375748687b17"
 mode = "metadata:curseforge"
 
 [update]

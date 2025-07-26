@@ -3,8 +3,8 @@ filename = "StellarCore-1.5.22.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7820ea638ae57736aa0edf991f22900637ad4469"
+hash-format = "sha512"
+hash = "3ad1548e37caf2f37cbf3328aa4a9c93a15e146e0ea8db57292919b44f5f4e8cb694cedcf61e5c983fe8bef348621d0a29f8c5313da9c0861e13ba30b82ab41b"
 mode = "metadata:curseforge"
 
 [update]

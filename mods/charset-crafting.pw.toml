@@ -3,8 +3,8 @@ filename = "Charset-Crafting-0.5.6.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c9b9e497bc48e6512696847a709d8f86ea80a4c"
+hash-format = "sha512"
+hash = "28cd827fbe2b70938dc1846e212c1b94030e607224df9953931cdfb578cf9d3d1ff39d3871d748431d89421ce6140c0f33f8f481d80f72fdd3a1621e76136c79"
 mode = "metadata:curseforge"
 
 [update]

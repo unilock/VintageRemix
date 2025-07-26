@@ -3,8 +3,8 @@ filename = "jeivillagers-1.12-1.0.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "82caaf16ae378d2e2eea9ecd58e9b8fe46ecb194"
+hash-format = "sha512"
+hash = "f60c5325095dd5a8c4424b5ff3be7b499ebf77567ca810be6d61e482f0ddb7297610d248e0726ce65b87345abb5d2453e5f6a6f93f81ea994ef908eb40d523c5"
 mode = "metadata:curseforge"
 
 [update]

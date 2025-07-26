@@ -3,8 +3,8 @@ filename = "Login_Shield-1.12.2-6-g5654706.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0f5c4f94b01749648f9916093c3b46ce48148a26"
+hash-format = "sha512"
+hash = "1acdcff0bccd4960c69457f24c18d123cc4f38647d69380e1afa0ead52ba8064db0bd06f2dcf9e9e5acd2c95e74c47b20a58c5f4be070f90e03f1446cd94f7c2"
 mode = "metadata:curseforge"
 
 [update]

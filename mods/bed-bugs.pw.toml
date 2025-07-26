@@ -3,8 +3,8 @@ filename = "BedBugs-1.12-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f7349104b91d7210c752c222123eb8f218dac61"
+hash-format = "sha512"
+hash = "f9acc7eb11a76eca54d410a99a1b7ed6b59628937e11cdcd4e006f35ccb9bf512a690fd41e0f59f99eeffcd0e726bb3109dd17e447779bf8e6e5cfa16f166108"
 mode = "metadata:curseforge"
 
 [update]

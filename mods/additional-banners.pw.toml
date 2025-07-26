@@ -3,8 +3,8 @@ filename = "AdditionalBanners-1.12.2-1.1.77.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b0471a7defba6ca8305093134be3e5d8652ac430"
+hash-format = "sha512"
+hash = "3154e51300d10e0602092dac0208b2b6edb7da77945881e8b453b386f2eafff138fafa191573ce8dccfe912d0ce0f791920250694937f22e73069a196573cf74"
 mode = "metadata:curseforge"
 
 [update]

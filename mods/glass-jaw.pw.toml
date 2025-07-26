@@ -3,8 +3,8 @@ filename = "GlassJaw-MC1.12_ver1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c18d1bf0e16f3cb84c966b92ec3a9f8b9ca8c646"
+hash-format = "sha512"
+hash = "81901349aadf9d923120a2f42557dbcc12e47ad6be191b16a0f34aa52ed9f05e5380bcfa888b7876f2f23997681ece470af986036039c62292ff5c52e55a0911"
 mode = "metadata:curseforge"
 
 [update]

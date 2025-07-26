@@ -3,8 +3,8 @@ filename = "astikorcarts-1.12.2-0.1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a671d26e3e75cd7bfc8d41bc272f39197dc5458"
+hash-format = "sha512"
+hash = "adb40913e52d6a6c0031c035e76c30c4d88e7e624329af8e25e8ff7ed9e9bfb9ec10e38b00e0333dcaebef4b14ecc9f7afb15bccd26aede67ff0c6fb1ae8bbef"
 mode = "metadata:curseforge"
 
 [update]

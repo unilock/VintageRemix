@@ -3,8 +3,8 @@ filename = "Bookshelf-1.12.2-2.3.590.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83a1864dd78f48102609849dd36866d6cf32b907"
+hash-format = "sha512"
+hash = "a3217d1072d98c9c3ff2d9190a7c37cc81aad390179ac72abea7edea3485c6f2851a6cc5f94f07c229d5ac1fd78db58f558b45a299ceaae11ccdfd1aa351fcd7"
 mode = "metadata:curseforge"
 
 [update]

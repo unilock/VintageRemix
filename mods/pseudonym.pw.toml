@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://carbide-sun.github.io/dl/Psuedonym-1.1.jar"
-hash-format = "sha256"
-hash = "ec55ab5026823da50b80ec69b60f9bbb8d8f2df6f9dade875d32538199f92674"
+hash-format = "sha512"
+hash = "55bbe327bbbae1a44e18f715290dee86d47e54288982506f073b142562ae447213aacc65369d316eb47b01e1a0d9f184e69d3222ad2e8b3304f23e5913d6f116"

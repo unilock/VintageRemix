@@ -3,8 +3,8 @@ filename = "divinefavor-1.0.788.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a15983727c7d6d02144e0011a180b06d4df833ce"
+hash-format = "sha512"
+hash = "95d78f79cb011cd2b1d2fd342f4b6910e91df31db3266af85149b9d1cad48fede50700a374920caf5bc19cadb5b116609ed998453741022cb942574be134613f"
 mode = "metadata:curseforge"
 
 [update]

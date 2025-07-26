@@ -3,8 +3,8 @@ filename = "QuarkRotN-r1.6-190.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff3de014f7e4514b07575ef9e947e076393d76a4"
+hash-format = "sha512"
+hash = "b2b4fe52fa6742cdfa910ed1d70a51d008a352feedfe8977ecc36ba9b380231e93422de064a1103ee00fc692013962213511deb1f3a7e6651fb5d4582af23aed"
 mode = "metadata:curseforge"
 
 [update]

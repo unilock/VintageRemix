@@ -3,8 +3,8 @@ filename = "OpenLights-MC1.12.2-0.1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24c3be515a821f37527e73e4d8b781bbe5f338ac"
+hash-format = "sha512"
+hash = "888661c9aafa19d18033be1807ee8b6dd2988bc8058cd8d0b37fe8172931b8e859331166f8a1c98501c1d7293d22aa90356536f95b90b3e9af9b9446cc4bee36"
 mode = "metadata:curseforge"
 
 [update]

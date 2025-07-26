@@ -3,8 +3,8 @@ filename = "DummyCoreUnofficial-2.4.112.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "279499fec7b1ea593669c7fc09959b2266aabe78"
+hash-format = "sha512"
+hash = "19c33ab4d4a931f60fb21daa75d91a533be297e80c4fa2bd4c459f9b4d22dd4ae898b4f5f7bdfcc266f202345d19933f7b249295aaf2db460d5073857775aec9"
 mode = "metadata:curseforge"
 
 [update]

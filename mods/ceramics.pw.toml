@@ -3,8 +3,8 @@ filename = "Ceramics-1.12-1.3.7b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dd7b5ff40ce6d1ce82ea2b1fab3d8f202adae9b6"
+hash-format = "sha512"
+hash = "2c2485580c432fc66dc5ebd86b912c3fc29e49a73744f21efc6b412604053522a84b280e380ddd88fcab051ae70a9bb9bd7a68e2bea5b60feebb5ce8764e5735"
 mode = "metadata:curseforge"
 
 [update]

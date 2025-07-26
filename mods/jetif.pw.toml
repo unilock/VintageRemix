@@ -3,8 +3,8 @@ filename = "jetif-1.12.2-1.5.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "85c9ceee9fe4fa5232de2daeade9853c6f1bbed4"
+hash-format = "sha512"
+hash = "82692c9618f5c6cca27d4e8fc10e89c9472ce7e6844bad7d760608242f5845ad45e088b7dd6448de8c6a4b5b1784256509d9f7f7a2ea3409028aaef00ae75e89"
 mode = "metadata:curseforge"
 
 [update]

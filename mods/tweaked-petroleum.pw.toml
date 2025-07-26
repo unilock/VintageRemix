@@ -3,8 +3,8 @@ filename = "tweakedpetroleum-2.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "317fb1799de012651b816a3b5abe6e29a4703ebd"
+hash-format = "sha512"
+hash = "e2187398750ec7bbc3fedebf1b9cd6b038c524ebf61f3fd54a8107ef4680a1154a2be82f258fe0b42e532055fa5b186f353eea06e2e57b8dc68e3ec11da0fd14"
 mode = "metadata:curseforge"
 
 [update]

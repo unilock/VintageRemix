@@ -3,8 +3,8 @@ filename = "bc-ore-processing-7.99.24.4-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bc80ee584520ffa0aa2a272a218ba4e266caba82"
+hash-format = "sha512"
+hash = "a499f61f8ed13e03f23842978b6ed320cec79c49997a8571f4ec58cb7c9ea85b5485a7dbe9452d21384b51c8bc4255f5a9ba3bd175fdf2cd74b45aace0181892"
 mode = "metadata:curseforge"
 
 [update]

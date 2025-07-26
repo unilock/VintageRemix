@@ -3,8 +3,8 @@ filename = "buildcraft-all-8.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dba9b2f4560b6482affc85a535a13406f4a999ab"
+hash-format = "sha512"
+hash = "10b2e8bd43eefc664f3ab3908a52fa8ec012ba27d984acbc3b6ea9803c64c8fc52f232b21c8bd4fad82d764a7f570f4542eeae8fbace175d916cd3fe8bb7bbac"
 mode = "metadata:curseforge"
 
 [update]

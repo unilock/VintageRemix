@@ -3,8 +3,8 @@ filename = "Arcane Ateries Kedition-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c22c07ba1a2c4d4fbdc91eeea6e8f75970ed3b40"
+hash-format = "sha512"
+hash = "d233215aa2db378c2c5cf97db48d821bc98228c0bca15f2bd5123714736a37359911be2060d49b40189965808b3c5c056e9f64e24379af3007ff399b041eb763"
 mode = "metadata:curseforge"
 
 [update]

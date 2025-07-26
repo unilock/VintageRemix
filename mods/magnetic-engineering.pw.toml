@@ -3,8 +3,8 @@ filename = "Magneticraft_1.12-2.9.3-dev.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b69f6d1df80a7244e140c894af3cdb3b424ad68"
+hash-format = "sha512"
+hash = "4b45a79663d0a9adb80bdaadb04c98019e3ce52acb8ed07fc5e8dc45d2ed5e7663679b91d6ae8aed14fa25c8e312fa2c6232782451ccada72dd189c5123c923a"
 mode = "metadata:curseforge"
 
 [update]

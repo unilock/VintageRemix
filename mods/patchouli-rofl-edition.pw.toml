@@ -3,8 +3,8 @@ filename = "Patchouli-1.0-28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "28debe44cc06685ca9274cd38441c933ed53836e"
+hash-format = "sha512"
+hash = "3eb209501e137cbeaaf849ad1b62ad6783ad4b4464ddae85e063853d59757b4bcd465894e923cfeb4e34116987f3e4c1c22e3b31f7baad7beae2c109da68f062"
 mode = "metadata:curseforge"
 
 [update]

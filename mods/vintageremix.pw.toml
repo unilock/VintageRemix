@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/vintageremix-2.7.0.jar"
-hash-format = "sha256"
-hash = "200e597ca6bbc25fd844446e714a838a4a551515a45ca332330137bf9d7a4199"
+hash-format = "sha512"
+hash = "aa38bac620b02a0a95cf79b0d9c65aa33eb893269d1d4b18957cccfcdcd74d91b8bef2e641b75d269011440e4d2773e299cc0647b0e55ad2a7e1680a23240343"

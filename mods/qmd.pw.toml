@@ -3,8 +3,8 @@ filename = "QMD-1.5 beta-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6617a8542781fe0bbb518495c6a50dddcc6d2c67"
+hash-format = "sha512"
+hash = "9fed488b638ff67b9af445cf830d8e4bec8415249ac14f11dede99ed8b298d97a1dc6210bd6d154e2227d6d60dedbe8a068642e97bef49476d17679dc47e0e85"
 mode = "metadata:curseforge"
 
 [update]

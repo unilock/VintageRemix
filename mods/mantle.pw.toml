@@ -3,8 +3,8 @@ filename = "Mantle-1.12-1.3.3.55.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a1e5d5c197dae3e92637cafb8cd996185191165b"
+hash-format = "sha512"
+hash = "3ff6e2ef2eaa0ea5c1cf0d30dc35cec65b92f1eb2bb9f1261a6c97755e7cc24b80a6902f354d9b88ae58f0a03077b74a35ecce494705a551c769d102b1c397c3"
 mode = "metadata:curseforge"
 
 [update]

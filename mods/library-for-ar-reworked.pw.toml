@@ -3,8 +3,8 @@ filename = "ARLib-17-09-2024.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "84f5e8253db03319bc1086e64cbfd331a9d93542"
+hash-format = "sha512"
+hash = "4455cee52ef87f78ca89474cbeb95f3abafac629165527973accaa37d4f51d9534280b9d7e1216a163a10cdb56741bc0376c204e76ee3339c08f296d0582d046"
 mode = "metadata:curseforge"
 
 [update]

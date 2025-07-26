@@ -3,8 +3,8 @@ filename = "ThaumicWaila-1.12.2-0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97bd2df41e4be5991d9343c1cd9e37494c3cc0d2"
+hash-format = "sha512"
+hash = "84e83c061ad1f29ab8c5b1de953d64bf4d9a5a5a0989d5002f4b01c3634356b8784a2bc030b12453ccf651b104641712529c93164fb232660acd25205f3cd75c"
 mode = "metadata:curseforge"
 
 [update]

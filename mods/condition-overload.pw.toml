@@ -3,8 +3,8 @@ filename = "conditionoverload-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c19e946324d5e222ac64592bff8491868612e9dd"
+hash-format = "sha512"
+hash = "de636befdb3adab0f9e6ebda6dab3da99c68cb6eeaa886e57bd852890a664d3a924301c4d98a86c2b6f8f6e1070edde0f6ce123455980fd7c3c84217c83cc5b2"
 mode = "metadata:curseforge"
 
 [update]

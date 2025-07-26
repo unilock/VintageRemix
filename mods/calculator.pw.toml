@@ -3,8 +3,8 @@ filename = "calculator-1.12.2-5.0.12-15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d68f70c4922095d9a1edc9b30add4244ea2e43ec"
+hash-format = "sha512"
+hash = "5c31f8916f9d44ba640a32de9728a030d63a1bb9575a71e389afe97e028b8dbcd18cdad320ae30699e316cf54e8b12b42f4fd3b428d5d45b3830d5de2ffb256d"
 mode = "metadata:curseforge"
 
 [update]

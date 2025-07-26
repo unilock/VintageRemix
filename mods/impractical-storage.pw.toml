@@ -3,8 +3,8 @@ filename = "ImpraticalStorage-1.5.1-MC1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "03b6b50f6411f356d14572e8321e1b2e1ae36a05"
+hash-format = "sha512"
+hash = "490ee64e23eed92ac41e0be68d6025dc99df6bd2f0ec00d14dedffc704ec7daec1965e98e4493f8bb0fa730e94fe12882fae98dd33d18eb7c955c5341a391493"
 mode = "metadata:curseforge"
 
 [update]

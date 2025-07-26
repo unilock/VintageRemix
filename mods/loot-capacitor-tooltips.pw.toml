@@ -3,8 +3,8 @@ filename = "lootcapacitortooltips-1.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f5e36c3d1264202edb6469cacb506636ab2dda72"
+hash-format = "sha512"
+hash = "46159f97ba1868e470eeffae503849aeaabbce33c177313b239e45e97cbadfc97ca47ce249dccee4534d36299a1449034d0b86cfadfa5aa61291bce47c8337b5"
 mode = "metadata:curseforge"
 
 [update]

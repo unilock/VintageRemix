@@ -3,8 +3,8 @@ filename = "Kiwi-1.12.2-0.5.3.32.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a7bf1a653653b7b6885af49be18348613874fb22"
+hash-format = "sha512"
+hash = "befbf7c4b917f398c10cfc97903baefe82186fff207a77443eb6489a6fbc2f5f0bab67f8dee3a3459b7762ec7912f144e72f1b82f6d468e887267dfdd95a0df7"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "alternatingflux-0.12.2-2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bcad5acd1909953bc1f5fb42e6a5df81d4b0fd6c"
+hash-format = "sha512"
+hash = "74037132701126c61f89793890c6bdc377bc27ffa90b5e7a0d7f312a19aa4b79dac9092c77fd980cf8c63d376e0f1d68da190f4f86b52965e28d68803164f5ad"
 mode = "metadata:curseforge"
 
 [update]

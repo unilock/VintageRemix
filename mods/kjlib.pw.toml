@@ -3,8 +3,8 @@ filename = "kjlib-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "76fc35689b3bed522744a6e1a19a899d5c3cd7c9"
+hash-format = "sha512"
+hash = "d1dbdb928d159525012577664ddb556b5692753b9987e3ce37f52bd09c8a28df0540552a6ccdae4d05ea78e90c0e439780d852059c80029dbbb07cde17ae4d9f"
 mode = "metadata:curseforge"
 
 [update]

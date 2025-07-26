@@ -3,8 +3,8 @@ filename = "thaumicwonders-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bda800a30fcc4f95f4e8d8ba55df1e52c1885678"
+hash-format = "sha512"
+hash = "6097beb2da0c57854ac7cc8175f6cf8800b70990a4b41d4c57be869b657e46255229f3e9011d6eee581f2d5285c6b805da15ba0e3ca85074f030cfb02d9775d7"
 mode = "metadata:curseforge"
 
 [update]

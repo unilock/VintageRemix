@@ -3,8 +3,8 @@ filename = "immersiveintelligence-0.3.1-dev2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4676f6944b6387c0a071cfcc439f27faad7edbb0"
+hash-format = "sha512"
+hash = "26b4a35e21abc393bf989d16b7abcd0886d26628c172bfda0ed8a6b0647042f08f2f0d75946a2d454c323a30bb02b17288fcfe32c09119adb4e2867f7764d669"
 mode = "metadata:curseforge"
 
 [update]

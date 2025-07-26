@@ -3,8 +3,8 @@ filename = "visualclaiming-0.0.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "04132c7a910428e8bc94e377419698bbefdfc604"
+hash-format = "sha512"
+hash = "7feef165cc93e14628d82d648769c43674cb0df53124a4e09a2042261e2ebebf38aa3c34223e578df26431b9bfcc5ee28c68b1506071e11e700372a8f1c2d292"
 mode = "metadata:curseforge"
 
 [update]

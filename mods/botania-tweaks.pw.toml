@@ -3,8 +3,8 @@ filename = "botaniatweaks-1.9.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de67f7666ff5af6486f1687c61be273e0d150d32"
+hash-format = "sha512"
+hash = "b9ef7083d1a1d64e0b9e731264ff71b5f92ed3568566710285a781a80af42d04c4a3d09381955ce0def5248f0016286e43f39fab5d5f58c48eef8acad13c6cc8"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "weirdinggadget-1.12.2-2.1.16-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b21a3cbb5bcecac448c471a438c17febe8d1f953"
+hash-format = "sha512"
+hash = "a5b421f61d5e7b448159ad565409b16212f6a998968e51710576fea5caf8fa649f6444fec19b2c7d189437288d9b493f4ddf506f2b822ab9cafc56080a37b531"
 mode = "metadata:curseforge"
 
 [update]

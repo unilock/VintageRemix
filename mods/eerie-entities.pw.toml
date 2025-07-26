@@ -3,8 +3,8 @@ filename = "EerieEntities-1.12.2-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "30713af2e103899250239cbdfd2f7afb75e29f81"
+hash-format = "sha512"
+hash = "3c0760ef657a1202aa4b7bf4837495a73b52788b838d43e2d912b3487e9ac41cdd8275af22a6d671ad581b6d0d6ce6cf1c8a87a558eb237335c3423d36b0c2fc"
 mode = "metadata:curseforge"
 
 [update]

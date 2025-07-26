@@ -3,8 +3,8 @@ filename = "RailwayDepotWorker-1.9.2+build.23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1fba10790244c69e896a4ab2dd2481728472686e"
+hash-format = "sha512"
+hash = "b20f7e212f9c44ccd8cce2423562c545213072932b88b391d6291d9c94501b3e7360db1f849a4a173da85ff35cbae7217850d8f1fb4d52aaedfcec19b9988034"
 mode = "metadata:curseforge"
 
 [update]

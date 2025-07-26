@@ -3,8 +3,8 @@ filename = "HatStand-1.12.2-7.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bfe7d60a6ad4ab9bdec402d3d5d8088aad2f45dc"
+hash-format = "sha512"
+hash = "177243b553f13809583fab5b6828efc9f4f791cbd034cd134f2d41257543c34940f3b8771fd662abd0aac8f12e0c9e9a4127f921c82a52d3c8b5c5b81f02b4b2"
 mode = "metadata:curseforge"
 
 [update]

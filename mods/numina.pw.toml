@@ -3,8 +3,8 @@ filename = "Numina-1.12.2-1.1.049.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "da885c9bcf1f35d198b6617dc16a043d729a297f"
+hash-format = "sha512"
+hash = "9013a28be986b6a27ee758601bfa159d1f0aa35eb405cdc3882013b8b49dac2f166a24ea5a80625d5461ab6fac3735a57ff91708d477863ad5413a6217c4c377"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Bountiful Baubles-1.12.2-0.1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9cddb1fab23e51119cefa379e1affb07ed0818d2"
+hash-format = "sha512"
+hash = "c9551c87137b951f0234fe4c5b38ce4f32a73c492444cd53fa49c4a110b72c35faf294413dd036bbfe9b7488119cb1e4fcab9ecf9f75a0828b04f467041737e6"
 mode = "metadata:curseforge"
 
 [update]

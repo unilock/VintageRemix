@@ -3,8 +3,8 @@ filename = "natura-1.12.2-4.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36e61866b622dc417e77981df2a80b964dba60ac"
+hash-format = "sha512"
+hash = "b30deffdb990a4a66d9a0c55f8a2865df184ef5050617663814d187616beb6ab9650d62f0b4a7d438adeec7dbf38b5ee9eb293a0a45e0db3672ad2c84c7ae10c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "OpenPrinter-1.12.2-0.1.0.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b98e2ecec94617bb2a5473755ae3e8a3e8d5bcb7"
+hash-format = "sha512"
+hash = "f6ec095516982d03a2e18d3beaa2d0f383d35f88780aef70d937b38c795ce0b8a40e9a7e06dabce4e4bbe30db50eae79a5166f09979af2291da84c0937f652de"
 mode = "metadata:curseforge"
 
 [update]

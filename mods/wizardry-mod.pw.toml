@@ -3,8 +3,8 @@ filename = "wizardry-0.11.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2851e00c83d4cc3027170ac43d7cba3b87ef5ca0"
+hash-format = "sha512"
+hash = "696bbd0dd57496f837295a25e85f105040da53f8439dec86eb9edb6fbf423070c8c7d396cf0d8b8087ac730e82739a8869e4904365e55b8d52dea420adbcc85e"
 mode = "metadata:curseforge"
 
 [update]

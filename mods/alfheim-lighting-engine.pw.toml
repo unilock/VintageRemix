@@ -3,8 +3,8 @@ filename = "Alfheim-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15aaa39a13e18ab2f29456b25fd9732da1949329"
+hash-format = "sha512"
+hash = "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5"
 mode = "metadata:curseforge"
 
 [update]

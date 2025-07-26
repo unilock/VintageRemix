@@ -3,8 +3,8 @@ filename = "emt-12.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69f018c030b2ae92456d93fdbb5b56794e98e3ad"
+hash-format = "sha512"
+hash = "708200ddab8ecbb8a96e9b6937d0c8be248f594924526bdd2d5d3fd12996c80b58502f02a2f4e6eb42aba03445113a380c9850bc33080e7adc1ba130970d9649"
 mode = "metadata:curseforge"
 
 [update]

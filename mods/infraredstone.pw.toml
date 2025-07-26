@@ -3,8 +3,8 @@ filename = "InfraRedstone-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "3894797895"
+hash-format = "sha512"
+hash = "12866a939dc572a3f5db625a55e7ff557423f3d1fff53c78f4d500f005df9ad93b33f1be9ccd5c0b14259953ab10b017438eb34190153a35a89f29605201604c"
 mode = "metadata:curseforge"
 
 [update]

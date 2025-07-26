@@ -3,8 +3,8 @@ filename = "Friendly-Chests-v1.0.3-mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b928477593912f172aa0e753efd8dc64e09ef75"
+hash-format = "sha512"
+hash = "8454d50689faab02ab695e80150b9ca6566f07789413dc0e9ae1f439babbfb9e6dc0a4db43957021fa820789292c80bbb262cf8269804834cfa85d733fdb3ce1"
 mode = "metadata:curseforge"
 
 [update]

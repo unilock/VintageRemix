@@ -3,8 +3,8 @@ filename = "openmodularturrets-1.12.2-3.1.14-382.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0afda8104fb4198fcaae09ef3976b6536ff7dc6d"
+hash-format = "sha512"
+hash = "38dfd87287944fd4bec7f86e26b51348d055a8c45ed0dbdbb1cb6a082802b728b9f62d76e46f5bb7db26720980336d7b634fc3680318a12a097ec65e71db38bc"
 mode = "metadata:curseforge"
 
 [update]

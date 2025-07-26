@@ -3,8 +3,8 @@ filename = "ImprovedBackpacks-1.12.2-1.5.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "021f50ce1abe2d504f8111df75cf845e03efd3fa"
+hash-format = "sha512"
+hash = "e8fd27077edfd8333775ee0773af4756935928a95f1b79c8e44f3240fb54e778854f79ff1fbb25f2922e6a3daa367bbbbb148e3051a7fad4be21a22ce7c5bb2a"
 mode = "metadata:curseforge"
 
 [update]

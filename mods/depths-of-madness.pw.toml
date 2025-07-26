@@ -3,8 +3,8 @@ filename = "The Depths of Madness - 0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "68855d4ebc6bd2072aded3dc8d43490fb2d3235b"
+hash-format = "sha512"
+hash = "a984a9f0d8a5ec059906831474a6fd3fd5b62396969afa08b283d6a7eb37048cd2aa156f19e53c6190c3921ea8281e8b5743474c29969f319e261938a6b81fd1"
 mode = "metadata:curseforge"
 
 [update]

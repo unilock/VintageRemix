@@ -3,8 +3,8 @@ filename = "EssentialCraftUnofficial-4.9.112.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2ff6d0d599c8bedcd694de9906c1e9d834ad9011"
+hash-format = "sha512"
+hash = "52295dfde4a603768b624b995676004541dc36bbb316698df7c3bae732acdc21c91b760215d8e9bc37f862f96dfa2ca023382d345f399722f0620d95a0cd872b"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6bd93897638fd68794cae17c9520b68a85fc97d0"
+hash-format = "sha512"
+hash = "44ffc865796b35f0f8e57d2b2886410d5f0aded1370f5ff14aaa34830a8d7152428ba1738d4e98024aed55e87be964feeafa475e146c44ef9b93c456c5dc01bf"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "worleycaves-1.12.2-1.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad8d5845683a65981b54d9737d9dcccaf8ae9b9c"
+hash-format = "sha512"
+hash = "7a740466e817ae56bc4a379248af4caae84da06c050470e20ed4934cb80f85989e68c7908cebabae61704f0ed040249f706995214b563c2611780dbfdb763b4c"
 mode = "metadata:curseforge"
 
 [update]

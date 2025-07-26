@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/Bluberry-Kat/ThermionicsWorld/releases/download/MC1.12.2_ver1.0.2/ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
-hash-format = "sha256"
-hash = "b346d033034284089e4619e6f8d8fa849c22d1244bf6b127921c3be20f1edf5d"
+hash-format = "sha512"
+hash = "65a17df02f0fa3147e9d03f015d996288f482f541487229e0068b267ad606ca8c95d4d6d64e5494cffb0317188844d6b0fe4cd877f2497e242110cb300fa7a0b"
 
 [update]
 [update.github]

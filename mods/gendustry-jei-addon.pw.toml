@@ -3,8 +3,8 @@ filename = "gendustryjei-1.0.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "fb3cddd50d037700bbd5dfb2a9db54736db8bbc6"
+hash-format = "sha512"
+hash = "b684e4642d19bee6637166b97a5d3b47390ff36d2afaa067ad60955fe362b2eed9f586bd54ee62213cd979965d818cab613155d72d58f17371e3549dc09aa32c"
 mode = "metadata:curseforge"
 
 [update]

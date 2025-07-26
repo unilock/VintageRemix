@@ -3,8 +3,8 @@ filename = "NetherEx-1.12.2-2.2.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7f4a5b135430b8393f69e971d4e0c6c6ff0c2d7"
+hash-format = "sha512"
+hash = "ddca56f0c0e2c9afda68f655e8a97eefc1b8e1d158a733e361c717dd7c1f9e53b0635e66ba922dd90c87ed56cec322d9876deacef5d10fc033b4775113f33708"
 mode = "metadata:curseforge"
 
 [update]

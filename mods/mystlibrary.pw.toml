@@ -3,8 +3,8 @@ filename = "mystlibrary-1.12.2-0.0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "681b05020426a9b64a1a59b96d54001f50818aa4"
+hash-format = "sha512"
+hash = "a1b0298fa2e3ac435044d50b447658a534456634d2935037036dde840b263e815f4d50d8d13bb08fd1273a326370a9b99879bcdfe2d5470829ec6cd59b22adb5"
 mode = "metadata:curseforge"
 
 [update]

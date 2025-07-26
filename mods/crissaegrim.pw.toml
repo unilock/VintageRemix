@@ -3,8 +3,8 @@ filename = "Crissaegrim-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca5f35c937c73e8806835f3316f9d99baaca54e8"
+hash-format = "sha512"
+hash = "35d9e99017bc710e067c881104f184721489397df3ec390f02ffff35e4406b39d00e88fe2d81446b0137a589c5e994fcc0b76d9504958a350b4a52342e3350dd"
 mode = "metadata:curseforge"
 
 [update]

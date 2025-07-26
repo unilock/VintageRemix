@@ -3,8 +3,8 @@ filename = "KitchenTools-0.4.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f1696dc24a26f227c735fb7fcce5301f2c97b82a"
+hash-format = "sha512"
+hash = "d3cfcb3556be293c3ff666868d74955e361eb08955a9a3adb66a4b0079e10fe6a4a5db326d5a07207edbde5337c07f1d68a65cb0108300a1957b88bf5ca76197"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://oldci.y2k.diy/job/elytra/job/ProbeDataProvider/1.12/ProbeDataProviderAPI-MC1.12_ver1.1.1.jar"
-hash-format = "sha256"
-hash = "cd6f10997d059174585fe381e98610bfdd5d0ded327216ef77f3bf2b5d223310"
+hash-format = "sha512"
+hash = "814ff9f4792a7a11a4b129100da0cb6f21cfdfe53dd9f662e0e599b37725bd4a3cc47899c314a72871468d95af35c37aa929cac4cbef36587734eb32d065613e"

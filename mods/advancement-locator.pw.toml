@@ -3,8 +3,8 @@ filename = "cta-1.12.2-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b683d316ec78f404de3fc7275a23ed241cba749"
+hash-format = "sha512"
+hash = "04161a896bf17fcbe990f53da87c49ef473ce8df01d82a421cc4a32761e0378928b99e85d10cd206a127f41ec69c77f60878dd134e8755b444aae80cbfba0993"
 mode = "metadata:curseforge"
 
 [update]

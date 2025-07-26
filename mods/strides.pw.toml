@@ -3,8 +3,8 @@ filename = "Strides-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "adaf61a3b4728f013ed252d08ec098d2a92aefe9"
+hash-format = "sha512"
+hash = "cb0ffc6328549eb5229e79c4bba6ba84b812994700951663fe1b5f1c891cb5a2db90892a9a5e88db65bf861a4f8734e75de2a6d991e2e94c49c44f2aadfb5c65"
 mode = "metadata:curseforge"
 
 [update]

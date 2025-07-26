@@ -3,8 +3,8 @@ filename = "sonarcore-1.12.2-5.0.19-20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92b7e86655202ba487f7b4d6932a8e332e503363"
+hash-format = "sha512"
+hash = "35b31735f8cf477404ab59830138adbb6cbda90cfa7b8820af22d0a235228b0e08338f816e4400e972ce9dece4b5521e8472772cd39c23d50fa912b6703ba841"
 mode = "metadata:curseforge"
 
 [update]

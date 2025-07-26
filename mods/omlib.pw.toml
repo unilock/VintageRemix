@@ -3,8 +3,8 @@ filename = "omlib-1.12.2-3.1.5-256.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d7b5835de45067e2234cb0b5121bbd14291ef187"
+hash-format = "sha512"
+hash = "f5e435515e266c76bb654b4247cefabdcb94208ee707ab64771762e6bfb1008a905607ab8b9d91759bf7908fe70cc36b5a1e159d05f93eb365dfd14c2d92c4b5"
 mode = "metadata:curseforge"
 
 [update]

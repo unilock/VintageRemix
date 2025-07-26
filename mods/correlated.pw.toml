@@ -3,8 +3,8 @@ filename = "Correlated-1.12.2-2.1-final.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3b360a61b42216e4848cb788349ad4ce4e6f92cb"
+hash-format = "sha512"
+hash = "408894e28b0a8335447654957bd1933f6817ed1373a80020ee5e45e1af9e9da0e30b12e3265642fe7dc3b99c66610290f2efeda15a3269a85234f7698b9de808"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Animus-1.12-2.1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bc7aaa5bb2c839503178414c6bfb06c9b9c3554e"
+hash-format = "sha512"
+hash = "82889dc6df6c0361e713f81977e8850279141f54d2548ab62778b8abea0f0ccb67f62d23b4590427982cca0322848f84f5cd859f52d857cf488f7c3763daf3ff"
 mode = "metadata:curseforge"
 
 [update]

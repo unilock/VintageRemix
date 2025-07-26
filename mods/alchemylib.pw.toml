@@ -3,8 +3,8 @@ filename = "alib-1.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "01598e1bdd7e4851bab5193537011853652f08f0"
+hash-format = "sha512"
+hash = "9a1b33a92e549c67a760ac136be88ebce7421ea303ec9558671be716fdee0d40b95da3123489bac927be057159467c89d127a5b52058fdf5b05d4c09244069b7"
 mode = "metadata:curseforge"
 
 [update]

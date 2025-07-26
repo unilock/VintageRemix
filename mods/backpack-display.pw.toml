@@ -3,8 +3,8 @@ filename = "backpackdisplay-1.6.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9cdc92e1b8ffd06254908ff621e1aa973b6136a7"
+hash-format = "sha512"
+hash = "4aa5aad4ed4997aef99890992017075456a4c2436f1eb8090c51ccb7e593f0201342c2efb83e12a8a59cb2b095839bed11b71cacb827176388a3a9793944520e"
 mode = "metadata:curseforge"
 
 [update]

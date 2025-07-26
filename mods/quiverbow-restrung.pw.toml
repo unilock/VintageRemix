@@ -3,8 +3,8 @@ filename = "QuiverBowRestrung-0.4.1+MC1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "56b4d2681df8e3bf5d464f2df78334b186120345"
+hash-format = "sha512"
+hash = "b696efbadd4461f6ae3f726f9a3d2bbdb1984e0a3a70c3d3bc9d2289adfbfa12da3d92e16826e7afca05a095874489fab5e6e54a5db10ca9f1e8abfaa39e2da1"
 mode = "metadata:curseforge"
 
 [update]

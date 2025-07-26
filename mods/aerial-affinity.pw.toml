@@ -3,8 +3,8 @@ filename = "aerialaffinity-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6a195d560df219707f9a8c03309210eecd401af4"
+hash-format = "sha512"
+hash = "26174baff642e923ba2943464cf00b4cdcd342375663f98e32ab17c91d4f6e1042ba0725da5166d973ca0995e52164ad40f1645e3abbda16ac50df88d508f98b"
 mode = "metadata:curseforge"
 
 [update]

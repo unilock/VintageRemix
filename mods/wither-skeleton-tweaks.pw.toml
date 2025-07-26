@@ -3,8 +3,8 @@ filename = "WitherSkeletonTweaks-1.12.2-2.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a67cf5cf71cbfacad28b6c8caf280c7196c82bfb"
+hash-format = "sha512"
+hash = "cdf0aca16947acfe515a1c8073c031e17a0ad0cb0667605ada7b263800b96c033bcf82363137b5766349eb5ff721ae3403f2af4659a816eea96ade3d30bcbd2c"
 mode = "metadata:curseforge"
 
 [update]

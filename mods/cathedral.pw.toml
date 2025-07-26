@@ -3,8 +3,8 @@ filename = "Cathedral-1.12.2-1.9.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c73049f19499f6e6201e75cbdf05a1ed8f25536a"
+hash-format = "sha512"
+hash = "1d032f2feb0ae30d6d3051d2c2a3a7ed863e1fc1bc356c15474d1d57b37d509614cf01651f29141cbe3b4beaf6852dce586b663c472944bd67714a0cbe48a9ca"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "BringMeTheRings-0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "999a212c5401cf12f08d48ee5e337ec7e662f556"
+hash-format = "sha512"
+hash = "b25499f0a9e12abe6af119a234f8a45cd8415da377b87198b31cb170d2d7db403917ee9a48aa073af47e925a37fbc6e13d171a12055a6a3d2e58d32e9bef2cde"
 mode = "metadata:curseforge"
 
 [update]

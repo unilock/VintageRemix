@@ -3,8 +3,8 @@ filename = "ears-forge-1.12-1.4.7.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6e2bbe9893c000dc52716ad5def23f205fd9e698"
+hash-format = "sha512"
+hash = "56d749521826b59d6527707435dccdbe2d45ddcf071fe89a46e60cd66032e2cfdd93eceb080cf64bc5c643a3a8c138d2c8a4aaae002ca95a992d89f690879da0"
 mode = "metadata:curseforge"
 
 [update]

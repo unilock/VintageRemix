@@ -3,8 +3,8 @@ filename = "monk-mod-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a40944a3b7d25ceabad26a747f35d7cdd9b21d67"
+hash-format = "sha512"
+hash = "f4c60f935ea6f331ed1e1f7c11bc7affe28f834693887f6a248f145cc709d375a3766ca6929d06a8787d47a21fa7737231f0a7dfe36180ddc88ef3e9f1c1a7f0"
 mode = "metadata:curseforge"
 
 [update]

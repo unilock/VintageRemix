@@ -3,8 +3,8 @@ filename = "quacklib-2.2.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "14f0bb427f776338fd91902d17d77cd818bea92e"
+hash-format = "sha512"
+hash = "4211bc16900d8eca16be4568c4936c147d0a069033e2279b7fa74b5a1f3dfeb0db273335dc19668fa8df726e302ce4fa5d77fcfb58d4023a5e14bd0e6517bf4e"
 mode = "metadata:curseforge"
 
 [update]

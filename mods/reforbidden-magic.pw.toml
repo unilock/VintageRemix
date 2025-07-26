@@ -3,8 +3,8 @@ filename = "ReForbidden Magic-1.12.2-v1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d8ca3a2994e9817e1208dc4c7be7fc47df6fba3"
+hash-format = "sha512"
+hash = "5f2aea41f2c947941ae8e77ae2bdf0c40f104da2426d08ea4d4e5ad5b65d8f73263f1ff3766f7ca4df9bca320c3516f194a01dca82804f6b8e628f0e9474b1b9"
 mode = "metadata:curseforge"
 
 [update]

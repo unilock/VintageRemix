@@ -3,8 +3,8 @@ filename = "OpenGlasses-MC1.12.2-2.2-53.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8fb78b8b7e7486a40966cf283833fa04abc84b6"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

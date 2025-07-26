@@ -3,8 +3,8 @@ filename = "practical-space-fireworks-0.2.1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3d3179531498001d12cbff3325a4ba93ae65de9"
+hash-format = "sha512"
+hash = "d76a6c06867eb720c8b43298f22455c7393cd2234ebf516c7935b6a17f66f3bc3c08e58865090b52f106f9299add5092560cff980d7177993e23ab5ccca89c36"
 mode = "metadata:curseforge"
 
 [update]

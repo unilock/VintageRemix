@@ -3,8 +3,8 @@ filename = "aunis-1.12.2-1.9.11-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f99869cff09a6ff634dcc8201e83a5f06bcce3f"
+hash-format = "sha512"
+hash = "0304cce20369a32cf19d064b256c955c33443a803f2def0689d6f2ab3a39d79176b7d8ed08d7115f40a80e17920a8cbc7899262bf468b1968347787fcb6ba89e"
 mode = "metadata:curseforge"
 
 [update]

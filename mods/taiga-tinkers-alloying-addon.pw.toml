@@ -3,8 +3,8 @@ filename = "taiga-1.12.2-1.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0322c349f02c20a0e2f9d9434a66b74b14db4221"
+hash-format = "sha512"
+hash = "8fdd99fd283fbcf1a0310ff0933018a4df3ca26d06b824525e311c4163c255bb2451a8a078b42c9ee6f28078992ff41a6dab3588f54a38f047dc46ca45a26fdf"
 mode = "metadata:curseforge"
 
 [update]

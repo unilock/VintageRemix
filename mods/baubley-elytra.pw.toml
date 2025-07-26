@@ -3,8 +3,8 @@ filename = "Baubley-Elytra-v1.3.3-mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e604328e3ac289710971713be25825db1ecf8b63"
+hash-format = "sha512"
+hash = "218eafba7e93463f7da5e2d09a3f71573133738a67c0e75f8ff70edfc67dbfb04a1b73d3abbebf103fadaf529a5f28f3c533309d779b8c6c84a12d8d2385f12b"
 mode = "metadata:curseforge"
 
 [update]

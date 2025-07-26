@@ -3,8 +3,8 @@ filename = "Labyrinth-1.12.2-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "53190e34fb861bdf637e0fe98a3ace646258baa1"
+hash-format = "sha512"
+hash = "d671dc6492c1d27c222c2041370fa419e5b634465e0f8641b617ac7d7d9822a2efb6397143ef36ba5b3e9400e1389234e26ee634731549763a07f5746dafc031"
 mode = "metadata:curseforge"
 
 [update]

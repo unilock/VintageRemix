@@ -3,8 +3,8 @@ filename = "BloodMagic-1.12.2-2.4.3-105.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "541b63338663dbeb5fc818608a70ad3fff129177"
+hash-format = "sha512"
+hash = "64e8439ce33fa654ba8c20027afea16e00df26459dfa5530df74359c2faa73a6d088d243b9e4b687fb952f0c9380f164b7655209a42f1331bd901877a5f6555b"
 mode = "metadata:curseforge"
 
 [update]

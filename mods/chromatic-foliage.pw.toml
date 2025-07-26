@@ -3,8 +3,8 @@ filename = "ChromaticFoliage-2.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d1a88c7a7c2dba2929800930a1c65725815c7ffa"
+hash-format = "sha512"
+hash = "3fdc5caaa448169bd3ba3cace56c973596b59f9cc3726ca3fcb653ae041f7ecdd1cc1179419537075ae5d88b343364556148ea213c06ef167ed2d481cb8ded32"
 mode = "metadata:curseforge"
 
 [update]

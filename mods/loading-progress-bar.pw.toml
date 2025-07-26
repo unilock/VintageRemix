@@ -3,8 +3,8 @@ filename = "Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7f7b3a776e189dcfdaabf7ed2d5f2d961cc50d27"
+hash-format = "sha512"
+hash = "4719e0853c26307f2b789c3acb54cad5e51a5091fbabe78f3f83f547b7273f997683995f0ff05572ba97fefe2bd6b57d0ba374ee1545e2eed9e373b5d35cd695"
 mode = "metadata:curseforge"
 
 [update]

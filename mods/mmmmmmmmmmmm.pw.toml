@@ -3,8 +3,8 @@ filename = "TestDummy2-2.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "43aa160f70a5177e8b28cd8a8f5bbdfc3a284b3d"
+hash-format = "sha512"
+hash = "6c55fe2a38d38c2aec86d408250f4627ff9db3531a1bdef53aee79566d6af37e3ada41f736e985a614900dacbe4ca77e6c9d89f6990062b78a574904c6cd4545"
 mode = "metadata:curseforge"
 
 [update]

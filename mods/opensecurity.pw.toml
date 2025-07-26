@@ -3,8 +3,8 @@ filename = "OpenSecurity-1.12.2-1.0-93.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c708372f9fe90dd5f9b3ae6e5cdd9d404601b48"
+hash-format = "sha512"
+hash = "4fbbcf2ee9afc9f282303190d49dc9178a36d4535fb51819a274ef84927800314bd4a3df336abdb3fec42b4a34434684a69cc81f623600925bbaded7e4fd9411"
 mode = "metadata:curseforge"
 
 [update]

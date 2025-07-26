@@ -3,8 +3,8 @@ filename = "MobGrindingUtils-0.3.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3877e973f9363878956ac43f51875d9e82b1f499"
+hash-format = "sha512"
+hash = "01ead711f4297b40657a90e37c552f40e6d6b9d4839c09e9c1175e034874d151a19e742b3f0cc2cefe89e95d88e4deabd2568ecc7dc4282201c33357342f8419"
 mode = "metadata:curseforge"
 
 [update]

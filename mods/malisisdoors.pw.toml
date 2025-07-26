@@ -3,8 +3,8 @@ filename = "malisisdoors-1.12.2-7.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "87e694ed0722b4106242faf5dd33f7e86929ec88"
+hash-format = "sha512"
+hash = "df6443de6a4c5e40ea635e6d3d3b25dcf60f9c53ae0377eb9db3c7c1b08b63f326d30e3178cdf3b2cdcbe1d26041465714835c77690e4fc1ecceecb735f62cd3"
 mode = "metadata:curseforge"
 
 [update]

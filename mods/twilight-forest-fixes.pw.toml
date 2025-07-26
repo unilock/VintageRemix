@@ -3,8 +3,8 @@ filename = "TwilightForestFixes-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2d9461cbc171f80e58b9ec7431dc30a25ffdf23"
+hash-format = "sha512"
+hash = "e2d42097d689a56634f5dacb217f122ea371f3a1451467b4a848fd1f9827fcc693f2dc764d335b94e5ffcfdbf69ad81cdb5a074baf2c8e40e03e4617f37be85b"
 mode = "metadata:curseforge"
 
 [update]

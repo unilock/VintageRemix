@@ -3,8 +3,8 @@ filename = "practicallogistics2-1.12.2-3.0.8-11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "27641711907fe8c55a3c8043023a6f1d53f19650"
+hash-format = "sha512"
+hash = "05522123d49032aab048d2b86a62c125fc8ed124db0578d81a45e45d0eb54cae42ae9bcb50884989f86083079c2d0be6b0c226b26cd27820497bbf9cb0dcddf5"
 mode = "metadata:curseforge"
 
 [update]

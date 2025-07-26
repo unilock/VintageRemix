@@ -3,8 +3,8 @@ filename = "simplytea-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd18348f2ce9ace45d416698c01a8f98a8b03781"
+hash-format = "sha512"
+hash = "cc33d9ed486e06da792d6248bf4034c6c7023282abda6a047b0f04599a72acd4012a92b4a2c3d83c61b18292cc23f9fc96758e421e865dc82544aa0c1c81ee4e"
 mode = "metadata:curseforge"
 
 [update]

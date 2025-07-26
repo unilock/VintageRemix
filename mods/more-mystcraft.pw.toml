@@ -3,8 +3,8 @@ filename = "moremystcraft-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "724f7b9ac63bca4a73cc9a97280728d3a7dfccd3"
+hash-format = "sha512"
+hash = "a80c96d8e95b316e6bda5824a13789d55f12c75564817e3733184bed18d73c90d7ae3ae753d636e3ec3af033fe7ee344d358409439ca6f04ff7ca70686e6fe55"
 mode = "metadata:curseforge"
 
 [update]

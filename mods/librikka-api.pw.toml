@@ -3,8 +3,8 @@ filename = "librikka-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb47b4878be1642536a15b2a1a340da2f99c4412"
+hash-format = "sha512"
+hash = "f26b353382e92250aacc95cc7d1671f5fd69b58849afc811eee20bb015404f01b4364d96ffc76c4752d1db34e5ccdbb81103a2ebd26e4f6da7f0fae976435f3d"
 mode = "metadata:curseforge"
 
 [update]

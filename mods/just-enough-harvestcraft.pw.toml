@@ -3,8 +3,8 @@ filename = "just-enough-harvestcraft-1.12.2-1.7.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "4ba48aff5c8936e60939c16faebfd5576b4d8770"
+hash-format = "sha512"
+hash = "0dcc5ea8d74c886e0bf46ecabfc34172d9232cd965fb0335f6b5457655b9e9d097011d97a25e623032698c43151572789222b94ce9bc27e0ff86835907f9d75e"
 mode = "metadata:curseforge"
 
 [update]

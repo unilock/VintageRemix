@@ -3,8 +3,8 @@ filename = "Trinity-1.12.2-1.5.h.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4056de93ec152340e63241348ba26429e69c6a70"
+hash-format = "sha512"
+hash = "1edbb6d066b6352c88b93f10849532965686bf78e49b3743cbf802fc02c90f8ba9013a574706f55f9e61f4168d2bd8159ea68331a2d6f46cd51b6fa79c4abc45"
 mode = "metadata:curseforge"
 
 [update]

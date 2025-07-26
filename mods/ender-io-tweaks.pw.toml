@@ -3,8 +3,8 @@ filename = "enderiotweaks-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07c5f6567ac2fa0b8250b526a025ad64ecd97f59"
+hash-format = "sha512"
+hash = "5ea45fae03ac5e37fca9043f0d67b4765d06eb8bad83c9a27e31ce2ff98a89dcbd610e0957f8c951dd49a4bedcf9d41f1322aecd802285b191d58155ce575aa7"
 mode = "metadata:curseforge"
 
 [update]

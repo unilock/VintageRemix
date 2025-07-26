@@ -3,8 +3,8 @@ filename = "Charset-Tweaks-0.5.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "435738110db406ed6b95e3428a7bf884541b5843"
+hash-format = "sha512"
+hash = "e98c6588e77632788e18e249b69b42a15ad5368efbdaab1352343872629934b160db87317ee5bf507738cd4b8f903da19200385ab59f39c8270d5609fa53810d"
 mode = "metadata:curseforge"
 
 [update]

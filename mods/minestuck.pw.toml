@@ -3,8 +3,8 @@ filename = "Minestuck-1.12.2-1.4.302_side_b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "04dd132efc7dfd6a93964302a239b9ee20268d00"
+hash-format = "sha512"
+hash = "b9d2af3f496afe7857f85231a9963ebb3694d96c0a088489cdffa058ee01efe35ea05e0da81caf00a4b14a97cc06d1b6744ef7bedb905704f72e976923a14f6a"
 mode = "metadata:curseforge"
 
 [update]

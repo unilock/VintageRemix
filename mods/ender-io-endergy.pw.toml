@@ -3,8 +3,8 @@ filename = "EnderIO-endergy-1.12.2-5.3.72.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8680a3378f36adb2680fae14a9cfa9d2abbd5694"
+hash-format = "sha512"
+hash = "32962958e3de4917df031d67e16d8a06805f7708188388d731bd46b71f7b5fd9f940ba7ac1a32840e0b200c89afa0378af5bc87975bae2a85bf88b268056c3f7"
 mode = "metadata:curseforge"
 
 [update]

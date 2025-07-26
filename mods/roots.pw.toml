@@ -3,8 +3,8 @@ filename = "Roots-1.12.2-3.1.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0784ad867c0f9b4074c356c0985f68922f84b351"
+hash-format = "sha512"
+hash = "f785c87005b5edbbe2c4416a41e5008437ea4397db4dfe3beb1212171c7b1ceac6f3f5bfa78a5573747a24d8561263174fcdf362605361078a12dbf5dcde5783"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Lord Craft 2.10.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "85928465665a25a5f38255dd1f8275815fb8d7de"
+hash-format = "sha512"
+hash = "17fd516781fb7121b958a5de936d41b5b98c327e362be622a32f001ed2a740aa0433fd2bda06272e8811fb61d67418809e11a39d619d689a82aa5e6ea31c3d80"
 mode = "metadata:curseforge"
 
 [update]

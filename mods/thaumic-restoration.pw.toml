@@ -3,8 +3,8 @@ filename = "ThaumicRestoration-1.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b159a3fa3e1b0776b94364996670df7734031fb2"
+hash-format = "sha512"
+hash = "803912bc3cfb905412c53288c59ad0e528299ea320d26a73168a00f7ccc767e38e4aa76df21a6371c31f6779819d0caa3ddfcb6810d02a352adb2e4ea0423b6f"
 mode = "metadata:curseforge"
 
 [update]

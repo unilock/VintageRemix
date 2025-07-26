@@ -3,8 +3,8 @@ filename = "SoulShardsRespawn-1.12.2-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "df95f59b8876d4ba89144e20ccad75b02acdd949"
+hash-format = "sha512"
+hash = "c2fb55d2e816c30ab55139c117be1ca28d50a023350761bb7a2863ad64da71a021a001ca54a64bd0ca4f26c82c713e1f00429d23c2828825fae05f513adfbad5"
 mode = "metadata:curseforge"
 
 [update]

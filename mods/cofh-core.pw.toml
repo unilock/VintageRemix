@@ -3,8 +3,8 @@ filename = "CoFHCore-1.12.2-4.6.6.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e"
+hash-format = "sha512"
+hash = "1e4d19e61f3241d50ec809611feca5a454e1c05a8c9380b1c58b2701fa4bb993a52e96e43a80219eb7224b60a0d66a9ae789978fef67333029c87bd5d8fa44c8"
 mode = "metadata:curseforge"
 
 [update]

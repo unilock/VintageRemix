@@ -3,8 +3,8 @@ filename = "arcanearchives-0.2.0.25-mixins8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7579a3a3fb22e5b572a9b49e4e36894cf6bbe6a3"
+hash-format = "sha512"
+hash = "57f29850199131bb285fb760ba80f76064ea495326143be0ffed76096c8477ebb13e44f248a9d869490be84f1868a33c48c7e6f0f4a120326362849e68aa2f08"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "MechanicalCrafting-1.2.1b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4ec3e5047ec44e7bf010c770db87f189f70ce0f1"
+hash-format = "sha512"
+hash = "7d8b4e0710f616301ce1ff911c8e986a1a5c21c939616cdbbc0d3d253c35277ee734bbc20ae4480c7b97fa30adc0b9edb25decc6b77166f9b90316c7f42c40b8"
 mode = "metadata:curseforge"
 
 [update]

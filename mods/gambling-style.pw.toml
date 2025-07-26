@@ -3,8 +3,8 @@ filename = "GamblingStyle-v1.1.3-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4c398701280d91bd5d2d860d0c85375f59b5b8a7"
+hash-format = "sha512"
+hash = "331a8165cbed46899980f3faedaaa2f0f509b3a4436b78fc6081a88c4193b21bf5446d68f18fd6117e603c7db6101417249e84554025d1e982282e0a0d050885"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "XU2-Patcher-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ea2b00643c7758713a103b028eaf2d51cf5cf6e2"
+hash-format = "sha512"
+hash = "3821b21f7f77978bd0aad083932fac0ab8cfb670e10a77f1dac04d65d1c891a34f8b3eaf4bc1cd3f9eb3296cb6b1035befc527f271bf2fcd35bcd0553119de8b"
 mode = "metadata:curseforge"
 
 [update]

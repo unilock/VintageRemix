@@ -3,8 +3,8 @@ filename = "tinkersoc-0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f58a26c9002cc8ac181c877bd4a5fd28707d2a04"
+hash-format = "sha512"
+hash = "f4693fd4c9a3ccd37a94b3fb10647d8f9ebfd94117dae5ad84aec9446f3b19cb4443bf8f3e8faf938de778a954bc68e0be96eda40ca0279d2b51cb6c6b8877d7"
 mode = "metadata:curseforge"
 
 [update]

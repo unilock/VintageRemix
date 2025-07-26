@@ -3,8 +3,8 @@ filename = "Forgelin-Continuous-2.2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9d74fb4c826035c2ccc873284b2f4c4f5725bc35"
+hash-format = "sha512"
+hash = "0dc2bdeeb95eac2238498f9c937944efa01307646ec5b97d91644b10362b7f17e1c2b8902a1809ff9f3407d1cc5850e4457c36e4212fe1b871cd82cd1e94cd19"
 mode = "metadata:curseforge"
 
 [update]

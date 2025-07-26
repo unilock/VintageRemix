@@ -3,8 +3,8 @@ filename = "ultimate_unicorn_mod-1.12.2-1.5.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dec1632ab7eb8ab9a8a56497af2e1b3845cc6c6f"
+hash-format = "sha512"
+hash = "5cd582560a09026980857a28d39413aa6fca7e80f2d0ba7a8d7720bc7cbaab50ee579bf55026112d28a383f038f671ca80c38f080f412097dc11fcb8b99c83e6"
 mode = "metadata:curseforge"
 
 [update]

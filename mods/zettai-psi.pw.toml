@@ -3,8 +3,8 @@ filename = "ZettaiPsi-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cb0102edc45fb4c99da2432b32429a38054b5454"
+hash-format = "sha512"
+hash = "aa12762e451149284a57a68613d83c89e6f889f7cd0cd4725a2fbc92f02e7e54a5a1b16197004bfbd00a019342c0d86921d8552a8968a951ad7aa2c89b83a48a"
 mode = "metadata:curseforge"
 
 [update]

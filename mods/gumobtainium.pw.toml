@@ -3,8 +3,8 @@ filename = "Gumobtainium-1.12.2-1.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5cfaf9a2dc9dd442f45eb6af02cd0794f25e412f"
+hash-format = "sha512"
+hash = "5430398a4894a36106231f1ddf6cb483b1084af6078bf72af2525ba4c4e153ba5a7865c31f7277adfcaf44d21b41568c85eb8987e71c0f410d666739c5eaee19"
 mode = "metadata:curseforge"
 
 [update]

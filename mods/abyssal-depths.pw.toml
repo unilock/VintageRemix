@@ -3,8 +3,8 @@ filename = "AbyssalDepths-1.12.2-0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23fbb355d0375e0547ce3eb1e44d0d59ff67bf8b"
+hash-format = "sha512"
+hash = "09ad0d67cc384ca9e164f2a771fc21cc2a24adcdbbb7b576c75f9729f640b18cd213e2c830c6b0033d46ad0e631ddda99ce3e0cc05cd1d7967c2d2edfa7ddff8"
 mode = "metadata:curseforge"
 
 [update]

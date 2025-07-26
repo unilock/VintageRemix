@@ -3,8 +3,8 @@ filename = "llibrary-1.7.20-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fba97f9dbe750f17904c00db8ff58291595106b8"
+hash-format = "sha512"
+hash = "cb7d572f0ad4b3140ca03c65b1d1d76e55c876d11bde1ffb1d278ecfbaa22d4dda96773f2810a9a2670304b98484346b291cb92bbb451ec0ee2595a1243ee6f7"
 mode = "metadata:curseforge"
 
 [update]

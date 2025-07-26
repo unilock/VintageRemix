@@ -3,8 +3,8 @@ filename = "Charset-Power-0.5.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "3078943294"
+hash-format = "sha512"
+hash = "f7e8ac0e8ed335a70988c42d16862d80ce42d764803bae7c73c0550f85c473ce847751b225d23ba7e3e94eff231f07a93d7c7137761b8edd7527d2f4914244a1"
 mode = "metadata:curseforge"
 
 [update]

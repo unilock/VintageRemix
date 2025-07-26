@@ -3,8 +3,8 @@ filename = "yoyos_1.12.2-1.3.3.25.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b3fa3fcf4a47af62d69ae7abad54111e0f48a65"
+hash-format = "sha512"
+hash = "da1b8ec9f0f72c7554150a2fd04ec1f38a0e7a8b85a8ee8f9e4dc04cec1cd9f303f2c7b634fb9690d9e58582e37bd385b59918a42af2a8f9005f21cc4eb0f6b4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "MagicArsenal-MC1.12_ver1.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "781d7a61136679043ab33a8f39ef7bdf34aba2a1"
+hash-format = "sha512"
+hash = "01973e63de807e46b4c2cc4c9ba68384d0360d01eb738429b777da0309c10034c822c0f83f076974eb035c020ac596812f97fce5397928962097fed500be395d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "particleculling-1.12.2-v1.4.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "2c4847ca6c7cf1d41ff320943394ff61028c7e72"
+hash-format = "sha512"
+hash = "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d"
 mode = "metadata:curseforge"
 
 [update]

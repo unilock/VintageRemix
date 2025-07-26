@@ -3,8 +3,8 @@ filename = "woot-1.12.2-1.4.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a7c14ec53bf4d5e61fead67c0a3184e7e917cca7"
+hash-format = "sha512"
+hash = "6c94952537875b391219f8d2985201a47e031be4acaa95f02efb04cd31eef8f7311673127c5e50947a6ee11b2308a9b76475d2b86a9cd49ba68e4053481c80c1"
 mode = "metadata:curseforge"
 
 [update]

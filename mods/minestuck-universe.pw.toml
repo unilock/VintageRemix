@@ -3,8 +3,8 @@ filename = "MinestuckUniverse-1.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0912712402ccfed9118bf23b3623057ca0f153c0"
+hash-format = "sha512"
+hash = "975e99cdf636f96ab5a6f75e9253eedf352807124612d7c0db5ebd0fc69e622bfb822b5595ac1be9830257ed574cc06e29664daba3030fc5d651b27d0b7af756"
 mode = "metadata:curseforge"
 
 [update]

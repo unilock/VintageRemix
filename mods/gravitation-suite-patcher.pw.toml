@@ -3,8 +3,8 @@ filename = "GraviSuite-Patcher-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a71b1187dbb4ece0efc26d66f29668cee82e514"
+hash-format = "sha512"
+hash = "1a7e817b0fc2e8ae916f8f3aa1243726336fd01118489a048ddb63bffcd7513d91b506d69d9481878320849a0faf008c41d9a95ec7c1ba5bafab5e3e244b0eea"
 mode = "metadata:curseforge"
 
 [update]

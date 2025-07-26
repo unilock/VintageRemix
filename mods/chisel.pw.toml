@@ -3,8 +3,8 @@ filename = "Chisel-MC1.12.2-1.0.2.45.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d378cee9195841ea78bb9800f543d718ef2c60ef"
+hash-format = "sha512"
+hash = "c8b7b9e25e9a37cd35c78382c9143801ae9aadc8e2a873c95fd9df22c97d5ddd6c3d4fe855e14575cbc0a7204064c891c4a9025e352008ce59abf7b46b6a77b9"
 mode = "metadata:curseforge"
 
 [update]

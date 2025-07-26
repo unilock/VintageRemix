@@ -3,8 +3,8 @@ filename = "ReWIRED-1.0.9b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f115c2cf0317e42d54175300ec1050426e71e4e3"
+hash-format = "sha512"
+hash = "8f480937e92d58293c4a6ecad962f1fbf7bf095366e3a57c67314338f8f9a394d8e408a4c934378e2f7619969594a55eb53f0200cb5a98ce8fbc399589bc0e6b"
 mode = "metadata:curseforge"
 
 [update]

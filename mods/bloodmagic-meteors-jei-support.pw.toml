@@ -3,8 +3,8 @@ filename = "bmj-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d42f5c2343268769b6e3752d1ce27cbed96b497"
+hash-format = "sha512"
+hash = "853ff1956c5d1d430e5b64f8c636e9f52e971d3e1af8cdb0d579319d23b56bcdbca5d7d4693fece175d93c53a664e0394d11eed15a14da8a36a554c86a21f68f"
 mode = "metadata:curseforge"
 
 [update]

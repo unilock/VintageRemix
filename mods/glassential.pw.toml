@@ -3,8 +3,8 @@ filename = "glassential-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1650ab1c3d36ca67f75e8e05c454bdedd0968baa"
+hash-format = "sha512"
+hash = "9f80127b793a3de939860e168252874570db3f9738d632399ef973a2687e5c7b2d837213530967e5856d4be0c0ed45fca996c2d0b22ed49a74979e0236b8f665"
 mode = "metadata:curseforge"
 
 [update]

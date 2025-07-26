@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/PickleTweaks-1.12.2-2.1.3.jar"
-hash-format = "sha256"
-hash = "43be472bd5625b0378dffb956a76a130ec32a6b79a2d49af13079af9dbf8fae3"
+hash-format = "sha512"
+hash = "4853a34bda0c7c36ee97184ede8df38eb921f8b6f3fee52af376c81466e880ec6501094430afdbf7a1f06be41c6e48eced138023ebed74a03f0b275d9340da1d"

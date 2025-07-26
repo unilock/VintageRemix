@@ -3,8 +3,8 @@ filename = "RedstoneFlux-1.12-2.1.1.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7835c1dcc006e5d4a406a6b0615012b825e25044"
+hash-format = "sha512"
+hash = "ba43f2b65cd4f271a9e7c81b938fcdb1b914241e6db413ef6a57c032660832afeabd24c17495f6764ba2de2b5708e7c706edea66fffeb119fefa183006f2dcac"
 mode = "metadata:curseforge"
 
 [update]

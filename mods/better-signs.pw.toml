@@ -3,8 +3,8 @@ filename = "BetterSigns-1.0_v1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c3ae005312eea3dbebb435318037dbe131a7f10"
+hash-format = "sha512"
+hash = "91b4a4d19600797b97e70e0f418039bfa79df9d602317609fc241a24d1f6ee2de01786202533db544cae0dd54017b86f9a1df47ce6eeaf41eb98a14a9b576e45"
 mode = "metadata:curseforge"
 
 [update]

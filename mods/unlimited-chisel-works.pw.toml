@@ -3,8 +3,8 @@ filename = "UnlimitedChiselWorks-0.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "66e1d603c8985a903b5c76d697914c5d5365e885"
+hash-format = "sha512"
+hash = "cdd7d38e26fe03931df6fad4a23c4eda866ec9025707be41eaf397db7ca81dbec3ca4ef4496d97096416808ed069494bcb1bed185774da85fe01c2c319201326"
 mode = "metadata:curseforge"
 
 [update]

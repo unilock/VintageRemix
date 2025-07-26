@@ -3,8 +3,8 @@ filename = "VillageNames-1.12.2-4.4.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aa2ea33fa8eb719fe2e72719a3e88fd9a13e0a08"
+hash-format = "sha512"
+hash = "596dcf7a050073f609c9b30902c82e250d87b94cc5dc18c853881bd4c6fc587f9ca186dd09590cce2670bd4805e5c71cb66b8f9e337abaa29985dfbb88bf856a"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "DefaultOptions_1.12.2-9.2.8.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e3197fc44aa2f59897713a8889a5a56c0f8ccbf3"
+hash-format = "sha512"
+hash = "2afcb7ff31595548d9e5afc04a3efdbc0eacd782ba3ad0110b926fa0501233c3e0b866884939a52f3d4a051642dd5b86787466fc2dc87c9a67c71182a3e6d060"
 mode = "metadata:curseforge"
 
 [update]

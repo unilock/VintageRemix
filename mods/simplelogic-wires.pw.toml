@@ -3,8 +3,8 @@ filename = "SimpleLogic-Wires-0.5.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a03c3abf8cb265bde891bf874826d8ac1158296"
+hash-format = "sha512"
+hash = "f1c0f0ccffb8527e225a3d89403efdd58fd1a755650468197477f4db987ebe2495bcaacb9082f3fe7ef2e26f19d9b85ab0354d46c1cd497c0af090ed759ceb0f"
 mode = "metadata:curseforge"
 
 [update]

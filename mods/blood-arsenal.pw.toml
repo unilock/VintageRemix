@@ -3,8 +3,8 @@ filename = "BloodArsenal-1.12.2-2.2.2-31.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8b6696fa7b825349ff333ea30046078150e6ef9"
+hash-format = "sha512"
+hash = "d824f586914d1eb26c8a9a1f74f5836c312d16fe508f3a3d88fbcb00549dbf3a64b769b1ad1ece404ab9508a67af573d8265f3d97c836da2b122cf4c0a316157"
 mode = "metadata:curseforge"
 
 [update]

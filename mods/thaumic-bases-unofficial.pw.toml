@@ -3,8 +3,8 @@ filename = "thaumicbases-3.6.020.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7ff108427427a220cd2cb51526072fb81612aa0"
+hash-format = "sha512"
+hash = "192d393a0b92c9fd389201230dde37db88452e36b29e0880f56a63fab73e061d89c1e0b7d5f50947b46192aa56d79789eb852e40027b478e52a3afc38cfff557"
 mode = "metadata:curseforge"
 
 [update]

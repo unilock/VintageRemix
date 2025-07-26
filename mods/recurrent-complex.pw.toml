@@ -3,8 +3,8 @@ filename = "RecurrentComplex-1.4.8.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "31059d070bee48368050cf774ea3e8f9caea0356"
+hash-format = "sha512"
+hash = "50b1535ffa4424abdc688d1421bc85685d32988aaf341204ec95434997cbe36cab607f04ebccbecdb9a4909cedd9b8f491c180940b1b2be3b43fbd170d61773d"
 mode = "metadata:curseforge"
 
 [update]

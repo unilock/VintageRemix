@@ -3,8 +3,8 @@ filename = "OffLawnLegacy-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1f54ccaf7c3bea8b8cb5a34f051fab99a803292e"
+hash-format = "sha512"
+hash = "dc6c3b757941074079803b501334ca167c83e2b792a68dce619914e57ece68a04befdadf1b1aea2e230dac2b68b7d4cd0a9ad5fe9d8a77e3d94479f909aeb97b"
 mode = "metadata:curseforge"
 
 [update]

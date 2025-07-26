@@ -3,8 +3,8 @@ filename = "conarm-1.12.2-1.2.5.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b"
+hash-format = "sha512"
+hash = "d7311df241aecc2ed03dfff9dacc03c709cece3f6d16da77286e2e8ae7db28b34a9999eb5d0eafed0014a4d512c5176cbfa8e1a2ee6fef20550b62b97855e809"
 mode = "metadata:curseforge"
 
 [update]

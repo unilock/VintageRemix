@@ -3,8 +3,8 @@ filename = "crimsonwarfare-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "65185e3be1771b41f71b7597f157522d99d203f2"
+hash-format = "sha512"
+hash = "2893f218a8215f5c1bdde4a492f22b399cfa18ff87d7ec661865be91ac311f651f92feefcffd338a143f03f31f037d3bd42ee522269fe6ef3294e5e74f4a38d7"
 mode = "metadata:curseforge"
 
 [update]

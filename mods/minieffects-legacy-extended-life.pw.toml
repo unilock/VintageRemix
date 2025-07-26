@@ -3,8 +3,8 @@ filename = "minieffects-2.3.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "79753fa4c57cc96466fa56d47c00de8a3de2c146"
+hash-format = "sha512"
+hash = "4b91d0e166d637b3490a2bde8e082c8f1f8accf19ef476ab064cf230018548ab7379f0ff02ce635fe3b382adae1ce571d8e07fd04a17a0d3c7a6ff4b54c288c8"
 mode = "metadata:curseforge"
 
 [update]

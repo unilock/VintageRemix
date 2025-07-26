@@ -3,8 +3,8 @@ filename = "Guide-API-1.12-2.1.8-63.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "095b3b85d05118602c7678beb1e56d26930fd0e7"
+hash-format = "sha512"
+hash = "0c15cbb6656bdb6cbb3c086f7a09acfa4c33b3d6354f2a798e0f082ccf522b39d123d096e129816c4f2d5a4205507ba9088eb54b9fb7c6c7e3c9ce332fcbaf40"
 mode = "metadata:curseforge"
 
 [update]

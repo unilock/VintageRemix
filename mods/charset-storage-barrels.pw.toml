@@ -3,8 +3,8 @@ filename = "Charset-StorageBarrels-0.5.6.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9fd444d57b517fa01e22027491602e519511352d"
+hash-format = "sha512"
+hash = "48d964706e0ab71ad50e29eefec7406c4967eb326169f3a325ee9d71a94b6ee2f9283f2eba34278b64cd014c1b34bf5db1984c68a679be0a12e72c2a6b8ed011"
 mode = "metadata:curseforge"
 
 [update]

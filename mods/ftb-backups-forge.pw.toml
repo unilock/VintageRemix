@@ -3,8 +3,8 @@ filename = "FTBBackups-1.1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "20ddf96ff380f1f3219305f2efc6742ab5999449"
+hash-format = "sha512"
+hash = "bd4bc71cd7c9acc1476055ad3ccd4080a86a4987e39892c01609c310c9bcc8a9e18935cfd1316fffc6d13fd3aa66319fe11694535c36cbe6e1437218f94e2ec6"
 mode = "metadata:curseforge"
 
 [update]

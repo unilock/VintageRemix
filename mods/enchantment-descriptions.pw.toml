@@ -3,8 +3,8 @@ filename = "EnchantmentDescriptions-1.12.2-1.1.20.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d82e9d326b9d40904edb189077fabe0f5f47557a"
+hash-format = "sha512"
+hash = "0a7d9d9caec1d0ab02e8d1f9bb1061c067c63ebeb6de367246754c38208cab336a962765c2dfa36928476c15408ab1411f8cd29a763cbc9ecf6eb513e6bcd909"
 mode = "metadata:curseforge"
 
 [update]

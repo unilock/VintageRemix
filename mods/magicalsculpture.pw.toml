@@ -3,8 +3,8 @@ filename = "magicalsculpture-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b18dbbc31b5c74971c5f2f1a45fafd3e3c7b7c5d"
+hash-format = "sha512"
+hash = "90e22fcf2474ff1865541f78bf0fc33a24ab6386c9ce2cf737c2c9451e0e47ba3a3d8f2fb69ae6de3a9750638463ad727b98672bd1b652fc54dcd7307bb7c15e"
 mode = "metadata:curseforge"
 
 [update]

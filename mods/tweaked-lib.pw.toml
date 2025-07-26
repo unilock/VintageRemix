@@ -3,8 +3,8 @@ filename = "tweakedlib-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d3472277a8b3e1197743ae23055ee5b710a58ac"
+hash-format = "sha512"
+hash = "95de8e25396047abd6fe9378b128c6e2b6f42c9b04dc807cb1b2d3325239370093e516f0ea588cc17523bdb4c4b988de119455a075808ce9a33e442806f36ea8"
 mode = "metadata:curseforge"
 
 [update]

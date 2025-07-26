@@ -3,8 +3,8 @@ filename = "StuffASockInIt-1.12.2-1.1.32.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4041607128a3cea77d72d0bc7dcea90df6836c7f"
+hash-format = "sha512"
+hash = "d6d73b36d8c6d1ec288df74e052dd48d4f23442b4d5d390a36b171957666b0f9381b8ee1e999ab9c41d773eeda5a489f99e4d86b120926a65f29b36933c10fbb"
 mode = "metadata:curseforge"
 
 [update]

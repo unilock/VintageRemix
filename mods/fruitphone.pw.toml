@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://oldci.y2k.diy/job/elytra/job/FruitPhone/1.12.2/FruitPhone-1.12.2-2.86.jar"
-hash-format = "sha256"
-hash = "48942fd6ca7e8434abdabbae8f3bca1dc666ac842750c0b9d58d2a545360cfa3"
+hash-format = "sha512"
+hash = "f4e7a0806e11407e1b0c988ddb0c3832491ded1589185872d6b7bfdf993e2ff9979eaa8e29e9b4a6619a55b6f9a2c067efc96cc7f631a1b7c48a22a4423335fd"

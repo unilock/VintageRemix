@@ -4,8 +4,8 @@ side = "both"
 pin = true
 
 [download]
-hash-format = "sha1"
-hash = "14e06b466701752140f15af6c10c12597b82518a"
+hash-format = "sha512"
+hash = "5f78064efc9f39e3e57cb038ed4286ea849437b3c5e6c88a4f533a70b76432cee6c91f87943d0e97d2bad846e7c8ee5fdce010fa24fd9e2d551f71354ae5adab"
 mode = "metadata:curseforge"
 
 [update]

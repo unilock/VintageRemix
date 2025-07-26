@@ -3,8 +3,8 @@ filename = "soundphysics-1.1.15.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7472d11becf277a176511e2caf1a11e90a92157c"
+hash-format = "sha512"
+hash = "ae7f5c5f1ba8458f252259b3907e9a0bb9fba1500a391fda5ea3e0420d2ec275926d3fa1f599dab8d66d76cd39ae8d6c981b3618a4eda2ce0633c7b503884bd5"
 mode = "metadata:curseforge"
 
 [update]

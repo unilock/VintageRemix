@@ -3,8 +3,8 @@ filename = "Rustichromia-0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6577bf193e86674da1a7b62e57debff1cec0a668"
+hash-format = "sha512"
+hash = "1eb9ac9bc4fd2a7920f5f52f3c7792100399aec20becfdd1083dd053718cc8829c41d2419d77141afd0ec2f85bd246e505f856a6f5ec5f756efd14617b41be4e"
 mode = "metadata:curseforge"
 
 [update]

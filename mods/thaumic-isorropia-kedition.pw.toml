@@ -3,8 +3,8 @@ filename = "isorropia-1.12.2-kedition-1.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff14fe2e77e0889911f134c69aa071ec7dbd4daa"
+hash-format = "sha512"
+hash = "521e63623c83ec782167e8f7cfc7fc1cad94cf33662fceeb8aeae6c93cd8136915843f139cd0ef7733adbbd1d8faf1456deb662fb8c4745cbfe03c364ce7495c"
 mode = "metadata:curseforge"
 
 [update]

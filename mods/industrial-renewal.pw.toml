@@ -3,8 +3,8 @@ filename = "IndustrialRenewal_1.12.2-0.21.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d3d77cc3eb341200c81e0c3ef2dec69ffc69521"
+hash-format = "sha512"
+hash = "7121c1cda7b32e5bc727ff9f87b58f6553400a849cd340f3f54b886c26001fff6a81bd33112d9c0b765c082ea0ea539fbc9104af5e367f285a4be5cddf0e230c"
 mode = "metadata:curseforge"
 
 [update]

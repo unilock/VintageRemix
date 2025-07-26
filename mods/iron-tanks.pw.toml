@@ -3,8 +3,8 @@ filename = "irontanks-1.12.2-2.1.0-beta.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "782d8a78d179d7419345c1d1cb4361c5f9cf920d"
+hash-format = "sha512"
+hash = "279e9e183500b2f5eea9b0e6f8da8e3e92adf2cfa57c69ac52d142f994983cdadfde2e6dfeb31ed6de25fdaa3131c83bdea683c6cde12c8c90ca855bcb012c85"
 mode = "metadata:curseforge"
 
 [update]

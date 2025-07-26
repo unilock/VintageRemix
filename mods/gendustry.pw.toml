@@ -3,8 +3,8 @@ filename = "gendustry-1.6.5.8-mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fdb69e45f0e54c793b9e52bb49ecedc9dfce13a1"
+hash-format = "sha512"
+hash = "3ddd4c5593e17b7e90aeb5b13d926259956a9d5ff0bc7edc06bbbf57273cde15c826a8a3ace649b0210afa53ee31be2afcaff88c485e49fd4c75e0030ba6f375"
 mode = "metadata:curseforge"
 
 [update]

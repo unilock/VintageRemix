@@ -3,8 +3,8 @@ filename = "Exotic Birds 1.12.2-3.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23e2f2ade24b2e259374937d074ab062aca02bef"
+hash-format = "sha512"
+hash = "41ffbf730916d336ff19d73c35bcf46df3bb79c05e5a4f19bcb1693887a757b9b5cc71c9b37a2b171e69138a0a93961f057882de946395c2718f81f857ad13d3"
 mode = "metadata:curseforge"
 
 [update]

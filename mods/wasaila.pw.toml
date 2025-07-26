@@ -3,8 +3,8 @@ filename = "Wasaila-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6a9c171c9c64bfb8ac992ef7d9d4ac0b00bfd7d0"
+hash-format = "sha512"
+hash = "90f0b3cf3cfae367fee8c701c40d4297b29fb6980560da710487ef3b4702edd897b9522b918a7f21fd32cf1791f08e37d0b2c23a5a2887c72690c37e70aae1e6"
 mode = "metadata:curseforge"
 
 [update]

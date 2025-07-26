@@ -3,8 +3,8 @@ filename = "Wawla-1.12.2-2.6.275.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "783157c607149875de1e045d72382d370256257c"
+hash-format = "sha512"
+hash = "36ac587535ec1b2637f82a82776060183fcc6f8b1dce080529c037b2e9f0a5433c7822be2d8846b6f3e1a0cbd8b7f072c128dd7afd8e801948b7b49d095b4726"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "mcjtylib-1.12-3.5.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da"
+hash-format = "sha512"
+hash = "74c656fbb4bd589130866756d1dd3b7623f49cc640da11effa6bab0259717fdb37ea3852b074781642762ffc6578ffb111ac75400b0a7d2db7476ef5a5a61a8b"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "mysticalworld-1.12.2-1.11.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c553879a5399c0ecbd6d66ab2f2295ecc8deb89"
+hash-format = "sha512"
+hash = "cb2fcd89e75490e276a502773122a4613ea5ba6fad2bad4292eebf34fea937a7cf461cfed820862f843f41a370fb0afd0f4c304cf45c2ad5c1a1a77704e4249f"
 mode = "metadata:curseforge"
 
 [update]

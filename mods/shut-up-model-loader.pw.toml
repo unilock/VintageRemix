@@ -3,8 +3,8 @@ filename = "shutupmodelloader-1.12.2-1.0.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "b8b002739ca94a967c601557cd905cb3f208a87b"
+hash-format = "sha512"
+hash = "422eb344e40041a56139cf46d5e197a7cdc403f3434d5e302cbdd8ba6fa8ffebf0ce7361529317e22b87081bffee8ca3c0de9a71494c96659b99676b30dd99ad"
 mode = "metadata:curseforge"
 
 [update]

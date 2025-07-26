@@ -3,8 +3,8 @@ filename = "ocsensors-1.0.4-b23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1fdd0eaa621762e5d237cece7487b1f185d572d9"
+hash-format = "sha512"
+hash = "7dbacc051639f075a1f06139fbebf654a5d0799e8edadf6dcdcc407a85b3021ecaa76a6127e722764fc41d9e9faf555c3077e5c3cab0330953f126b8c737fd3e"
 mode = "metadata:curseforge"
 
 [update]

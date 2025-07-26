@@ -3,8 +3,8 @@ filename = "ElectrostaticsRE-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d4304e3a0b0aa256159708941923110d2bbfaec"
+hash-format = "sha512"
+hash = "9e68e0e1cf563747c9199b0ef93102a077dcbf7dd9e071a833c9d80d7f683c28d6d876052518505522a1b1614ca2224f291a2f5e9f0e8b755f9ab1efe30a6d04"
 mode = "metadata:curseforge"
 
 [update]

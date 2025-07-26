@@ -3,8 +3,8 @@ filename = "rsgauges-1.12.2-1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f5af46afabe353f8b27a3acfa8961ca9877ff394"
+hash-format = "sha512"
+hash = "086cc04905b805faf3f9e26bf634b2939c6683a3eae2fcaf55e6df8ed032f0578800d8a1c907ec0436f3bfdd56ea59f4d2f1536b94105e6e75de6d30a4f310b5"
 mode = "metadata:curseforge"
 
 [update]

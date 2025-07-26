@@ -3,8 +3,8 @@ filename = "tweakedexcavation-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f61a5d8a9836fa50197ce7368e4eb0284de0d411"
+hash-format = "sha512"
+hash = "09b87a679ec6c4396ec984c334dc074eee6fc4fb1923a7398488e4b440df4f63adf3d889b32b66b89cc395810b851b50f6a57fea4a3e49fbf471ab822d854bb6"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "BTFU-1.12.2-2.5.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "84cc397f411d2f36ff6b5813efbe15aff5ca72d8"
+hash-format = "sha512"
+hash = "2d1c6afa72b1a459785b945e8788ba5febe3874284fd0920d83d9f857de67a02f31dc641fe184fc67e1d0bcb4a510d4941c5fe01bdc3b5da3725de6d68228ca3"
 mode = "metadata:curseforge"
 
 [update]

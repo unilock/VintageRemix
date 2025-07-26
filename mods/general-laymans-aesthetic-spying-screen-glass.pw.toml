@@ -3,8 +3,8 @@ filename = "GeneralLaymansAestheticSpyingScreen-1.12.2-7.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "535e7abe47877d960f3b9b0ec5668896f29fbd6d"
+hash-format = "sha512"
+hash = "26d1311f2f5a1ec38b4f2267c9bf4a410b3993788b60e07bbf220fc5bc2a8a67018dc09124f31eb81ea7ebe3621385c521caea46220812fad6b0d16b5f07c324"
 mode = "metadata:curseforge"
 
 [update]

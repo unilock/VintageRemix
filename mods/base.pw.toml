@@ -3,8 +3,8 @@ filename = "base-1.12.2-3.14.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fbf3bae670f626028e29b57622b0ee98a8ad4db"
+hash-format = "sha512"
+hash = "5324582dfed94c549265f0de0b46ef554727ae362b9272917553ac85bf66468b17ed6a90254d0dff7978bf09043e2a565a432e834633b3abc99e08a42251336c"
 mode = "metadata:curseforge"
 
 [update]

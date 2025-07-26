@@ -3,8 +3,8 @@ filename = "NaturalPledge-r3.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e4e4456adea41df1a8739fffd1d731bc61df710"
+hash-format = "sha512"
+hash = "0150c6f41082ec4aba5863845b8e1471dd414a42e82786cb27dfd81fe3ce854b40f084e02d8825714b8b8d1afdd2359032895c8771cd783966ad0a83638b07f5"
 mode = "metadata:curseforge"
 
 [update]

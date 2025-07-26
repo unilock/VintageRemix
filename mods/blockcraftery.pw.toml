@@ -3,8 +3,8 @@ filename = "blockcraftery-1.12.2-1.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5962fc2af3644f010e6510829244cb55ab097eda"
+hash-format = "sha512"
+hash = "bcaea5c0e7840f70874b90332c23608b2d4a5b17ba3382a06c13138eb2fe0678bb10da6596e8b571a0f131917d83fd4b2a7567156b3601ba7528fb294c7b1358"
 mode = "metadata:curseforge"
 
 [update]

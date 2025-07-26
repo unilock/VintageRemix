@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/Iridescent-1.12.2-1.10+noWaterTexture.jar"
-hash-format = "sha256"
-hash = "61eb94d3182ce57aa953fdf2b88ef0df9c04855fd0b1b8ab4ddca30a6cf174d9"
+hash-format = "sha512"
+hash = "0b24a9a9a4d6c2fc518da4343c181988a7931a1c613a2a614481a67fc74b84646a991e523e057ae6f4293f48a441a7341ab2eac1cae469ac415573efd8ab2cef"

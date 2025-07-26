@@ -3,8 +3,8 @@ filename = "dldungeonsjbg-1.14.14-MC1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "638b3f3f9f4baa50c4bb4ef4939bed5367ea1deb"
+hash-format = "sha512"
+hash = "7de3670e61d8ad05159aebc918f798360a4fd1520617d353ad4de600660d9e5598bb8ce8bf4f2d118741f26e51f19bc688120e4da7ce86aca9a56dd3bc5d2352"
 mode = "metadata:curseforge"
 
 [update]

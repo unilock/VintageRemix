@@ -3,8 +3,8 @@ filename = "Blood-Smeltery-1.12.2-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e96a55c686efe1af6591705aea8fbafafc6aaae"
+hash-format = "sha512"
+hash = "fa809252aeb9cb113e4ec4b6be1197324ce336defb0bc89a17528c96ef46aa301a1b13133b632b7b6b496dd0f40b17b122781b3c850134bddac75548e8cab2cd"
 mode = "metadata:curseforge"
 
 [update]

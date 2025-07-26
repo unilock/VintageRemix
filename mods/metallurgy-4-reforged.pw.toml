@@ -3,8 +3,8 @@ filename = "Metallurgy-4-Reforged-1.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fbdb62a484a0f2274bf6fd10172fd52b5a14e22a"
+hash-format = "sha512"
+hash = "b1fd797cb51447bb6d0f124da2d4acb56e0c97230ef058e1247c1f5d734677060dc1a17ca69e1a897baa634d2594fbf73897faabb82d2fbff7415f4a079e552d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "NoiseThreader-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "530f75a0cc7a319767f601690d6af88522153eb1"
+hash-format = "sha512"
+hash = "5f849f21d2cc179839d17dd56e04ad04c31a7f0f87c913f616e67a33d9e64ccec723d6addd8074f831d784449a64f58a3e126596736cdde62c841588acce82e1"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Charset-StorageLocks-0.5.6.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b922bb56195a4a5fae1bcce71bc87b8f8631b9b0"
+hash-format = "sha512"
+hash = "a1580431e5a2424eedb4a90112120bed5f6932b640329ef90e898b39bf5e6c32e8f72b8a8e3b9a0bb0beb2e8c1cc775d4c808d305838ef1d80f72bc967b2e692"
 mode = "metadata:curseforge"
 
 [update]

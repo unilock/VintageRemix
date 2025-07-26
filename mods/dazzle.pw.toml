@@ -3,8 +3,8 @@ filename = "dazzle-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dfb322decc87c4a778c49b6006b1a6bcc2d9ee3c"
+hash-format = "sha512"
+hash = "ed8cecd393f1f89e530a356dfe5a76e31217a81212e2ade2f69863b8fc76ba8cb9e9fd601ffe7f03b1d775908db30ecfd1969e8e3a912dab130821d2ee4bf050"
 mode = "metadata:curseforge"
 
 [update]

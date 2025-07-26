@@ -3,8 +3,8 @@ filename = "randomtweaks-1.12.2-2.8.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5d2502bf33a670b17908e9f6b650fd0daa07cb5"
+hash-format = "sha512"
+hash = "d73e0bb7e0141e8f83d4b7838b1c81c2eb14e16a8b11e50a957399b49fc20da6bc8be9d97ea4c9ee4a74f4e9a741086cf23f7893a2b63607fac54e792a19d9d5"
 mode = "metadata:curseforge"
 
 [update]

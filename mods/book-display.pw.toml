@@ -3,8 +3,8 @@ filename = "bookdisplay-1.12.2-2.0.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e58ab64e9dda5c448c877b477464ec9d3d4909c8"
+hash-format = "sha512"
+hash = "e6deee0996b1065f1b1371a84d201f05509f9fa57914dfa3a78ae85942adf0c6dda769df0e9d3fd5e7e0347e381bd7df2bcef6f4491bdd72ca3855726adbbb61"
 mode = "metadata:curseforge"
 
 [update]

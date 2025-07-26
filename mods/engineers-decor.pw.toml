@@ -3,8 +3,8 @@ filename = "engineersdecor-1.12.2-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ffcb09e3c64e424f0dcd3f2ca8220f5050f90e72"
+hash-format = "sha512"
+hash = "1669d6a2c9f663247aa60822e38b812437c37ca5eb9713542c8d11180b4cc5bfc235ef0103f5d7b1b905daf29af9e4a84d722ca9cd6e7b9f9eca2e3f8f753b2c"
 mode = "metadata:curseforge"
 
 [update]

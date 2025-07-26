@@ -3,8 +3,8 @@ filename = "ForgottenRelicsKedition-0.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad7809309c405565ae396974a80355e44d8fcd9a"
+hash-format = "sha512"
+hash = "ea2a04bccca97becc6e07ae3c89278e408d3e568d6d5dc423c988a7bb7b2a90707e552582fe252aaa13c116db1d5a4410bfb20ac8c78a64dd7eb9ec9e20ae1c1"
 mode = "metadata:curseforge"
 
 [update]

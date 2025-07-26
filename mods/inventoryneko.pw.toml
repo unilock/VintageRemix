@@ -3,8 +3,8 @@ filename = "InventoryNeko-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60c1e1933353ff7cc28b103fd6a28aae7ed0f6e0"
+hash-format = "sha512"
+hash = "88d0d0d2a0e54ed0bec19561a2db45b674b6beb6d4fd61792859ff165ac3ab25020ab55a05252966677122913d2cf8f48b8a7b84c556179885caa8d6b42b9317"
 mode = "metadata:curseforge"
 
 [update]

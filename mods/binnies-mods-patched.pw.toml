@@ -3,8 +3,8 @@ filename = "binnie-mods-1.12.2-2.5.1.212.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c584a4db94fc89701a38c4890fb63f8281aa69c"
+hash-format = "sha512"
+hash = "37ee2fa7e92535f5f826a527d875bc18e990e207464929c25cf078ef12f64f518033a50a6ef9f3bed60f98d5b3e65ef6defd8fa34703ac67141dad7199c2ff05"
 mode = "metadata:curseforge"
 
 [update]

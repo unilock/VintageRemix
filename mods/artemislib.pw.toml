@@ -3,8 +3,8 @@ filename = "ArtemisLib-1.12.2-v1.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e0d1519ae0ef09618933acb8851f76341239f3a5"
+hash-format = "sha512"
+hash = "afee4efadf51469f2c650c48f7e6cedcb69c343442a151bca15e77fc36c3355e3ab31f8eb44eb757648c6872baab8a1bffc33441dd2e3c08ba4051c04265ea22"
 mode = "metadata:curseforge"
 
 [update]

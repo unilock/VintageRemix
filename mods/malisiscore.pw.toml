@@ -3,8 +3,8 @@ filename = "malisiscore-1.12.2-6.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4b4a9fd82030ec2e31e64c9807779695323800c3"
+hash-format = "sha512"
+hash = "da65180733a9f2151542bb038ef58bad21dd3ebe4dcc6c1bb3dce79e0eed1e91231f104addd038b3dde4a0562db82a44fe6cc27c9376a61345d7eb9f40d1465a"
 mode = "metadata:curseforge"
 
 [update]

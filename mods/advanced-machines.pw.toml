@@ -3,8 +3,8 @@ filename = "Advanced Machines-61.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a7fb59a865bcebac8f1a0ae45bf58119e00793af"
+hash-format = "sha512"
+hash = "b4015c84a0ffb945757a8d2fe02cea2b43363bed739091994701fa6233ec48a687c280c2586413688f81ef5fb8d0b7183c7c203704c2e62c36d398071a63d894"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ResourceLoader-MC1.12.1-1.5.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4"
+hash-format = "sha512"
+hash = "540f63651538ab3c8d3b939e2d823e41a879a7ac01839646ebe680efeebc3509fec7603ca36e67c4e59492efa96ba42fde13527939e878e0633b7a74eedcc840"
 mode = "metadata:curseforge"
 
 [update]

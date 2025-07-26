@@ -3,8 +3,8 @@ filename = "Psi-r1.1-78.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c76503880249a7e92f99d0ef68637076c6844218"
+hash-format = "sha512"
+hash = "9bd689a178f635b77c9f0ef372f05b71c7ecedf33d1978c2c9d00a1659f3354f0bdc96c08000c76a6ab128249d11a8143202f5762f1138efa3ec6f5cf0914c9c"
 mode = "metadata:curseforge"
 
 [update]

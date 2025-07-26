@@ -3,8 +3,8 @@ filename = "rats-3.2.21-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "89224dc8f677b2fd185c4e3ce91f8ff22a3bc87b"
+hash-format = "sha512"
+hash = "4fc82566e2a1735ac57cacdb3276e12a18e6c87480b285b609ffd57d8aba362c6bc33b9edf88c78670fa503ef7e3980ac2b13c6c75294bd0a0933f6f0521b836"
 mode = "metadata:curseforge"
 
 [update]

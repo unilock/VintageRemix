@@ -3,8 +3,8 @@ filename = "ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3306ea22380bc9b6a0170b23fa0251085d5a6e25"
+hash-format = "sha512"
+hash = "3737705bec14f90b80429e1dad4021d97e876234c6aa5ee20888d057cc915bee1b05d838daf7f8ca8e6a62378087c62b02c5ff4e7d52d4e3f2a167fae224299e"
 mode = "metadata:curseforge"
 
 [update]

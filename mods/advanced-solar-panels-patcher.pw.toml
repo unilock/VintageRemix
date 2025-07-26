@@ -3,8 +3,8 @@ filename = "AdvSolarPatch-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ecb07dc103c4d0fae4b289d20c42fe2056c13f6d"
+hash-format = "sha512"
+hash = "04d850a701f826a5c2d96a9423bab69d71dbd92f6e7057608aa505bb5f5063dd53ef5ccd9352c91842a05753f00c807c80558e5302dee8d9970e4ccddc35280a"
 mode = "metadata:curseforge"
 
 [update]

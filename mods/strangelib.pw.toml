@@ -3,8 +3,8 @@ filename = "starngeLib-0.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5fc6c1516575ae7dabcdd4dbe305109c1ae9359"
+hash-format = "sha512"
+hash = "0e3e8a98c209e8f447ef30a417993eb191f1b5fa72647b38e5cae6ec6e45d025b31b4d47e6afb693ab0afe103422b5d97f8aa0daf8c07225650d01bd7fb0aa18"
 mode = "metadata:curseforge"
 
 [update]

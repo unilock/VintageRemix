@@ -3,8 +3,8 @@ filename = "Gravitation Suite-3.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1040529ce75fc685afe2e1fb407f516f02245c55"
+hash-format = "sha512"
+hash = "f7cd6141273c4676905b89dea3c70f0dc7b3da974edf113f7f69e5295257b51da79a6ea1e6dea083a106a0829d9034b7667deaf1697a03d40f7819195016cb83"
 mode = "metadata:curseforge"
 
 [update]

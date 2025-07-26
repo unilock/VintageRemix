@@ -3,8 +3,8 @@ filename = "!mixinbooter-10.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
+hash-format = "sha512"
+hash = "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd"
 mode = "metadata:curseforge"
 
 [update]

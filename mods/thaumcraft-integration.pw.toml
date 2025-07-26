@@ -3,8 +3,8 @@ filename = "tc_integration-1.2-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cec94ad1e7665e3fe3a6390bdd757dafcfe07af7"
+hash-format = "sha512"
+hash = "4f59baf7fa8328cecd0a449c0ab7e972e1b4e5006bceaec53e10dbcc005175fc5796522078914d434522202b469df9ce68cab515b77215e111ee9727681a8593"
 mode = "metadata:curseforge"
 
 [update]

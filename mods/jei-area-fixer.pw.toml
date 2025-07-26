@@ -3,8 +3,8 @@ filename = "jei_area_fixer-2.2.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "b74527c23275c86422a5f330194aeabda3e60760"
+hash-format = "sha512"
+hash = "92f4481af33407571eec9c311333c738bed1c46bda1c4683d9128fa976064065c054ec3482d4d9fcc37173b41e65d46421f756e874685fe636ac530578e1b800"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Charset-Lib-0.5.6.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "41912cdaaad5c22e1972092c7a73c9eab2de5650"
+hash-format = "sha512"
+hash = "6bbe095f0ca7df86f860b48acdb3b722c90d27abf0f175babdc718f9996dafeefdc1b71b1e8dad2043d5937581da82ac1911fe10ea786a075be262bd9b847af4"
 mode = "metadata:curseforge"
 
 [update]

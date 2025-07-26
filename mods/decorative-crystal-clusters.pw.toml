@@ -3,8 +3,8 @@ filename = "decorative_crystal_clusters.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0f067402cbf9b88ee79f6aab8b7d84fd8c805bae"
+hash-format = "sha512"
+hash = "91647a1e9e7559de53ff80211404d6542c067f017f8bc70552349d1243a66a54cb1f00f7cc166bfca4684cea5d407cb0401518f0344cc6afd3564d9f17e172f0"
 mode = "metadata:curseforge"
 
 [update]

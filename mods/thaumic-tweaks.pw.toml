@@ -3,8 +3,8 @@ filename = "Thaumic Tweaks-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22d865d64a06d558770f9539fcc5a8d0a5e89950"
+hash-format = "sha512"
+hash = "7c39d60b6aaa3c678bb4eb373098a77d07e0025997fca77ef4556e6047978b90e5d03361b62e6ea791ed395e7673eb209927bb004448812c38de2d7c366b2a4d"
 mode = "metadata:curseforge"
 
 [update]

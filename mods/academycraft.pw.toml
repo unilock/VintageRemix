@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/yor42/AcademyCraft/releases/download/v1.1.6-UES-20250410-140524/academy-1.1.6-UES.jar"
-hash-format = "sha256"
-hash = "85eff38c5d2e3f6afeaa793794ba044f9e503b63b69525bf0dc2c6883db96edd"
+hash-format = "sha512"
+hash = "e5fd5e08eb114b431a23fb687cb282ed9f823256b8d9ae8bb8e7aa51e114738a4c9ca0e9bbf6781aa0ba6e4198d1cf642c3e05ddcaa66952d666650c70f6ec63"
 
 [update]
 [update.github]

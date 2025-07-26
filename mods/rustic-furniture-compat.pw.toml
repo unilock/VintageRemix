@@ -3,8 +3,8 @@ filename = "RusticCompat-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f201af11ce75e265bfb5e0356cf1581340a8db70"
+hash-format = "sha512"
+hash = "23499b325744d4449dfacfdbd6f39bc5222393b738e745921e9de754f92942df5862ca5fcdf8bed951a3c16d5e21200c016d9d39f7b06d56218f496eae7452d3"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "CoFHWorld-1.12.2-1.4.0.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "863e1524fe0087d434a5e44d27cc2dd0353b9399"
+hash-format = "sha512"
+hash = "55219511581e0d7c084907ddf0b44867458c5539a570cd922a2e8e0af0dc9c5d6f9b4c570e588be87cb2bb174af7e05f483447e1429f1c284bee0bd66b0b49ce"
 mode = "metadata:curseforge"
 
 [update]

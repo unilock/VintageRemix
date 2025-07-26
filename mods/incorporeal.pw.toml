@@ -3,8 +3,8 @@ filename = "incorporeal-1.2.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "418ea41214d61ce41413fb7b0622d3bb0c7dd31a"
+hash-format = "sha512"
+hash = "45f4a708e0c2b414fd9cefe402238b1f7bb26c4acdbd162a2ca7985d86dda99a074e81e7f2741ebc28d151e6e39252866fd14151c37ba66268cc53be9227f930"
 mode = "metadata:curseforge"
 
 [update]

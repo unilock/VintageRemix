@@ -3,8 +3,8 @@ filename = "TIS-3D-MC1.12.2-1.5.1.37.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "27190343c3bf609494c29a13ea186179709ceb91"
+hash-format = "sha512"
+hash = "cb333ebabfea1af0c67fc983d234572fb012b5018d72f3e7212690cf3e6af45e6d9a49198c56b90085997ca133099dea471234078dd0050073052a73547a6c21"
 mode = "metadata:curseforge"
 
 [update]

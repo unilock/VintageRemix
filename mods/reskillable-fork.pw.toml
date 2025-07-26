@@ -3,8 +3,8 @@ filename = "Reskillable-1.12.2-1.13.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3db2ea71f43eb52732a057a840274cbf86cc7702"
+hash-format = "sha512"
+hash = "2ca21536e38ea75e8657cd6804a353da555ad2ac2ca0d6ca64b1e38beae3233e466e9032cf4874a749b424fe45e6bf0609c6838a9b8e87e44e58ac81c5225f6b"
 mode = "metadata:curseforge"
 
 [update]

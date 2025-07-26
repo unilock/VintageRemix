@@ -3,8 +3,8 @@ filename = "MagicCrackerFactory-1.12.2-0.6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f8fd5321d77998cd818f92dc8f3d1073cabeb9e5"
+hash-format = "sha512"
+hash = "412330438a379f0b8c20c094ae18f27bf53ff0e413e44220c6d40105dbab2552d8ea0374d2112e7efc08ec6b3adde8401c693e6d3f7121db7a86a0603ab466e4"
 mode = "metadata:curseforge"
 
 [update]

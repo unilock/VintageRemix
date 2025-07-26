@@ -3,8 +3,8 @@ filename = "ltta-1.12.2-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e52f67e8d3a04ce21ff4aa9cd2fad0cda80824d6"
+hash-format = "sha512"
+hash = "9b29e59686af5f7f4a7bc601ade338d7137b12d5831f8dabbf110c6ac3dfe27c39d5fb574613aaf551b6923222c8971bd5ed58dac15895d3539e696d9a870d06"
 mode = "metadata:curseforge"
 
 [update]

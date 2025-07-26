@@ -3,8 +3,8 @@ filename = "JEROreIntegration-1.12.2-1.1.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "295d2e9ab079fe0f9d94ff1e1862a111a7a829f9"
+hash-format = "sha512"
+hash = "6a17e9f3d55067d9577ef15e1871fc073d4171a05e39d11af8e26672caf84fb08791d2425d7e12ff0bf2336e153840ded41da30e8fccc78324a43a7635020100"
 mode = "metadata:curseforge"
 
 [update]

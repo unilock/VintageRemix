@@ -3,8 +3,8 @@ filename = "Charset-StorageChests-0.5.6.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3ba0576095aacd48d4db42e360c871d525f1dcfe"
+hash-format = "sha512"
+hash = "94aaa60cbd4d0a19ab316ebb3c9d2b3a33170286bc77bc996bd8c40ecfad00002b35bb2039cda2494c69b9462c1f8edd5dfc002f6ae8cf609c7b3bb390962486"
 mode = "metadata:curseforge"
 
 [update]

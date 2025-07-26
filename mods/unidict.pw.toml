@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/UniDict-1.12.2-3.0.10.jar"
-hash-format = "sha256"
-hash = "34bd7eb753a9bf04c1eefe073754dbd28226e66d49ff13fb76b423c8a3f9e0d1"
+hash-format = "sha512"
+hash = "74618be0d90a15c1272c5ce31b62e22fa367e572003d4ef71cd01ffa289a863d73e54a65259a7fa218ec93e3b3c9ff1330e14747e5267bdf5c9e9c7b69bfe77f"

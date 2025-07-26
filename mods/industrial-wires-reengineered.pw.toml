@@ -3,8 +3,8 @@ filename = "IndustrialWires-1.8-38.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aaf8367a84ddb4b823ad6fde778b14216ed9f567"
+hash-format = "sha512"
+hash = "9fb94fb32bedc3364fcd4015fb1d6618f1a623ba549c5f3f5fc160c7b6545c74fe7067555064c78d347be2b1aac89dd1daa9449f56738764f68f3b52d8f1dd21"
 mode = "metadata:curseforge"
 
 [update]

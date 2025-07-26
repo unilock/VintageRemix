@@ -3,8 +3,8 @@ filename = "literalascension-1.12.2-2.0.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "802651a5692667ccf10d3f16f0929cd583afb23b"
+hash-format = "sha512"
+hash = "a44f8624bc859ac329898acc16405b7f9834e9721b0353075d551012ec44bc7e992aea7bdb95b3a47cd0cefa3b1abe66f170aee38b3d576f1e464feaf4a0d559"
 mode = "metadata:curseforge"
 
 [update]

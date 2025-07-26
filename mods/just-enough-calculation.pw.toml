@@ -3,8 +3,8 @@ filename = "JustEnoughCalculation-1.12.2-3.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af07e8e6567e910f679b14f9b67b23da3213eeb2"
+hash-format = "sha512"
+hash = "8da9c86aa94fd76186c3ddcf1d29f14de84e8d788420c8f11f5972fa5397ffd013cceb369061618751e64db1a5c993a592777e7f79a4a4e52b5d4f58c4a4edec"
 mode = "metadata:curseforge"
 
 [update]

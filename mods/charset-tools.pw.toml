@@ -3,8 +3,8 @@ filename = "Charset-ToolsEngineering-0.5.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3428aa10b9d945df1dcbe026f8bc0bdbe0a80544"
+hash-format = "sha512"
+hash = "8d4069d77bfb94c0ab55d494d29e8f8655bae14e755156edeac4bc714ac8c062d68e54871ce768551e96e3e8b900b9575991341f7458cb4bb9d1a5aa592dc572"
 mode = "metadata:curseforge"
 
 [update]

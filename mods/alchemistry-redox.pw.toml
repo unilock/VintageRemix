@@ -3,8 +3,8 @@ filename = "alchemistry-1.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60250bf694a09680ed3dc5043ab511f69de411ef"
+hash-format = "sha512"
+hash = "857b02cb8bd4655c76e2336bf282963666837cd5e8a64dd0576e98a67190752c05a26a43b17abecfaae244c0405536c317aa576a4b60829698cc62d2d2ffc93f"
 mode = "metadata:curseforge"
 
 [update]

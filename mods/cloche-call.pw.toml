@@ -3,8 +3,8 @@ filename = "ClocheCall-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e23fc1afbc823ec3d1f00a283ea7c7497cf3488"
+hash-format = "sha512"
+hash = "e4bdcb865ed9bc8b959d2ebf1020152e693bb4bc30bdef87376a85ab6ce2e36b874622fa80d6b8a7b01cba901e38a95ae84f168f1732cfaa1fadbe1aa4081faa"
 mode = "metadata:curseforge"
 
 [update]

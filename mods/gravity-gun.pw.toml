@@ -3,8 +3,8 @@ filename = "GravityGun-1.12.2-7.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2bf4c3f8c7d67bf0dee9ee6d64349d2d6191218c"
+hash-format = "sha512"
+hash = "e958c9fe642a5a76bb220f0a4405161063a74402f3d3fc2912eab5492c272389b006c9b5b7a6ab1478a7095b32d5da2d3e7930d9b10743076d4feca1b9c90683"
 mode = "metadata:curseforge"
 
 [update]

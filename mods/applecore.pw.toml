@@ -3,8 +3,8 @@ filename = "AppleCore-mc1.12.2-3.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a6a57a76936a559088e9282aacde6f761d7e0b39"
+hash-format = "sha512"
+hash = "ae77cecf733637fc67ebf4acccb59180495c087eeebaf04ff8355e9d570d13d04e1543b3f22ca53e0996337af5dc18f70d81405844837ec3a6e7cda06446cd17"
 mode = "metadata:curseforge"
 
 [update]

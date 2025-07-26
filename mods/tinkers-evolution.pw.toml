@@ -3,8 +3,8 @@ filename = "tconevo-1.12.2-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cdc80e28a45e57e6f30fb54ba00a55f432bf6da9"
+hash-format = "sha512"
+hash = "1ac60bf0d87939e42d6b9ac25f1022c4812244b9a820a5b61e3902c2216aebc744c86f75be1652341561704f295f2e7392a19668dba87c642dee5eda0276178f"
 mode = "metadata:curseforge"
 
 [update]

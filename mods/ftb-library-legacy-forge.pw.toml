@@ -3,8 +3,8 @@ filename = "FTBLib-5.4.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7c20cd223bc2334edf153e074f35acdbcab3c976"
+hash-format = "sha512"
+hash = "42a66b987ae836c497994a0fb4e67e5876a8de9bc3586e0344fa5e892975974d51d996c2b66f22037cb8b4464d94a7d4fcd4cb6e201ec6dfeefc34da803d76da"
 mode = "metadata:curseforge"
 
 [update]

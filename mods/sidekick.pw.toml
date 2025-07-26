@@ -3,8 +3,8 @@ filename = "NotEnoughCreativity-1.12-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a818914b8ba76e7a46c9d2b1ecf494f2391b924"
+hash-format = "sha512"
+hash = "077835e8b118c656c6992a517589b66ed870584d0ddbc9b0b74dfe67e4516d168ee9d3294387dd72fdde8808ced8ac0d36fb9fafb8a3a435d473ace0034c9fae"
 mode = "metadata:curseforge"
 
 [update]

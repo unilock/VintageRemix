@@ -3,8 +3,8 @@ filename = "justenoughdrags-1.4-beta.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "47cf3889247a10e60e9f843fe9d026c5c8ba8fa6"
+hash-format = "sha512"
+hash = "f749db2ff4d305312916abff60d1f4a2c74e63b194731885ec0ecbfc67d7bdfd723300a8031ad0dbfade556ab44daf66524ef72d2ccc74445fecd538813cffc8"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Into The Dungeons - 1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4ed0c6b8daf71af11c0bdcf72f33a2eb54e751e9"
+hash-format = "sha512"
+hash = "d4a8e8ac846b5cfa9e819dbf901eb2e9ef74e24a7f5da76db03f8eb402f30d7becec0598931df20e367b7aa12db9e26c6f9832e482ff37290172ca00156bd851"
 mode = "metadata:curseforge"
 
 [update]

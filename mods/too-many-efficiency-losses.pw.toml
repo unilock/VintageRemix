@@ -3,8 +3,8 @@ filename = "tmel-1.12.2-1.4.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f11b7b6cfe6bc5ef81f47f195693b2ea87309e3f"
+hash-format = "sha512"
+hash = "b1a801a4ef830c6f1cf06fe087a4d6c5513362dfe6f5e3005a7355fc756f2bb55ec0f0b46f9104e22c501a717b299244d172e2e074efbf9a6f301e976548af56"
 mode = "metadata:curseforge"
 
 [update]

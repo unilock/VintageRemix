@@ -3,8 +3,8 @@ filename = "PortalGun-1.12.2-7.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2796a6f3723be6fddfdc547a59cc4420a34d823d"
+hash-format = "sha512"
+hash = "95f3c938f4a8b9c742853b90f0e34ee4b30e548a8a25247a2ae27f7c19dd224f44e056b39da13ec12d7dfce50cb8386ea54658245975376b8771a5b9c9717de5"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "NCOLegacyLib-1.12.2-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e42f9769a2ce4b9c0a51f963af1e8d5b7906cebe"
+hash-format = "sha512"
+hash = "1f916f49c0a365a6464993e394cdf84d5715f303cff830a858372df3524138f1da5dbcc6b4195d06a5f674747df8a2a7d7843a3730b84d112daa132d33f5a7b5"
 mode = "metadata:curseforge"
 
 [update]

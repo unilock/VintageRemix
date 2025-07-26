@@ -3,8 +3,8 @@ filename = "complex-logic-1.4.3-master.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "1165733456"
+hash-format = "sha512"
+hash = "e2abab8a2d675b342aee3c9a97ed9f548780242b3d7c7b3bf486b26869af935a0e3429aa6dfb0ca80abd167809396f81c3a7f3bd882da31a170157e6d520123e"
 mode = "metadata:curseforge"
 
 [update]

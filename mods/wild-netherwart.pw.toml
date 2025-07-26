@@ -3,8 +3,8 @@ filename = "wild_netherwart-1.12.2-v1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05f9f12f9b66ec7d9575c5de8fb2d8a0f957dcbd"
+hash-format = "sha512"
+hash = "30fc0f05e38e1a319708d25cfc37e0d6bf539cc925830d07cee68df5bd1fdf66b4a8910d8a6dd8afcf330af059e7287c32520ed5311129a52798a55f68e8af7f"
 mode = "metadata:curseforge"
 
 [update]

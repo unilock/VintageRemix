@@ -3,8 +3,8 @@ filename = "resizingpotion-2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11fb91d43ee133f175dd07bccba40a61b218c14d"
+hash-format = "sha512"
+hash = "2b7d355b58f2f49fd2df0fbb7c91aa98727e6c3e3562816d7cedef4943ab11f758f4901d9f02a3823b9a0e4d296042e7b96b4b929185169f68adddeec2b535ca"
 mode = "metadata:curseforge"
 
 [update]

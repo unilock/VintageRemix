@@ -3,8 +3,8 @@ filename = "Advanced Essentia Smelter-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b6a7348001eb65d2c145b9121709632d7ce15675"
+hash-format = "sha512"
+hash = "241311b5bbfe57dd41f42e20b696e713e2b9d2592e5c8a46a7ba77236bd4dab734c77b189123703a7dd667dff347bdd1bd0c3343607793d73dc940a8646a3bab"
 mode = "metadata:curseforge"
 
 [update]

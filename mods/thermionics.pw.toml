@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://oldci.y2k.diy/job/elytra/job/ThermionicsWorld/master/ThermionicsWorld-MC1.12.2_ver1.0.2.jar"
-hash-format = "sha256"
-hash = "32c83f40daf8eddf02e8ce8f498c4bc2444078a1720a1b5b018dca3f925e9298"
+hash-format = "sha512"
+hash = "e5bf74f2d6e67d74f57ff0d7d6fee9691afff07172c651e6d015506e588d219fcc983d1a88d2762d590336b78a8e5f41a6b0afd1f87847bffab4b7272e5a8171"

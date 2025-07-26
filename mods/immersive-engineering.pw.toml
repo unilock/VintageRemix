@@ -3,8 +3,8 @@ filename = "ImmersiveEngineering-0.12-98.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "633070d9c447fdaf6a9ead59425017815c890c63"
+hash-format = "sha512"
+hash = "2e9a91d5102c476284525e53614f57b27e5cb91944b6db7aca0010b832d5d0cd545071ca4b92ac6e5d90086d03d544ae6da03f15eeea84ea82c59c1b958dfb67"
 mode = "metadata:curseforge"
 
 [update]

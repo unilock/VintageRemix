@@ -3,8 +3,8 @@ filename = "CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "868d96028427e39495f441e43e60a9b77225b5ad"
+hash-format = "sha512"
+hash = "d301e1596934489c801d86af176a64527cb53ebddca3ef81a69d79006e40f52048be2f8e6f923bf01e4485223839949373d8cf38835d3c822da10a3becf3ce4e"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "nice-1.12-0.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64f3b07ede5bfc8d04dc75fb03fbb0d5ad97d7a4"
+hash-format = "sha512"
+hash = "41738db14d8dbfc94412943ab14febe22f3e6dba1a13cb65c8ab0cb967ffa496ad72ae12c4c49fffe61c0eaaf3c8ad0d3e444d3723b35e4a39bed697c32cb15f"
 mode = "metadata:curseforge"
 
 [update]

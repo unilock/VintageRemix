@@ -3,8 +3,8 @@ filename = "clothesline-1.12.2-0.0.4.2-bundle.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca99277b2de212a5edd15be62e2e054c31241101"
+hash-format = "sha512"
+hash = "61670b79c7f64d0309501e55a91f521aeb99af82d9297093b47d76e5eee8dce7a9ab06156d76eabf5a86f5ad420cf3c534563cd93c91631568dc078f95eaf92d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "TheEightFabledBlades V2.0.01.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b720325f61bc1adbaef23e6c6627342ffb0643a7"
+hash-format = "sha512"
+hash = "5c2ea8cc9ebf98a811fb7bb376d89f641687cd9415a1c4d2697e4ead4951ad94dafa9b6880812bc4631761466087231480f37138c36f29008bb417a02f808e94"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "visualores-0.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "46a27e52e387a17308e8812ea368a34777afc63d"
+hash-format = "sha512"
+hash = "0754f3c315ff5911f0a9ff3bdcaa86c49ffc1f758b22f73d98213829f8639fb8433b2ff63f7626bf4210acf581e3efb4dd2afe4344ca25d43219576d221290e7"
 mode = "metadata:curseforge"
 
 [update]

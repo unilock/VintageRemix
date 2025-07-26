@@ -3,8 +3,8 @@ filename = "EnergyControl-1.12.2-0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "84db153da4b5cd933137f3f172203eebf08f78de"
+hash-format = "sha512"
+hash = "f740fdc726b35957d220a73f9845aa0bc34681ae079f8f7b34ba239b790f93ca56e2bbf28f4ad02c595efbf9092d50a40a83de89ccd6eeb9044dc0e9eee3549a"
 mode = "metadata:curseforge"
 
 [update]

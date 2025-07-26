@@ -3,8 +3,8 @@ filename = "WAIM-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eedc08b69c18e33eb69ca78995fc2c334dd5f8ba"
+hash-format = "sha512"
+hash = "a4038596ae64e4ef5ec23360740946c2293c24ed67753f0b86e2cc8802a5901f7485c670f516b9a33f57eba03f3200ff494e228b81b609b6a27dacd34c4bee64"
 mode = "metadata:curseforge"
 
 [update]

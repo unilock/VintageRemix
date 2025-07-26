@@ -3,8 +3,8 @@ filename = "OreExcavation-1.4.150.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d5e32554a78d95e40ecb85c32138531cb433f19f"
+hash-format = "sha512"
+hash = "8eaddfb4d5b81396baee9ad0b0d24ab9bc1700b3bceca2c9be1b15b441394702fe16752e491f23410dacfe1c4b06c723b02a1b13eecae7c1c11da4453eb8e893"
 mode = "metadata:curseforge"
 
 [update]

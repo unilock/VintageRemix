@@ -3,8 +3,8 @@ filename = "ProgressiveBosses-1.5.4-mc1.12.x.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fe89bb8a7eb3bf785899483710aad9c3ffbdf80"
+hash-format = "sha512"
+hash = "436da930b194598cfb4b5e295c6f7ef71b1cc5d18162b9b85b9de3bcc54efd5bededf79e81916586cc0b11b369d777cab12d4166957eee7ce104e6b2f5c86dab"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ThaumicAugmentation-1.12.2-2.1.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "376843864b9b7c117d4aa98c24c227a76b2d4fde"
+hash-format = "sha512"
+hash = "0cff0031835feb0e95595ef19d6754c9e4a1a715bfa2c9547773ca6fefecba926c955e148d59e9a62707106a851836972181932186a34c3f5d71fd0e9982a30c"
 mode = "metadata:curseforge"
 
 [update]

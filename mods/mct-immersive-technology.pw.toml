@@ -3,8 +3,8 @@ filename = "MCTImmersiveTechnology-1.12.2-1.9.102.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7dd15d79b2b1584340d16f4e38efcc23078a0c7b"
+hash-format = "sha512"
+hash = "a7c7e259a63e5d5b3b5ac76e2e750a47ccaa9877500e91a9f2db5ebdd6afb306075369f8d9ed2b457e764d544632f2c45aae5232c7f393a34a89af0466152adc"
 mode = "metadata:curseforge"
 
 [update]

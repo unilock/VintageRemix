@@ -3,8 +3,8 @@ filename = "NuclearCraftAdditions-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "474bb31ad491169f665caf411e15a1cb24ed004a"
+hash-format = "sha512"
+hash = "093357e66b01a1c3a7436d26b2ce40d958492ab758eaf01916480cb28ce703d4a523500a76ee7a6a9698f8d4c65ba689c83187660dbda26e3e986308257af87d"
 mode = "metadata:curseforge"
 
 [update]

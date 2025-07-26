@@ -3,8 +3,8 @@ filename = "Xtones-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e4d2c453000370722e384eaca047958f898996f"
+hash-format = "sha512"
+hash = "3aa85e7ead16bdfbe1cd5e8df50229b9cf73435cbb6e6435592367ecf4cd213967e280d69a32ceb422a846135c771d2c65dbdd96a9deb2ca4f111162a6468e6e"
 mode = "metadata:curseforge"
 
 [update]

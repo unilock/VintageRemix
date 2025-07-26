@@ -3,8 +3,8 @@ filename = "Charset-TweakCarry-0.5.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d8830e1aef1d3098889b90b893ebc1e19b74dc2"
+hash-format = "sha512"
+hash = "6232195a3ed4764979f8a8ff2fd3035bd203948beff8c9595ad381c01b9378c65ea272c1f52d6cb67d6c4ba28da5256c8723352998351486b9ef15756d5db801"
 mode = "metadata:curseforge"
 
 [update]

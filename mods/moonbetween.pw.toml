@@ -3,8 +3,8 @@ filename = "moonbetween-1.4.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de733f97aeecd3e23d3c161b477ea4bb6c3932c7"
+hash-format = "sha512"
+hash = "4b544d1383392cdc7d7deea1bdd82bc21c2f415efbfa072f70eadfa5123ef99340f98101e477085b861a7fb592fa2e7b21583a3a098db6e7bbb41da82abf354d"
 mode = "metadata:curseforge"
 
 [update]

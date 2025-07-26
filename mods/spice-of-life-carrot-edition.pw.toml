@@ -3,8 +3,8 @@ filename = "solcarrot-1.12.2-1.8.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3197a040e5a090ea12a2e2095a8cca0e6f650c13"
+hash-format = "sha512"
+hash = "c7798c6d91f7e7dea3015820a3ad2a524d773273b38ef00bbc58776fd156ae8169ddb320c4357061de99d000af4a04fe53f41a1e6ec19283032c45e0714db6e4"
 mode = "metadata:curseforge"
 
 [update]

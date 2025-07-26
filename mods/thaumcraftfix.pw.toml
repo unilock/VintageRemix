@@ -3,8 +3,8 @@ filename = "ThaumcraftFix-1.12.2-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acdb0be8de82c2803787c09c4a70a4ba84e031cd"
+hash-format = "sha512"
+hash = "bec4b6a2ef29fa27d0b00a299474bd80cb5dc1b92cf2a9fcda5d2b0eb04d71cc168c639c96ae630c935912e1c6d9bd23d1e60091e0ce774e93d19d398125a863"
 mode = "metadata:curseforge"
 
 [update]

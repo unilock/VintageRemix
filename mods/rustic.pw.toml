@@ -3,8 +3,8 @@ filename = "rustic-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e646f5487a6208ae7c60863e8857513e2c708620"
+hash-format = "sha512"
+hash = "cbb466320875b6dce10a492bbce7a1f1909ef8bf17809ec52864902acd8ebb8f3556c61fc243b8978de0104b0679c9d7b5b0e7e81e01bee87b0b3dcffab246ae"
 mode = "metadata:curseforge"
 
 [update]

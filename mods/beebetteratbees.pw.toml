@@ -3,8 +3,8 @@ filename = "beebetteratbees-1.12.2-2.0.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "93c8e92f38287afa24bb5218f5b0e5d237c60a2e"
+hash-format = "sha512"
+hash = "e3edff05ab6c660a12e73afe25512ef79cf6ef3bec27d8b93a9f6d50f541f11328b6f699369bd6328acd30c26fbb34b2608e477f1f64fe27bfcb315e5685536d"
 mode = "metadata:curseforge"
 
 [update]
