@@ -398,7 +398,7 @@ hash = "d6bea2b1791d954ebf6a8d84adc04f434c3df3b11547c1b31d7d25971ba11d7d"
 
 [[files]]
 file = "config/lwjgl3ify-early.json"
-hash = "1f1fc3c3cdc780d984d78955e0c177a4e69c8ffc4ce866a462d4353112612405"
+hash = "d8e82935fb16b9618df6efdfbf0e4de6dc5a7b8a6dcfbadf054a713063fe1c5e"
 
 [[files]]
 file = "config/lwjgl3ify.cfg"
@@ -3244,7 +3244,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "bc7b1fa9b1b0df4eeb7350988e33fc7f20d2f60ac5b75d914f2c1ec7bd7515a2"
+hash = "8460a3393499adba93ffb4c1ebce163da64a0bbac24d7304e48f88d45a1120ca"
 metafile = true
 
 [[files]]

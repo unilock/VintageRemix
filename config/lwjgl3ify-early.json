@@ -37,6 +37,7 @@
     "net.minecraft.util.EnumBlockRenderType",
     "net.minecraft.client.audio.SoundCategory",
     "lotr.common.world.map.LOTRWaypoint$Region",
+    "thaumcraft.common.lib.enchantment.EnumInfusionEnchantment",
     "lotr.client.gui.LOTRMapLabels",
     "Reika.DragonAPI.ModInteract.Bees.BeeAlleleRegistry$Life",
     "gregtech.api.enums.Element",
