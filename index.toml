@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "a8a44e87004d9f84d919ff8c57bdf23b6c0b8b7b826e50baba7e513f47d46090"
+hash = "1365ec36bdf67cffa1619c0c6e6ecd70aac7ebbb8c2e37c2a301d0598d613b11"
 metafile = true
 
 [[files]]
@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/brigo.pw.toml"
-hash = "258b8a87727bdd00094f935839fab06e6fb5f7bb74c6531c129acc94bd69163f"
+hash = "7e9e5b60216847d288991572c15713efec53c3a83625764d571ceffcf1d6b6af"
 metafile = true
 
 [[files]]
@@ -1529,7 +1529,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-modpack-tweaks.pw.toml"
-hash = "55373685d995bf42600e48e6242755387e44f26a8de9d69ab36c9616df05b97f"
+hash = "62413fdf991ae6a1878ee0eba636b53a585e21cdc3e3e65ce62aa8c05efe0803"
 metafile = true
 
 [[files]]
@@ -1739,7 +1739,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "edc487dd38c8be0ebcd49d6f86a6579adaf3b0c5009375afbd2e31267b5e01d0"
+hash = "d7d0ef219597b5bca9687394c36a9c87ea235484a7a26ea0952e1c8bd7f5d483"
 metafile = true
 
 [[files]]
@@ -1924,7 +1924,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "65708318c47ca549b9c79fd3cd9cbc79a160021378cffc116b97ba86a0e0f5ad"
+hash = "d4b2875587d6fb138367bcf95bc7c8b9f2514674a2075f4583c50ddc8fb4cc43"
 metafile = true
 
 [[files]]
@@ -2664,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "3ae6fa9b8c5601f6206e5b822d61eb1d4b0736e60b963705c2e7bab007ddbd74"
+hash = "78257bb120f55f284324a83838ddbde45e6e8c1eb7cc20dafe6a430a31f852d6"
 metafile = true
 
 [[files]]

@@ -3,8 +3,8 @@ filename = "endermodpacktweaks-0.5.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "715317203a38c74c231c713c7f2d34d1ac1a042d"
+hash-format = "sha512"
+hash = "f8fa4f0b096161a0fdb3239cde6d7af13defbf031c30944e0c881cb3b7d0fc9efd2709672b404dfd3a1c11c9a1d53df6859b8a9b9be1a83653f95c486bc992ed"
 mode = "metadata:curseforge"
 
 [update]

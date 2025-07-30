@@ -3,8 +3,8 @@ filename = "HadEnoughItems_1.12.2-4.29.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8085ff8ec2bc8b6a7145462cb8646ee87ceb2fd2"
+hash-format = "sha512"
+hash = "6cbe5ec5e8483238bc0fab53b8a2b1e38bb9a64ca46c2d4604047893824b81343dbfd8e193e7725526e79c97ad9c82ac1392d2bcce6a0eb35733bd1bc2be3f65"
 mode = "metadata:curseforge"
 
 [update]
