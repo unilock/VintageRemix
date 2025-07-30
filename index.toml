@@ -2278,11 +2278,6 @@ hash = "e1720aa650a43ad285de2bf7c711a38944d47167f6e6a14359bc98672fa0ccec"
 metafile = true
 
 [[files]]
-file = "mods/mystcraft-jei-plugin.pw.toml"
-hash = "7811f27e54300f283ec63c5a52740f80b9b3c98e89ab8ed5e8afc1b31c5db2cd"
-metafile = true
-
-[[files]]
 file = "mods/mystcraft-oc-integration.pw.toml"
 hash = "5d73b04d4073bcc3b69a983b3c90c9a3f4f4832224ba9a0f5953f5c96d035565"
 metafile = true
