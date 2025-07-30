@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "b4e2f21a523d60d608e8822e907c67d560c2d8c85778c0d948ae5c5ddaf0bc30"
+hash = "a8a44e87004d9f84d919ff8c57bdf23b6c0b8b7b826e50baba7e513f47d46090"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/borealisexpansion.pw.toml"
-hash = "9feec7b23cd11b6defbbe2be529834fd387471ab8c3c8d0aeea30b24e151f581"
+hash = "be797b5fd020835af7f6da582678085f6cb58b3c4dbf9dd17402c82aac8178e9"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-obscura.pw.toml"
-hash = "d7d7ce28fcae68c02b925e0a89ee1dae6226bd9b8cafb9cf4eeab1d60cba06fc"
+hash = "67b9295960a1f558c89b9c7246ddea615c8e961bb0c14730e18c14727c48b391"
 metafile = true
 
 [[files]]
@@ -1279,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/commons0815.pw.toml"
-hash = "fe1148285c757761948c955f8600d341977444157460c22b85a0e2abaed27e25"
+hash = "ffdea464903f043d9a5b9e7cdd872b1f0190602946a083e1be19ffc865b958b0"
 metafile = true
 
 [[files]]
@@ -1454,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc-retro.pw.toml"
-hash = "03688a4c51b0b25e9c4675189cb48b9fd67686077c035c1ef9dfc6e44f05530c"
+hash = "3473bde17fb37a70de3160926c7fa6088cf6cbbbd51cf4901dd3508733963ec3"
 metafile = true
 
 [[files]]
@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-modpack-tweaks.pw.toml"
-hash = "0f6f5635c4076bb49a71516119a344b8bcfd431ede87428358827c6062c49bd3"
+hash = "55373685d995bf42600e48e6242755387e44f26a8de9d69ab36c9616df05b97f"
 metafile = true
 
 [[files]]
@@ -1734,7 +1734,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "618043b1d0930e85c967cf41dd7a3cdc7c99a7eeecf01bf276e7fec99c19bae2"
+hash = "edc487dd38c8be0ebcd49d6f86a6579adaf3b0c5009375afbd2e31267b5e01d0"
 metafile = true
 
 [[files]]
@@ -1919,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "7c087967d77fa36e3d18c701bc2331147eda8cb0431fdfd14449c1bccbd890d6"
+hash = "65708318c47ca549b9c79fd3cd9cbc79a160021378cffc116b97ba86a0e0f5ad"
 metafile = true
 
 [[files]]
@@ -2444,7 +2444,7 @@ metafile = true
 
 [[files]]
 file = "mods/openglasses2.pw.toml"
-hash = "16b3a30da691bfbd4139e97aaf760b904a633a81a99e28f3b2d7ac8750fa5803"
+hash = "670840d7fdf125418a1fc9e90c2a0caa8dc579f18a5b8509826570432b196394"
 metafile = true
 
 [[files]]
@@ -2509,7 +2509,7 @@ metafile = true
 
 [[files]]
 file = "mods/pams-brewcraft.pw.toml"
-hash = "6a22457484bc757b97925ae8468acd883189d84273dc4992b7d75b5d72761408"
+hash = "f235a70247e50ae16a9d761f3cd1ce31fb45ae7fcaf34f10089170e5b47c28fe"
 metafile = true
 
 [[files]]
@@ -2624,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/ptrlib.pw.toml"
-hash = "8a7b7f440b5293155f76679d7cd78cd006280049bffc835d4e0c0617f933697c"
+hash = "d4cb3271b008cab3c42309b88a03dce0e0aa41bc6046714262e3534d04d81bdc"
 metafile = true
 
 [[files]]
@@ -2664,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "78257bb120f55f284324a83838ddbde45e6e8c1eb7cc20dafe6a430a31f852d6"
+hash = "3ae6fa9b8c5601f6206e5b822d61eb1d4b0736e60b963705c2e7bab007ddbd74"
 metafile = true
 
 [[files]]
@@ -3139,7 +3139,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-weaponry-halberd-battleaxes-daggers.pw.toml"
-hash = "6319e85c20538b1bcedf33e66d989f59229b838b3dcea90cc67c29cad3f47e67"
+hash = "8c2673212ace60b8ab05fb8e32a194c2aeba3c9db6e579abf5ce1967d37264ea"
 metafile = true
 
 [[files]]
@@ -3374,7 +3374,7 @@ metafile = true
 
 [[files]]
 file = "mods/yarcf.pw.toml"
-hash = "40e8705c014d969c95082f1fb185bcf4d41df88b159999fea64dff214d982d8c"
+hash = "4822ac8324d8b5e4521b7c38bc875dd59de15d48ba11d60e24c2f7828c57d4e9"
 metafile = true
 
 [[files]]
