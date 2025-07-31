@@ -570,7 +570,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "ab44e3ea3034c99fe06f5ee000666b9be4e86e54edab3cabdca2e53e0887a684"
+hash = "5c0b157d327e4fa6bf09784dccd8fa5c9ed602ad000c273927aa8ca4c4e811a4"
 
 [[files]]
 file = "config/tconstruct.cfg"
