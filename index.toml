@@ -438,7 +438,7 @@ hash = "84173959cd7c22380c60050d0aba54e4e33f1b524c505df9111ba623f8755684"
 
 [[files]]
 file = "config/mystcraft/core.cfg"
-hash = "89a3d9bcf93b133829ed295906794d6d37cbc4ec9199a53e9423d331f56384d3"
+hash = "ccc91b7e22108dbca10c11aec31835e48b7d34852e3faf5d84d670e44d815aa4"
 
 [[files]]
 file = "config/mystcraft/instabilities.cfg"
@@ -446,7 +446,7 @@ hash = "e3c2ba7d533fb5ab838547ed6e00f88bc2d81eaadabcbfe1c865bc205d900f21"
 
 [[files]]
 file = "config/mystcraft/symbols.cfg"
-hash = "b7bdcbb773f7203f188a00d47893c4a3878fe9d54258dd997d3858f7e175794d"
+hash = "c39cbd502009071388aed6ed2cf95a8e9274723bc80e6707948306bcf8320629"
 
 [[files]]
 file = "config/mysticalworld.cfg"
@@ -3336,7 +3336,3 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "f5faf479fca27efd95da0a517995532d1e69308d8601a82a8df5f128fd0cecf8"
 metafile = true
-
-[[files]]
-file = "mystcraft/myst_baseline.dat"
-hash = "cadd5404585f3376ffb107a69cf1d3793f332ce151abf8536800a294ee23b1a1"
