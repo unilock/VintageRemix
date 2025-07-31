@@ -33,12 +33,12 @@ key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_Change Caster Focus:0:NONE
 key_Misc Caster Toggle:0:NONE
-key_key.groovyscript.reload:0:NONE
 key_ALT Key:56:NONE
 key_Boost Key:42:NONE
 key_Mode Switch Key:0:NONE
 key_Side Inventory Key:0:NONE
 key_Hub Expand Key:0:NONE
+key_key.groovyscript.reload:0:NONE
 key_zume.zoom:44:NONE
 key_zume.zoom_in:0:NONE
 key_zume.zoom_out:0:NONE
@@ -50,9 +50,9 @@ key_roots.keybinds.spell_library:0:NONE
 key_roots.keybinds.cycle:0:NONE
 key_roots.keybinds.delete_spell:0:NONE
 key_quark.keybind.toggleAutojump:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -79,6 +79,18 @@ key_arcanearchives.gui.keybinds.socket:0:NONE
 key_key.conarm.toggle_helm.desc:0:NONE
 key_key.conarm.toggle_chest.desc:0:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
+key_config.aunis.mode_scroll:0:NONE
+key_config.aunis.address_scroll:0:NONE
+key_config.aunis.mode_up:0:NONE
+key_config.aunis.mode_down:0:NONE
+key_config.aunis.address_up:0:NONE
+key_config.aunis.address_down:0:NONE
+key_config.aunis.address_remove:0:NONE
+key_config.aunis.universe_dialer.abort:0:NONE
+key_config.aunis.universe_dialer.oc_program:0:NONE
+key_config.aunis.page_notebook.rename:0:NONE
+key_key.clockworkphase2.activate:0:NONE
+key_key.clockworkphase2.toolbelt:0:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_key.toggle_shaders:0:NONE
 key_key.next_item.desc:0:NONE
@@ -91,6 +103,9 @@ key_key.davincis.brake:0:NONE
 key_key.davincis.align:0:NONE
 key_key.davincis.decompile:0:NONE
 key_key.davincis.shipinv:0:NONE
+key_key.elementaristics_up:0:NONE
+key_key.elementaristics_down:0:NONE
+key_key.elementaristics_master:0:NONE
 key_ComputerArmorBoost:0:NONE
 key_ComputerArmorNightVision:0:NONE
 key_key.xu2.searchforitems:0:NONE
@@ -99,11 +114,15 @@ key_key.ftbutilities.trash:0:NONE
 key_Gravi Fly Key:0:NONE
 key_key.helmet_night_vision:0:NONE
 key_key.kitchentools.open_cape:0:NONE
+key_Alternate Effect:0:NONE
+key_Quest Journal:0:NONE
+key_Primal Ability:0:NONE
 key_key.statsGui:34:NONE
 key_key.exitEdit:0:NONE
 key_key.captchalouge:0:NONE
 key_key.aspectEffectToggle:0:NONE
 key_key.sylladex:0:NONE
+key_Blink:0:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_inventory.binSlot:211:NONE
@@ -142,6 +161,7 @@ key_key.openglasses.thermalvision:0:NONE
 key_key.openglasses.config:0:NONE
 key_key.openglasses.opensecurity:0:NONE
 key_key.xtones.scroll:0:NONE
+key_key.cofh.multimode:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -152,13 +172,17 @@ key_key.jei.recipeBack:14:NONE
 key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
-key_key.jei.toggleBookmarkOverlay:0:NONE
-key_waila.keybind.wailaconfig:0:NONE
-key_waila.keybind.wailadisplay:0:NONE
-key_waila.keybind.liquid:0:NONE
-key_waila.keybind.recipe:0:NONE
-key_waila.keybind.usage:0:NONE
-key_key.clipboardPaste:0:NONE
+key_key.hei.toggleBookmarkOverlay:0:NONE
+key_key.hei.crafting:0:NONE
+key_key.draconicevolution.placeItem:0:NONE
+key_key.draconicevolution.toolConfig:0:NONE
+key_key.draconicevolution.toolProfileChange:0:NONE
+key_key.draconicevolution.armorProfileChange:0:NONE
+key_key.draconicevolution.toggleFlight:0:NONE
+key_key.draconicevolution.toggleDislocator:0:NONE
+key_key.draconicevolution.cycleDigAOE:0:NONE
+key_key.draconicevolution.cycleAttackAOE:0:NONE
+key_key.draconicevolution.toggleShields:0:NONE
 key_key.immersiveengineering.magnetEquip:0:NONE
 key_key.immersiveengineering.chemthrowerSwitch:0:NONE
 key_nei.options.keys.gui.botania_corporea_request:0:NONE
@@ -175,9 +199,13 @@ key_key.flyup:200:NONE
 key_key.flydown:208:NONE
 key_key.startflying:57:NONE
 key_key.startlanding:42:NONE
+key_waila.keybind.wailaconfig:0:NONE
+key_waila.keybind.wailadisplay:0:NONE
+key_waila.keybind.liquid:25:NONE
+key_waila.keybind.recipe:0:NONE
+key_waila.keybind.usage:0:NONE
 key_key.astikorcarts.desc:0:NONE
-key_atlasextras.keybind.togglehud:52:NONE
-key_atlasextras.keybind.openatlas:50:NONE
+key_key.clipboardPaste:0:NONE
 key_key.show_backpack_contents:42:NONE
 key_bbw.key.mode:0:NONE
 key_bbw.key.fluidmode:0:NONE
@@ -207,15 +235,10 @@ key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
 key_key.craftingtweaks.refill_last:0:NONE
 key_key.craftingtweaks.refill_last_stack:0:NONE
-key_key.draconicevolution.placeItem:0:NONE
-key_key.draconicevolution.toolConfig:0:NONE
-key_key.draconicevolution.toolProfileChange:0:NONE
-key_key.draconicevolution.armorProfileChange:0:NONE
-key_key.draconicevolution.toggleFlight:0:NONE
-key_key.draconicevolution.toggleDislocator:0:NONE
-key_key.draconicevolution.cycleDigAOE:0:NONE
-key_key.draconicevolution.cycleAttackAOE:0:NONE
-key_key.draconicevolution.toggleShields:0:NONE
+key_cyberware.keybinds.menu:0:NONE
+key_key.divinefavor.talisman_scroll:0:NONE
+key_key.divinefavor.talisman_select:0:NONE
+key_key.divinefavor.talisman_value_hud:0:NONE
 key_key.overload:0:NONE
 key_key.chaosInjection:0:NONE
 key_Dynamic Lights toggle:0:NONE
@@ -235,10 +258,6 @@ key_key.slide.desc:42:NONE
 key_Open Backpack:48:NONE
 key_jecalculation.key.gui_craft:0:NONE
 key_jecalculation.key.gui_math:0:NONE
-key_LevelUpToggle:0:NONE
-key_LevelUpSkills:0:NONE
-key_key.drawMahoujin:0:NONE
-key_key.changeMysticCode:0:NONE
 key_key.music_player_gui:0:NONE
 key_key.music_player_toggle:0:NONE
 key_key.music_player_next:0:NONE
@@ -285,21 +304,14 @@ key_module.powersuits.climbAssist.name:0:NONE
 key_module.powersuits.jetBoots.name:0:NONE
 key_module.powersuits.shockAbsorber.name:0:NONE
 key_module.powersuits.aurameter.name:0:NONE
+key_pi.key.open_pi:0:NONE
+key_pi.key.et_gui:0:NONE
+key_pi.key.et_world:0:NONE
 key_keybind.simplyjetpacks.gui:0:NONE
 key_keybind.simplyjetpacks.engine:0:NONE
 key_keybind.simplyjetpacks.charger:0:NONE
 key_keybind.simplyjetpacks.hover:0:NONE
 key_keybind.simplyjetpacks.emergency_hover:0:NONE
-key_key.plustic_release_entity.desc:0:NONE
-key_key.plustic_toggle_gui.desc:0:NONE
-key_key.plustic_set_portal.desc:0:NONE
-key_key.plustic_brown_magic.desc:0:NONE
-key_key.plustic_toggle_tool.desc:0:NONE
-key_key.plustic_fruit_salad.desc:0:NONE
-key_key.plustic_mots.desc:0:NONE
-key_pi.key.open_pi:0:NONE
-key_pi.key.et_gui:0:NONE
-key_pi.key.et_world:0:NONE
 key_key.taiga.alt_action:0:NONE
 key_key.carpet_forward:17:NONE
 key_key.carpet_backward:31:NONE
@@ -307,11 +319,11 @@ key_key.craftingGrid:0:NONE
 key_key.pixelglasses:0:NONE
 key_keybind.universaltweaks.clear_toasts:0:NONE
 key_visualores.key.action:0:NONE
+key_visualores.button.neromantic:0:NONE
+key_visualores.button.chunk_claiming:0:NONE
+key_visualores.button.excavator:0:NONE
 key_visualores.button.starlight:0:NONE
 key_visualores.button.aura_flux:0:NONE
-key_visualores.button.excavator:0:NONE
-key_visualores.button.chunk_claiming:0:NONE
-key_visualores.button.neromantic:0:NONE
 key_key.immersiveintelligence.manualReload:0:NONE
 key_key.immersiveintelligence.mgScope:0:NONE
 key_key.immersiveintelligence.motorbikeEngine:0:NONE
@@ -332,6 +344,26 @@ key_Move Vehicle Up:0:NONE
 key_Move Vehicle Down:0:NONE
 key_key.sort_config:0:NONE
 key_key.sort:-98:NONE
-key_Open Skill GUI:0:NONE
 key_key.control:29:NONE
-key_Change Goggles Lens:0:NONE
+key_Change Goggles Lens:36:NONE
+key_enderio.keybind.inventory:0:NONE
+key_enderio.keybind.dsu:0:NONE
+key_enderio.keybind.glidertoggle:0:NONE
+key_enderio.keybind.soundlocator:0:NONE
+key_enderio.keybind.nightvision:0:NONE
+key_enderio.keybind.gogglesofrevealing:0:NONE
+key_enderio.keybind.stepassist:0:NONE
+key_enderio.keybind.speed:0:NONE
+key_enderio.keybind.jump:0:NONE
+key_enderio.keybind.top:0:NONE
+key_enderio.keybind.tnt:0:NONE
+key_enderio.keybind.yetawrenchmode:0:NONE
+key_enderio.keybind.magnet:0:NONE
+key_enderio.keybind.fovreset:0:NONE
+key_enderio.keybind.fovunreset:0:NONE
+key_enderio.keybind.fovstore:0:NONE
+key_enderio.keybind.fovrecall:0:NONE
+key_enderio.keybind.fovplus:0:NONE
+key_enderio.keybind.fovminus:0:NONE
+key_enderio.keybind.fovplusfast:0:NONE
+key_enderio.keybind.fovminusfast:0:NONE

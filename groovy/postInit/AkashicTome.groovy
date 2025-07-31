@@ -330,6 +330,5 @@ player.addStartingItem(akashicTome, 9)
 player.addStartingItem(item('astralsorcery:itemjournal'), 10)
 player.addStartingItem(item('alquimia:lexicon'), 11)
 player.addStartingItem(item('botania:lexicon'), 12)
-player.addStartingItem(item('levelup2:skillbook'), 13)
 
 crafting.addShapeless(akashicTome, [item('minecraft:book')])

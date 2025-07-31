@@ -186,7 +186,7 @@ hash = "4870995054840c904d671129d99f1f3688a8477f7f82e7c01ab60c43265beb72"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "76ff1009bfd144a816a884e239bb8522422b6124f4d4209d864035cc727813fb"
+hash = "fcce7dca7c1f19f7d638b0f004c0b6d7e80e325d0059d560cc46fc1ccb4b1d77"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -362,11 +362,11 @@ hash = "831c5c65c5a13c48acb986c48c4e9f0abe12027df43b00321ebf1e94f5f6f0b2"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "4adf3643afb04dff00f4898c6d872fdf8c7304a991ae2ac199c05abf6eb8035f"
+hash = "a47f99780cf736d5dbe357166372a485edfef792d4a60a64343dd56d7ffac31d"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "c75894f5c0728caf65e78789b45e306bf5e0255999aa461ae3cc93996beff222"
+hash = "2b02867763481cb913fb72fc8d743149d727c436ec36f5de01cc437fa4bbd96d"
 
 [[files]]
 file = "config/jeresources/jeresources.cfg"
@@ -379,10 +379,6 @@ hash = "6e23e6eab766a1fffacc1f6c9008b5c13c901d6a59e334c65d6cb1f874908946"
 [[files]]
 file = "config/lemonlib.cfg"
 hash = "794278bfbc86e035aa4d5a22886dad702765c576b22549b8881ffdd5afcdcf4d"
-
-[[files]]
-file = "config/levelup2.cfg"
-hash = "7ca6f42a23ae965f3fda47801e3c84aa177439c9f43331537b390c0bfcca858c"
 
 [[files]]
 file = "config/librarianlib.cfg"
@@ -529,10 +525,6 @@ file = "config/reccomplex.cfg"
 hash = "2436aee70ec73f867a1e25e11d5b2a652a3d2440205fbae1aa687c4e5865375c"
 
 [[files]]
-file = "config/reskillable.cfg"
-hash = "7966fe42145353f56a9f0d54e938100fafc10bf682c8636dad6d8546d1699816"
-
-[[files]]
 file = "config/roots/general.cfg"
 hash = "b4eba85304a0e280f0d0cb696acd60edf05c5da756d3bde67e48154c40017844"
 
@@ -670,7 +662,7 @@ hash = "cd5f22cfa82730289f42b40ee794d8bf6e9cc7b03cf5e167ef1974e69da0a56f"
 
 [[files]]
 file = "groovy/postInit/AkashicTome.groovy"
-hash = "06c9a7e7ca9e9752daa0a0a02093049a3152757e73513e7066c727c18bf38dd1"
+hash = "b01b7f2f59247ca021190833cb43a125f8c5290784dd7782025f81ea03f17a15"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
@@ -678,7 +670,7 @@ hash = "da068fbbb21f98c25e28b26bf2450646b7a519c52f5ab64cb02625f1573ae397"
 
 [[files]]
 file = "groovy/postInit/Tooltips.groovy"
-hash = "aeec6ac33b557e6eef6cae3cb370f91c53601257bd5f687e511ad4b553ae21a3"
+hash = "1b8e497949d63bc1947d7f957ea26d291a441e02b5d12a88f2ca175dd256706d"
 
 [[files]]
 file = "groovy/runConfig.json"
