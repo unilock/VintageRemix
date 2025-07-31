@@ -803,16 +803,6 @@ hash = "aca249dea0bdbede0ee109619f68451819a46142251f7a670eb81d08ea327c1c"
 metafile = true
 
 [[files]]
-file = "mods/animania-extra.pw.toml"
-hash = "518b3971ca8b8b2f9fc871d7a417f4688268600102425d1dbacff9a13857efb7"
-metafile = true
-
-[[files]]
-file = "mods/animania.pw.toml"
-hash = "c8342446eb0d6caaa27eeff50f8bf2be9b97f44a15daad616f2c3fa3b30941df"
-metafile = true
-
-[[files]]
 file = "mods/animus.pw.toml"
 hash = "b2f109d471c3546be0c31452b511eb7b3ece54dc0ed69695789f4fd9e678b03e"
 metafile = true
@@ -1063,11 +1053,6 @@ hash = "f2a4ea188eda0f78244e40dd498275154bb3ecad9644f6dce7401cbb069466be"
 metafile = true
 
 [[files]]
-file = "mods/borealisexpansion.pw.toml"
-hash = "be797b5fd020835af7f6da582678085f6cb58b3c4dbf9dd17402c82aac8178e9"
-metafile = true
-
-[[files]]
 file = "mods/botania-tweaks.pw.toml"
 hash = "b4070f61140a43bff48eff1d37df9e1be18a26bd46b5ca957a753ee0c26ac5b0"
 metafile = true
@@ -1288,11 +1273,6 @@ hash = "ffdea464903f043d9a5b9e7cdd872b1f0190602946a083e1be19ffc865b958b0"
 metafile = true
 
 [[files]]
-file = "mods/compatskills-fork.pw.toml"
-hash = "fa5110f27d1697ecc2e317f6ab52f8c6fd0d138e8f297f9f95c82ef5fb2c7213"
-metafile = true
-
-[[files]]
 file = "mods/complexlogic.pw.toml"
 hash = "31d735884955c87403b504071a28a4199b3dbd39b16b938390a81986a5c7df0f"
 metafile = true
@@ -1335,11 +1315,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks-unofficial.pw.toml"
 hash = "cc43809a5d77ead53d4bd220cae5fb4a7362e44e52810fd6a40bfabe5816df7a"
-metafile = true
-
-[[files]]
-file = "mods/craftstudio-api.pw.toml"
-hash = "10b85270fe1e63979938d51fe3d58f030864cfd476257122a24fccad678f7f50"
 metafile = true
 
 [[files]]
@@ -1390,11 +1365,6 @@ metafile = true
 [[files]]
 file = "mods/dazzle.pw.toml"
 hash = "f253c632a55191fc57646240fcf08f4aca0f67c8ba0a3b076072d971ac0b5919"
-metafile = true
-
-[[files]]
-file = "mods/decorative-crystal-clusters.pw.toml"
-hash = "54de74880e59108cf5461492484fcfff1923aa204afc14f36d57dfea6d7e3bf1"
 metafile = true
 
 [[files]]
@@ -2018,11 +1988,6 @@ hash = "62dfe29da6faf0e40a00891ec7b6a31e71b30d471291be79632d0a34e2265220"
 metafile = true
 
 [[files]]
-file = "mods/level-up.pw.toml"
-hash = "79650164ff330baefaec2b09aa44d552c43cf32d9a815696728e9236635510ab"
-metafile = true
-
-[[files]]
 file = "mods/libnine.pw.toml"
 hash = "84d2c041269de3be1f82c498bbfef4b14690cd3d5ed1633853347546d70c3847"
 metafile = true
@@ -2365,11 +2330,6 @@ metafile = true
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
 hash = "a57f7b030fa00125fb1e2cfda78a8e389065aa512adeecd7aa4e5aff03d5d636"
-metafile = true
-
-[[files]]
-file = "mods/new-tardis-mod.pw.toml"
-hash = "06845d9061b5383b5a372f1293918480746595e905ed57948b90ce3937781bd1"
 metafile = true
 
 [[files]]
@@ -2748,11 +2708,6 @@ hash = "690cec60583ff23639b5b0c7e7be7aa3836f5fcb03404618c15fbc069b148a8c"
 metafile = true
 
 [[files]]
-file = "mods/reskillable-fork.pw.toml"
-hash = "f85328bc53293b5049f6877a66601c145338ed78f6bd1d0f527851834a84e74c"
-metafile = true
-
-[[files]]
 file = "mods/resource-loader.pw.toml"
 hash = "1902673c5a7cbbd920270f7759b70e663b867360d4fefb1937245a30622078c2"
 metafile = true
@@ -2853,11 +2808,6 @@ hash = "d40c5033c71946e11be9575f6b0f424de31abe9c86ec1029fa9682f4892592d6"
 metafile = true
 
 [[files]]
-file = "mods/simply-cats.pw.toml"
-hash = "06dd96aa621b4812e6d802255cbe76ec69beda8ec2c88e3d8ad6673f7d9fd1bb"
-metafile = true
-
-[[files]]
 file = "mods/simply-jetpacks-2.pw.toml"
 hash = "64f240aa50699fd18218b4618e37c4e102d4092605e29e62d11f9573b8e9b789"
 metafile = true
@@ -2910,11 +2860,6 @@ metafile = true
 [[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "6ddafb0d763c94bbefeaf69b3fc41925d509eebabf0a4787cf2d7221cab4fd1c"
-metafile = true
-
-[[files]]
-file = "mods/strangelib.pw.toml"
-hash = "bc545bdc07022155b7771fea49b49d753451279801f07fbed6e86131ba9aee90"
 metafile = true
 
 [[files]]
@@ -3040,11 +2985,6 @@ metafile = true
 [[files]]
 file = "mods/thaumtweaks.pw.toml"
 hash = "0d9cd829e3a8c9b1338dccaa33ce7db5ea8271c0d4ca2ccca09f7d6539f28a7f"
-metafile = true
-
-[[files]]
-file = "mods/the-aurorian.pw.toml"
-hash = "0009dcc6e059b99fe0240c68152c73b7db5e4beaa0a29aa10652f56ac836d395"
 metafile = true
 
 [[files]]
