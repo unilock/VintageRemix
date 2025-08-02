@@ -414,7 +414,7 @@ hash = "84173959cd7c22380c60050d0aba54e4e33f1b524c505df9111ba623f8755684"
 
 [[files]]
 file = "config/mystcraft/core.cfg"
-hash = "ccc91b7e22108dbca10c11aec31835e48b7d34852e3faf5d84d670e44d815aa4"
+hash = "cdf09179ccdbb721f3a23f3f49cd99ceaf4183be85125651fb8a7760728a87db"
 
 [[files]]
 file = "config/mystcraft/instabilities.cfg"
