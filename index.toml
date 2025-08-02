@@ -197,26 +197,6 @@ file = "config/dsurround/dsurround.cfg"
 hash = "6dd409e2237404c69764606023c3c42ad6c87f73558ed2bd77652f3e6b37578e"
 
 [[files]]
-file = "config/dynamiclights.cfg"
-hash = "fc01b86ea1ea45d68c56f9e363831d143a2f35995d4693e12d8bbb590b343ab6"
-
-[[files]]
-file = "config/dynamiclights_dropitems.cfg"
-hash = "cc291b4bf343e9f9ed9e6909ac7dc4e69dd4d759453f6c959c9f3cce9eb17fdc"
-
-[[files]]
-file = "config/dynamiclights_mobequipment.cfg"
-hash = "b5274402571ddc417c4cc841ce47aee6560018fdb8957a8f51b187dfe9e767f3"
-
-[[files]]
-file = "config/dynamiclights_otherplayers.cfg"
-hash = "6f50b0364602cd82e6f7941bd61e0ccec0fcbf787a21c2dfac6521c7bfd3eca8"
-
-[[files]]
-file = "config/dynamiclights_theplayer.cfg"
-hash = "0670259b16a88d42d2148299de9bf7ca9d4326dc9934d518eca23c13310f87cd"
-
-[[files]]
 file = "config/electrostatics/electrostatics.cfg"
 hash = "d2e05ef0df7e90e201f5febc12dc2409dad80d78cc769f28679dc84b1d8c96ab"
 
@@ -562,7 +542,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "5c0b157d327e4fa6bf09784dccd8fa5c9ed602ad000c273927aa8ca4c4e811a4"
+hash = "8df3a108e9bd0ee4df91c976231c924b0c5bfd29221749a1dc808765473d4b87"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -1125,6 +1105,11 @@ hash = "5aa464e8403c00f4c8a6a5a46e08f2ea52bdb2559fd93092562e83396c4b5ed2"
 metafile = true
 
 [[files]]
+file = "mods/celeritas-dynamic-lights.pw.toml"
+hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
+metafile = true
+
+[[files]]
 file = "mods/ceramics.pw.toml"
 hash = "c283ec7e383e6d9ae2558b31bc6e19808ae09e0e7cfd7f59f5ce64978c473d45"
 metafile = true
@@ -1410,13 +1395,13 @@ hash = "9f346a3f04c4c7a1f4fc7784f4636822657c2f0fbd4571505a6dd84548051dc7"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "44481e3da44a14d5f2d49835345f2a92aa5a9dad8345fd5277ca18ac2545ba11"
+file = "mods/dynmapforge.pw.toml"
+hash = "c66dae93f68bdcd33e90538d398347b74faaa92f7357e5753d72eb961e49aa69"
 metafile = true
 
 [[files]]
-file = "mods/dynmapforge.pw.toml"
-hash = "c66dae93f68bdcd33e90538d398347b74faaa92f7357e5753d72eb961e49aa69"
+file = "mods/dypsis.pw.toml"
+hash = "166f12d966718514510dae1984616ed4e00b5d9b9cfedc6419c0a6362740fcac"
 metafile = true
 
 [[files]]
@@ -1652,6 +1637,11 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "ff5a76056e67a77798f12f8b84e1d675923f5132f4b22ec33e2ff39679da7201"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "8f137ee8120548601de516ef55eff0c4a499a924dd2cce53b3fb702634bb920c"
 metafile = true
 
 [[files]]
