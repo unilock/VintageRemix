@@ -542,7 +542,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "8df3a108e9bd0ee4df91c976231c924b0c5bfd29221749a1dc808765473d4b87"
+hash = "5c0b157d327e4fa6bf09784dccd8fa5c9ed602ad000c273927aa8ca4c4e811a4"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -1637,11 +1637,6 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "ff5a76056e67a77798f12f8b84e1d675923f5132f4b22ec33e2ff39679da7201"
-metafile = true
-
-[[files]]
-file = "mods/gnetum.pw.toml"
-hash = "8f137ee8120548601de516ef55eff0c4a499a924dd2cce53b3fb702634bb920c"
 metafile = true
 
 [[files]]
