@@ -1,0 +1,13 @@
+name = "Ender IO TiC"
+filename = "EnderIO-integration-tic-1.12.2-5.3.72.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81ac81d9b0825427529f22453914ce638f972681"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674238
+project-id = 297203

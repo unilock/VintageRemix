@@ -1,0 +1,13 @@
+name = "Ender IO Conduits"
+filename = "EnderIO-conduits-1.12.2-5.3.72.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ed926332780ab7b8bd25e2791718db88138e6d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674233
+project-id = 297197

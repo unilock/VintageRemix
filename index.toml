@@ -1460,18 +1460,43 @@ hash = "64b9bd6968cc54e8f027c3371b0e53f9e379ca5efda9cc5af5a33400b5f71e64"
 metafile = true
 
 [[files]]
+file = "mods/ender-io-base.pw.toml"
+hash = "6d053a1f480016f046d0904823734e0ddd5cdb2c3252fba485f48e15cec09cbd"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-conduits.pw.toml"
+hash = "a4b7c8f86d1847334d94cd5e243d1a85d5ca9e67524db00431e4052aa634cd18"
+metafile = true
+
+[[files]]
 file = "mods/ender-io-endergy.pw.toml"
 hash = "a493a92b891031cf4d7747e1ec8571975e7be3cfa83c4f9444b297858e829656"
 metafile = true
 
 [[files]]
-file = "mods/ender-io-tweaks.pw.toml"
-hash = "9fe88f5a8a0394b9c539eb4b8d213500d505f6bd02f3b1e957c50799b8d99121"
+file = "mods/ender-io-forestry.pw.toml"
+hash = "a2437597e99866adfccf4caad59546da9772922b62ac07c44c5ff3f0d264aa2f"
 metafile = true
 
 [[files]]
-file = "mods/ender-io.pw.toml"
-hash = "4acb2b55c75c1397c38cef3476c59093a5f35163800e4f22cfdc09350087191e"
+file = "mods/ender-io-machines.pw.toml"
+hash = "6345611d0ffef25034944f08cffe6fae654ce3b13b4ee482ed4a7503306e5e87"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-oc-conduits.pw.toml"
+hash = "351175d9b171748cd6e34974d2903d13f06588a0644119af4235502811a1b80e"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-tic.pw.toml"
+hash = "0f762a79cdf06a4ee753a6863f522fa55ed5afe046e69b22c65ac125c152fd7b"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-tweaks.pw.toml"
+hash = "9fe88f5a8a0394b9c539eb4b8d213500d505f6bd02f3b1e957c50799b8d99121"
 metafile = true
 
 [[files]]
