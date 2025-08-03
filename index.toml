@@ -34,7 +34,7 @@ hash = "4c81c79e3a483a62f93ae8c8d44c58d0e54548a89232a63775db3649a165b185"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "12e4e1b7d8c753dacb9a59e694326477e977853d903cf2058a11a6d8c2696595"
+hash = "76c27ec7303b3811ec3142897a79d9b4f831f0f78404abb2515d9cd011367e37"
 
 [[files]]
 file = "config/UntouchedNature.cfg"
@@ -1400,11 +1400,6 @@ hash = "c66dae93f68bdcd33e90538d398347b74faaa92f7357e5753d72eb961e49aa69"
 metafile = true
 
 [[files]]
-file = "mods/dypsis.pw.toml"
-hash = "166f12d966718514510dae1984616ed4e00b5d9b9cfedc6419c0a6362740fcac"
-metafile = true
-
-[[files]]
 file = "mods/e4mc-retro.pw.toml"
 hash = "3473bde17fb37a70de3160926c7fa6088cf6cbbbd51cf4901dd3508733963ec3"
 metafile = true
@@ -2310,16 +2305,6 @@ hash = "ac92eb6b2d4855e27836b1977f5192d9b6c9d1125c2d7df7ed404d97b81fe823"
 metafile = true
 
 [[files]]
-file = "mods/nc-additions.pw.toml"
-hash = "122de4b71210cbbcbe55db2972493cc770b8b0cbfcae8f17b481d49761df1575"
-metafile = true
-
-[[files]]
-file = "mods/nco-java-legacy-lib.pw.toml"
-hash = "30607e7fc21b21777a43087ed621d479e1588d0a5a320e82940759a522995335"
-metafile = true
-
-[[files]]
 file = "mods/nether-api.pw.toml"
 hash = "c73dfd79e2c7ab1b4ce2c225238d869d4b96a5a58b6fcf4c2338b8e68547a8f4"
 metafile = true
@@ -2342,11 +2327,6 @@ metafile = true
 [[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "f29f08cf7cea534483dd99ab1eeccdd156a409323a47619f8a92356e15169da9"
-metafile = true
-
-[[files]]
-file = "mods/nuclearcraft-overhauled.pw.toml"
-hash = "588886b38f1fbf432b4ce660a268228bdcd6716f3683053aa85d7f2858fa56ba"
 metafile = true
 
 [[files]]
@@ -2587,11 +2567,6 @@ metafile = true
 [[files]]
 file = "mods/ptrlib.pw.toml"
 hash = "d4cb3271b008cab3c42309b88a03dce0e0aa41bc6046714262e3534d04d81bdc"
-metafile = true
-
-[[files]]
-file = "mods/qmd.pw.toml"
-hash = "d3b3d43d55ffc2b3494ef6e5d3319b208e42fa909e857c71ff8509efaea03b89"
 metafile = true
 
 [[files]]
@@ -3097,11 +3072,6 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "37f0b2da3b7a17de3b4115d4916ecc625a3bf701b69791a5264fe09d829442a4"
-metafile = true
-
-[[files]]
-file = "mods/trinity.pw.toml"
-hash = "6e0ab96be47befe2f3e273dfc60e7b84e541a7979073baae0f175a57ee0d9977"
 metafile = true
 
 [[files]]
