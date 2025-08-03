@@ -1067,11 +1067,6 @@ hash = "79bc5cd4844084bdb7cda48186f425506df6ee30ef67fd2644cb8dd1f5e777d5"
 metafile = true
 
 [[files]]
-file = "mods/brigo.pw.toml"
-hash = "7e9e5b60216847d288991572c15713efec53c3a83625764d571ceffcf1d6b6af"
-metafile = true
-
-[[files]]
 file = "mods/bring-me-the-rings.pw.toml"
 hash = "bd91f693f8e149f05050d27163e2d11ccf9db31ec1770be8180058a9d3a3bc4f"
 metafile = true
