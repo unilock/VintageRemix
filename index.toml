@@ -86,7 +86,7 @@ hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
-hash = "b2826720f51d5593cd3b8793f355d3bfa5c6ad2d6e932c0ff6f78adc4e3a5d58"
+hash = "8ccf96317fee66e5be35bed28331fea7f1273b9421b8d005df769afbe325d6e0"
 
 [[files]]
 file = "config/arcanearchives.cfg"
@@ -233,6 +233,10 @@ file = "config/endermodpacktweaks/tweaks.cfg"
 hash = "417a5f8d0d1cd5aa621e8c2b8188f84e1ca3b23383da53c53504ca3f9ad3cfd3"
 
 [[files]]
+file = "config/environmentalcreepers.cfg"
+hash = "bb9ef254c92be681c5a2fc36feb2591e8c9df80183ad6d8d03e0c24e3276f1d6"
+
+[[files]]
 file = "config/exoticbirds.cfg"
 hash = "6a24397935b75f6190d1b6d0ed44f419ed0274f751b4135a26ec8abf303c57b2"
 
@@ -251,6 +255,10 @@ hash = "760f8bbc9b462f17e54d7ace43b09475a23fc0f5a21fc640d177cae2704232ec"
 [[files]]
 file = "config/falling_tree.cfg"
 hash = "cdeba71afd4e3241a6eb56577fb2de939cbe71edb2316c4b0c26fe7b1a68a325"
+
+[[files]]
+file = "config/fluidict.cfg"
+hash = "654148914f9b93ffb6bf5c7da9bb1bd55685be0fa640691f2317704816ebdd39"
 
 [[files]]
 file = "config/forestry/common.cfg"
@@ -685,6 +693,11 @@ hash = "3bf619abe22fb82c3e6e43382b30bf37f8cc815612541dd92c2f232c3cac2955"
 metafile = true
 
 [[files]]
+file = "mods/advanced-fishing.pw.toml"
+hash = "cf7d75524ddc410f515ba2426bdbc6290d1729ce677960cd5cd1a47e4d05e54a"
+metafile = true
+
+[[files]]
 file = "mods/advanced-machines-patcher.pw.toml"
 hash = "7b089aad1a363b7c20e805268b5cfe395fd5f676ed7414d9e806278e9b371474"
 metafile = true
@@ -792,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6e5d94b69cf989139166f4c9d59b2c848722c08a2ab7dcf73d7f6ec3f30595d1"
+metafile = true
+
+[[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
@@ -1395,6 +1413,11 @@ hash = "9f346a3f04c4c7a1f4fc7784f4636822657c2f0fbd4571505a6dd84548051dc7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-dynamos.pw.toml"
+hash = "69757dea1be42d6a1dbe9088224054ba6cf64a8f81a6275b7b03413e1e9ca5b6"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "c66dae93f68bdcd33e90538d398347b74faaa92f7357e5753d72eb961e49aa69"
 metafile = true
@@ -1525,6 +1548,11 @@ hash = "8f608bb6f6ee16ca2ef15ff23b824aa55362909a4f300c2ed0edf604f826b563"
 metafile = true
 
 [[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "cf6746b491c2ca8143f28fbfdc23188893f996dc3bd37273407123a79af6b0af"
+metafile = true
+
+[[files]]
 file = "mods/essentialcraft-4-unofficial.pw.toml"
 hash = "8fa97e913c56aeaef68d1026e95dd561a02944c65aebea2beb8b303855b5fc59"
 metafile = true
@@ -1572,6 +1600,11 @@ metafile = true
 [[files]]
 file = "mods/fermiumbooter2mixinbooter.pw.toml"
 hash = "08f88e8f21300987ce8d115d12c0954fe260e0ab372df510736465f5457ef908"
+metafile = true
+
+[[files]]
+file = "mods/fluidict.pw.toml"
+hash = "1cb635672991da06db5b78e3aa57cd2fecc592ddcc52a17180bd4caa82a2bfb6"
 metafile = true
 
 [[files]]
@@ -1727,6 +1760,11 @@ metafile = true
 [[files]]
 file = "mods/hologui.pw.toml"
 hash = "dd489217372d85fc887584c87a7df0d9f1ea041485d30080b17a50f37ae6272c"
+metafile = true
+
+[[files]]
+file = "mods/homing-exp-orbs.pw.toml"
+hash = "261d53d397fa264b0d6ef45f774e92eada48fb03caa6701ce95c686f635a500a"
 metafile = true
 
 [[files]]
@@ -1925,6 +1963,11 @@ hash = "26788531e2feabc4fcd038b762fca533abc4cec326df9e816c87c059276db420"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-brewcraft.pw.toml"
+hash = "34a833884090948b59ef277cc1de684285076f3f28f33797316e8ba8be7e56ea"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "ff5076c100886a3d99f93da4c2e6c176c6f77dd2612d8002ca3691dae7191669"
 metafile = true
@@ -1972,6 +2015,11 @@ metafile = true
 [[files]]
 file = "mods/kjlib.pw.toml"
 hash = "e8980e88d401b4f65b9ed4882df9dcf2169ee2d7fe95dfb3ab554905b25d3472"
+metafile = true
+
+[[files]]
+file = "mods/lapis-stays-in-the-enchanting-table.pw.toml"
+hash = "ffbb1615575cbe907125d65169d31a6e3cdbcbfeff25aaded0d740f28bd24955"
 metafile = true
 
 [[files]]
@@ -2335,6 +2383,11 @@ hash = "74f40f3909c17bc6da95d4ca5aa72e36f4c8ee79b7f21ac05a12701f1958e5a7"
 metafile = true
 
 [[files]]
+file = "mods/nyx.pw.toml"
+hash = "8d750cf36c7c2bafe55b30a9402d8fa9fe083a249eda405fb3cad64d5a973abc"
+metafile = true
+
+[[files]]
 file = "mods/oauth.pw.toml"
 hash = "6ada2268500493e4ceb93d0b8b565247542dfa8917c8eac1c4532e75b60297e7"
 metafile = true
@@ -2417,6 +2470,11 @@ metafile = true
 [[files]]
 file = "mods/opensecurity.pw.toml"
 hash = "0eb9fcf884bdd58c2bd3b41b092ec39fbd11abb1a2091f5910af7af6e8258bfd"
+metafile = true
+
+[[files]]
+file = "mods/ore-excavation-shape-selector.pw.toml"
+hash = "23713a7dfd4b7ff9d5b6181adb6531a607d9904997393ca545e841552365d0f9"
 metafile = true
 
 [[files]]
@@ -2712,6 +2770,11 @@ metafile = true
 [[files]]
 file = "mods/roots.pw.toml"
 hash = "39dc6709c7b469015c7c86b458320c58abdd00df74cb8f7d9a37df4ea5fdde05"
+metafile = true
+
+[[files]]
+file = "mods/ruins-structure-spawning-system.pw.toml"
+hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
 
 [[files]]
@@ -3156,7 +3219,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "21c1b05ac47199a76b3764ea1092aaf927d71f1e2114353f38036ab195d695b5"
+hash = "8f51a817eebb066d49a567545dcfd1717599d2b6ce5d3114fced52680c5dca8f"
 metafile = true
 
 [[files]]
@@ -3177,6 +3240,11 @@ metafile = true
 [[files]]
 file = "mods/voidaic-arcania.pw.toml"
 hash = "18aa145834da7b1499f50f88c482ef54092044113a33098bb42d17a591669d60"
+metafile = true
+
+[[files]]
+file = "mods/waddles.pw.toml"
+hash = "e787be4d703b863a9eb463cba81ce755ed2f9094e33ddf98bc6abcac4df54e11"
 metafile = true
 
 [[files]]
@@ -3212,6 +3280,11 @@ metafile = true
 [[files]]
 file = "mods/wawla.pw.toml"
 hash = "d840b5de7744870ef41ff14f1f8507ef6c18afe26de0e1bf8ee5ee3440bbff03"
+metafile = true
+
+[[files]]
+file = "mods/whoops.pw.toml"
+hash = "3c12a1b3a1c819a8de7ad41527e0938483652c33e6a950120ae3963e25c9c912"
 metafile = true
 
 [[files]]

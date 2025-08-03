@@ -1,0 +1,13 @@
+name = "Ore-Excavation:Shape Selector"
+filename = "shapeselector-1.12.2b4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ee2d82c62435c5d02aa0faa7a71ae7b8f537466"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2892316
+project-id = 365014
