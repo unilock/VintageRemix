@@ -654,7 +654,7 @@ hash = "cd5f22cfa82730289f42b40ee794d8bf6e9cc7b03cf5e167ef1974e69da0a56f"
 
 [[files]]
 file = "groovy/postInit/AkashicTome.groovy"
-hash = "b01b7f2f59247ca021190833cb43a125f8c5290784dd7782025f81ea03f17a15"
+hash = "9f1f2a5af2d96f9d839ff9a46751779b4bc8218acd471b993247f969203dcac4"
 
 [[files]]
 file = "groovy/postInit/InitialInventory.groovy"
@@ -2379,11 +2379,6 @@ metafile = true
 [[files]]
 file = "mods/numina.pw.toml"
 hash = "74f40f3909c17bc6da95d4ca5aa72e36f4c8ee79b7f21ac05a12701f1958e5a7"
-metafile = true
-
-[[files]]
-file = "mods/nyx.pw.toml"
-hash = "8d750cf36c7c2bafe55b30a9402d8fa9fe083a249eda405fb3cad64d5a973abc"
 metafile = true
 
 [[files]]

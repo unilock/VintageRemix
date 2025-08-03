@@ -89,6 +89,14 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'essentialcraft',
 			]
 		],
+		'exoticbirds': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'exoticbirds:bird_book',
+			'tag': [
+				'akashictome:definedMod': 'exoticbirds',
+			]
+		],
 		'extrautils2': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -105,6 +113,31 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'forestry'
 			]
 		],
+		'lordcraft': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'lordcraft:knowledge_book',
+			'tag': [
+				'akashictome:definedMod': 'lordcraft'
+			]
+		],
+		'ltta': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'gbook:guidebook',
+			'tag': [
+				'akashictome:definedMod': 'ltta',
+				'Book': 'ltta:xml/ltta.xml'
+			]
+		],
+		'magicalsculpture': [
+			'Count': 1 as byte,
+			'Damage': 0 as short,
+			'id': 'magicalsculpture:userguide',
+			'tag': [
+				'akashictome:definedMod': 'magicalsculpture'
+			]
+		],
 		'naturesaura': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -112,24 +145,6 @@ def akashicTome = item('akashictome:tome').withNbt([
 			'tag': [
 				'akashictome:definedMod': 'naturesaura',
 				'patchouli:book': 'naturesaura:book'
-			]
-		],
-		'ncsteamadditions': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'ncsteamadditions',
-				'patchouli:book': 'ncsteamadditions:guide'
-			]
-		],
-		'nuclearcraft': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'nuclearcraft',
-				'patchouli:book': 'nuclearcraft:guide'
 			]
 		],
 		'opencomputers': [
@@ -166,15 +181,6 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'practicallogistics2'
 			]
 		],
-		'qmd': [
-			'Count': 1 as byte,
-			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
-			'tag': [
-				'akashictome:definedMod': 'qmd',
-				'patchouli:book': 'qmd:guide'
-			]
-		],
 		'quiverbow_restrung': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
@@ -192,13 +198,12 @@ def akashicTome = item('akashictome:tome').withNbt([
 				'akashictome:definedMod': 'roots'
 			]
 		],
-		'theaurorian': [
+		'runesofwizardry': [
 			'Count': 1 as byte,
 			'Damage': 0 as short,
-			'id': 'patchouli:guide_book',
+			'id': 'guideapi:runesofwizardry-guide_book',
 			'tag': [
-				'akashictome:definedMod': 'theaurorian',
-				'patchouli:book': 'theaurorian:the_aurorian_guide'
+				'akashictome:definedMod': 'runesofwizardry'
 			]
 		],
 		'thebetweenlands': [
