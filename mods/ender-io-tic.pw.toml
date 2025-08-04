@@ -3,8 +3,8 @@ filename = "EnderIO-integration-tic-1.12.2-5.3.72.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "81ac81d9b0825427529f22453914ce638f972681"
+hash-format = "sha512"
+hash = "87c87fb79dfafa11e39c485d512a4e26eb8d38df8930275537e8fd44035fcfd89281b896c3c7b4d2caf685c3479b304c50bbabd978712e872c064e01e05507da"
 mode = "metadata:curseforge"
 
 [update]

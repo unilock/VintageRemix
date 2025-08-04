@@ -3,8 +3,8 @@ filename = "celeritasdynamiclights-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8aca0d07898aba5efe0f3627570d6b5a224a86e8"
+hash-format = "sha512"
+hash = "8844700460a8530801c1954ea243dd250dfb56c844ad934a73fe17dd5d57b654e0bb921ef198b9d968b8a6570668f571d070866c7dea0419ee3ebc6719ce5673"
 mode = "metadata:curseforge"
 
 [update]

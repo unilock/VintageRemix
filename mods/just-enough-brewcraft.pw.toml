@@ -3,8 +3,8 @@ filename = "just-enough-brewcraft-1.12.2-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c95dd1e4b9e29c428f47fc4d48e6edbafab4024"
+hash-format = "sha512"
+hash = "0350c542a148bfe1a794a8538b0039e1c36fd3081f210b02309a2c43a7c9602f46974ea72de00f2b0940b90f5758876a79d2b599c69c2d58efc8b76b647ee284"
 mode = "metadata:curseforge"
 
 [update]

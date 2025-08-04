@@ -3,8 +3,8 @@ filename = "BetterBuildersWandsFix-1.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "87f51fc89e80ee5e2c9231512f0aac2bedef585c"
+hash-format = "sha512"
+hash = "fecf1c3eda3216485fa362628491ca458f8e2589fe206f4353ac636021b6ae7e959db767cbf856eab45a18aa73a56aefc2f1f1c0415800619aef6c4531fbd19e"
 mode = "metadata:curseforge"
 
 [update]

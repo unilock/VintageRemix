@@ -3,8 +3,8 @@ filename = "environmentalcreepers-1.12.2-1.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83336f4a3f80e342218599589154a87e8eb47ffb"
+hash-format = "sha512"
+hash = "81f8dfba873cc58a900ba7b9dcd6382a1553e7d6aecf179f38c6e5c4f8d63663aa71a551086b0525eba49f843d87c9de1c551123aee01fdee232bdf1651a5280"
 mode = "metadata:curseforge"
 
 [update]

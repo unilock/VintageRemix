@@ -3,8 +3,8 @@ filename = "whoops-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "983173c1db3fd10077e3bf07ec27c4fafedd2113"
+hash-format = "sha512"
+hash = "2e370e30a5dcdd27614fe98bb0156958ff49e5ff80cdb629a19d07577e5b4f770c7fd82be6a7f2be6e7ea17033b8e5218d56328deac356da8e466ebd48272009"
 mode = "metadata:curseforge"
 
 [update]

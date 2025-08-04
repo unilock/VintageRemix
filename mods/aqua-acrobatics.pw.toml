@@ -3,8 +3,8 @@ filename = "AquaAcrobatics-1.15.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "098882484be6966b47af3615d43efb9a0f0adef5"
+hash-format = "sha512"
+hash = "ae6f8442aa448e3dae97bf3046246bad8e5c568a60f0917cc75325f0db77b695ecb8e1fa44da5d0a309ed0963d7b26ab129a35541778339d692eccf8e87f8595"
 mode = "metadata:curseforge"
 
 [update]

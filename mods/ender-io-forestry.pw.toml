@@ -3,8 +3,8 @@ filename = "EnderIO-integration-forestry-1.12.2-5.3.72.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9537516190796e7195e449c6334694d53dab6303"
+hash-format = "sha512"
+hash = "870dacae2e1614146e3f5a2264d4aa076819e42d4a434a87daa14899a8e9d2de2cc06fc91652491f29fee29689a967a9134c7c671a6b802df7cd569929acc5cd"
 mode = "metadata:curseforge"
 
 [update]

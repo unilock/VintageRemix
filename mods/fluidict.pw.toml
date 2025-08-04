@@ -3,8 +3,8 @@ filename = "fluidict-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b514578e044c3c9fffea9d693633476704122272"
+hash-format = "sha512"
+hash = "4557ab966c0d517757d9395a312a2bd256985bf6a20e64aae6255f61ba63a08f188df4821c5f41a1cc5f88a5cd50dd0bf0722786575f03890e752c2dfa5399c7"
 mode = "metadata:curseforge"
 
 [update]

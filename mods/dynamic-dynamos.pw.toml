@@ -3,8 +3,8 @@ filename = "DynamicDynamos-1.12.2-1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "992f6ea48807ba04e5a0908c7d223aa6fb24a098"
+hash-format = "sha512"
+hash = "6181d41fdaba15c84b69a6442a6fee776b6ab93088c02f2403d2412d69d508bdb8ba609ea9b3e1d5f2f12e2fbb8df2eae8be4d202539aba2745de63f75ff32bf"
 mode = "metadata:curseforge"
 
 [update]

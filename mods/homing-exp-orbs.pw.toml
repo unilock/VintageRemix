@@ -3,8 +3,8 @@ filename = "HomingExpOrbs-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f7a24eb8bd9d0c7517b857c8a5dbcaf0a5156aeb"
+hash-format = "sha512"
+hash = "a1bb4a3ff6cd3188a22d2f260baf16632a6166657696ede2018a9480177fd861c25ebb2566660e5cecd3ab8ce439767e412de924719a7707e3298bf4ac572b0f"
 mode = "metadata:curseforge"
 
 [update]

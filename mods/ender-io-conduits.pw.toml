@@ -3,8 +3,8 @@ filename = "EnderIO-conduits-1.12.2-5.3.72.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ed926332780ab7b8bd25e2791718db88138e6d7"
+hash-format = "sha512"
+hash = "9450cef930e3de0135eeb71d74f1850e30ac761b145084e67f8453525f134f1c1204c4f2af3f80c6a1bd6c96b8707282bf6ce746adc20721ece0c5f4247fcd53"
 mode = "metadata:curseforge"
 
 [update]

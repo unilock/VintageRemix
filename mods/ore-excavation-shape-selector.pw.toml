@@ -3,8 +3,8 @@ filename = "shapeselector-1.12.2b4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ee2d82c62435c5d02aa0faa7a71ae7b8f537466"
+hash-format = "sha512"
+hash = "15831e11c36d0d3a1f4feefa435e49a3891356944f3e38655b8a067644d46ac91cc3a7a165e825ec93da6c7a3d7441c9a0c1751c267266933ac9b583df8429f7"
 mode = "metadata:curseforge"
 
 [update]

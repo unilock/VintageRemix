@@ -3,8 +3,8 @@ filename = "Ruins-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48d29985983cec66ce2a328b85f6c18c4f11eca5"
+hash-format = "sha512"
+hash = "bca7d588f5aaaf5edd5bce60dd394af510598948f44235a434ef7a1f22e933844cef7a56e59554dc96a7fd43dfb726caaa5e6e19041f7a774094874ae6bb64aa"
 mode = "metadata:curseforge"
 
 [update]
