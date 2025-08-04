@@ -117,10 +117,6 @@ file = "config/battletowers.cfg"
 hash = "62608a13c3e4f6f3e92240141d1b3f1027f16de301e070b5be5c9e8e70f1b21f"
 
 [[files]]
-file = "config/bedrockores.cfg"
-hash = "fd7749fd67fa9f9f4ad553d6d5b182fd6e4ac5106f615f9c3f69082528fb4883"
-
-[[files]]
 file = "config/bibliocraft.cfg"
 hash = "55bd32bf64745efec54e9ab4cd65e07289e468785e196e4e4eb25e872845c7dd"
 
@@ -840,16 +836,6 @@ hash = "9a40cedeb3afe0c64d7de83056493e152bbe5445dc32837ad80b06d6de7b6080"
 metafile = true
 
 [[files]]
-file = "mods/ariente-world.pw.toml"
-hash = "88da4673307eeca859611d67b533aead158be886b1059d27d656391d67e72211"
-metafile = true
-
-[[files]]
-file = "mods/ariente.pw.toml"
-hash = "f17cad0839921975d13d48fc03a6533238b2853970ff2c941f6647e7689d40b6"
-metafile = true
-
-[[files]]
 file = "mods/armor-toughness-bar.pw.toml"
 hash = "0be3404c8b944c2bda66532932b82cdd8474d0adcbddc1e7e590455e1b063f1b"
 metafile = true
@@ -957,11 +943,6 @@ metafile = true
 [[files]]
 file = "mods/bed-bugs.pw.toml"
 hash = "2c3954775548f15902a2f97e71ff5616b57236e2ec3d8913e0cc44fd7b004ab7"
-metafile = true
-
-[[files]]
-file = "mods/bedrockores.pw.toml"
-hash = "311392f734217af173e662f563cebe5b915b162ff2cbf662366facfd09382513"
 metafile = true
 
 [[files]]
@@ -1767,11 +1748,6 @@ metafile = true
 [[files]]
 file = "mods/heterorustichromia.pw.toml"
 hash = "d6cdcf9ae02a8fb909d94782687ebd14e44081c9e91fd087c4872fea7978aef3"
-metafile = true
-
-[[files]]
-file = "mods/hologui.pw.toml"
-hash = "dd489217372d85fc887584c87a7df0d9f1ea041485d30080b17a50f37ae6272c"
 metafile = true
 
 [[files]]
