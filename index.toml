@@ -637,8 +637,8 @@ file = "config/wawla.cfg"
 hash = "acfa7d2c4a4bf29af2539ff71279c4d4d8541bc6a9ac66fac67b91c31599dec2"
 
 [[files]]
-file = "config/witchery/integrations.json"
-hash = "898ffbec7320aab72968cdf676d2e79ad9120f6a4d58029786ad1bcf5b34861f"
+file = "config/witchery/general.json"
+hash = "b5cad165e3ea3b6ba5ab6d68007462721eeda819653dfb4906fa7ea709efe340"
 
 [[files]]
 file = "config/wither_skeleton_tweaks.cfg"
