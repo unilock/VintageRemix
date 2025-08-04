@@ -85,6 +85,10 @@ file = "config/antiqueatlas/atlas_overlay.cfg"
 hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
 
 [[files]]
+file = "config/antiqueatlasautomarker.cfg"
+hash = "bf5ec6ade5fd5000a226512d76dd3a116bcfe31359d28efdd624e1b1e8c8a99d"
+
+[[files]]
 file = "config/aquaacrobatics.cfg"
 hash = "4dd7136c511c8c1256f8138a83d63a6e7be910df9814329bb87dd10a93940375"
 
@@ -415,6 +419,10 @@ hash = "48a2ba291d7d9be464d8f7aefd08d6bc3d9bd7cd6f9a4699d3b01773dd554ba6"
 [[files]]
 file = "config/mousetweaks.cfg"
 hash = "ec788911c6b9590a859eaef99e1417dc2457467a0896f86e15912a8b8b2530ef"
+
+[[files]]
+file = "config/mtepatches.cfg"
+hash = "e49ba99f836888409fe9e2ff408c7efedfb7a55656478ff04ddfc6fffff10674"
 
 [[files]]
 file = "config/multipart.cfg"
