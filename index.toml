@@ -34,7 +34,7 @@ hash = "4c81c79e3a483a62f93ae8c8d44c58d0e54548a89232a63775db3649a165b185"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "8af31fc0dfd1b8d659a50846b742c410cee5708d95a4aad9e24bf8a02166f102"
+hash = "111ac6a468457608c40884ccee0f9dca584505af5bf5180a6a9f0894b1eab82e"
 
 [[files]]
 file = "config/UntouchedNature.cfg"
@@ -2398,11 +2398,6 @@ metafile = true
 [[files]]
 file = "mods/omniwand.pw.toml"
 hash = "3ab869ad1dfb2f19fcd41c347e19f28d1a7e56457026b7cf5a0354cc4558c733"
-metafile = true
-
-[[files]]
-file = "mods/oops.pw.toml"
-hash = "2b7e6818397c68ae97fa5250ffb6e6c9b91be359c1f73a64dd7769d4de31d1ca"
 metafile = true
 
 [[files]]

@@ -1,8 +1,0 @@
-name = "Oops"
-filename = "oops-1.12-5.15.jar"
-side = "both"
-
-[download]
-url = "https://oldci.y2k.diy/job/elytra/job/Oops/1.12/oops-1.12-5.15.jar"
-hash-format = "sha512"
-hash = "df5c8e583df4d2cb834cd373bbd26ca9e49619519feba0cddaa2dc8583fbcb4b0d55c256f0e1f27c3ab372411bb3150714f2cb05f3fde413ad3105babbd5f2a6"
