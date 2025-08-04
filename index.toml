@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc-retro.pw.toml"
-hash = "3473bde17fb37a70de3160926c7fa6088cf6cbbbd51cf4901dd3508733963ec3"
+hash = "441efee9e1197588e6749fe345d6839ca2fe1c006f8d572d66687119cf01ef39"
 metafile = true
 
 [[files]]
@@ -1611,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluidict.pw.toml"
-hash = "7203fdbcdced9d51a3079a6fef3e47d03fe39593c2639c9000e2254a2d98dfe5"
+hash = "a7d423684593e68f941e9f7ff7405244d74313c5b40ca82ad1cd4542f5820bed"
 metafile = true
 
 [[files]]
@@ -1751,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "d7d0ef219597b5bca9687394c36a9c87ea235484a7a26ea0952e1c8bd7f5d483"
+hash = "d0aafff60e6ccb10fe28c438f5324713c5ad41ab55fa83ffdc1d64e54a0f7761"
 metafile = true
 
 [[files]]
@@ -1976,12 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-brewcraft.pw.toml"
-hash = "6ca2048d3cf270ee258e61df8690a266d70c696746aaff3be902f205c387e8d3"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-calculation.pw.toml"
-hash = "ff5076c100886a3d99f93da4c2e6c176c6f77dd2612d8002ca3691dae7191669"
+hash = "eb1cd066b678e4e9ff516a9d3946abbb87bfe94658d2b648a3336e18237ed8fb"
 metafile = true
 
 [[files]]
@@ -2011,7 +2006,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-extra-drags.pw.toml"
-hash = "9274836b56a8cedd802b232a579347cd026c4be16e293a447875fdc6310b24d2"
+hash = "621cb2f6a3063f557fc0ee2ce359a161ed79a35736544bb95e39dca71f5bc793"
 metafile = true
 
 [[files]]

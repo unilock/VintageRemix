@@ -1,6 +1,6 @@
 name = "Just Extra Drags"
 filename = "justextradrags-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha512"

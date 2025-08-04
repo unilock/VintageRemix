@@ -1,6 +1,6 @@
 name = "Had Enough Items"
 filename = "HadEnoughItems_1.12.2-4.29.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha512"
