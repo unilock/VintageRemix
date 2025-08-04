@@ -1,14 +1,13 @@
 name = "FermiumBooterDepoliticization"
-filename = "`FermiumBooterDepoliticization-1.2.4.jar"
+filename = "`fermiumbooter-1.3.8.jar"
 side = "both"
-pin = true
 
 [download]
-hash-format = "sha512"
-hash = "5f78064efc9f39e3e57cb038ed4286ea849437b3c5e6c88a4f533a70b76432cee6c91f87943d0e97d2bad846e7c8ee5fdce010fa24fd9e2d551f71354ae5adab"
+hash-format = "sha1"
+hash = "57afd359f4a6354181dc6e682ac9c1873cd8f39c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6552152
+file-id = 6806746
 project-id = 1163720

@@ -1,0 +1,13 @@
+name = "Garden Stuff"
+filename = "GardenStuff-1.12-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d1433cafdfe303f179672c264257e5678fff74e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2530535
+project-id = 225903

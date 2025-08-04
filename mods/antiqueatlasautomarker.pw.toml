@@ -1,0 +1,13 @@
+name = "Antique Atlas Auto Marker"
+filename = "AntiqueAtlasAutoMarker-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "625b2e162e9b5601e251a025ff0271359dbb93ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749371
+project-id = 1195708

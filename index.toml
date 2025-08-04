@@ -86,7 +86,7 @@ hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
-hash = "8ccf96317fee66e5be35bed28331fea7f1273b9421b8d005df769afbe325d6e0"
+hash = "4dd7136c511c8c1256f8138a83d63a6e7be910df9814329bb87dd10a93940375"
 
 [[files]]
 file = "config/arcanearchives.cfg"
@@ -802,6 +802,11 @@ hash = "e66d60968891167d5af14de689c3cb4ff68a8d176cb816c4a06e0fefeb9eebd2"
 metafile = true
 
 [[files]]
+file = "mods/antiqueatlasautomarker.pw.toml"
+hash = "3fad4befa909feef33d7c1f98142bf433ce65be153331312d373a6b9dc37ac03"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "0da869639bc6930067e5fc28bb0abf8b675a2e730d1fd7a879ff3bc312de5899"
 metafile = true
@@ -809,11 +814,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6e5d94b69cf989139166f4c9d59b2c848722c08a2ab7dcf73d7f6ec3f30595d1"
-metafile = true
-
-[[files]]
-file = "mods/aqua-acrobatics.pw.toml"
-hash = "221bbf4e22b6aa67c3fc4968dfc29f5f0bd151c6af0f15316f4f506b9a06a194"
 metafile = true
 
 [[files]]
@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter2mixinbooter.pw.toml"
-hash = "08f88e8f21300987ce8d115d12c0954fe260e0ab372df510736465f5457ef908"
+hash = "8b31819a71b068f3f659a9f51ce2e232bfb43e0b421c17fadf42c0e325458dc4"
 metafile = true
 
 [[files]]
@@ -1659,6 +1659,11 @@ metafile = true
 [[files]]
 file = "mods/gambling-style.pw.toml"
 hash = "f01ee89e747180cd54ebe683ca0c998def410581838082b5888196514f7c27c7"
+metafile = true
+
+[[files]]
+file = "mods/garden-stuff.pw.toml"
+hash = "34253964985fef5c2644419383c8995e0f8168a311eaeec78c822e5857536645"
 metafile = true
 
 [[files]]
@@ -2279,6 +2284,11 @@ metafile = true
 [[files]]
 file = "mods/movingworld.pw.toml"
 hash = "f4b6970d2b67f6518bd8da91fa92ce4ea2d470d0739762396cba83c59f7f484e"
+metafile = true
+
+[[files]]
+file = "mods/mte-patches.pw.toml"
+hash = "772e5e4a33c07705924ccdbd81978a3ae63c0028d11a6abe4cd17f88bbce4dad"
 metafile = true
 
 [[files]]
