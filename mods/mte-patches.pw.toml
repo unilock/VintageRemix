@@ -1,13 +1,13 @@
 name = "MTE Patches"
-filename = "mtepatches-1.5.0.jar"
+filename = "mtepatches-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0a822504b67e0e76f533b2c416a337323e2ba239"
+hash = "ff1f068440377a55ce125e98b739bcfe4342a0c7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6841712
+file-id = 6849605
 project-id = 1145620

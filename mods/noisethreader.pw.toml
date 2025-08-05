@@ -1,13 +1,13 @@
 name = "NoiseThreader"
-filename = "NoiseThreader-1.1.0.jar"
+filename = "NoiseThreader-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5f849f21d2cc179839d17dd56e04ad04c31a7f0f87c913f616e67a33d9e64ccec723d6addd8074f831d784449a64f58a3e126596736cdde62c841588acce82e1"
+hash-format = "sha1"
+hash = "abbb515818e51b422616e8e57c59d23eb6596c0a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6759511
+file-id = 6848878
 project-id = 1153744

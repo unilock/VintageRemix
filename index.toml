@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "fa2a4bd9e7afc95f7a91830aaf2fe530c4ef098914e47c6114de8e43912a1b96"
+hash = "572d79cd09487416955d960463ce80d78c28a27823593ad6c9f623920e5a213e"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "5018ba5e3656ed1f38a7b60e5c8f73dd36c4666bdf45fc95f73662bc61263929"
+hash = "6ef721412ded5efba7c26074b897befc4209b855930942696deb2c99f5e8e97d"
 metafile = true
 
 [[files]]
@@ -2267,7 +2267,7 @@ metafile = true
 
 [[files]]
 file = "mods/mte-patches.pw.toml"
-hash = "772e5e4a33c07705924ccdbd81978a3ae63c0028d11a6abe4cd17f88bbce4dad"
+hash = "34fc3247a5bb3fe2749eff5b00e51c5e14c62c3776bf70235895e09f14b11f51"
 metafile = true
 
 [[files]]
@@ -2362,7 +2362,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "f29f08cf7cea534483dd99ab1eeccdd156a409323a47619f8a92356e15169da9"
+hash = "ef6adfe798f8ad7c26ef8eaae6b438b148d0c648b475f128b5cd0e23e66c44b6"
 metafile = true
 
 [[files]]
