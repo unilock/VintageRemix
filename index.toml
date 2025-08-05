@@ -174,7 +174,7 @@ hash = "9cfd6c4f0293c749616d5259e4627f4e76d74815fb2d1fd5ad07ce9b23c08040"
 
 [[files]]
 file = "config/correlated.cfg"
-hash = "09cb96356d4b535e0dfe6b5bd4d05faa8a92e3202096983705fe64a29d43a9c2"
+hash = "2b54d2b47c4600346d04e80c9f79093e4f9d3fef5b8331180f9868163684f67c"
 
 [[files]]
 file = "config/crossroads.cfg"
