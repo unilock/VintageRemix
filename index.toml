@@ -1732,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "d0aafff60e6ccb10fe28c438f5324713c5ad41ab55fa83ffdc1d64e54a0f7761"
+hash = "d7d0ef219597b5bca9687394c36a9c87ea235484a7a26ea0952e1c8bd7f5d483"
 metafile = true
 
 [[files]]
