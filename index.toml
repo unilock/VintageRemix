@@ -1446,6 +1446,11 @@ hash = "a5a6e959c944edea55f286aa2e29b0c00d65b0677c925cf1a14b12f066437321"
 metafile = true
 
 [[files]]
+file = "mods/enchantingplusplus.pw.toml"
+hash = "d24d8f1fe204e131c296b6d1b9d46de6376fc43fd9633ef2f64a2519cf75cd59"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "10229e23f959a9a1ad34862aee476ce2830660b2f94f5fa2d5db2572e784720d"
 metafile = true
@@ -3197,7 +3202,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintageremix.pw.toml"
-hash = "ba2512f6a4845f40f81b66893357816b77d88352eccb2426302b826fb2bf74da"
+hash = "076e71b6efd83abdad7af27634f1fb68e590b8e05a56c9470726172f098f5779"
 metafile = true
 
 [[files]]
