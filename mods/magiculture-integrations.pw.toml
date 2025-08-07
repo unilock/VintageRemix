@@ -1,13 +1,13 @@
 name = "Magiculture Integrations"
-filename = "magicultureintegrations-1.12.2-2.2.3.jar"
+filename = "magicultureintegrations-1.12.2-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "791d2900e8b854b2ca011ef23daa3e76498918917a4493f735bd0415b623a543f497f81d1f0a21474db02d87e9f0894941332e5743bb7fd1955cc2aecb872e8e"
+hash-format = "sha1"
+hash = "19beabf20b7c0ee1f91640fc4af8107bd5da7d63"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6766756
+file-id = 6852924
 project-id = 1064613

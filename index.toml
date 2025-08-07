@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlasautomarker.pw.toml"
-hash = "3fad4befa909feef33d7c1f98142bf433ce65be153331312d373a6b9dc37ac03"
+hash = "924c11e8b327c57417cc53add83fd7d761b8b844c6d47e163169caaec49145b8"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "6ef721412ded5efba7c26074b897befc4209b855930942696deb2c99f5e8e97d"
+hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
 metafile = true
 
 [[files]]
@@ -1587,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter2mixinbooter.pw.toml"
-hash = "8b31819a71b068f3f659a9f51ce2e232bfb43e0b421c17fadf42c0e325458dc4"
+hash = "10e55ff6f8f9616c5661f23f0c68a8e788aa1de6404ef4bb2309f46bacc96562"
 metafile = true
 
 [[files]]
@@ -1987,7 +1987,7 @@ metafile = true
 
 [[files]]
 file = "mods/kitchen-tools.pw.toml"
-hash = "fa1efdcb4c08b8a9ce7763af889be26fd69dedd597e4b4805955a6f110f9b5fb"
+hash = "a434f7f2615ae445687d9819d6e076dfaad195a638e5b9d822dc8bf7abacc979"
 metafile = true
 
 [[files]]
@@ -2117,7 +2117,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiculture-integrations.pw.toml"
-hash = "47daa2e35c7d8e172dbde56bb4a3f3bbd0f8dbe0931bd01cbc566f19fe44cf62"
+hash = "488900c747f774042398de1b493b47cc469c40fb193239caf69ca8bd7bb80c05"
 metafile = true
 
 [[files]]
@@ -2857,7 +2857,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remixin.pw.toml"
-hash = "94bce896916e8296a5ba32b7541144b6731a1515bfc55d05a7f375aa004260ce"
+hash = "858d45e4c2b61579fa116648b8ab9aff8d5f2245535980489af0af954811dd3a"
 metafile = true
 
 [[files]]
@@ -2992,7 +2992,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "38e0eb938ba376fb73f2789b71f997fffe72604ac7e60131a70a74fa479a9336"
+hash = "24474af42bceb20279e0dd39d9a741193dd96f110e401751140b5fefcd52a8a9"
 metafile = true
 
 [[files]]
