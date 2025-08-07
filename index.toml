@@ -1591,8 +1591,8 @@ hash = "a660f611429cff2e14d3f36bcefb66fd4a383467c6ee2e209711e97e86a2ac01"
 metafile = true
 
 [[files]]
-file = "mods/fermiumbooter2mixinbooter.pw.toml"
-hash = "10e55ff6f8f9616c5661f23f0c68a8e788aa1de6404ef4bb2309f46bacc96562"
+file = "mods/fermiumbooter.pw.toml"
+hash = "1eb8ec104f6a592e8c2be7da9db23dda26d83efe14b3f26b71851596e407927b"
 metafile = true
 
 [[files]]
