@@ -329,6 +329,10 @@ file = "config/iridescent.cfg"
 hash = "6b90f2a73b885d25c37dd7973a9b54442061fcc689a4cbc5222ee4131554be7f"
 
 [[files]]
+file = "config/jaopca/materials/astral_starmetal.toml"
+hash = "3d1c19888add2fe1a699fa45e51770a1a72e80c9fe285734bbbe80ed82135b37"
+
+[[files]]
 file = "config/jaopca/materials/brick.toml"
 hash = "a5717697bfa4363135220e1e136c2e7d74d84eb3cc89407058b21ff349a30926"
 
