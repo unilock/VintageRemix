@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/blahajasm.pw.toml"
-hash = "f8f3f9d3fabf0536f6d2569230969a722185d54e790fc7c3ab1563589e60a683"
+hash = "5428b9a5ba1446c2dfdc7d19ca20198c792129196b8f00f93fd6f7b1cdb2ba39"
 metafile = true
 
 [[files]]
@@ -1867,7 +1867,7 @@ metafile = true
 
 [[files]]
 file = "mods/infusion-automate.pw.toml"
-hash = "5751fd40d0545d74a053225d40dcf3fb188effed293a18fc8cf3b3a21daf7e1d"
+hash = "d57b4fea93c7da5ea7d4840c12d60a4e433bd9ec5a7b59e9e0f119d3b8ea728b"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "BlahajASM"
-filename = "BlahajASM-5.28hf.jar"
+filename = "BlahajASM-5.29.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "b00fddd769c2ebec4597183eb05804013a4fa0c645bd27191317e132d72d4490601b0a3a0793693330387002b665d54d29077742b9d4ba55f9db814843f4b200"
+hash-format = "sha1"
+hash = "cefd047c097321803515ad51f2023cd8d5e9c429"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6401265
+file-id = 6861922
 project-id = 1081696

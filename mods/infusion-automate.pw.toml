@@ -1,13 +1,13 @@
-name = "Infusion Automate"
-filename = "Infusion Claw Mod-1.0.0.jar"
+name = "Gadothaumy"
+filename = "Gadothaumy-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f1c7372339c37d46c6476a63630c944ffd028c6a1e5786e4c17511a8b92d38fc161e6c3d5949ae67faeb51a29890c29d6ba83acce67e5c53b084d363ee1d5869"
+hash-format = "sha1"
+hash = "644512858407f06c6f471a4d77e58fdbe7ffcb08"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6166729
+file-id = 6866955
 project-id = 1195285
