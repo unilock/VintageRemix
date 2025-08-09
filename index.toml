@@ -154,7 +154,7 @@ hash = "5ec6911227a19f54ad0d6c706f20df9e769a0d9eb3f600d5f1159d228a766cdb"
 
 [[files]]
 file = "config/charset/modules.cfg"
-hash = "2de3552b8d247f02e38c8da244bc7b19a99d4d46597cdb5d3b3b27ac9772412b"
+hash = "4383cee77baaa5d69196cf8f3bdcdac3d87640e4f2ef4676954d8973701f9f0e"
 
 [[files]]
 file = "config/chromaticfoliage/general.cfg"
@@ -2506,11 +2506,6 @@ hash = "44667688846ac36b5c902a1efea31ea2e55e6198338a95cadb857521d5264662"
 metafile = true
 
 [[files]]
-file = "mods/pamsimpleharvest.pw.toml"
-hash = "ce72001f3f3f0565652e399a17582df68bfd18884212aba3d4515686cdc80f5e"
-metafile = true
-
-[[files]]
 file = "mods/parrot-power.pw.toml"
 hash = "8d314c267646ea28d121d8b40cc383d39f47ab1481eef082302a4808474b1b75"
 metafile = true
@@ -2813,11 +2808,6 @@ metafile = true
 [[files]]
 file = "mods/sidekick.pw.toml"
 hash = "20f9eb64e00921c7f7ff58177acf8408e85579b4116c19b0698385eb55620ace"
-metafile = true
-
-[[files]]
-file = "mods/simpleharvest.pw.toml"
-hash = "2f10dd50b4d3b3ee8f57e47bc14c55ccdd63e0fadaa9b6348ed8cd0becf558b9"
 metafile = true
 
 [[files]]
