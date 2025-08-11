@@ -9,6 +9,10 @@ file = "config/DummyCore.cfg"
 hash = "9cd6526d5a1bfe2509e46673420c3a2445b3b15cebd9e2908d5c7e45e56f4a37"
 
 [[files]]
+file = "config/End Expansion/structure_config.cfg"
+hash = "ef35e3858412347ceec4418263fb8ac8a6a9dd7749ac94cab62bc711c4c9a915"
+
+[[files]]
 file = "config/Guide-API/Guide-API.cfg"
 hash = "8f2e3b8f747904df501edf160162ea17ecf31bab9e594accf275e60a0001a867"
 
