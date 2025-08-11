@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "572d79cd09487416955d960463ce80d78c28a27823593ad6c9f623920e5a213e"
+hash = "41dcf566b04d02658a51a5200a15c6fd5f0e8afd5513896bda230360b736888b"
 metafile = true
 
 [[files]]
@@ -2276,7 +2276,7 @@ metafile = true
 
 [[files]]
 file = "mods/mte-patches.pw.toml"
-hash = "34fc3247a5bb3fe2749eff5b00e51c5e14c62c3776bf70235895e09f14b11f51"
+hash = "6634dcc6a5259c1087418a4e22a4a9a05fccea91ab399c1863de4222d30cb385"
 metafile = true
 
 [[files]]
@@ -2366,7 +2366,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "593f22fe500482ddc55dfae29be305d9ee6da8bb36495cb9fbc51552a93cd419"
+hash = "d18a8c1546c94aac3959ac6adc77c9db18e9e2a8314c8852ce49cee883d596ab"
 metafile = true
 
 [[files]]
