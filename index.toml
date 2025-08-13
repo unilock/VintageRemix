@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "200d1d1f008dbadbc2b4d5e43771359342fa0acd4f1e604d0170a66bc4389988"
+hash = "804f964c56b468a90159f9b6cf5833b3fafeb3b76ded0563f90c8179931929e2"
 metafile = true
 
 [[files]]

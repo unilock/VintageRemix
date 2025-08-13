@@ -3,11 +3,6 @@ filename = "celeritasdynamiclights-1.2.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "447a35f7560e87d422b762e6a8a7a4492b3b8f6e"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6855739
-project-id = 1313831
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/client/celeritasdynamiclights-1.2.1.jar"
+hash-format = "sha512"
+hash = "87575798a77263d019888401a865a2b9af9f71db0e76a6eb7ba8086dc488aac7ffcae73e3cda8028e283c73f3276147becd89192a236f844fa4292f374dc37f8"
