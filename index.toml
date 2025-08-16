@@ -542,7 +542,7 @@ hash = "64d328d41b1916112b41a85253082c77b5ab748a15b364deca790ac22e4d48ab"
 
 [[files]]
 file = "config/sasit.cfg"
-hash = "2be1906c9514b3be3e940c01fc505f0cf887dcac0cdbbff40ae6fde9277b864d"
+hash = "9eb01a71bb6ad21d5fb26e1a706e8fadd5e11034c65b82ca659cf30913cd0c5a"
 
 [[files]]
 file = "config/simplyjetpacks/common.cfg"
