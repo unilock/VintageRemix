@@ -1,6 +1,7 @@
 name = "Railway Depot Worker"
 filename = "RailwayDepotWorker-1.9.2+build.23.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha512"

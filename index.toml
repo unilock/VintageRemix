@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
-hash = "7e17cde80bf1064ac292a7b0097cc00fd567a85af3f6b40ebfa99d806c37335d"
+hash = "4145afc0c59be74776adf2510c17e1c5de982c234a9673791488da5c6e4be974"
 metafile = true
 
 [[files]]
@@ -1930,7 +1930,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "d4b2875587d6fb138367bcf95bc7c8b9f2514674a2075f4583c50ddc8fb4cc43"
+hash = "a3070f2b271e0bdef1f315b56129c6051dc95226bd38218870e0412cfd3e463d"
 metafile = true
 
 [[files]]
@@ -2365,12 +2365,12 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "a57f7b030fa00125fb1e2cfda78a8e389065aa512adeecd7aa4e5aff03d5d636"
+hash = "87cc667d7d97038c499338ea789dbed3e1623d75d42513c00a5b928c88045587"
 metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "d18a8c1546c94aac3959ac6adc77c9db18e9e2a8314c8852ce49cee883d596ab"
+hash = "e1a36ea73e978e32380e91dbe22a8d80892796d82d8fdd33e78a33d21d5ec22f"
 metafile = true
 
 [[files]]
@@ -2525,7 +2525,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-books.pw.toml"
-hash = "90081920923e3a62e582a17bd53e155d0f78e224d9a1085fba793a10d22b4df6"
+hash = "947b56ba51dae17ff6c2f1668ec14bab0b7d84221da52514477e68f3c153658d"
 metafile = true
 
 [[files]]
@@ -2645,7 +2645,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "78257bb120f55f284324a83838ddbde45e6e8c1eb7cc20dafe6a430a31f852d6"
+hash = "64938e64715977f1a788eb59141deef626d7b2f1eb2f097e3631148ddaaa9096"
 metafile = true
 
 [[files]]
@@ -2985,7 +2985,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
-hash = "70c1211dd21d20aa0bc2277f3c6079fbd46c8115fc643ab77bcce4736a902bbe"
+hash = "38bc323ce65c7ef830a7edb2a9a0c14f45f9d95b35806814fe2eab2f19f3ac69"
 metafile = true
 
 [[files]]
