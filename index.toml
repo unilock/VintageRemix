@@ -329,6 +329,10 @@ file = "config/inspirations.cfg"
 hash = "9d9688a800c1c383e0e02c7bc679776c874735f23a7dc88edc46a2786dcf070d"
 
 [[files]]
+file = "config/instantunify.cfg"
+hash = "04ee737995defdfff43753cb9e5764ed114ea93b6fe060209284ba4b7556b154"
+
+[[files]]
 file = "config/iridescent.cfg"
 hash = "6b90f2a73b885d25c37dd7973a9b54442061fcc689a4cbc5222ee4131554be7f"
 
