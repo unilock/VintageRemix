@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "41dcf566b04d02658a51a5200a15c6fd5f0e8afd5513896bda230360b736888b"
+hash = "af71fa7a4d4b608a1aa70d034d6ca9342366aac6e92b523b3e72d7f5d9dc771a"
 metafile = true
 
 [[files]]
@@ -2999,7 +2999,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "24474af42bceb20279e0dd39d9a741193dd96f110e401751140b5fefcd52a8a9"
+hash = "5ba81797fa463c6760571b28a3cb71649b27fd4b87b2ed619943c08b8d6a52d8"
 metafile = true
 
 [[files]]
