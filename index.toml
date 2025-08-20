@@ -126,7 +126,7 @@ hash = "55bd32bf64745efec54e9ab4cd65e07289e468785e196e4e4eb25e872845c7dd"
 
 [[files]]
 file = "config/blahajasm.cfg"
-hash = "fb195125c175ece7ff9c4689f238d7bf5b929d5f58ebed8daf36ec16e98e6fab"
+hash = "1ab51e824e045401c69a4cab5a483d43f51a019e75f6b0f350ca32d0476250bc"
 
 [[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
