@@ -1,13 +1,13 @@
 name = "Gadothaumy"
-filename = "Gadothaumy-1.1.0.jar"
+filename = "Gadothaumy-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "644512858407f06c6f471a4d77e58fdbe7ffcb08"
+hash = "d45484f3b597d4688ccae9bed09550deff9adca6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6866955
+file-id = 6900054
 project-id = 1195285

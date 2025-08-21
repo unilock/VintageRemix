@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/infusion-automate.pw.toml"
-hash = "d57b4fea93c7da5ea7d4840c12d60a4e433bd9ec5a7b59e9e0f119d3b8ea728b"
+hash = "a1406265bf75aa2148bc725c8aaa16c6affcede2f0ddab7c74af9d601829e2f5"
 metafile = true
 
 [[files]]
@@ -2134,7 +2134,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiculture-integrations.pw.toml"
-hash = "488900c747f774042398de1b493b47cc469c40fb193239caf69ca8bd7bb80c05"
+hash = "d2e23875c49791eec927f817ff8b92a0b90ef39c7bb6b4c9726f1e3722507157"
 metafile = true
 
 [[files]]
