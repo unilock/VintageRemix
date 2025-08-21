@@ -1,0 +1,13 @@
+name = "Questionably Immersive"
+filename = "questionablyimmersive-1.12.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d03d3f174e710405842c57552efb2d47cfd14a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2558162
+project-id = 293192

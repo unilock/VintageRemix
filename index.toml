@@ -2638,6 +2638,11 @@ hash = "06bf188f20c772a6d75ec1383bbc06f39899f4acb33f39cef60b5635c9a7dda4"
 metafile = true
 
 [[files]]
+file = "mods/questionably-immersive.pw.toml"
+hash = "5fee147592a823efbbe94d3602fc9ab22f267bc95e031b095d6e10f4ad2f5178"
+metafile = true
+
+[[files]]
 file = "mods/quiverbow-restrung.pw.toml"
 hash = "7db05d8d61095a79f02170b3e206989b052ee8b198ea2236143ec6fe8d505394"
 metafile = true
@@ -2950,6 +2955,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-computers.pw.toml"
 hash = "1848412f67e029e06fce9885a10ee6d06aa339e39cf791f9b0f027950bbff19d"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-concilium-kedition.pw.toml"
+hash = "49b968441315e859717f0f0c06250d65beebc96f5887e3266dea612c9d986e60"
 metafile = true
 
 [[files]]
