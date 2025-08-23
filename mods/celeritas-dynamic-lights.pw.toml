@@ -1,13 +1,13 @@
 name = "Celeritas Dynamic Lights"
-filename = "celeritasdynamiclights-1.2.2.jar"
+filename = "celeritasdynamiclights-1.2.4.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c129db21dea95f75e17436b06f0b2ad8a6be1a8d"
+hash = "79f560a6e4dc05169e639fc452138ef963283348"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6888705
+file-id = 6917883
 project-id = 1313831
