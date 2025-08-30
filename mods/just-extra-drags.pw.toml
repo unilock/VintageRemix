@@ -1,13 +1,13 @@
 name = "Just Extra Drags"
-filename = "justextradrags-1.0.1.jar"
+filename = "justextradrags-1.1.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "3fdb139887bc583c64dd18d952d8df69c6214317596e249fa30e9fad79e7b0ea81078cc489299f063210bddea2824d80d8afcc27a7197293bfd807a44bf03fdf"
+hash-format = "sha1"
+hash = "7eabdad37b2c2c51287aafe11b40f8da1df7d82d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6358274
+file-id = 6933282
 project-id = 1117822

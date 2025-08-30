@@ -1,13 +1,13 @@
 name = "Thaumic Concilium Kedition"
-filename = "thaumicconcilium-1.1.1.jar"
+filename = "thaumicconcilium-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a812ca2e1c10f4ad2bac0b291cae0989854ba45c"
+hash = "686e39976c7341fe7c0d4fad524e62725ca8b244"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6907407
+file-id = 6943332
 project-id = 1329883

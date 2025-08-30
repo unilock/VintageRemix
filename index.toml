@@ -1749,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "c3b46cef0757de3b70e8e8816c5020ea56eee71e58563d714c96bedae005b067"
+hash = "80227423f8691fe9b45879bee5fe4feb7f3afbdf7ca1fe792f2795a9b88d2d2d"
 metafile = true
 
 [[files]]
@@ -1999,7 +1999,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-extra-drags.pw.toml"
-hash = "621cb2f6a3063f557fc0ee2ce359a161ed79a35736544bb95e39dca71f5bc793"
+hash = "b136d7e84a2f93534a99ab562de86695fc396ca056a6c0447b5bd4e8d55eb93f"
 metafile = true
 
 [[files]]
@@ -2219,7 +2219,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "f8bb4376c8b4b6177dad440fc54067fa01eee0ba0e0991b5116066f8a768941b"
+hash = "65a476cc3867423b2fd70f5a0e6aad4ae9dbdeb6b0187a473f129213d72f0fad"
 metafile = true
 
 [[files]]
@@ -2244,7 +2244,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "ab09342a5a53e9f2513f36fcc27018719947bdcb1f98fb70233deef646c0a50f"
+hash = "338d7b1ed3eab71ef5d3cfa2538933d5acd9ad6b9410a3ea536c3e6e386841bd"
 metafile = true
 
 [[files]]
@@ -2529,7 +2529,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-books.pw.toml"
-hash = "947b56ba51dae17ff6c2f1668ec14bab0b7d84221da52514477e68f3c153658d"
+hash = "338ba4915fe9a7566d75c16f3809e28e65bf7617a28db755e516b0ca44f80ad2"
 metafile = true
 
 [[files]]
@@ -2959,7 +2959,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-concilium-kedition.pw.toml"
-hash = "49b968441315e859717f0f0c06250d65beebc96f5887e3266dea612c9d986e60"
+hash = "5b74dbd7e8264996f6d4505ce1bbac546e5f88163bf0f5075ea410ee0f630315"
 metafile = true
 
 [[files]]
