@@ -828,11 +828,6 @@ hash = "0da869639bc6930067e5fc28bb0abf8b675a2e730d1fd7a879ff3bc312de5899"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "6e5d94b69cf989139166f4c9d59b2c848722c08a2ab7dcf73d7f6ec3f30595d1"
-metafile = true
-
-[[files]]
 file = "mods/arcane-archives.pw.toml"
 hash = "55cd7fa539b7ae9246434bf18730047fc19ef8a3370efd4b155f114011da7deb"
 metafile = true
@@ -2030,6 +2025,11 @@ metafile = true
 [[files]]
 file = "mods/lemonlib.pw.toml"
 hash = "62dfe29da6faf0e40a00891ec7b6a31e71b30d471291be79632d0a34e2265220"
+metafile = true
+
+[[files]]
+file = "mods/lemonskin.pw.toml"
+hash = "eb7eca45d829704934fbe37133c9a2e63b1400cdf3d0d5acb4839bec1eaef0ee"
 metafile = true
 
 [[files]]
