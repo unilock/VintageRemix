@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "af71fa7a4d4b608a1aa70d034d6ca9342366aac6e92b523b3e72d7f5d9dc771a"
+hash = "2c6ec7fd6d10c70e26653c0573292a7a1ecd54554b562c28a7da21dd98a33552"
 metafile = true
 
 [[files]]
@@ -1749,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "80227423f8691fe9b45879bee5fe4feb7f3afbdf7ca1fe792f2795a9b88d2d2d"
+hash = "eb78718c73fbebe53263af59c606cdab18c394652caae97ed3c51e27d3d66bf6"
 metafile = true
 
 [[files]]
@@ -2284,7 +2284,7 @@ metafile = true
 
 [[files]]
 file = "mods/mte-patches.pw.toml"
-hash = "6634dcc6a5259c1087418a4e22a4a9a05fccea91ab399c1863de4222d30cb385"
+hash = "c996fd13df91d25f17f2c859e887f96e9fbef2ba463ea77f66537c573249cb0b"
 metafile = true
 
 [[files]]
@@ -2949,7 +2949,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-bases-unofficial.pw.toml"
-hash = "adecd127d9ba6358a8b13fe584e79667a39e7d1b1e1778a9b38e4362c6bca776"
+hash = "ad0fab0faae7e10bec8567667cf621b19f6bf2017f46ece5701d17bc4c71c73a"
 metafile = true
 
 [[files]]
@@ -2959,7 +2959,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-concilium-kedition.pw.toml"
-hash = "5b74dbd7e8264996f6d4505ce1bbac546e5f88163bf0f5075ea410ee0f630315"
+hash = "42f1d8f3b045581f2dc3947d92154211cec589d85e9698c990063e8ad99adf55"
 metafile = true
 
 [[files]]
@@ -2969,7 +2969,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-isorropia-kedition.pw.toml"
-hash = "11d688e34a7e6572f3117a2cce52d23411520bcea44665bd10f86aba7a6b0c09"
+hash = "77ff19c1376a9cdff8f03fcd738bd7df4bd3746fdff011e9c414fb79ea2cf6cf"
 metafile = true
 
 [[files]]
@@ -2999,7 +2999,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
-hash = "38bc323ce65c7ef830a7edb2a9a0c14f45f9d95b35806814fe2eab2f19f3ac69"
+hash = "463ed5f7a034e370ba65cc534718c1821556a45471ff14c31e393ab7654636de"
 metafile = true
 
 [[files]]
@@ -3009,7 +3009,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "5ba81797fa463c6760571b28a3cb71649b27fd4b87b2ed619943c08b8d6a52d8"
+hash = "9d33c3fa32a4ae28922e95066d8b78bc73128780f43edb255efc06628974ae3d"
 metafile = true
 
 [[files]]
@@ -3174,7 +3174,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "9733689aaba6506c04a7a89cf4bd9ba290cc53f71154f4dcc695f75e13bee3da"
+hash = "ec6fa924cd52f756a56ad487089f06d42c54eaab650e3ef24c69d9272676bbe0"
 metafile = true
 
 [[files]]
