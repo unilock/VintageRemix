@@ -1283,6 +1283,11 @@ hash = "7a12e759e572910c73e9423e5b168e7e4d04752953a1e97d288a96e088e876f6"
 metafile = true
 
 [[files]]
+file = "mods/congrega-mystica.pw.toml"
+hash = "ad3a44fb2c94b218f7e006356d68bcfc1b76f8baf1dfba42be5f9757d82c398c"
+metafile = true
+
+[[files]]
 file = "mods/constructs-armory.pw.toml"
 hash = "90fb0678dfc32922e269de31595df59155f445642f122099a2052926d2ebe762"
 metafile = true
@@ -1533,11 +1538,6 @@ hash = "76bcf81cf3794d02bf83c9e1c1cae42c8eb2af5a9a48b1f49c2b2bf2250a0ed0"
 metafile = true
 
 [[files]]
-file = "mods/engineered-golems.pw.toml"
-hash = "06165d3f5e29f964e1e62d77d20e1adc58f5e49cb2e6a184802c19755e28c0f0"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "12e08454458c7d2d147c7a6c95bff9f0421fe56d8ada89090cedc91a0498f818"
 metafile = true
@@ -1560,11 +1560,6 @@ metafile = true
 [[files]]
 file = "mods/exotic-birds.pw.toml"
 hash = "33c0c0ed3469fb6b5f794ba0e396409e7ed9c25979386e27a7300888ab5d1c53"
-metafile = true
-
-[[files]]
-file = "mods/expanded-arcanum.pw.toml"
-hash = "f295536aef75f64b7d325ee2abd8da761aeed27cbba208388fdd81cc5d0ca157"
 metafile = true
 
 [[files]]
@@ -2790,11 +2785,6 @@ metafile = true
 [[files]]
 file = "mods/rustic-furniture-compat.pw.toml"
 hash = "c6782accfe0664de71c893ded45a88ef7d3f6061b027c97b083cd0a2ef57d495"
-metafile = true
-
-[[files]]
-file = "mods/rustic-thaumaturgy.pw.toml"
-hash = "255a60ee03868ff56c7696beea969f3de9738e376c70c60de9515c15bff43c43"
 metafile = true
 
 [[files]]
