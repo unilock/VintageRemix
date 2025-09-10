@@ -1,13 +1,13 @@
 name = "Thaumic Tinkerer Unofficial"
-filename = "thaumictinkerer-1.12.2-5.9.11-Unofficial.jar"
+filename = "thaumictinkerer-1.12.2-5.9.14-Unofficial.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "524d1024a90b360d1ed2534e5b5866743a30c8c8"
+hash = "41a3913dbe0b2a14e659d9c0f4ba0084f49f7abc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6959087
+file-id = 6981380
 project-id = 965811

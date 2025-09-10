@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/alchemistry-redox.pw.toml"
-hash = "565557aef8e4c1b4d63d3ba44dae97da36521dbb240bc9a0d0d4dff0f4ccb515"
+hash = "0a8ae89e716928f7f7a900b641d8e12c6a5594720e0fe6ead171dd60082b0424"
 metafile = true
 
 [[files]]
@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-modpack-tweaks.pw.toml"
-hash = "62413fdf991ae6a1878ee0eba636b53a585e21cdc3e3e65ce62aa8c05efe0803"
+hash = "6121b94140c10400c8f9220777ac4a97a2097cf05b492d6e9dd3bf6ebb9be556"
 metafile = true
 
 [[files]]
@@ -2024,7 +2024,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonskin.pw.toml"
-hash = "eb7eca45d829704934fbe37133c9a2e63b1400cdf3d0d5acb4839bec1eaef0ee"
+hash = "9c5e8bcbb6e64c08dbe5989abce92cc281e2df634940655aa4ac4e3703e0c030"
 metafile = true
 
 [[files]]
@@ -2279,7 +2279,7 @@ metafile = true
 
 [[files]]
 file = "mods/mte-patches.pw.toml"
-hash = "c996fd13df91d25f17f2c859e887f96e9fbef2ba463ea77f66537c573249cb0b"
+hash = "bbc6ce64739ea8b8f8ba5512c70fad9bdbf98942d25efbc06cf9ae98c8ec8d25"
 metafile = true
 
 [[files]]
@@ -2329,7 +2329,7 @@ metafile = true
 
 [[files]]
 file = "mods/natura-legacy.pw.toml"
-hash = "9d9f7f53e725f9503426a8fc6cbe3c40ccec8fec778b18f647558f38f0402186"
+hash = "d2b8cc7ee98a18aa867a0d500c91750f3bee063121668ac040ec67779e9eab05"
 metafile = true
 
 [[files]]
@@ -2364,7 +2364,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "87cc667d7d97038c499338ea789dbed3e1623d75d42513c00a5b928c88045587"
+hash = "86e2ebf64de94a5b56bbf9a9669e821db416289d8146f0ecdf5a916939a1b76a"
 metafile = true
 
 [[files]]
@@ -2709,7 +2709,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforbidden-magic.pw.toml"
-hash = "c4f4102a228e5422a2c39f9e56af91eca26809a09cd27bb255ee0e7059cfd74c"
+hash = "373ecf3bec82118ede202f34bfa879a5026fb7d4ff6a2eb9d2e76cbafea2f2f0"
 metafile = true
 
 [[files]]
@@ -2989,7 +2989,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-unofficial.pw.toml"
-hash = "463ed5f7a034e370ba65cc534718c1821556a45471ff14c31e393ab7654636de"
+hash = "1c2b8481fd7331e3a2ec491c981855c51ce0d15bacc0b22d51036bf7223a8fc5"
 metafile = true
 
 [[files]]

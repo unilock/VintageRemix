@@ -1,13 +1,13 @@
 name = "LemonSkin"
-filename = "lemonskin-2.1.2-fix1.jar"
+filename = "lemonskin-2.1.2-fix2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "460ef45d715bb1c246a03c0236aad79af47f1593"
+hash = "981863fe1d814e557b9699a82cfcd06954b8c1d7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6949568
+file-id = 6978838
 project-id = 1337144
