@@ -1,13 +1,13 @@
 name = "Thaumic Isorropia - Kedition"
-filename = "isorropia-1.12.2-kedition-2.1.0.jar"
+filename = "isorropia-1.12.2-kedition-2.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "da295deef514f37ae1fcd5bfd6e8b895d22b0cde"
+hash = "ba117c9354ea5624c07aa82550aeb2a932f30c08"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6965267
+file-id = 6992970
 project-id = 1159671

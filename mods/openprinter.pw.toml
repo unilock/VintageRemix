@@ -1,13 +1,13 @@
 name = "OpenPrinter"
-filename = "OpenPrinter-1.12.2-0.1.0.18.jar"
+filename = "OpenPrinter-1.12.2-0.1.0.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f6ec095516982d03a2e18d3beaa2d0f383d35f88780aef70d937b38c795ce0b8a40e9a7e06dabce4e4bbe30db50eae79a5166f09979af2291da84c0937f652de"
+hash-format = "sha1"
+hash = "155a8dda9addf28415c15c6f4086422ce016049f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5106831
+file-id = 6985296
 project-id = 225127

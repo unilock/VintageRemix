@@ -1,13 +1,13 @@
 name = "Forgelin-Continuous"
-filename = "Forgelin-Continuous-2.2.0.0.jar"
+filename = "Forgelin-Continuous-2.2.20.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "0dc2bdeeb95eac2238498f9c937944efa01307646ec5b97d91644b10362b7f17e1c2b8902a1809ff9f3407d1cc5850e4457c36e4212fe1b871cd82cd1e94cd19"
+hash-format = "sha1"
+hash = "064098d130e18a364706f1c4a6c9b27b435acd8a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6760510
+file-id = 6983420
 project-id = 456403

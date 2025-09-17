@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/academycraft.pw.toml"
-hash = "1c111a527f0661c66b2844d2aea5c1e77065f1d18cbbb72f651d987205ef6805"
+hash = "c966f5a5aa66fd531d5fdc023e989302c9a50eacde5b3656324fed5072e80b66"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlasautomarker.pw.toml"
-hash = "924c11e8b327c57417cc53add83fd7d761b8b844c6d47e163169caaec49145b8"
+hash = "0e08deca861c38c8b0ec3412936a9df7f3bdb45ef6bcd938ead748eb60bac8da"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "ad3a44fb2c94b218f7e006356d68bcfc1b76f8baf1dfba42be5f9757d82c398c"
+hash = "96921557aebc278eba96b5229b5a4431088d739a3c1e6a24fc58ba0defd8f1a6"
 metafile = true
 
 [[files]]
@@ -1614,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "90519bfe44f08a83894a3764c6d46e28f61a6569838436c8ff187d0e56c38a07"
+hash = "7f20adcb7c10f9966bea19a174df4196a9539155d764edb7e31edd8ed58e438e"
 metafile = true
 
 [[files]]
@@ -2024,7 +2024,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonskin.pw.toml"
-hash = "9c5e8bcbb6e64c08dbe5989abce92cc281e2df634940655aa4ac4e3703e0c030"
+hash = "97893f6f0f3b40179e953c1664eaf56f6942aab22320e70c4408cd13610ae4f3"
 metafile = true
 
 [[files]]
@@ -2399,7 +2399,7 @@ metafile = true
 
 [[files]]
 file = "mods/offlawn-legacy.pw.toml"
-hash = "c56ce4ce6c4d37d8e6e5509aac5d3a15ffaf88f53d083541a4c6ee56327e8e9e"
+hash = "6c8a412f7331b0278dda8cf0b4b394a53ffe1decd5099a3f08c6f1bb2d533d99"
 metafile = true
 
 [[files]]
@@ -2449,7 +2449,7 @@ metafile = true
 
 [[files]]
 file = "mods/openprinter.pw.toml"
-hash = "abd3d6c162c22be9e19064b957042b334bf3e55e0bbfa7b652683f14c4ca8514"
+hash = "b6f8f5ca83cb301db621b20d6f753121dbf2a9a6a58206634c2e0eac2b724e74"
 metafile = true
 
 [[files]]
@@ -2949,7 +2949,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-concilium-kedition.pw.toml"
-hash = "42f1d8f3b045581f2dc3947d92154211cec589d85e9698c990063e8ad99adf55"
+hash = "c1d452a444349ee30160f81c0f23d9eb91a0af3d574e20b90d306728c8006c19"
 metafile = true
 
 [[files]]
@@ -2959,7 +2959,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-isorropia-kedition.pw.toml"
-hash = "77ff19c1376a9cdff8f03fcd738bd7df4bd3746fdff011e9c414fb79ea2cf6cf"
+hash = "3534c6b2aaa2f5ebe34f9b33deddca0a3a91efd0b567f4c5289d01e0fb622a5a"
 metafile = true
 
 [[files]]

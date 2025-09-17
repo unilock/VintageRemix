@@ -1,13 +1,13 @@
 name = "OffLawn! Legacy"
-filename = "OffLawnLegacy-1.12.2-1.0.0.jar"
+filename = "OffLawnLegacy-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "dc6c3b757941074079803b501334ca167c83e2b792a68dce619914e57ece68a04befdadf1b1aea2e230dac2b68b7d4cd0a9ad5fe9d8a77e3d94479f909aeb97b"
+hash-format = "sha1"
+hash = "f9a01e4eacb04a8ff32c545285e076b0129a9fca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6724933
+file-id = 6984228
 project-id = 1299198
