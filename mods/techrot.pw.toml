@@ -1,0 +1,13 @@
+name = "Techrot"
+filename = "techrot-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8db9afdf5a8b05b1dc1e536f0b89b5923b56045"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7422720
+project-id = 1402213

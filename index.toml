@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlasautomarker.pw.toml"
-hash = "0e08deca861c38c8b0ec3412936a9df7f3bdb45ef6bcd938ead748eb60bac8da"
+hash = "cc325e19c0802a3b170818bac4c2a2599e3a24215f5dda67490d7912295534b2"
 metafile = true
 
 [[files]]
@@ -1628,8 +1628,8 @@ hash = "2216f1476017002516bf4d88f9b0e945c64f6e06a8247af004095c6d2681f4d4"
 metafile = true
 
 [[files]]
-file = "mods/fruitphone.pw.toml"
-hash = "158216b6ea684b43891dc74ce9e71918adc0d9e84d572f24ec94693490e9deeb"
+file = "mods/fruit-phone.pw.toml"
+hash = "97afcf545b40dfb8f5c3e6b908e66a39a98363562a596725c212ea0b1a6f6891"
 metafile = true
 
 [[files]]
@@ -2283,6 +2283,11 @@ hash = "bbc6ce64739ea8b8f8ba5512c70fad9bdbf98942d25efbc06cf9ae98c8ec8d25"
 metafile = true
 
 [[files]]
+file = "mods/mteenoughitems.pw.toml"
+hash = "aad6fc2b8fa069f82095fea3b0ba98dda0a0776c9543a10836a1cbf971f74512"
+metafile = true
+
+[[files]]
 file = "mods/multifarm-crops.pw.toml"
 hash = "dc046db074fbaf2b7c720cd082b2be4ff6f155fbc7fbdb52fd4ac711839e0c76"
 metafile = true
@@ -2618,6 +2623,11 @@ hash = "345dbcbd1f30bd7fa8224f160d3b344590598e9e7a6fe4a345bcbb6071db19ed"
 metafile = true
 
 [[files]]
+file = "mods/quantum-things.pw.toml"
+hash = "f2abe929ea8e52740432be1b7d43b9f687c261ae13b2a066f0db4b5a4341f7b4"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "b1baca671cfa1a1f93b9edab6446a518a004c9d16ea5aaec68f366760673c08c"
 metafile = true
@@ -2905,6 +2915,11 @@ metafile = true
 [[files]]
 file = "mods/taiga-tinkers-alloying-addon.pw.toml"
 hash = "f11eedb7081711edfeb0e66e01e920f7194f79709b0ce2e76bdb7865f8df1450"
+metafile = true
+
+[[files]]
+file = "mods/techrot.pw.toml"
+hash = "b9ddf3fc3df20f58e2521134e53d1e04afd7a8827d9040a275160eb4c1804a53"
 metafile = true
 
 [[files]]

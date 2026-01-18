@@ -1,0 +1,13 @@
+name = "MTEEnoughItems"
+filename = "mteenoughitems-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24cb1180153922e47a193d6ac0831d0a82cf23fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7234991
+project-id = 1361123

@@ -1,0 +1,13 @@
+name = "Quantum Things"
+filename = "QuantumThings-MC1.12.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87b858fde28a731637309fa4e720df045f4d7379"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359381
+project-id = 1387363
