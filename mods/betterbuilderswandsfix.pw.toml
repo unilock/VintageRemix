@@ -1,13 +1,13 @@
 name = "BetterBuildersWandsFix"
-filename = "BetterBuildersWandsFix-1.2.4.jar"
+filename = "BetterBuildersWandsFix-1.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "fecf1c3eda3216485fa362628491ca458f8e2589fe206f4353ac636021b6ae7e959db767cbf856eab45a18aa73a56aefc2f1f1c0415800619aef6c4531fbd19e"
+hash-format = "sha1"
+hash = "c0ca30af96adb27b928b125a36c6c8a8d7491f13"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6830996
+file-id = 7472606
 project-id = 1198068

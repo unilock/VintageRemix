@@ -1,13 +1,13 @@
 name = "JEI Area Fixer"
-filename = "jei_area_fixer-2.2.0.jar"
+filename = "jei_area_fixer-2.3.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "92f4481af33407571eec9c311333c738bed1c46bda1c4683d9128fa976064065c054ec3482d4d9fcc37173b41e65d46421f756e874685fe636ac530578e1b800"
+hash-format = "sha1"
+hash = "cf508c8f424df032a55bbbbaeb8333263ebf41ec"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6450286
+file-id = 7264095
 project-id = 1085598

@@ -1,13 +1,13 @@
 name = "Planar Artifice: Forked Continuation"
-filename = "planarartifice-1.4.5-Fork.jar"
+filename = "planarartifice-1.5.0-Fork.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1cf54947b6320809e59d59ac78ec8446ebdab8351444820e9ba95f92cad18d609774733d7cd3109a2ce5440d583820d2592aa0230f36aec2efb3e19023bd8d8e"
+hash-format = "sha1"
+hash = "ec6868c8b2fbaa77683a56d4b9337aa1176a3a97"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6603979
+file-id = 7037326
 project-id = 1163273

@@ -1,13 +1,13 @@
 name = "New Crimson Revelations"
-filename = "New-Crimson-Revelations-1.12.2-1.4.5.jar"
+filename = "New-Crimson-Revelations-1.12.2-1.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7ee62a264e76d729aa6d49ebb0c934591f834ae2"
+hash = "6b5e7b5fcc5c7e1888ac4e08870dea62bca14f1a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6975302
+file-id = 7012584
 project-id = 1025633

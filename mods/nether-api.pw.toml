@@ -1,13 +1,13 @@
 name = "Nether API"
-filename = "Nether-API-v1.3.0-mc1.12.2.jar"
+filename = "Nether-API-v1.4.2-mc1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/65qOM4nb/versions/1m3gvzYh/Nether-API-v1.3.0-mc1.12.2.jar"
+url = "https://cdn.modrinth.com/data/65qOM4nb/versions/rRIBraWt/Nether-API-v1.4.2-mc1.12.2.jar"
 hash-format = "sha512"
-hash = "e8eba0f29faa4741459370930e784821331ff4f12a312a6f8d198896347aee4c9498f2b1eed98073712f18ff1e59ae7783cdf9e75cb31b3fa65640d2c5375855"
+hash = "6f91294b81c701cff6319bee0ec3dd53b35e35e2f6209f7278273700996f63ba7c3178207c6db856342395787a991733c38d08b2d90993f22d3c7a8732cad8bd"
 
 [update]
 [update.modrinth]
 mod-id = "65qOM4nb"
-version = "1m3gvzYh"
+version = "rRIBraWt"

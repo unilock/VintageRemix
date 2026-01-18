@@ -1,13 +1,13 @@
 name = "e4mc Retro"
-filename = "e4mc-retro_forge-1.0.2+1.9-1.12.2.jar"
+filename = "e4mc-retro_forge-1.0.3+1.9-1.12.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "1f3302a2dd033d5fe494dc9f5f0f8f27335c3ae118b35388b963a781732b66b1f946c97fb23cfe1edd8991d88ca1042e70ac869725312800294e83f8ec4d173f"
+hash-format = "sha1"
+hash = "809d24b6b8682d07af14c4de0426924bed270a82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6801928
+file-id = 7036162
 project-id = 1302894

@@ -1,13 +1,13 @@
 name = "LemonSkin (AppleSkin Fork)"
-filename = "lemonskin-2.2.0-fix1.jar"
+filename = "lemonskin-3.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88ef848a92e1c8f94692c5c2339d4dec962fe310"
+hash = "c5b285c7e45077c8f002ae5c04520c8ae26ce263"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7003105
+file-id = 7397823
 project-id = 1337144
