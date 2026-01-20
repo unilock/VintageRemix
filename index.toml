@@ -2013,6 +2013,11 @@ hash = "02f928e235c6151394da508af30f163c2e19e152223444756a12efdab20ca6a3"
 metafile = true
 
 [[files]]
+file = "mods/key-binding-patch.pw.toml"
+hash = "cea0823d3b224e7bfee140dce362f0321cfb689fa8aaf9d7095ccd244f2051b4"
+metafile = true
+
+[[files]]
 file = "mods/kitchen-tools.pw.toml"
 hash = "a434f7f2615ae445687d9819d6e076dfaad195a638e5b9d822dc8bf7abacc979"
 metafile = true
@@ -2945,11 +2950,6 @@ metafile = true
 [[files]]
 file = "mods/taiga-tinkers-alloying-addon.pw.toml"
 hash = "f11eedb7081711edfeb0e66e01e920f7194f79709b0ce2e76bdb7865f8df1450"
-metafile = true
-
-[[files]]
-file = "mods/techrot.pw.toml"
-hash = "b9ddf3fc3df20f58e2521134e53d1e04afd7a8827d9040a275160eb4c1804a53"
 metafile = true
 
 [[files]]
