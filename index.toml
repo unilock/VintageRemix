@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterbuilderswandsfix.pw.toml"
-hash = "cc36a4534c8e8844c7a65819caf85c136e3b55bb4c0dd986d72a841afe507e56"
+hash = "1ac1c09b6eec17a99f74afb56a717e926e285960ac01bf7cc8f3cef25e8a0119"
 metafile = true
 
 [[files]]
@@ -3124,7 +3124,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-arsenal-reloaded.pw.toml"
-hash = "face81db6fc944358bbc7a2740d83eb8629063923ff044df974bfbacbcaf0c68"
+hash = "62c07f68febb4d5e4e5b862f45a529e06e075ec1b6c94c0e9751e85b361e0a5a"
 metafile = true
 
 [[files]]
