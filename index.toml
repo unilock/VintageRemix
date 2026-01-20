@@ -554,7 +554,7 @@ hash = "620c4a90d629a06a6c3c262e6093182e947611557b0c0642cec6cacccbebecc6"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "3a65a69c003af2829bbe366259f3b7357f2a7699bcd5b6f3a4b4adccca501b86"
+hash = "e89b45f30c1fbc275136338148219022d4113e10e8929c73bbefb14f901ff0ef"
 
 [[files]]
 file = "config/solcarrot.cfg"
@@ -566,7 +566,7 @@ hash = "339e235438e7617c800c238c91edb33810c36d1bd5776cf828f98a6dd29b7d91"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "5c0b157d327e4fa6bf09784dccd8fa5c9ed602ad000c273927aa8ca4c4e811a4"
+hash = "105a76c146b16ed248723b3abfcc4601fe3b8d2b42d6426fac55a5bf66fa9c58"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -810,6 +810,11 @@ metafile = true
 [[files]]
 file = "mods/animus.pw.toml"
 hash = "b2f109d471c3546be0c31452b511eb7b3ece54dc0ed69695789f4fd9e678b03e"
+metafile = true
+
+[[files]]
+file = "mods/antique-armory.pw.toml"
+hash = "fc8e89c0c9cfc91f4ff729a3d8c0dd54dcb717242d10fe241713341b3335948a"
 metafile = true
 
 [[files]]
@@ -1288,11 +1293,6 @@ hash = "290c13120f2ebca22569731bdfedf3c745a7fc6fa0b9edf28ba2f19466567db6"
 metafile = true
 
 [[files]]
-file = "mods/constructs-armory.pw.toml"
-hash = "90fb0678dfc32922e269de31595df59155f445642f122099a2052926d2ebe762"
-metafile = true
-
-[[files]]
 file = "mods/coralreef.pw.toml"
 hash = "88bce2148e0d8a34a8f4b51bd6ecc462d7bd3c732bd8030bfb036bc6f9b8ac11"
 metafile = true
@@ -1753,6 +1753,21 @@ hash = "2ab050543328117a307bbb753aedbd07dbab57b575487691569c30579d96f24d"
 metafile = true
 
 [[files]]
+file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
+hash = "e8d54fb453d88253287b82afbfe166ce38efe39c3190326d1fc6eb1ff23fbd43"
+metafile = true
+
+[[files]]
+file = "mods/hbms-ntm-ce-space.pw.toml"
+hash = "934ae2be3aced4eac153b5bddb8520a46d469f9636bb7b3e3c754f2be7f6ad26"
+metafile = true
+
+[[files]]
+file = "mods/helios-divinity.pw.toml"
+hash = "a4ee31ec15d0b066da59164726c76a3598e45ec5659a9c0c6de55c6b4c5c90aa"
+metafile = true
+
+[[files]]
 file = "mods/heterorustichromia.pw.toml"
 hash = "d6cdcf9ae02a8fb909d94782687ebd14e44081c9e91fd087c4872fea7978aef3"
 metafile = true
@@ -1770,6 +1785,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "501d821a127075d3515432276c0822d4a44aaf64d13b2014667a57fec08ab8c8"
+metafile = true
+
+[[files]]
+file = "mods/hyxcate.pw.toml"
+hash = "ff56579c9ac5027989143886c8b9cbf3a9d801c5fb552087236a0888d7a8ec3a"
 metafile = true
 
 [[files]]
@@ -2268,6 +2288,11 @@ hash = "cdfe9609df508a8b6789bb821e024535d7a7c80b514595b90b46d02259793e93"
 metafile = true
 
 [[files]]
+file = "mods/morphoverlay.pw.toml"
+hash = "c39778316a8cd738d08ca3c0d57b386ce8a9edea9d938bd4e1cdb6b8d7e29a28"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks-unofficial.pw.toml"
 hash = "4ed20c808466a3b0c3eedd39cdc758573a395e1a4cdbeba8f0cf05e735bc8cff"
 metafile = true
@@ -2380,6 +2405,11 @@ metafile = true
 [[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "15b2f4757d0b375a701fb6fd18f211d16bfcd616bf9990a9867038375e4666f9"
+metafile = true
+
+[[files]]
+file = "mods/ntm-cursed-addon-edition.pw.toml"
+hash = "6b81674bc4df444c69c389e432fbc223f2941d5b99c8a336843a172e30c84998"
 metafile = true
 
 [[files]]
@@ -2908,8 +2938,8 @@ hash = "112aa8897dcb45dc1c99b4ad5ff75c4ad9ada296294a54549b847ab4169e719a"
 metafile = true
 
 [[files]]
-file = "mods/stygian-end-continuation.pw.toml"
-hash = "c538bbf28834ac2d29f64ca99175693839b7262d38036a0567cdb5ef054f889f"
+file = "mods/stygian-end-recontinuation.pw.toml"
+hash = "ce884acb297d1c1527a605f5fc53ac5ee534c61f54845119ae6f7b04cde7e907"
 metafile = true
 
 [[files]]
@@ -2948,6 +2978,11 @@ hash = "cc016aadce2d17e3aa6f7f6290a4f844751753bee76fcf49711bc35922aa5a3a"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-attempts.pw.toml"
+hash = "175900c33c9455fdf6ae507159f3ee242ca7f147c77f7c7d7c6db8f82cef716e"
+metafile = true
+
+[[files]]
 file = "mods/thaumic-augmentation.pw.toml"
 hash = "dde48505c33d6ef0d92f7412aec8f431ec68708f1fc55cd694d42837af4ef183"
 metafile = true
@@ -2983,11 +3018,6 @@ hash = "49a6594b599883024f74f717b8fe908eb8d8244120cef5899dba7059d05d7661"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-mercy.pw.toml"
-hash = "e8ee36e02e72b6548089ee094a7fcf1d318d3755805687bb012664fe5cd2b5cc"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-periphery.pw.toml"
 hash = "9450dde597b40ea909c8ee70693ef46c03c81ea8da3d100a62e6cfe53784cb4b"
 metafile = true
@@ -3018,13 +3048,18 @@ hash = "dd5e8a27d75de01586ad76d5774b78aee8ff4bcac028b96fce9341d4dd6a05fe"
 metafile = true
 
 [[files]]
+file = "mods/thaumictweaker.pw.toml"
+hash = "8f427057caa70288ac2dd01cc1b92254988717cc1e6137c190e9248b1e7a2bae"
+metafile = true
+
+[[files]]
 file = "mods/thaumicwaila.pw.toml"
 hash = "c49c12080a5233156ac26dcfdc0a2401ffcc7a22257f3770afa7f8b528f85b22"
 metafile = true
 
 [[files]]
-file = "mods/thaumtweaks.pw.toml"
-hash = "0d9cd829e3a8c9b1338dccaa33ce7db5ea8271c0d4ca2ccca09f7d6539f28a7f"
+file = "mods/the-apiarists-terminal.pw.toml"
+hash = "6e2d2f7e35ab9d891c79640dc91cd16bcab5f80f7c48739ebfec6d6c04ac087c"
 metafile = true
 
 [[files]]
@@ -3083,6 +3118,11 @@ hash = "c202a0ac2d4394861291fe6e2cd69343432bdd4cab8c73f1233dc237717810fd"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-antique.pw.toml"
+hash = "e8dc32dd4d6f129d368d6a48fd2c5db29e042f9ef7598a193f5a2d26b294d6e1"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-arsenal-reloaded.pw.toml"
 hash = "face81db6fc944358bbc7a2740d83eb8629063923ff044df974bfbacbcaf0c68"
 metafile = true
@@ -3095,11 +3135,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct-tool-leveling-with-random.pw.toml"
 hash = "32772201451e08c51076ca118e5fd17937c2f4607e91e004c9d13c364b403db2"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e8c495e562f9d20af731b171b0d005b99b05e135697bff31b29a73d7cb4cf85"
 metafile = true
 
 [[files]]
@@ -3340,6 +3375,11 @@ metafile = true
 [[files]]
 file = "mods/wrapup.pw.toml"
 hash = "1ccf36533015a2be72e964fa1449f10a8316a7371fb6648e875dbac89dbd54bf"
+metafile = true
+
+[[files]]
+file = "mods/wuxiacraft-1path.pw.toml"
+hash = "d3251cbc63765f00af8909bcec3441c97258a261fce03d5320046342ef4fe4a9"
 metafile = true
 
 [[files]]

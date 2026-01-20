@@ -1,0 +1,13 @@
+name = "The Apiarist's Terminal"
+filename = "apiarist-terminal-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd1be5c198ccc32576705a82bcb927af7510e29f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7105229
+project-id = 1364926

@@ -1,0 +1,13 @@
+name = "Thaumic Attempts"
+filename = "ThaumicAttempts-1.12.2-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b321a576c1de307eb84830a0c186d3e464456ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7361795
+project-id = 1378341

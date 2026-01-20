@@ -1,0 +1,13 @@
+name = "HBM's Nuclear Tech - Leafia's Cursed Addon"
+filename = "NTM_Cursed_Edition-CE_Addon.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2e0f9203a234830524004e07e3205eff7400380"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7492144
+project-id = 1381046

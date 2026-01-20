@@ -1,0 +1,13 @@
+name = "MorphOverlay"
+filename = "morphoverlay-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c406a5319bd6a424d6254ee3ca27199084efb84a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6902995
+project-id = 1329068

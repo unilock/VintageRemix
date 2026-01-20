@@ -1,0 +1,13 @@
+name = "WuxiaCraft 1Path"
+filename = "wuxiacraft-1.12.2-1Path-V12.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03d32a1bd2d3b36d221a84e0d5716e45b5d4baa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406838
+project-id = 1418635

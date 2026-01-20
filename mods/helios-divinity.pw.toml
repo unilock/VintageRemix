@@ -1,0 +1,13 @@
+name = "Helios Divinity"
+filename = "helios-divinity-0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7334908a1aab138bc0d74a9fb81facd2dc42d9f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7479642
+project-id = 1398878
