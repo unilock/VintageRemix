@@ -305,10 +305,6 @@ file = "config/hats.cfg"
 hash = "30b539facad34bbb28856612da8513d7638f08c8e63093a3a103294fc69b4e63"
 
 [[files]]
-file = "config/hbm/hbm.cfg"
-hash = "efb1bfbafff78020483dc8845be5a816395661a87ee0787879c2f76d4af1606d"
-
-[[files]]
 file = "config/homoium.cfg"
 hash = "84cb928deb351b05a65f0c4e06cd7605dec8e9ac5e1edf0a4ec62341dbac2f44"
 
@@ -1753,16 +1749,6 @@ hash = "2ab050543328117a307bbb753aedbd07dbab57b575487691569c30579d96f24d"
 metafile = true
 
 [[files]]
-file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
-hash = "e8d54fb453d88253287b82afbfe166ce38efe39c3190326d1fc6eb1ff23fbd43"
-metafile = true
-
-[[files]]
-file = "mods/hbms-ntm-ce-space.pw.toml"
-hash = "934ae2be3aced4eac153b5bddb8520a46d469f9636bb7b3e3c754f2be7f6ad26"
-metafile = true
-
-[[files]]
 file = "mods/helios-divinity.pw.toml"
 hash = "a4ee31ec15d0b066da59164726c76a3598e45ec5659a9c0c6de55c6b4c5c90aa"
 metafile = true
@@ -2410,11 +2396,6 @@ metafile = true
 [[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "15b2f4757d0b375a701fb6fd18f211d16bfcd616bf9990a9867038375e4666f9"
-metafile = true
-
-[[files]]
-file = "mods/ntm-cursed-addon-edition.pw.toml"
-hash = "6b81674bc4df444c69c389e432fbc223f2941d5b99c8a336843a172e30c84998"
 metafile = true
 
 [[files]]
