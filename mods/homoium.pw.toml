@@ -3,11 +3,6 @@ filename = "homoium-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PnFQ4uO8/versions/p1mXZTtC/homoium-1.0.8.jar"
+url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/homoium-1.0.8.jar"
 hash-format = "sha512"
-hash = "4c985f74d3090417317b87ad27b9b5c4bc727d40c74f3e599b144a65b9f5349d859529af61b0b67bd173aaece64b806e81bc3a97cc542a91e8b4609cc28e0c10"
-
-[update]
-[update.modrinth]
-mod-id = "PnFQ4uO8"
-version = "p1mXZTtC"
+hash = "ca53796602212b9770e59c52cf7a74e87d537f1ff0e87d0fb1d29a27744b3d22906e2a42f52a5f624bc8a8e5ade445b35c435df4ef20726ae247a653cf34ee2e"
