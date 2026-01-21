@@ -1,0 +1,13 @@
+name = "Embersified Extended"
+filename = "EmbersifiedExtended-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b105ee0b97ab8022a2f252422bee87178cb7e2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5395036
+project-id = 984998

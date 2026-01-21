@@ -1,0 +1,13 @@
+name = "Soot Unofficial Extended Life"
+filename = "soot_extended_life-1.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6301dc23073bc36c0bddd248f70857e28d372aec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6079170
+project-id = 982730

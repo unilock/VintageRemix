@@ -725,6 +725,11 @@ hash = "ee4e988f419eebf56bc7d0d00fe2325efbf5a263739f59d4f0dfd6c372a76944"
 metafile = true
 
 [[files]]
+file = "mods/aetherworks-extended-life.pw.toml"
+hash = "b66ec392a9bd3fecb68478e05290c1cf6267984b0b4b17539cca82af11fbd830"
+metafile = true
+
+[[files]]
 file = "mods/ai-reducer.pw.toml"
 hash = "6ca35ae6d9fbe3946c77c12b7d37fb49e88f0c8fdaa65fc87dd091a596001498"
 metafile = true
@@ -1350,6 +1355,21 @@ hash = "a5a6e959c944edea55f286aa2e29b0c00d65b0677c925cf1a14b12f066437321"
 metafile = true
 
 [[files]]
+file = "mods/embers-extended-life.pw.toml"
+hash = "e789d5482c0dbac9a21153fa72e90b71e20de2e090d878f8417d8254c3a0949c"
+metafile = true
+
+[[files]]
+file = "mods/embersconstruct.pw.toml"
+hash = "29a7e8ed436b38f7fb995be3dba021679bfc0cc5ae4965233058e90dfec556d6"
+metafile = true
+
+[[files]]
+file = "mods/embersified-extended.pw.toml"
+hash = "e12255b8ba4cde107f8d74727c463e6b5cfe26a5b72d62e8e0f9bd14a9370a0b"
+metafile = true
+
+[[files]]
 file = "mods/enchantingplusplus.pw.toml"
 hash = "d24d8f1fe204e131c296b6d1b9d46de6376fc43fd9633ef2f64a2519cf75cd59"
 metafile = true
@@ -1607,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/helios-divinity.pw.toml"
 hash = "a4ee31ec15d0b066da59164726c76a3598e45ec5659a9c0c6de55c6b4c5c90aa"
+metafile = true
+
+[[files]]
+file = "mods/heterorustichromia.pw.toml"
+hash = "4c4ff38c8f7ac9dc8a1f9d540a8abcd6df7ec595fd032425d1374f8c20c62cd2"
 metafile = true
 
 [[files]]
@@ -1995,6 +2020,16 @@ hash = "ad16705421bf22be2526feea0439ac2e4040b66e66135ffec457b7d3ba6ee171"
 metafile = true
 
 [[files]]
+file = "mods/mechanical-clothesline.pw.toml"
+hash = "9e379d261ec32d66194ca6abb1a5e4da199806ed543d2992e784ca63720e88e4"
+metafile = true
+
+[[files]]
+file = "mods/mechanical-crafting.pw.toml"
+hash = "ef404b0ed6ba8f7b6511ffc38d0146934686c5fc66df30aeb54fef2c867523df"
+metafile = true
+
+[[files]]
 file = "mods/metallurgy-4-reforged.pw.toml"
 hash = "a7c3748917512e68d3e2c002d9697f09c815fc305f9b8d6a84a9dcc2152feef5"
 metafile = true
@@ -2105,6 +2140,11 @@ hash = "aad6fc2b8fa069f82095fea3b0ba98dda0a0776c9543a10836a1cbf971f74512"
 metafile = true
 
 [[files]]
+file = "mods/mystical-gears.pw.toml"
+hash = "6881d3001690f7e7f4c4bb2b06779600fde0c82ec1202a591220c43e476a04b3"
+metafile = true
+
+[[files]]
 file = "mods/mystical-world.pw.toml"
 hash = "c6d3d4f4cc03e7592503a07a0ad3835f626fec5e5fdcc93060f19dadc9b673d4"
 metafile = true
@@ -2112,6 +2152,11 @@ metafile = true
 [[files]]
 file = "mods/mysticallib.pw.toml"
 hash = "d0121eafffa932ae96cda8f45037bdb3ffd0f573f9c0c892a7c5544e6197345a"
+metafile = true
+
+[[files]]
+file = "mods/mysticalmechanics.pw.toml"
+hash = "40aa8b9cc43962ca41b4066e5438b74f6b5c1c490ae31070990170e595c76cc1"
 metafile = true
 
 [[files]]
@@ -2617,6 +2662,11 @@ metafile = true
 [[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "f325c3c2a4c4f84ba2c95fe76fceb03e9dafd99efaf22a0074639259741d9449"
+metafile = true
+
+[[files]]
+file = "mods/soot-extended-life.pw.toml"
+hash = "41c495e3b30bd366e35998d3a11f5e5a440aed21b908ce3ee976e66317195fd3"
 metafile = true
 
 [[files]]

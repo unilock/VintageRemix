@@ -1,0 +1,13 @@
+name = "Embers' Construct"
+filename = "embersconstruct-1.12.2-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3fe6bb253baafd3bd255fac998e34308ffd97b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3735109
+project-id = 359414

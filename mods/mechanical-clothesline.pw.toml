@@ -1,0 +1,13 @@
+name = "Mechanical Clothesline"
+filename = "clothesline-1.12.2-0.0.4.2-bundle.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca99277b2de212a5edd15be62e2e054c31241101"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3777412
+project-id = 620020
