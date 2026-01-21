@@ -1,0 +1,13 @@
+name = "Chocolate Quest Repoured"
+filename = "Chocolate_Quest_Repoured-1.12.2-2.8.0B.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1d232b173fe2636cfcca52a60bf7163a36181d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7237428
+project-id = 303422
