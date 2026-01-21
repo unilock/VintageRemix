@@ -534,7 +534,7 @@ hash = "105a76c146b16ed248723b3abfcc4601fe3b8d2b42d6426fac55a5bf66fa9c58"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "61ad1c88d0de893d84b6bd7fada09794f48507b745cfb279d528ea27cb683448"
+hash = "eeb77dec24d1ab884efdfb72f566d45582bf6a55552c1a1bababf0c29b5e4a25"
 
 [[files]]
 file = "config/thaumcraftfix.cfg"
@@ -3049,11 +3049,6 @@ metafile = true
 [[files]]
 file = "mods/wrapup.pw.toml"
 hash = "1ccf36533015a2be72e964fa1449f10a8316a7371fb6648e875dbac89dbd54bf"
-metafile = true
-
-[[files]]
-file = "mods/wuxiacraft-1path.pw.toml"
-hash = "d3251cbc63765f00af8909bcec3441c97258a261fce03d5320046342ef4fe4a9"
 metafile = true
 
 [[files]]
