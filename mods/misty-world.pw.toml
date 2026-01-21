@@ -1,0 +1,13 @@
+name = "Misty World"
+filename = "MistyWorld-1.12.2-1.2.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79085151e270874f4bb249e5dbbba61899c41873"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3155036
+project-id = 271013

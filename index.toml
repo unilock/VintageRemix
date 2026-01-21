@@ -2219,6 +2219,11 @@ hash = "c40a423d886393b95a9d474e9864f192459ab09d6aeeb2d8f72a89cf06caf801"
 metafile = true
 
 [[files]]
+file = "mods/misty-world.pw.toml"
+hash = "402768ebb72e6c53fb9a2bb7256794203a4ecdeb853e230060c593a7cbeee77a"
+metafile = true
+
+[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
