@@ -518,7 +518,7 @@ hash = "620c4a90d629a06a6c3c262e6093182e947611557b0c0642cec6cacccbebecc6"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "e89b45f30c1fbc275136338148219022d4113e10e8929c73bbefb14f901ff0ef"
+hash = "f31a7dd746eac51cb7304fff96b02ed49f14303879f819dbdb1dae134a2d58da"
 
 [[files]]
 file = "config/solcarrot.cfg"
