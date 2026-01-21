@@ -549,6 +549,14 @@ file = "config/thaumicjei.cfg"
 hash = "d85acd9be20ec13ddd9deaac73ed8f2cb2712f95bf88153b7180b86c006eef28"
 
 [[files]]
+file = "config/thaumictweaker/ThaumicTweaker - Overhauls.cfg"
+hash = "0e9d7321d5d4c594b38c58812665afbd57c4cb24b3f0359b8cb829b7af30b033"
+
+[[files]]
+file = "config/thaumictweaker/ThaumicTweaker - Tweaks.cfg"
+hash = "4fa09923d61b1e7786a2ef44e66c70df36e252acfdbef2803122453489b39a38"
+
+[[files]]
 file = "config/thaumictweaks.cfg"
 hash = "0bae6e80036da867adc6f0bbdbe9ecefdc9efd978d2941ffa62ce1c39f88c8da"
 
