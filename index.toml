@@ -1625,6 +1625,16 @@ hash = "6ad7cc934e5cfc761dc738a6ec01a8388e645ffa50ad70837c01bc25f345eaed"
 metafile = true
 
 [[files]]
+file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
+hash = "9a3197caed1527819590d12aaef404fda12a7ec2a4fba8aba6163479ef987aec"
+metafile = true
+
+[[files]]
+file = "mods/hbms-ntm-ce-space.pw.toml"
+hash = "934ae2be3aced4eac153b5bddb8520a46d469f9636bb7b3e3c754f2be7f6ad26"
+metafile = true
+
+[[files]]
 file = "mods/helios-divinity.pw.toml"
 hash = "a4ee31ec15d0b066da59164726c76a3598e45ec5659a9c0c6de55c6b4c5c90aa"
 metafile = true
@@ -2197,6 +2207,11 @@ metafile = true
 [[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "15b2f4757d0b375a701fb6fd18f211d16bfcd616bf9990a9867038375e4666f9"
+metafile = true
+
+[[files]]
+file = "mods/ntm-cursed-addon-edition.pw.toml"
+hash = "bacb7b88c6bbf133a7d24230bc1256c9b13a9654fedcb35a129fad68789ff535"
 metafile = true
 
 [[files]]
