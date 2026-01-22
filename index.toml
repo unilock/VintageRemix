@@ -2040,16 +2040,6 @@ hash = "ba6338ae183afa0ab15a90dbbdb36254a0c9b8f061a9bbcf34a7f44087eecfcf"
 metafile = true
 
 [[files]]
-file = "mods/minestuck-universe.pw.toml"
-hash = "541669324467585820af6952b45986b115f49ea7b7c8ae3d80cfb2c6f143f500"
-metafile = true
-
-[[files]]
-file = "mods/minestuck.pw.toml"
-hash = "7a22a99d8e260fd84c9b132c2d3b143d5bcf87e836230d93d5671082b6e97b2c"
-metafile = true
-
-[[files]]
 file = "mods/minieffects-legacy-extended-life.pw.toml"
 hash = "bc1f7a4f11b056149b65b8ea39f59c8d0418cd5610a0f358f0a4e00964401966"
 metafile = true
