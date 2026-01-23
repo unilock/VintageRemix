@@ -2350,7 +2350,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-books.pw.toml"
-hash = "338ba4915fe9a7566d75c16f3809e28e65bf7617a28db755e516b0ca44f80ad2"
+hash = "0fa8b89cd143198c281e410f268bdea5bd6f120ecd9470eaacf7adac189c8d46"
 metafile = true
 
 [[files]]

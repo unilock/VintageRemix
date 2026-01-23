@@ -1,13 +1,13 @@
 name = "Patchouli Books"
-filename = "patchoulibooks-0.2.7.jar"
+filename = "patchoulibooks-0.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25e1749b1499c1c9c31cc2aef29378975e58f279"
+hash = "faeabff9f9a0df9e686bb9836519ac85a93cc3d1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6940634
+file-id = 7506249
 project-id = 1133738
