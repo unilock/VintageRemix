@@ -297,6 +297,10 @@ file = "config/harvestcraft.cfg"
 hash = "44e4888d56cf6f259555c147700756d4bdf799b81a1563d8299c34e1d1c95d55"
 
 [[files]]
+file = "config/hbm/hbm.cfg"
+hash = "5226cc32c320f5893a8174be4373fc0b097e76d3967c1a9cae4128065e22e9d6"
+
+[[files]]
 file = "config/homoium.cfg"
 hash = "84cb928deb351b05a65f0c4e06cd7605dec8e9ac5e1edf0a4ec62341dbac2f44"
 
