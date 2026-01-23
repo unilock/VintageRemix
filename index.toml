@@ -641,22 +641,6 @@ file = "correlated/assets/sounds/music/enceladus.ogg"
 hash = "cd5f22cfa82730289f42b40ee794d8bf6e9cc7b03cf5e167ef1974e69da0a56f"
 
 [[files]]
-file = "groovy/postInit/AkashicTome.groovy"
-hash = "9f1f2a5af2d96f9d839ff9a46751779b4bc8218acd471b993247f969203dcac4"
-
-[[files]]
-file = "groovy/postInit/InitialInventory.groovy"
-hash = "da068fbbb21f98c25e28b26bf2450646b7a519c52f5ab64cb02625f1573ae397"
-
-[[files]]
-file = "groovy/postInit/Tooltips.groovy"
-hash = "1b8e497949d63bc1947d7f957ea26d291a441e02b5d12a88f2ca175dd256706d"
-
-[[files]]
-file = "groovy/runConfig.json"
-hash = "6527d1a1ffd2cacbba2a0aa0ea4aebb65ceb73c0a05a41a4e9f61849dd3256ee"
-
-[[files]]
 file = "local/client/sidebar_buttons.json"
 hash = "970a40276f8d12a1ee8510f60ec51aa8203b4b3f72872dbe26967a027ae29740"
 
@@ -1215,6 +1199,11 @@ hash = "cc43809a5d77ead53d4bd220cae5fb4a7362e44e52810fd6a40bfabe5816df7a"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f54a768fc42a0c608923ccad9775e4a76b6ba916027108d45b7fd39961cff6de"
+metafile = true
+
+[[files]]
 file = "mods/crimson-warfare.pw.toml"
 hash = "377ffb43d168b23854658cd16db3cca3281c33ce49c08722cba2ec05ce1bfdb5"
 metafile = true
@@ -1222,6 +1211,11 @@ metafile = true
 [[files]]
 file = "mods/crissaegrim.pw.toml"
 hash = "db96438d6de9bfdb65b60f15fd4453e7b58c0702ffb39772e5b6487ba5f0003c"
+metafile = true
+
+[[files]]
+file = "mods/crossroads-legacy.pw.toml"
+hash = "5eabf070096047157b6ac0d239587307f77d9e2853b34c149372c0fd058df4c3"
 metafile = true
 
 [[files]]
@@ -1605,11 +1599,6 @@ hash = "f9a59cd171ad0fb905868e411ca294f9d0bb6b77567ac3c6164a59745486bb58"
 metafile = true
 
 [[files]]
-file = "mods/groovyscript.pw.toml"
-hash = "51324c2a828ce78af7192e0294e671d1264e460b1bd5d761aeda62180f1abb3e"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "e434f7c77c40601740eb57ad38f6f860d87315ab533eec74b7e1af1f34b5916d"
 metafile = true
@@ -1757,6 +1746,11 @@ metafile = true
 [[files]]
 file = "mods/infusion-automate.pw.toml"
 hash = "07a69a441ee2b8cf84992970954b264228a032e56d894254cc41fb0d0fd1f23e"
+metafile = true
+
+[[files]]
+file = "mods/initial-inventory.pw.toml"
+hash = "60331cee154213030ad24e7df7d3d642e27620875d75628d619c164c302626ac"
 metafile = true
 
 [[files]]
@@ -2137,6 +2131,11 @@ metafile = true
 [[files]]
 file = "mods/mteenoughitems.pw.toml"
 hash = "aad6fc2b8fa069f82095fea3b0ba98dda0a0776c9543a10836a1cbf971f74512"
+metafile = true
+
+[[files]]
+file = "mods/mtlib.pw.toml"
+hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
@@ -3153,3 +3152,15 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "5a67a70cb826d3153be0651609d7ef0874665c6725454643c4395ac834629c64"
 metafile = true
+
+[[files]]
+file = "scripts/akashic_tome.zs"
+hash = "bf04722b1ecc03fb6dccd238d821924d81d8fd6e7e2e35cc349508c6e44f8d8d"
+
+[[files]]
+file = "scripts/initial_inventory.zs"
+hash = "8b1eb461fbdd14dbcadd86b20c9c0192a12f43d7337589267f52630c3365eca1"
+
+[[files]]
+file = "scripts/tooltips.zs"
+hash = "1a6131b02ef5597a3a5e1bf3bf62b4c198550db84dcd41c045ac9dc2c1673a22"

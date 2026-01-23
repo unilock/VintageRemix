@@ -1,0 +1,13 @@
+name = "Crossroads Legacy"
+filename = "crossroads-1.12.2-1.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8162de295f08e68fcadaa7c0db995d8771f49f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4459277
+project-id = 842495
