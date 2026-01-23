@@ -301,6 +301,14 @@ file = "config/hbm/hbm.cfg"
 hash = "5226cc32c320f5893a8174be4373fc0b097e76d3967c1a9cae4128065e22e9d6"
 
 [[files]]
+file = "config/hbm/hbm_space.cfg"
+hash = "4fccdb807d9bae1a1e9305a275c4a860793928102509129541ccacb1b52a1fe9"
+
+[[files]]
+file = "config/hbmConfig/hbmClient.json"
+hash = "39361ec8a6d5e03d9ad0287cbee877addec88d05e68738b156af7d7070c72327"
+
+[[files]]
 file = "config/homoium.cfg"
 hash = "84cb928deb351b05a65f0c4e06cd7605dec8e9ac5e1edf0a4ec62341dbac2f44"
 
@@ -1451,11 +1459,6 @@ hash = "0dbea7ec3f6df272dda2a4cf489f3c30c8d09ef0e145f681d58043efb2878a07"
 metafile = true
 
 [[files]]
-file = "mods/energy-control.pw.toml"
-hash = "76bcf81cf3794d02bf83c9e1c1cae42c8eb2af5a9a48b1f49c2b2bf2250a0ed0"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "12e08454458c7d2d147c7a6c95bff9f0421fe56d8ada89090cedc91a0498f818"
 metafile = true
@@ -1627,12 +1630,12 @@ metafile = true
 
 [[files]]
 file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
-hash = "9a3197caed1527819590d12aaef404fda12a7ec2a4fba8aba6163479ef987aec"
+hash = "c7818e2100393c409c3a9951c65490b83de9b5a0550fcd37a9ff86b0f7f617d7"
 metafile = true
 
 [[files]]
 file = "mods/hbms-ntm-ce-space.pw.toml"
-hash = "934ae2be3aced4eac153b5bddb8520a46d469f9636bb7b3e3c754f2be7f6ad26"
+hash = "0bd1d89f9f541f3c789c6d05e47b2b8f541da4383c9b37bafef7d59d6e609586"
 metafile = true
 
 [[files]]
@@ -2222,7 +2225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm-cursed-addon-edition.pw.toml"
-hash = "bacb7b88c6bbf133a7d24230bc1256c9b13a9654fedcb35a129fad68789ff535"
+hash = "7ce1834efdcbd7e318274811c3106d652211b22400c113df1a769ca1b337a9cd"
 metafile = true
 
 [[files]]

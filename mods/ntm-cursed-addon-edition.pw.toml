@@ -3,11 +3,13 @@ filename = "NTM_Cursed_Edition-CE_Addon.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2cdaec20fe5b3ff95164948e10a455db544f476c"
-mode = "metadata:curseforge"
+url = "https://github.com/ntmleafia/NTM-Cursed-Addon/releases/download/v24_fix/NTM_Cursed_Edition-CE_Addon.jar"
+hash-format = "sha256"
+hash = "6fad468d765b48d605cee10d8e67e978c1135d875fd0bdd56740d211cb94a7fe"
 
 [update]
-[update.curseforge]
-file-id = 7504529
-project-id = 1381046
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ntmleafia/NTM-Cursed-Addon"
+tag = "v24_fix"
