@@ -5,6 +5,10 @@ file = "config/DummyCore.cfg"
 hash = "9cd6526d5a1bfe2509e46673420c3a2445b3b15cebd9e2908d5c7e45e56f4a37"
 
 [[files]]
+file = "config/Embers/misc.cfg"
+hash = "05d86a0a7fcd19afcccb5ee30e0f5d23033ddd483b669982f831917a9f8ef5e5"
+
+[[files]]
 file = "config/End Expansion/structure_config.cfg"
 hash = "ef35e3858412347ceec4418263fb8ac8a6a9dd7749ac94cab62bc711c4c9a915"
 
@@ -191,6 +195,10 @@ hash = "6dd409e2237404c69764606023c3c42ad6c87f73558ed2bd77652f3e6b37578e"
 [[files]]
 file = "config/electrostatics/electrostatics.cfg"
 hash = "d2e05ef0df7e90e201f5febc12dc2409dad80d78cc769f28679dc84b1d8c96ab"
+
+[[files]]
+file = "config/embersconstruct.cfg"
+hash = "b008c4a0462b5a1d175e01e13b88f4c6cc443dff4c7fc9bd09212cf6f5dcdeb2"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
