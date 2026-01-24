@@ -1630,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "6ad7cc934e5cfc761dc738a6ec01a8388e645ffa50ad70837c01bc25f345eaed"
+hash = "b98ec4f54eff0390b9a4f67e2cbf5cf7174003cbff4da790883a08ba13afe353"
 metafile = true
 
 [[files]]
@@ -2830,7 +2830,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumictweaker.pw.toml"
-hash = "8f427057caa70288ac2dd01cc1b92254988717cc1e6137c190e9248b1e7a2bae"
+hash = "f5612ad11f799be3ece99a5899d904a3db95d411757bb389bb1661622aca81e8"
 metafile = true
 
 [[files]]
