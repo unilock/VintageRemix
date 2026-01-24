@@ -1,0 +1,13 @@
+name = "[SBM] Merpig"
+filename = "SBM-Merpig-1.12.2-0.0.1b20190504132456.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f28a583985470b59f6afd75ee7bcf0fa31541521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2707182
+project-id = 291703

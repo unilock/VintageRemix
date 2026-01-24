@@ -1,0 +1,13 @@
+name = "[SBM] Lizard Doggo"
+filename = "SBM-Lizard-Doggo-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fda9744a8c0b9d7e9f300269898f1f549bd97e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2826393
+project-id = 311217

@@ -1,0 +1,13 @@
+name = "[SBM] Punt Animal"
+filename = "SBM-Punt-Animal-1.12.2-1.0.0b20190202141059.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49cc7a9c559786543b0801bbd8577abf1b5c256c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668156
+project-id = 313124

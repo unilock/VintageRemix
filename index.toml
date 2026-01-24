@@ -1004,6 +1004,11 @@ hash = "bd91f693f8e149f05050d27163e2d11ccf9db31ec1770be8180058a9d3a3bc4f"
 metafile = true
 
 [[files]]
+file = "mods/brown-mooshrooms.pw.toml"
+hash = "af2f1e00c53f41f3d5ca676e9a15e0d4987a8d41a2681df3aebe83b5904d93ef"
+metafile = true
+
+[[files]]
 file = "mods/btfixes.pw.toml"
 hash = "ea28f6ab9a7360ac098e6367e1192c73be0c451d9d1e8bb7d9bc4865601fc81e"
 metafile = true
@@ -2614,6 +2619,26 @@ hash = "71e889a0ce3262b2cfd1db39ab2078f4016e009d47ae7b93508a7bdc41aa2ecd"
 metafile = true
 
 [[files]]
+file = "mods/sbm-lizard-dogo.pw.toml"
+hash = "733f02f7de8e7a8df0bcd1483b22e8297071eb814e55e8508ddd927377d35280"
+metafile = true
+
+[[files]]
+file = "mods/sbm-merpig.pw.toml"
+hash = "f17379654374d5efa42b23a2660196e88143c0ab1da2c6697527c723571992c6"
+metafile = true
+
+[[files]]
+file = "mods/sbm-punt-animal.pw.toml"
+hash = "42eaa7ef764cd54740e530b4d4a4ac91a6f8046eb034e3454322f3d3fa7c6322"
+metafile = true
+
+[[files]]
+file = "mods/sbm-sheep-metal.pw.toml"
+hash = "68e5583001f416d013fcbfbe3590051311a8990a0bc98459081549a037f3950f"
+metafile = true
+
+[[files]]
 file = "mods/seared-ladder-backport.pw.toml"
 hash = "961fae8d60f30260cd500b8a098ec1f15b7e2856cdc9adf2fe12e49767150f04"
 metafile = true
@@ -3106,6 +3131,11 @@ metafile = true
 [[files]]
 file = "mods/worleys-caves.pw.toml"
 hash = "9c53c1e7f7342f334abe207115d187276b656dfbad8751f3ed6e5995c8af7e3d"
+metafile = true
+
+[[files]]
+file = "mods/worse-barrels.pw.toml"
+hash = "9ed09d8f11af4b256a4ba7624a0f65af447813267cc6e81af565b47e07b5cb8b"
 metafile = true
 
 [[files]]

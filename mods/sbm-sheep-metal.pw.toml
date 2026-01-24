@@ -1,0 +1,13 @@
+name = "[SBM] Sheep Metal"
+filename = "SBM-SheepMetal-1.12.2-0.3.0b20191020225700.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bbe04eea2a5c0c33a5b67e9e8a0f2209543a23f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2813329
+project-id = 315625

@@ -1,0 +1,13 @@
+name = "Brown Mooshrooms"
+filename = "brownmooshrooms-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6947082854faaec9f427e9e04b5b85cbcd58222a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2623715
+project-id = 304117
