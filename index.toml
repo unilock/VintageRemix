@@ -1629,16 +1629,6 @@ hash = "6ad7cc934e5cfc761dc738a6ec01a8388e645ffa50ad70837c01bc25f345eaed"
 metafile = true
 
 [[files]]
-file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
-hash = "f18689c164766ab155f53d8fd6201644ed7da86b43c80e623a0cd7126b3dcac4"
-metafile = true
-
-[[files]]
-file = "mods/hbms-ntm-ce-space.pw.toml"
-hash = "0bd1d89f9f541f3c789c6d05e47b2b8f541da4383c9b37bafef7d59d6e609586"
-metafile = true
-
-[[files]]
 file = "mods/helios-divinity.pw.toml"
 hash = "a4ee31ec15d0b066da59164726c76a3598e45ec5659a9c0c6de55c6b4c5c90aa"
 metafile = true
@@ -2221,11 +2211,6 @@ metafile = true
 [[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "15b2f4757d0b375a701fb6fd18f211d16bfcd616bf9990a9867038375e4666f9"
-metafile = true
-
-[[files]]
-file = "mods/ntm-cursed-addon-edition.pw.toml"
-hash = "7ce1834efdcbd7e318274811c3106d652211b22400c113df1a769ca1b337a9cd"
 metafile = true
 
 [[files]]
@@ -2910,7 +2895,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-evolution.pw.toml"
-hash = "83541094a235112f7cf89a01d0a65bf1a6f77ec0fbd880f4e7b7edf30c2e74d9"
+hash = "3bb5e70cee5492d89ca8a8f20ed896101a6856156e8749a33f77248c82b47a41"
 metafile = true
 
 [[files]]

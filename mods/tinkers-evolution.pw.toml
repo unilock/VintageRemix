@@ -1,8 +1,13 @@
 name = "Tinkers' Evolution"
-filename = "tconevo-1.12.2-1.1.1.1.jar"
+filename = "tconevo-1.12.2-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/tconevo-1.12.2-1.1.1.1.jar"
-hash-format = "sha512"
-hash = "716e201e6f523091f43634cf0ad71662ba87141d240809ae77a09111d81508d57ac9e7e56e8403622eb1ba5f65ebcd6a3061d223c605b5d6a5c0f594b2ef7462"
+hash-format = "sha1"
+hash = "cdc80e28a45e57e6f30fb54ba00a55f432bf6da9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6802732
+project-id = 384589

@@ -1,8 +1,0 @@
-name = "HBM's Nuclear Tech Mod: Community Edition"
-filename = "NTM-CE-1.12.2-1.5.2.0-java25.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/NTM-CE-1.12.2-1.5.2.0-java25.jar"
-hash-format = "sha512"
-hash = "0bf55395f14c5f1c3c42082c50a0ea00364c10544aca60cb76691d5f149ca989ad3dd54525259114b99c01720e2a8552a54a42a7bfc4f116d9921782d2ad102d"
