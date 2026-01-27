@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/congrega-mystica.pw.toml"
-hash = "290c13120f2ebca22569731bdfedf3c745a7fc6fa0b9edf28ba2f19466567db6"
+hash = "41d99b3550d4df5fabe8e48924027890f50c20363633875b8c7e96d084aa2064"
 metafile = true
 
 [[files]]
@@ -2215,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "15b2f4757d0b375a701fb6fd18f211d16bfcd616bf9990a9867038375e4666f9"
+hash = "6a51b0ca1c2fd637105e572acee7f45f2803051d8d5152b952e1ffc55c77fc45"
 metafile = true
 
 [[files]]
@@ -2830,7 +2830,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumictweaker.pw.toml"
-hash = "f5612ad11f799be3ece99a5899d904a3db95d411757bb389bb1661622aca81e8"
+hash = "f7e6157b5176451b34e147e1aee324c414bf4723c1fb7fb7828dd17ee2b3f7c0"
 metafile = true
 
 [[files]]
