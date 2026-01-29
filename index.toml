@@ -2450,7 +2450,7 @@ metafile = true
 
 [[files]]
 file = "mods/quantum-things.pw.toml"
-hash = "f2abe929ea8e52740432be1b7d43b9f687c261ae13b2a066f0db4b5a4341f7b4"
+hash = "7d7df96dbb4eecf578b543768a39ba14419849148c482fccae65b0ee0aad2f21"
 metafile = true
 
 [[files]]
@@ -2790,7 +2790,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-isorropia-kedition.pw.toml"
-hash = "3534c6b2aaa2f5ebe34f9b33deddca0a3a91efd0b567f4c5289d01e0fb622a5a"
+hash = "7562a52ccbbbdda38cd5437680801866d8c25acf458a58749a6cf289a0e9b60d"
 metafile = true
 
 [[files]]
