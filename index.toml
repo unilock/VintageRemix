@@ -2450,7 +2450,7 @@ metafile = true
 
 [[files]]
 file = "mods/quantum-things.pw.toml"
-hash = "7d7df96dbb4eecf578b543768a39ba14419849148c482fccae65b0ee0aad2f21"
+hash = "623f3f8b24e97bc19dccbf227a6e8e95efed4fe61d3e172481b46297734b1bb0"
 metafile = true
 
 [[files]]
