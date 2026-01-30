@@ -465,6 +465,10 @@ file = "config/oreexcavation.cfg"
 hash = "e404723a39711ae5690ec7287bfa41f791560c533245a26ed2bbdb6aa9756a87"
 
 [[files]]
+file = "config/overpoweredarmorbar.cfg"
+hash = "c7b073ebb9ef762136d36e80a9397e877e134f2af0f5ff886a6a944ebccbe865"
+
+[[files]]
 file = "config/p455w0rdsLib.cfg"
 hash = "103a91484b75f99dd4cfe33785bf23dc4b8e06964c48f426946ef2584d457a2e"
 
@@ -591,6 +595,10 @@ hash = "51a2acfe661443a8e63ace09684c79ee05c7c80ff7bec018bd819379414b82da"
 [[files]]
 file = "config/thermionics_world.cfg"
 hash = "ee6c2e05bc56f4567d687580072b87f8ad8565f56c5b669556e73f089fa14b7e"
+
+[[files]]
+file = "config/toughnessbar.cfg"
+hash = "58bdc115278630a6a26d62601551c251be2c247982885eb5d0be58a63d52e742"
 
 [[files]]
 file = "config/twilightforest.cfg"
