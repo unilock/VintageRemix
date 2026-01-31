@@ -1,8 +1,13 @@
 name = "Quantum Things"
-filename = "QuantumThings-MC-1.12.2-1.0.6.1.jar"
+filename = "QuantumThings-MC-1.12.2-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/vintageremix/manual-jars/both/QuantumThings-MC-1.12.2-1.0.6.1.jar"
-hash-format = "sha512"
-hash = "fabedb760876d3ec7d908f9ebaabb3149ff68c7dcf12d1d81d55b4167918ca82e2f81d51008024b859ccb17d292a037579905f28f785843343656b2bd64fc3f5"
+hash-format = "sha1"
+hash = "2de80aca2e9a39b1c1141ada629cf275303770ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7552128
+project-id = 1387363
