@@ -1067,6 +1067,11 @@ hash = "c3f483c3d34c6ac949297df6e5c3827fad78a27e28785d3c9184f0e0afc8af44"
 metafile = true
 
 [[files]]
+file = "mods/celeritas.pw.toml"
+hash = "718ccbcc65fb0c0afafd04dd230ebd82823c51c2051e457e9f75e288d27f18ce"
+metafile = true
+
+[[files]]
 file = "mods/ceramics.pw.toml"
 hash = "c283ec7e383e6d9ae2558b31bc6e19808ae09e0e7cfd7f59f5ce64978c473d45"
 metafile = true
@@ -3044,11 +3049,6 @@ metafile = true
 [[files]]
 file = "mods/vintageremix.pw.toml"
 hash = "a79b181733ed258104b025799e7e98e60034d7e485fe73ef98ba50c3e9122aa5"
-metafile = true
-
-[[files]]
-file = "mods/vintagium.pw.toml"
-hash = "4093331ae25698980f2fcab8d0069765c25de4388d2f71997320aec05c1f34fd"
 metafile = true
 
 [[files]]
