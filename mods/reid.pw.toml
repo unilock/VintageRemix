@@ -1,13 +1,13 @@
 name = "Roughly Enough IDs"
-filename = "RoughlyEnoughIDs-2.2.3.jar"
+filename = "RoughlyEnoughIDs-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "bc12d7ee56157dc95a9dffeb532b33b2460e200ec00398387ec978863aea03396fe67399fa537a7064e568f3d9c8f2b6dd5bff54c7ffd11c9735bf2244ef6c7a"
+hash-format = "sha1"
+hash = "53b09b6c9a054cf3523204353212b72e77d7d155"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6761278
+file-id = 7571353
 project-id = 629017

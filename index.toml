@@ -86,7 +86,7 @@ hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
 
 [[files]]
 file = "config/antiqueatlasautomarker.cfg"
-hash = "e881e97399666919b53636d9825359ca65cb527eff8e4cb5ba2facbe366dae73"
+hash = "586bc2249a135d3b5cbf1ce50ccb1fdf6a4a6b58622c0054dbe103683f010a75"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
@@ -803,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlasautomarker.pw.toml"
-hash = "cc325e19c0802a3b170818bac4c2a2599e3a24215f5dda67490d7912295534b2"
+hash = "ee0e1062dcdb3723fb58d899e0dbc99f3e571ec05aa44270228d0de41204d9f4"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "718ccbcc65fb0c0afafd04dd230ebd82823c51c2051e457e9f75e288d27f18ce"
+hash = "5603ea234ddb5bafee57ee2171c240f66f8502f8cac7f657e0fdcb6ef485245b"
 metafile = true
 
 [[files]]
@@ -1533,7 +1533,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluidlogged-api.pw.toml"
-hash = "44c0ba68800abd3d571d0ab118e7c96b9540a43b9dbe7e8e614c982cec7ffa74"
+hash = "7ee5b51b291370e8dcf074e55b03b6600d7168379da8f63af21007eb7e17e003"
 metafile = true
 
 [[files]]
@@ -1673,7 +1673,7 @@ metafile = true
 
 [[files]]
 file = "mods/hyxcate.pw.toml"
-hash = "ff56579c9ac5027989143886c8b9cbf3a9d801c5fb552087236a0888d7a8ec3a"
+hash = "425914f359a4658331028e4be0b144f152d6af7e061d5197b7d5982fdbee9afb"
 metafile = true
 
 [[files]]
@@ -1768,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/infusion-automate.pw.toml"
-hash = "07a69a441ee2b8cf84992970954b264228a032e56d894254cc41fb0d0fd1f23e"
+hash = "3d7902343cc9033bd1f23d06bf2e74e798fd309e9b5fbb3f9b74a3ab62c3fc77"
 metafile = true
 
 [[files]]
@@ -2043,7 +2043,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "ad16705421bf22be2526feea0439ac2e4040b66e66135ffec457b7d3ba6ee171"
+hash = "b44bb17cbb506442c4ddb58a2eeb150fc08866fec799ada42966751b70d9c06d"
 metafile = true
 
 [[files]]
@@ -2108,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "166a78d05a433b62113bb5791d37531461ba2e7f852973c9df479b7e26014bce"
+hash = "a02cbe25d459718eee4613311514825a395edec3eecb1a4e3883f11dc8b22b73"
 metafile = true
 
 [[files]]
@@ -2183,7 +2183,7 @@ metafile = true
 
 [[files]]
 file = "mods/natura-legacy.pw.toml"
-hash = "d2b8cc7ee98a18aa867a0d500c91750f3bee063121668ac040ec67779e9eab05"
+hash = "7f490693950df5eb1fe86b710efec6614eee5ddecaf23ed8e8f2d127e90dad33"
 metafile = true
 
 [[files]]
@@ -2218,7 +2218,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "42ced5834559e80e0752642af620978aa7dbbdbac65b669fcb580abd8ebb882c"
+hash = "03ceca0f744876cdf10bafa8918b827924f29d145083ba946168c25c73a3fc54"
 metafile = true
 
 [[files]]
@@ -2498,7 +2498,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "64938e64715977f1a788eb59141deef626d7b2f1eb2f097e3631148ddaaa9096"
+hash = "6f14bf904d07ef3dd292c9d33f335663b0d3a8ff779b0e38ad7d0512dce65587"
 metafile = true
 
 [[files]]
@@ -2563,7 +2563,7 @@ metafile = true
 
 [[files]]
 file = "mods/reid.pw.toml"
-hash = "829d6310871d33d2b128e20a0dd3ec62f144d77abf6a7d27501639986ed157d1"
+hash = "830e907eda25bbb6b07e9de1d86c77de768ce49dee1118361b504224d1e43846"
 metafile = true
 
 [[files]]
@@ -2783,7 +2783,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-bases-unofficial.pw.toml"
-hash = "2b42b3f5bba8cb803db0d6a4f55f544ce4d42a73dfe7f75c97010dc3f9d17fd7"
+hash = "8d4dd2e115f7bca278bb76f193c48197e97ad2c3b3c2b03753de6671826f6a66"
 metafile = true
 
 [[files]]
@@ -2803,7 +2803,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-isorropia-kedition.pw.toml"
-hash = "7562a52ccbbbdda38cd5437680801866d8c25acf458a58749a6cf289a0e9b60d"
+hash = "9f782d5847b01b2d415a7708946db73a1b1cdbef2fa912c37e2ca2187599f8b9"
 metafile = true
 
 [[files]]

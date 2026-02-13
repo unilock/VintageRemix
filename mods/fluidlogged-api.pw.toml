@@ -1,13 +1,13 @@
 name = "Fluidlogged API"
-filename = "Fluidlogged-API-v3.1.3-mc1.12.2.jar"
+filename = "Fluidlogged-API-v3.2.0-mc1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vVXPbodS/versions/Wfx6D8p9/Fluidlogged-API-v3.1.3-mc1.12.2.jar"
+url = "https://cdn.modrinth.com/data/vVXPbodS/versions/WzkhyUYd/Fluidlogged-API-v3.2.0-mc1.12.2.jar"
 hash-format = "sha512"
-hash = "b35ba3ad1b9176c6b6abb64cc0312507e6358d409beab8e58be80d87185cc87c579c361fe1e67dc55b7363bba0fe3d50f4dbd0363880477dddae580d61349975"
+hash = "706df4342ccf98daaf91fec4765cea00058ca9d1f8b9671c1a15b9478e1cc73226f59092861dbf9d3e0e6022bc855be282660b12249ab2e96347f2d425b05893"
 
 [update]
 [update.modrinth]
 mod-id = "vVXPbodS"
-version = "Wfx6D8p9"
+version = "WzkhyUYd"
