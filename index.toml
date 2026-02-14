@@ -3212,7 +3212,7 @@ metafile = true
 
 [[files]]
 file = "scripts/akashic_tome.zs"
-hash = "bf04722b1ecc03fb6dccd238d821924d81d8fd6e7e2e35cc349508c6e44f8d8d"
+hash = "2b9adf0495cb7a9a15e78ae16534e311d926c028268d04995b25ef75be93c035"
 
 [[files]]
 file = "scripts/initial_inventory.zs"

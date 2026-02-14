@@ -13,6 +13,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 					"akashictome:definedMod": "academy"
 				}
 			},
+			"ancientbeasts": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "ancientbeasts:bestiary",
+				"tag": {
+					"akashictome:definedMod": "ancientbeasts"
+				}
+			},
 			"arcanearchives": {
 				"Count": 1,
 				"Damage": 0,
@@ -28,6 +36,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"id": "guideapi:bloodarsenal-guide",
 				"tag": {
 					"akashictome:definedMod": "bloodarsenal"
+				}
+			},
+			"bloodmagic": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "guideapi:bloodmagic-guide",
+				"tag": {
+					"akashictome:definedMod": "bloodmagic"
 				}
 			},
 			"buildcraftlib": {
@@ -46,6 +62,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 					"akashictome:definedMod": "correlated"
 				}
 			},
+			"crossroads": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "guideapi:crossroads-crossroadsmainguide",
+				"tag": {
+					"akashictome:definedMod": "crossroads"
+				}
+			},
 			"divinefavor": {
 				"Count": 1,
 				"Damage": 0,
@@ -53,6 +77,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"tag": {
 					"akashictome:definedMod": "divinefavor",
 					"patchouli:book": "divinefavor:immaterial_guide"
+				}
+			},
+			"draconicevolution": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "draconicevolution:info_tablet",
+				"tag": {
+					"akashictome:definedMod": "draconicevolution"
 				}
 			},
 			"ee": {
@@ -105,6 +137,30 @@ val akashicTome = <item:akashictome:tome>.withTag(
 					"akashictome:definedMod": "forestry"
 				}
 			},
+			"immersiveengineering": {
+				"Count": 1,
+				"Damage": 3,
+				"id": "immersiveengineering:tool",
+				"tag": {
+					"akashictome:definedMod": "immersiveengineering"
+				}
+			},
+			"industrialrenewal": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "industrialrenewal:ir_manual",
+				"tag": {
+					"akashictome:definedMod": "industrialrenewal"
+				}
+			},
+			"logisticspipes": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "logisticspipes:guide_book",
+				"tag": {
+					"akashictome:definedMod": "logisticspipes"
+				}
+			},
 			"lordcraft": {
 				"Count": 1,
 				"Damage": 0,
@@ -121,6 +177,23 @@ val akashicTome = <item:akashictome:tome>.withTag(
 					"akashictome:definedMod": "magicalsculpture"
 				}
 			},
+			"metallurgy": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "metallurgy:wiki",
+				"tag": {
+					"akashictome:definedMod": "metallurgy"
+				}
+			},
+			"mysticalworld": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "patchouli:guide_book",
+				"tag": {
+					"akashictome:definedMod": "mysticalworld",
+					"patchouli:book": "mysticalworld:world_guide"
+				}
+			},
 			"naturesaura": {
 				"Count": 1,
 				"Damage": 0,
@@ -128,6 +201,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"tag": {
 					"akashictome:definedMod": "naturesaura",
 					"patchouli:book": "naturesaura:book"
+				}
+			},
+			"openblocks": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "openblocks:info_book",
+				"tag": {
+					"akashictome:definedMod": "openblocks"
 				}
 			},
 			"opencomputers": {
@@ -144,7 +225,7 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"id": "patchouli:guide_book",
 				"tag": {
 					"akashictome:definedMod": "patchoulibooks",
-					"patchouli:book": "patchoulibooks:gendustry"
+					"patchouli:book": "patchoulibooks:patchoulibooks"
 				}
 			},
 			"patchoulibooks1": {
@@ -153,15 +234,16 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"id": "patchouli:guide_book",
 				"tag": {
 					"akashictome:definedMod": "patchoulibooks",
-					"patchouli:book": "patchoulibooks:patchoulibooks"
+					"patchouli:book": "patchoulibooks:gendustry"
 				}
 			},
-			"practicallogistics2": {
+			"patchoulibooks2": {
 				"Count": 1,
 				"Damage": 0,
-				"id": "practicallogistics2:plguide",
+				"id": "patchouli:guide_book",
 				"tag": {
-					"akashictome:definedMod": "practicallogistics2"
+					"akashictome:definedMod": "patchoulibooks",
+					"patchouli:book": "patchoulibooks:thermallogistics"
 				}
 			},
 			"quiverbow_restrung": {
@@ -171,6 +253,14 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"tag": {
 					"akashictome:definedMod": "quiverbow_restrung",
 					"patchouli:book": "quiverbow_restrung:weaponsmiths_journal"
+				}
+			},
+			"refraction": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "refraction:book",
+				"tag": {
+					"akashictome:definedMod": "refraction"
 				}
 			},
 			"roots": {
@@ -187,6 +277,30 @@ val akashicTome = <item:akashictome:tome>.withTag(
 				"id": "guideapi:runesofwizardry-guide_book",
 				"tag": {
 					"akashictome:definedMod": "runesofwizardry"
+				}
+			},
+			"rustic": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "rustic:book",
+				"tag": {
+					"akashictome:definedMod": "rustic"
+				}
+			},
+			"tconstruct": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "tconstruct:book",
+				"tag": {
+					"akashictome:definedMod": "tconstruct"
+				}
+			},
+			"thaumcraft": {
+				"Count": 1,
+				"Damage": 0,
+				"id": "thaumcraft:thaumonomicon",
+				"tag": {
+					"akashictome:definedMod": "thaumcraft"
 				}
 			},
 			"thebetweenlands": {
@@ -319,3 +433,5 @@ InvHandler.addStartingItem(akashicTome, 9);
 InvHandler.addStartingItem(<item:astralsorcery:itemjournal>, 10);
 InvHandler.addStartingItem(<item:alquimia:lexicon>, 11);
 InvHandler.addStartingItem(<item:botania:lexicon>, 12);
+
+recipes.addShapeless("VRAkashicTome", akashicTome, [<item:minecraft:book>]);
