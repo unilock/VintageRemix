@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "5603ea234ddb5bafee57ee2171c240f66f8502f8cac7f657e0fdcb6ef485245b"
+hash = "fb5772dcc49fe873942a78e463219b21ae090c02d5d2aba819c899823417ae48"
 metafile = true
 
 [[files]]
@@ -2108,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "a02cbe25d459718eee4613311514825a395edec3eecb1a4e3883f11dc8b22b73"
+hash = "9f3cec9704abc53365813084f26aa171c4268bd37e99f406dc598765c73e2930"
 metafile = true
 
 [[files]]
