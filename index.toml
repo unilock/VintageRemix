@@ -1981,6 +1981,11 @@ hash = "5f428305a65e1f455cdd993b7727ddb249abda0fcc3e8347ead9ab9ee5e1b43f"
 metafile = true
 
 [[files]]
+file = "mods/logistics-pipes.pw.toml"
+hash = "84ee5d1a56be5c98da27902ee0f8ac869c6e114098f8141e12d8607f0fae3153"
+metafile = true
+
+[[files]]
 file = "mods/loot-capacitor-tooltips.pw.toml"
 hash = "e112349fb3db4d81f4002717ca028fcaa29878e808215f8cd1ce34290dbfd929"
 metafile = true
@@ -2433,11 +2438,6 @@ metafile = true
 [[files]]
 file = "mods/potion-descriptions.pw.toml"
 hash = "b623ab227f85f246722614c0b7ec1fd0fbedf7fd4fa51ec84eba22ed76ced439"
-metafile = true
-
-[[files]]
-file = "mods/practical-logistics-2.pw.toml"
-hash = "5a10739990e51363804e57a8e46d0d8f11b87efd1ea0c9f1e7e8fae7db4453b5"
 metafile = true
 
 [[files]]
@@ -2908,6 +2908,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "2c310e32711998d4b5867934fa6e2cc1b1f2132ce0619e07c091c146e57fa730"
+metafile = true
+
+[[files]]
+file = "mods/thermallogistics.pw.toml"
+hash = "9315eaa03a01659f6157f20d5591f5728588ab8979fd1d8b2215b4977f361835"
 metafile = true
 
 [[files]]
