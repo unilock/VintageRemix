@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+        <line>
+            <str>{xi}, {yi}, {zi}</str>
+        </line>
+<!--
+        <line>
+            <str>Facing {finedirection} [{axisdirection}]</str>
+        </line>
+-->
+        <line>
+            <str>Day {day}, {mctime}</str>
+        </line>
+        <line>
+            <str>{biome}</str>
+        </line>
+    </lines>
+</config>

@@ -21,6 +21,10 @@ file = "config/IC2.ini"
 hash = "8fbbe18803b5d14a98cc2b0ae675798a032ade833f765f2c29127ad458528c6a"
 
 [[files]]
+file = "config/InGameInfo.xml"
+hash = "67e48ec14caf00d5eb63bb7bff8ce69a93222d7998afedd70aa03db7c0537633"
+
+[[files]]
 file = "config/LiketechniksTinkerTweaks.cfg"
 hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
@@ -1772,6 +1776,11 @@ hash = "3d7902343cc9033bd1f23d06bf2e74e798fd309e9b5fbb3f9b74a3ab62c3fc77"
 metafile = true
 
 [[files]]
+file = "mods/ingame-info-xml.pw.toml"
+hash = "44f8c8ec8537d281d633d900302e4757a52d003ed42c0874e115479ce88978ee"
+metafile = true
+
+[[files]]
 file = "mods/initial-inventory.pw.toml"
 hash = "60331cee154213030ad24e7df7d3d642e27620875d75628d619c164c302626ac"
 metafile = true
@@ -1989,6 +1998,11 @@ metafile = true
 [[files]]
 file = "mods/lost-magic.pw.toml"
 hash = "867ab3ef4d7222ba471ddf59f3af311bad6c6e5451173ad8af2534f924ee7e3f"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
