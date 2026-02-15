@@ -2501,11 +2501,6 @@ hash = "5fee147592a823efbbe94d3602fc9ab22f267bc95e031b095d6e10f4ad2f5178"
 metafile = true
 
 [[files]]
-file = "mods/quiverbow-restrung.pw.toml"
-hash = "7db05d8d61095a79f02170b3e206989b052ee8b198ea2236143ec6fe8d505394"
-metafile = true
-
-[[files]]
 file = "mods/railcraft.pw.toml"
 hash = "e6ca3e79b3a84cf0587d2e45c2423d97d824b789e366c7357e75ae880e47c857"
 metafile = true
