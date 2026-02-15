@@ -1,13 +1,13 @@
 name = "Immersive Technology"
-filename = "MCT-ImmersiveTechnology-1.12.2-1.10.172-release.jar"
+filename = "MCT-ImmersiveTechnology-1.12.2-1.10.173-release.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "751f417063c9ba47d03442eb0b9732f97c016b8b"
+hash = "deff948f3ae271941f23455445b659110b1597f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7617451
+file-id = 7624515
 project-id = 359407

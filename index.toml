@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/beast-slayer.pw.toml"
-hash = "ffd767e91c3a861d5612cce3b836762f320583a2700c9a3257eea28ed4838081"
+hash = "01ea8b93bd2d8a25f53e5ed5640f42b57af28c1545daa0353ef63dd266ef132f"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "fb5772dcc49fe873942a78e463219b21ae090c02d5d2aba819c899823417ae48"
+hash = "39b27f38d2b094a7ae8ed5d34293c1f858a6baecd1cd001d38943e14943c9bb6"
 metafile = true
 
 [[files]]
@@ -2062,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "b44bb17cbb506442c4ddb58a2eeb150fc08866fec799ada42966751b70d9c06d"
+hash = "1a4ccd171296ab2fb3fa18982d160c1e13aff07ac0ab58ec14a3e3ba5a9d5aee"
 metafile = true
 
 [[files]]
@@ -2237,7 +2237,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-crimson-revelations.pw.toml"
-hash = "03ceca0f744876cdf10bafa8918b827924f29d145083ba946168c25c73a3fc54"
+hash = "6b0446077349e2ff872a9bd0b6c8b51fa7597755c55142323ddd99ac95556fc9"
 metafile = true
 
 [[files]]
