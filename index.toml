@@ -29,6 +29,10 @@ file = "config/LiketechniksTinkerTweaks.cfg"
 hash = "8a7b5ced0020febf8d902c0598aa1db6c3bd15373e70ded149acda9e4f68c192"
 
 [[files]]
+file = "config/LogisticsPipes.cfg"
+hash = "3607ddeb394d6d8f0d1a581f2e4d81a39aeedb9aa0d7dc9b1dda6cd37121708f"
+
+[[files]]
 file = "config/New Crimson Revelations.cfg"
 hash = "aa4830eecc6af4d414b0e747c50d05d38fdd97647061dacd064e8ef594fb04ec"
 
@@ -298,7 +302,7 @@ hash = "8a2b149d159f26e2710644a782b3e3b97fd69eb4c48e6996a2a8afff22be3a4d"
 
 [[files]]
 file = "config/harvestcraft.cfg"
-hash = "44e4888d56cf6f259555c147700756d4bdf799b81a1563d8299c34e1d1c95d55"
+hash = "ec1837990bbec6ce0a21c736672d0d83384a05cdfc81f9184292a451d2ff52a1"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
