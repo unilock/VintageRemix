@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "39b27f38d2b094a7ae8ed5d34293c1f858a6baecd1cd001d38943e14943c9bb6"
+hash = "a46650b8235a1697bad407b2ad0b43327f26eca3053a7cf694a8c00ec72a3951"
 metafile = true
 
 [[files]]
@@ -2511,7 +2511,7 @@ metafile = true
 
 [[files]]
 file = "mods/railway-depot-worker.pw.toml"
-hash = "6f14bf904d07ef3dd292c9d33f335663b0d3a8ff779b0e38ad7d0512dce65587"
+hash = "c306438f3a9ff65a4ca87f0bd6f0752bce5efee1bb1bb3dbad501b2f67fc1a73"
 metafile = true
 
 [[files]]
