@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "a46650b8235a1697bad407b2ad0b43327f26eca3053a7cf694a8c00ec72a3951"
+hash = "6206bf39aee47e4b3b2e144aa82248e98c06b77c274512f9fd07df9b6166acb1"
 metafile = true
 
 [[files]]
