@@ -1801,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "fc3f91554c15e13151b664984708e921e2d7696dfcb0beefaa7f9d8801ba24a9"
+hash = "f8fd7109658e91183fb00d8e9d4257e0f95496aea95dd3483458d73725d8adef"
 metafile = true
 
 [[files]]
@@ -2066,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "1a4ccd171296ab2fb3fa18982d160c1e13aff07ac0ab58ec14a3e3ba5a9d5aee"
+hash = "28b3860496c8819b11664651e56a13f409841257de5d3f95e7e7b65b73fff5d6"
 metafile = true
 
 [[files]]
@@ -2851,7 +2851,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-wonders-unofficial.pw.toml"
-hash = "dd5e8a27d75de01586ad76d5774b78aee8ff4bcac028b96fce9341d4dd6a05fe"
+hash = "08747bc93cdb2c83d5a11ffc411dccf54e7aaae438edab2e0cb5e1dcedd9ea17"
 metafile = true
 
 [[files]]
@@ -2951,7 +2951,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-evolution.pw.toml"
-hash = "3bb5e70cee5492d89ca8a8f20ed896101a6856156e8749a33f77248c82b47a41"
+hash = "911e00c4ece14b5d43835c9138e0cfe22db92612729bc0a5fe6806b69003360f"
 metafile = true
 
 [[files]]
@@ -3041,7 +3041,7 @@ metafile = true
 
 [[files]]
 file = "mods/unofficial-bosses-of-mass-destruction-dungeon.pw.toml"
-hash = "315d90e33e4fa4245677ff1451f94513db4792bc81782af2529f756549fd16b2"
+hash = "2a6d36a2432c168985bf7cd8e80d867b79f9518ef0f35c1533967b2932c9944c"
 metafile = true
 
 [[files]]
