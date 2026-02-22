@@ -1,13 +1,13 @@
 name = "Unseen's Dungeon Additions"
-filename = "unseens-dungeon-additions-1.7.jar"
+filename = "unseens-dungeon-additions-1.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "989f506189e59ed07e04e5e3a3dc83fda4bd6081"
+hash = "28051eca3916ffaabbf46f24e8069f9a6343cd2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7647684
+file-id = 7657077
 project-id = 1087823

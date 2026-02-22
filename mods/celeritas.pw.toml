@@ -3,13 +3,13 @@ filename = "celeritas-forge-mc12.2-2.4.0-dev.jar"
 side = "both"
 
 [download]
-url = "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release/2.4.0-dev.3-116-g29a505e7-20260217T005928/celeritas-forge-mc12.2-2.4.0-dev.jar"
+url = "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release/2.4.0-dev.3-119-g076cf261-20260222T005916/celeritas-forge-mc12.2-2.4.0-dev.jar"
 hash-format = "sha256"
-hash = "693a96a95e8bb55b217da2c254f8d23c754712d22ea44a1210f3e982cc678827"
+hash = "fe657426697ced530bc88406b4431c7f7794db2c2e2d04f79643b61e1a77a35a"
 
 [update]
 [update.github]
 branch = "main"
 regex = "\\.jar$"
 slug = "kappa-maintainer/Celeritas-auto-build"
-tag = "release/2.4.0-dev.3-116-g29a505e7-20260217T005928"
+tag = "release/2.4.0-dev.3-119-g076cf261-20260222T005916"

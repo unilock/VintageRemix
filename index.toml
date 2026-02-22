@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/beast-slayer.pw.toml"
-hash = "01ea8b93bd2d8a25f53e5ed5640f42b57af28c1545daa0353ef63dd266ef132f"
+hash = "84975423fd2c86d34977989ee248a3d2c69e2482a8709f1ab9777509a3293b1a"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "6206bf39aee47e4b3b2e144aa82248e98c06b77c274512f9fd07df9b6166acb1"
+hash = "281c77e4888a9e547617bfef60a1ddb60183aabd70d2c72d2d1768184204c41c"
 metafile = true
 
 [[files]]
@@ -3041,7 +3041,7 @@ metafile = true
 
 [[files]]
 file = "mods/unofficial-bosses-of-mass-destruction-dungeon.pw.toml"
-hash = "2a6d36a2432c168985bf7cd8e80d867b79f9518ef0f35c1533967b2932c9944c"
+hash = "d76b98f9f32e9e99be41c2c3b1069a847e752c944a4e8ec4f7a8953f2a724c58"
 metafile = true
 
 [[files]]
