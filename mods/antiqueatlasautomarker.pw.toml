@@ -1,13 +1,13 @@
 name = "Antique Atlas Auto Marker"
-filename = "AntiqueAtlasAutoMarker-1.5.2.jar"
+filename = "AntiqueAtlasAutoMarker-1.5.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f0f61f52d3abc9dc4874d7203847479fdef333bc"
+hash = "e07ac3b695bfb1764089c657a945f8cc405f3b06"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7613125
+file-id = 7700401
 project-id = 1195708

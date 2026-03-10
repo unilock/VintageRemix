@@ -1,13 +1,13 @@
 name = "Hyxcate (Night/Day Events & Meteors)"
-filename = "Hyxcate-1.12.2-1.1.1.jar"
+filename = "Hyxcate-1.12.2-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cdf4e0e1453027000149c1d55224db8e2a5ee063"
+hash = "2e21a8efe7747ab3d2fd88ddf5f983f9f650c54b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7615283
+file-id = 7675486
 project-id = 1403947
