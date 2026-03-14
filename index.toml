@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas.pw.toml"
-hash = "830f6c9e72d74b05f2956e094f5abf66292e8a3b668f864e73f5958f36b0e9f8"
+hash = "976c034650c7e6f86e211637a5a0863e164fd571e6d4ab6bb3fa414fdb844b5e"
 metafile = true
 
 [[files]]
@@ -1421,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-library.pw.toml"
-hash = "c1ad5db5054e58e98cd1d59ab5691571826981292440b66ac8506edd68e1b1c7"
+hash = "c5fbedca5fac0acd0eede7d4d561db165e4d4f679af71e40cac7741c8b47f90e"
 metafile = true
 
 [[files]]
@@ -2066,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "28b3860496c8819b11664651e56a13f409841257de5d3f95e7e7b65b73fff5d6"
+hash = "dbeb745cc2c1fe9beb5a2e7d84059439abe157458e0355093ab3dac9aabeb44e"
 metafile = true
 
 [[files]]
@@ -2481,7 +2481,7 @@ metafile = true
 
 [[files]]
 file = "mods/quantum-things.pw.toml"
-hash = "44e8bf215275cbf633efed50d0821632fcbe9652a503cecf03415e85e53fc8ea"
+hash = "8f8ac64a8b51f99c33f0433c611c604ecc0b38153ec685a4f077e836e3dd4e08"
 metafile = true
 
 [[files]]
