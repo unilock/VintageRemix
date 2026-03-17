@@ -1,0 +1,13 @@
+name = "CTM Vintage"
+filename = "ctm-1.3.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f108d0a39e66e6368826e264caaa28dd9b7bc330"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7613215
+project-id = 1350228

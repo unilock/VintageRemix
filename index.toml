@@ -1050,6 +1050,11 @@ hash = "3865e0bfc4290226b9bea37e00d1e7fbd47a91314c59243138e719b3adf79685"
 metafile = true
 
 [[files]]
+file = "mods/catalogue-vintage.pw.toml"
+hash = "6a8d21cbfa0562382494a495c5c1dfab4b2c3ae7c8ea57e50e719916b840018c"
+metafile = true
+
+[[files]]
 file = "mods/cathedral.pw.toml"
 hash = "0816bb0a87700994a443b63988f9f49fc7f5baff257e7b474cf3f905ea5097ea"
 metafile = true
@@ -1265,8 +1270,8 @@ hash = "5eabf070096047157b6ac0d239587307f77d9e2853b34c149372c0fd058df4c3"
 metafile = true
 
 [[files]]
-file = "mods/ctm.pw.toml"
-hash = "5692b3060ba68bd577696da6199d7e419603adef24e4667d7fe22040e8c08a1d"
+file = "mods/ctm-vintage.pw.toml"
+hash = "47b9f87594b8b52a98c5a2e4592c94f2d5f46122925ad58afc2fdf5f801a0613"
 metafile = true
 
 [[files]]
