@@ -1575,11 +1575,6 @@ hash = "97afcf545b40dfb8f5c3e6b908e66a39a98363562a596725c212ea0b1a6f6891"
 metafile = true
 
 [[files]]
-file = "mods/ftb-backups-forge.pw.toml"
-hash = "e32353a3e05c18b04ad4a9ca5a85e98dcfe5b42680d5d2c80d05118c8b31f32e"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "d3b0798d1744f58d9c0a58d256881996ba1b53b93d1fcd81b650ebaf74aa1b87"
 metafile = true
