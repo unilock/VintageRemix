@@ -1,13 +1,13 @@
 name = "Catalogue Vintage"
-filename = "catalogue-1.0.1-1.12.2.jar"
+filename = "catalogue-1.0.3-1.12.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "7d903a9a1be8c87dbf7dad98ef2b80fb563bca32"
+hash = "dc0306834b34e416cb19b368c0972eaa938a9668"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7652301
+file-id = 7872629
 project-id = 1465746

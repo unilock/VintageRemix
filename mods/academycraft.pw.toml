@@ -3,13 +3,13 @@ filename = "academy-1.1.7-UES.jar"
 side = "both"
 
 [download]
-url = "https://github.com/yor42/AcademyCraft-UES/releases/download/v1.1.7-UES-20251006-132444/academy-1.1.7-UES.jar"
+url = "https://github.com/yor42/AcademyCraft-UES/releases/download/v1.1.7-UES-20260406-041000/academy-1.1.7-UES.jar"
 hash-format = "sha256"
-hash = "22e3a141d5f0c62f04e265dcf4e969502681d6f2739bdbec3c747527b8478ce0"
+hash = "3ffce60eb5ab7e86f17ae59b1c970f17f6ab341dddfe17c07d96c891dfbb4d9e"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "yor42/AcademyCraft"
-tag = "v1.1.7-UES-20251006-132444"
+tag = "v1.1.7-UES-20260406-041000"
